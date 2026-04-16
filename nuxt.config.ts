@@ -10,4 +10,16 @@ export default defineNuxtConfig({
     classSuffix: '',
   },
   css: ['~/assets/css/main.css'],
+  content: {
+    watch: {
+      enabled: false,
+    },
+  },
+  vite: {
+    server: {
+      watch: {
+        ignored: ['**/_artifacts/**', '**/_docs/**', '**/.data/**'],
+      },
+    },
+  },
 })
