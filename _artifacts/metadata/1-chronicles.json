@@ -1,0 +1,483 @@
+{
+  "book": "1 Chronicles",
+  "bookSlug": "13.1-chronicles",
+  "testament": "1.old-testament",
+  "chapters": {
+    "1": {
+      "genre": ["genealogy"],
+      "people": [
+        {"name": "Adam", "role": "mentioned"},
+        {"name": "Noah", "role": "mentioned"},
+        {"name": "Abraham", "role": "mentioned"},
+        {"name": "Esau", "role": "mentioned"}
+      ],
+      "locations": ["Edom"],
+      "timePeriod": "Primeval to Patriarchal",
+      "era": "primeval-history",
+      "topics": ["genealogy", "lineage", "nations"],
+      "events": ["Genealogy from Adam to Abraham", "Descendants of Esau and Edom"],
+      "keyVerses": [1, 28, 34],
+      "crossReferences": [
+        {"book": "Genesis", "chapter": 5, "label": "Genealogy from Adam to Noah"},
+        {"book": "Genesis", "chapter": 36, "label": "Esau's descendants"}
+      ]
+    },
+    "2": {
+      "genre": ["genealogy"],
+      "people": [
+        {"name": "Judah", "role": "mentioned"},
+        {"name": "David", "role": "mentioned"},
+        {"name": "Jesse", "role": "mentioned"},
+        {"name": "Caleb", "role": "mentioned"}
+      ],
+      "locations": ["Bethlehem"],
+      "timePeriod": "Patriarchal to Monarchy",
+      "era": "patriarchal",
+      "topics": ["genealogy", "lineage", "tribe-of-judah"],
+      "events": ["Genealogy of Judah's descendants through to David"],
+      "keyVerses": [1, 15],
+      "crossReferences": [
+        {"book": "Ruth", "chapter": 4, "label": "Genealogy from Perez to David"}
+      ]
+    },
+    "3": {
+      "genre": ["genealogy"],
+      "people": [
+        {"name": "David", "role": "mentioned"},
+        {"name": "Solomon", "role": "mentioned"}
+      ],
+      "locations": ["Hebron", "Jerusalem"],
+      "timePeriod": "United Monarchy to Post-Exile",
+      "era": "united-monarchy",
+      "topics": ["genealogy", "royal-line", "dynasty"],
+      "events": ["David's sons listed", "Royal line from Solomon through exile and beyond"],
+      "keyVerses": [1, 10],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 1, "label": "Royal genealogy of Jesus"}
+      ]
+    },
+    "4": {
+      "genre": ["genealogy"],
+      "people": [
+        {"name": "Jabez", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Various",
+      "era": "patriarchal",
+      "topics": ["genealogy", "prayer", "tribe-of-judah", "tribe-of-simeon"],
+      "events": ["Descendants of Judah and Simeon", "Prayer of Jabez"],
+      "keyVerses": [9, 10],
+      "crossReferences": [
+        {"book": "Genesis", "chapter": 49, "label": "Jacob's blessing on Judah and Simeon"}
+      ]
+    },
+    "5": {
+      "genre": ["genealogy"],
+      "people": [
+        {"name": "Reuben", "role": "mentioned"},
+        {"name": "Gad", "role": "mentioned"}
+      ],
+      "locations": ["Gilead", "Bashan"],
+      "timePeriod": "Various",
+      "era": "patriarchal",
+      "topics": ["genealogy", "exile", "warfare", "eastern-tribes"],
+      "events": ["Genealogies of Reuben, Gad, and half-tribe of Manasseh", "Eastern tribes exiled by Assyria"],
+      "keyVerses": [1, 20, 25, 26],
+      "crossReferences": [
+        {"book": "Genesis", "chapter": 49, "label": "Reuben's loss of birthright"}
+      ]
+    },
+    "6": {
+      "genre": ["genealogy"],
+      "people": [
+        {"name": "Aaron", "role": "mentioned"},
+        {"name": "Samuel", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Various",
+      "era": "patriarchal",
+      "topics": ["genealogy", "levites", "priesthood", "temple-music"],
+      "events": ["Genealogy of Levi", "Temple musicians appointed", "Levitical cities listed"],
+      "keyVerses": [31, 32, 49],
+      "crossReferences": [
+        {"book": "Joshua", "chapter": 21, "label": "Levitical cities assigned"}
+      ]
+    },
+    "7": {
+      "genre": ["genealogy"],
+      "people": [
+        {"name": "Ephraim", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Various",
+      "era": "patriarchal",
+      "topics": ["genealogy", "tribal-records"],
+      "events": ["Genealogies of Issachar, Benjamin, Naphtali, Manasseh, Ephraim, and Asher"],
+      "keyVerses": [20, 21, 22],
+      "crossReferences": [
+        {"book": "Genesis", "chapter": 46, "label": "Sons of Israel who went to Egypt"}
+      ]
+    },
+    "8": {
+      "genre": ["genealogy"],
+      "people": [
+        {"name": "Saul", "role": "mentioned"},
+        {"name": "Jonathan", "role": "mentioned"}
+      ],
+      "locations": ["Gibeon", "Jerusalem"],
+      "timePeriod": "Various",
+      "era": "patriarchal",
+      "topics": ["genealogy", "tribe-of-benjamin", "royal-line"],
+      "events": ["Genealogy of Benjamin through to Saul's family"],
+      "keyVerses": [33, 34],
+      "crossReferences": [
+        {"book": "1 Samuel", "chapter": 9, "label": "Saul's lineage"}
+      ]
+    },
+    "9": {
+      "genre": ["genealogy", "narrative"],
+      "people": [
+        {"name": "Saul", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "Post-Exile",
+      "era": "post-exile",
+      "topics": ["genealogy", "returnees", "temple-service"],
+      "events": ["List of those who returned from exile", "Temple servants and gatekeepers", "Saul's genealogy repeated"],
+      "keyVerses": [1, 2],
+      "crossReferences": [
+        {"book": "Nehemiah", "chapter": 11, "label": "Similar list of Jerusalem residents"}
+      ]
+    },
+    "10": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Saul", "role": "protagonist"},
+        {"name": "Jonathan", "role": "mentioned"}
+      ],
+      "locations": ["Mount Gilboa", "Jabeshgilead"],
+      "timePeriod": "End of Saul's Reign",
+      "era": "united-monarchy",
+      "topics": ["death", "judgment", "unfaithfulness"],
+      "events": ["Death of Saul and his sons", "Saul's death attributed to unfaithfulness"],
+      "keyVerses": [13, 14],
+      "crossReferences": [
+        {"book": "1 Samuel", "chapter": 31, "label": "Parallel account of Saul's death"}
+      ]
+    },
+    "11": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "David", "role": "protagonist"},
+        {"name": "Joab", "role": "mentioned"}
+      ],
+      "locations": ["Hebron", "Jerusalem"],
+      "timePeriod": "United Monarchy",
+      "era": "united-monarchy",
+      "topics": ["kingship", "conquest", "mighty-men", "valor"],
+      "events": ["David anointed king over all Israel", "Capture of Jerusalem", "David's mighty men listed"],
+      "keyVerses": [1, 3, 10],
+      "crossReferences": [
+        {"book": "2 Samuel", "chapter": 5, "label": "Parallel account of David becoming king"}
+      ]
+    },
+    "12": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "David", "role": "protagonist"}
+      ],
+      "locations": ["Ziklag", "Hebron"],
+      "timePeriod": "United Monarchy",
+      "era": "united-monarchy",
+      "topics": ["loyalty", "warriors", "tribal-support", "unity"],
+      "events": ["Warriors who joined David at Ziklag", "Tribal forces that made David king at Hebron"],
+      "keyVerses": [18, 32, 38],
+      "crossReferences": [
+        {"book": "1 Samuel", "chapter": 22, "label": "David gathering men at Adullam"}
+      ]
+    },
+    "13": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "David", "role": "protagonist"},
+        {"name": "Uzzah", "role": "mentioned"}
+      ],
+      "locations": ["Kirjathjearim", "Jerusalem"],
+      "timePeriod": "United Monarchy",
+      "era": "united-monarchy",
+      "topics": ["ark-of-the-covenant", "reverence", "judgment"],
+      "events": ["David attempts to bring the ark to Jerusalem", "Uzzah struck dead"],
+      "keyVerses": [10, 11],
+      "crossReferences": [
+        {"book": "2 Samuel", "chapter": 6, "label": "Parallel account of the ark's journey"}
+      ]
+    },
+    "14": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "David", "role": "protagonist"},
+        {"name": "Hiram", "role": "mentioned"},
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Jerusalem", "Tyre"],
+      "timePeriod": "United Monarchy",
+      "era": "united-monarchy",
+      "topics": ["divine-blessing", "victory", "fame"],
+      "events": ["Hiram builds David's palace", "David's family grows", "Victories over the Philistines"],
+      "keyVerses": [2, 10, 17],
+      "crossReferences": [
+        {"book": "2 Samuel", "chapter": 5, "label": "Parallel victories over Philistines"}
+      ]
+    },
+    "15": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "David", "role": "protagonist"},
+        {"name": "Michal", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "United Monarchy",
+      "era": "united-monarchy",
+      "topics": ["ark-of-the-covenant", "worship", "proper-procedure", "celebration"],
+      "events": ["Levites carry the ark properly", "Ark brought to Jerusalem with celebration"],
+      "keyVerses": [2, 13, 29],
+      "crossReferences": [
+        {"book": "2 Samuel", "chapter": 6, "label": "Parallel account with David dancing"}
+      ]
+    },
+    "16": {
+      "genre": ["narrative", "poetry"],
+      "people": [
+        {"name": "David", "role": "author"},
+        {"name": "Asaph", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "United Monarchy",
+      "era": "united-monarchy",
+      "topics": ["praise", "worship", "thanksgiving", "ark-of-the-covenant"],
+      "events": ["Ark placed in the tabernacle", "David's psalm of thanksgiving", "Worship leaders appointed"],
+      "keyVerses": [8, 11, 34],
+      "crossReferences": [
+        {"book": "Psalms", "chapter": 105, "label": "Portions of this psalm appear in Psalms 105, 96, and 106"}
+      ]
+    },
+    "17": {
+      "genre": ["narrative", "prophecy"],
+      "people": [
+        {"name": "David", "role": "protagonist"},
+        {"name": "Nathan", "role": "speaker"},
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "United Monarchy",
+      "era": "united-monarchy",
+      "topics": ["covenant", "dynasty", "temple", "messianic-promise"],
+      "events": ["Davidic covenant given through Nathan", "David's prayer of thanksgiving"],
+      "keyVerses": [11, 12, 14],
+      "crossReferences": [
+        {"book": "2 Samuel", "chapter": 7, "label": "Parallel Davidic covenant"}
+      ]
+    },
+    "18": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "David", "role": "protagonist"},
+        {"name": "Hadadezer", "role": "antagonist"}
+      ],
+      "locations": ["Zobah", "Damascus", "Edom"],
+      "timePeriod": "United Monarchy",
+      "era": "united-monarchy",
+      "topics": ["conquest", "victory", "empire"],
+      "events": ["David's military victories over surrounding nations"],
+      "keyVerses": [6, 13],
+      "crossReferences": [
+        {"book": "2 Samuel", "chapter": 8, "label": "Parallel account of David's conquests"}
+      ]
+    },
+    "19": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "David", "role": "protagonist"},
+        {"name": "Hanun", "role": "antagonist"},
+        {"name": "Joab", "role": "mentioned"}
+      ],
+      "locations": ["Ammon"],
+      "timePeriod": "United Monarchy",
+      "era": "united-monarchy",
+      "topics": ["diplomacy", "insult", "warfare"],
+      "events": ["Hanun humiliates David's envoys", "Defeat of Ammon and Syria"],
+      "keyVerses": [4, 13],
+      "crossReferences": [
+        {"book": "2 Samuel", "chapter": 10, "label": "Parallel account of Ammonite war"}
+      ]
+    },
+    "20": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "David", "role": "mentioned"},
+        {"name": "Joab", "role": "mentioned"}
+      ],
+      "locations": ["Rabbah", "Gath"],
+      "timePeriod": "United Monarchy",
+      "era": "united-monarchy",
+      "topics": ["conquest", "giant-slaying", "victory"],
+      "events": ["Capture of Rabbah", "Philistine giants killed"],
+      "keyVerses": [1, 4],
+      "crossReferences": [
+        {"book": "2 Samuel", "chapter": 11, "label": "Same period but Chronicler omits David's sin"}
+      ]
+    },
+    "21": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "David", "role": "protagonist"},
+        {"name": "God", "role": "speaker"},
+        {"name": "Gad", "role": "mentioned"},
+        {"name": "Ornan", "role": "mentioned"},
+        {"name": "Satan", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "United Monarchy",
+      "era": "united-monarchy",
+      "topics": ["census", "judgment", "repentance", "sacrifice"],
+      "events": ["Satan incites David to census", "Plague on Israel", "David buys Ornan's threshing floor"],
+      "keyVerses": [1, 15, 24],
+      "crossReferences": [
+        {"book": "2 Samuel", "chapter": 24, "label": "Parallel account of the census"}
+      ]
+    },
+    "22": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "David", "role": "protagonist"},
+        {"name": "Solomon", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "United Monarchy",
+      "era": "united-monarchy",
+      "topics": ["temple-preparation", "charge", "peace", "building"],
+      "events": ["David prepares materials for the temple", "David charges Solomon to build the temple"],
+      "keyVerses": [7, 8, 13],
+      "crossReferences": [
+        {"book": "1 Kings", "chapter": 5, "label": "Solomon begins temple construction"}
+      ]
+    },
+    "23": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "David", "role": "protagonist"},
+        {"name": "Solomon", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "United Monarchy",
+      "era": "united-monarchy",
+      "topics": ["levites", "temple-service", "organization"],
+      "events": ["Solomon made king", "Levites organized for temple service"],
+      "keyVerses": [1, 28],
+      "crossReferences": [
+        {"book": "Numbers", "chapter": 4, "label": "Levitical duties established under Moses"}
+      ]
+    },
+    "24": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "David", "role": "mentioned"},
+        {"name": "Aaron", "role": "mentioned"},
+        {"name": "Zadok", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "United Monarchy",
+      "era": "united-monarchy",
+      "topics": ["priesthood", "divisions", "organization", "lots"],
+      "events": ["Twenty-four priestly divisions established by lot"],
+      "keyVerses": [1, 3, 19],
+      "crossReferences": [
+        {"book": "Luke", "chapter": 1, "label": "Zechariah of the division of Abijah"}
+      ]
+    },
+    "25": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "David", "role": "mentioned"},
+        {"name": "Asaph", "role": "mentioned"},
+        {"name": "Heman", "role": "mentioned"},
+        {"name": "Jeduthun", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "United Monarchy",
+      "era": "united-monarchy",
+      "topics": ["music", "worship", "temple-service", "organization"],
+      "events": ["Twenty-four divisions of temple musicians established"],
+      "keyVerses": [1, 7],
+      "crossReferences": [
+        {"book": "Psalms", "chapter": 150, "label": "Musical worship in the temple"}
+      ]
+    },
+    "26": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "David", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "United Monarchy",
+      "era": "united-monarchy",
+      "topics": ["gatekeepers", "treasurers", "temple-service", "organization"],
+      "events": ["Divisions of gatekeepers and treasurers established"],
+      "keyVerses": [1, 20],
+      "crossReferences": [
+        {"book": "Nehemiah", "chapter": 12, "label": "Gatekeepers in post-exile period"}
+      ]
+    },
+    "27": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "David", "role": "protagonist"},
+        {"name": "Joab", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "United Monarchy",
+      "era": "united-monarchy",
+      "topics": ["military", "administration", "organization"],
+      "events": ["Military divisions and civil officials listed", "David's administrators and overseers"],
+      "keyVerses": [1, 23, 24],
+      "crossReferences": [
+        {"book": "2 Samuel", "chapter": 8, "label": "David's officers listed"}
+      ]
+    },
+    "28": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "David", "role": "protagonist"},
+        {"name": "Solomon", "role": "mentioned"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "United Monarchy",
+      "era": "united-monarchy",
+      "topics": ["temple", "charge", "obedience", "divine-plan"],
+      "events": ["David's public charge to Solomon", "Temple plans given to Solomon"],
+      "keyVerses": [9, 10, 20],
+      "crossReferences": [
+        {"book": "1 Kings", "chapter": 2, "label": "David's private charge to Solomon"}
+      ]
+    },
+    "29": {
+      "genre": ["narrative", "poetry"],
+      "people": [
+        {"name": "David", "role": "protagonist"},
+        {"name": "Solomon", "role": "protagonist"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "United Monarchy",
+      "era": "united-monarchy",
+      "topics": ["generosity", "praise", "worship", "succession"],
+      "events": ["Offerings for the temple", "David's prayer of praise", "Solomon anointed king", "Death of David"],
+      "keyVerses": [11, 14, 28],
+      "crossReferences": [
+        {"book": "1 Kings", "chapter": 1, "label": "Solomon's anointing"},
+        {"book": "1 Kings", "chapter": 2, "label": "Death of David"}
+      ]
+    }
+  }
+}

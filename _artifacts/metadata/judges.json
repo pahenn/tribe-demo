@@ -1,0 +1,365 @@
+{
+  "book": "Judges",
+  "bookSlug": "07.judges",
+  "testament": "1.old-testament",
+  "chapters": {
+    "1": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Caleb", "role": "mentioned"},
+        {"name": "Othniel", "role": "mentioned"},
+        {"name": "Achsah", "role": "mentioned"},
+        {"name": "Adonibezek", "role": "antagonist"}
+      ],
+      "locations": ["Jerusalem", "Hebron", "Debir", "Gaza", "Bethel", "Gezer"],
+      "timePeriod": "After Joshua's Death",
+      "era": "judges",
+      "topics": ["conquest", "incomplete-obedience", "tribal-warfare"],
+      "events": ["Judah and Simeon fight Canaanites", "Tribes fail to drive out inhabitants"],
+      "keyVerses": [19, 28],
+      "crossReferences": [
+        {"book": "Joshua", "chapter": 15, "label": "Othniel and Achsah parallel account"}
+      ]
+    },
+    "2": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Joshua", "role": "mentioned"},
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Gilgal", "Bochim"],
+      "timePeriod": "Period of the Judges",
+      "era": "judges",
+      "topics": ["disobedience", "cycle-of-sin", "judgment", "mercy"],
+      "events": ["Angel rebukes Israel at Bochim", "Death of Joshua", "Cycle of judges introduced"],
+      "keyVerses": [16, 18, 19],
+      "crossReferences": [
+        {"book": "Joshua", "chapter": 24, "label": "Death and burial of Joshua"}
+      ]
+    },
+    "3": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Othniel", "role": "protagonist"},
+        {"name": "Ehud", "role": "protagonist"},
+        {"name": "Eglon", "role": "antagonist"},
+        {"name": "Shamgar", "role": "mentioned"}
+      ],
+      "locations": ["Mesopotamia", "Moab", "Jordan", "Gilgal"],
+      "timePeriod": "Period of the Judges",
+      "era": "judges",
+      "topics": ["deliverance", "oppression", "courage", "divine-empowerment"],
+      "events": ["Othniel delivers Israel from Cushan-rishathaim", "Ehud assassinates King Eglon", "Shamgar defeats Philistines"],
+      "keyVerses": [9, 15, 31],
+      "crossReferences": [
+        {"book": "Joshua", "chapter": 15, "label": "Othniel introduced as Caleb's nephew"}
+      ]
+    },
+    "4": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Deborah", "role": "protagonist"},
+        {"name": "Barak", "role": "protagonist"},
+        {"name": "Jabin", "role": "antagonist"},
+        {"name": "Sisera", "role": "antagonist"},
+        {"name": "Jael", "role": "protagonist"}
+      ],
+      "locations": ["Hazor", "Mount Tabor", "Kishon", "Kedesh"],
+      "timePeriod": "Period of the Judges",
+      "era": "judges",
+      "topics": ["leadership", "faith", "divine-warfare", "women-in-scripture"],
+      "events": ["Deborah judges Israel", "Barak defeats Sisera's army", "Jael kills Sisera with a tent peg"],
+      "keyVerses": [4, 14, 21],
+      "crossReferences": [
+        {"book": "Hebrews", "chapter": 11, "label": "Barak listed in the hall of faith"}
+      ]
+    },
+    "5": {
+      "genre": ["poetry", "narrative"],
+      "people": [
+        {"name": "Deborah", "role": "author"},
+        {"name": "Barak", "role": "mentioned"},
+        {"name": "Jael", "role": "mentioned"},
+        {"name": "Sisera", "role": "mentioned"}
+      ],
+      "locations": ["Sinai", "Seir", "Kishon", "Megiddo", "Taanach"],
+      "timePeriod": "Period of the Judges",
+      "era": "judges",
+      "topics": ["praise", "victory", "divine-warrior", "tribal-participation"],
+      "events": ["Song of Deborah and Barak"],
+      "keyVerses": [2, 24, 31],
+      "crossReferences": [
+        {"book": "Exodus", "chapter": 15, "label": "Song of Moses victory hymn parallel"}
+      ]
+    },
+    "6": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Gideon", "role": "protagonist"},
+        {"name": "God", "role": "speaker"},
+        {"name": "Joash", "role": "mentioned"}
+      ],
+      "locations": ["Ophrah", "Jezreel"],
+      "timePeriod": "Period of the Judges",
+      "era": "judges",
+      "topics": ["calling", "faith", "idolatry", "divine-signs"],
+      "events": ["Midianite oppression", "Angel calls Gideon", "Gideon destroys altar of Baal", "Fleece test"],
+      "keyVerses": [12, 14, 37],
+      "crossReferences": [
+        {"book": "Hebrews", "chapter": 11, "label": "Gideon listed in hall of faith"},
+        {"book": "Isaiah", "chapter": 9, "label": "Day of Midian referenced"}
+      ]
+    },
+    "7": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Gideon", "role": "protagonist"},
+        {"name": "God", "role": "speaker"},
+        {"name": "Oreb", "role": "antagonist"},
+        {"name": "Zeeb", "role": "antagonist"}
+      ],
+      "locations": ["Harod", "Moreh", "Jordan"],
+      "timePeriod": "Period of the Judges",
+      "era": "judges",
+      "topics": ["faith", "divine-warfare", "weakness-and-strength"],
+      "events": ["God reduces Gideon's army to 300", "Midianite's dream of barley cake", "Defeat of Midianites with trumpets and torches"],
+      "keyVerses": [2, 7, 20],
+      "crossReferences": [
+        {"book": "Isaiah", "chapter": 10, "label": "Day of Midian as symbol of divine deliverance"}
+      ]
+    },
+    "8": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Gideon", "role": "protagonist"},
+        {"name": "Zebah", "role": "antagonist"},
+        {"name": "Zalmunna", "role": "antagonist"},
+        {"name": "Abimelech", "role": "mentioned"}
+      ],
+      "locations": ["Succoth", "Penuel", "Ophrah", "Karkor"],
+      "timePeriod": "Period of the Judges",
+      "era": "judges",
+      "topics": ["victory", "kingship", "idolatry", "ingratitude"],
+      "events": ["Gideon pursues and captures Midianite kings", "Gideon refuses kingship", "Gideon makes an ephod that becomes a snare"],
+      "keyVerses": [23, 27],
+      "crossReferences": [
+        {"book": "1 Samuel", "chapter": 8, "label": "Israel's desire for a king"}
+      ]
+    },
+    "9": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Abimelech", "role": "antagonist"},
+        {"name": "Jotham", "role": "protagonist"},
+        {"name": "Gaal", "role": "mentioned"},
+        {"name": "Zebul", "role": "mentioned"}
+      ],
+      "locations": ["Shechem", "Mount Gerizim", "Thebez", "Ophrah"],
+      "timePeriod": "Period of the Judges",
+      "era": "judges",
+      "topics": ["tyranny", "judgment", "parable", "ambition"],
+      "events": ["Abimelech kills his brothers", "Jotham's parable of the trees", "Abimelech destroys Shechem", "Woman kills Abimelech with a millstone"],
+      "keyVerses": [8, 15, 56],
+      "crossReferences": [
+        {"book": "2 Samuel", "chapter": 11, "label": "Abimelech's death recalled in David's era"}
+      ]
+    },
+    "10": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Tola", "role": "mentioned"},
+        {"name": "Jair", "role": "mentioned"},
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Gilead", "Mizpeh"],
+      "timePeriod": "Period of the Judges",
+      "era": "judges",
+      "topics": ["idolatry", "repentance", "oppression", "divine-compassion"],
+      "events": ["Tola and Jair judge Israel", "Israel's idolatry and Ammonite oppression", "Israel repents and God relents"],
+      "keyVerses": [15, 16],
+      "crossReferences": [
+        {"book": "1 Samuel", "chapter": 12, "label": "Samuel recounts period of oppression"}
+      ]
+    },
+    "11": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Jephthah", "role": "protagonist"},
+        {"name": "Jephthah's daughter", "role": "mentioned"}
+      ],
+      "locations": ["Gilead", "Tob", "Mizpeh", "Arnon", "Jabbok"],
+      "timePeriod": "Period of the Judges",
+      "era": "judges",
+      "topics": ["vows", "deliverance", "diplomacy", "sacrifice"],
+      "events": ["Jephthah made leader of Gilead", "Jephthah negotiates with Ammon", "Jephthah's rash vow", "Jephthah's daughter"],
+      "keyVerses": [30, 31, 35],
+      "crossReferences": [
+        {"book": "Numbers", "chapter": 21, "label": "Israel's journey past Edom and Moab recalled"},
+        {"book": "Hebrews", "chapter": 11, "label": "Jephthah listed in hall of faith"}
+      ]
+    },
+    "12": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Jephthah", "role": "protagonist"},
+        {"name": "Ibzan", "role": "mentioned"},
+        {"name": "Elon", "role": "mentioned"},
+        {"name": "Abdon", "role": "mentioned"}
+      ],
+      "locations": ["Gilead", "Jordan", "Bethlehem"],
+      "timePeriod": "Period of the Judges",
+      "era": "judges",
+      "topics": ["civil-war", "tribal-conflict", "shibboleth"],
+      "events": ["Ephraim's quarrel with Jephthah", "Shibboleth test at the Jordan", "Minor judges: Ibzan, Elon, Abdon"],
+      "keyVerses": [6],
+      "crossReferences": [
+        {"book": "Judges", "chapter": 8, "label": "Ephraim's earlier quarrel with Gideon"}
+      ]
+    },
+    "13": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Manoah", "role": "protagonist"},
+        {"name": "Manoah's wife", "role": "protagonist"},
+        {"name": "Samson", "role": "mentioned"},
+        {"name": "Angel of the Lord", "role": "speaker"}
+      ],
+      "locations": ["Zorah", "Eshtaol"],
+      "timePeriod": "Period of the Judges",
+      "era": "judges",
+      "topics": ["birth-announcement", "nazirite-vow", "divine-revelation"],
+      "events": ["Angel announces Samson's birth", "Manoah's offering consumed by fire", "Birth of Samson"],
+      "keyVerses": [5, 24, 25],
+      "crossReferences": [
+        {"book": "Numbers", "chapter": 6, "label": "Nazirite vow regulations"},
+        {"book": "Luke", "chapter": 1, "label": "Birth announcement parallels"}
+      ]
+    },
+    "14": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Samson", "role": "protagonist"},
+        {"name": "Samson's Timnite wife", "role": "mentioned"}
+      ],
+      "locations": ["Timnath", "Ashkelon"],
+      "timePeriod": "Period of the Judges",
+      "era": "judges",
+      "topics": ["strength", "riddle", "conflict", "desire"],
+      "events": ["Samson kills a lion", "Samson's riddle at his wedding", "Samson's wife given to another"],
+      "keyVerses": [4, 6, 14],
+      "crossReferences": [
+        {"book": "Judges", "chapter": 16, "label": "Pattern of Samson's vulnerability through women"}
+      ]
+    },
+    "15": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Samson", "role": "protagonist"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": ["Timnath", "Lehi", "Etam"],
+      "timePeriod": "Period of the Judges",
+      "era": "judges",
+      "topics": ["vengeance", "strength", "divine-provision"],
+      "events": ["Samson burns Philistine fields with foxes", "Samson slays a thousand with a jawbone", "God provides water at Lehi"],
+      "keyVerses": [15, 18],
+      "crossReferences": [
+        {"book": "Judges", "chapter": 14, "label": "Continued conflict with Philistines"}
+      ]
+    },
+    "16": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Samson", "role": "protagonist"},
+        {"name": "Delilah", "role": "antagonist"}
+      ],
+      "locations": ["Gaza", "Sorek"],
+      "timePeriod": "Period of the Judges",
+      "era": "judges",
+      "topics": ["temptation", "betrayal", "downfall", "redemption"],
+      "events": ["Samson carries gates of Gaza", "Delilah discovers secret of Samson's strength", "Samson captured and blinded", "Samson destroys Philistine temple"],
+      "keyVerses": [17, 28, 30],
+      "crossReferences": [
+        {"book": "Hebrews", "chapter": 11, "label": "Samson listed in hall of faith"}
+      ]
+    },
+    "17": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Micah", "role": "protagonist"}
+      ],
+      "locations": ["Mount Ephraim", "Bethlehem"],
+      "timePeriod": "Period of the Judges",
+      "era": "judges",
+      "topics": ["idolatry", "lawlessness", "false-worship"],
+      "events": ["Micah sets up an idol shrine", "Micah hires a Levite as his personal priest"],
+      "keyVerses": [6],
+      "crossReferences": [
+        {"book": "Deuteronomy", "chapter": 12, "label": "Prohibition against unauthorized worship"}
+      ]
+    },
+    "18": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Micah", "role": "mentioned"},
+        {"name": "Jonathan", "role": "mentioned"}
+      ],
+      "locations": ["Laish", "Dan", "Zorah", "Eshtaol", "Shiloh"],
+      "timePeriod": "Period of the Judges",
+      "era": "judges",
+      "topics": ["idolatry", "migration", "lawlessness"],
+      "events": ["Danites steal Micah's idol and priest", "Danites conquer Laish and rename it Dan", "Idol worship established at Dan"],
+      "keyVerses": [1, 30],
+      "crossReferences": [
+        {"book": "1 Kings", "chapter": 12, "label": "Dan later becomes site of golden calf worship"}
+      ]
+    },
+    "19": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Levite", "role": "protagonist"},
+        {"name": "Levite's concubine", "role": "mentioned"}
+      ],
+      "locations": ["Bethlehem", "Gibeah", "Jerusalem"],
+      "timePeriod": "Period of the Judges",
+      "era": "judges",
+      "topics": ["depravity", "violence", "lawlessness", "moral-decay"],
+      "events": ["Levite and concubine travel to Gibeah", "Outrage at Gibeah", "Concubine's body divided and sent to twelve tribes"],
+      "keyVerses": [22, 30],
+      "crossReferences": [
+        {"book": "Genesis", "chapter": 19, "label": "Parallels to sin of Sodom"}
+      ]
+    },
+    "20": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Phinehas", "role": "mentioned"}
+      ],
+      "locations": ["Mizpeh", "Gibeah", "Bethel", "Rimmon"],
+      "timePeriod": "Period of the Judges",
+      "era": "judges",
+      "topics": ["civil-war", "justice", "divine-guidance", "tribal-unity"],
+      "events": ["Israel assembles against Benjamin", "Two defeats before final victory", "Benjamin nearly destroyed"],
+      "keyVerses": [18, 28, 46],
+      "crossReferences": [
+        {"book": "Judges", "chapter": 19, "label": "Outrage at Gibeah prompts war"}
+      ]
+    },
+    "21": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": ["Mizpeh", "Shiloh", "Jabeshgilead", "Rimmon"],
+      "timePeriod": "Period of the Judges",
+      "era": "judges",
+      "topics": ["restoration", "oaths", "tribal-preservation", "lawlessness"],
+      "events": ["Wives found for surviving Benjamites from Jabesh-gilead", "Benjamites seize wives at Shiloh festival"],
+      "keyVerses": [25],
+      "crossReferences": [
+        {"book": "1 Samuel", "chapter": 11, "label": "Jabesh-gilead and Benjamin's bond continues"}
+      ]
+    }
+  }
+}

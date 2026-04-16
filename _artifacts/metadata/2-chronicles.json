@@ -1,0 +1,590 @@
+{
+  "book": "2 Chronicles",
+  "bookSlug": "14.2-chronicles",
+  "testament": "1.old-testament",
+  "chapters": {
+    "1": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Solomon", "role": "protagonist"},
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Gibeon", "Jerusalem"],
+      "timePeriod": "United Monarchy",
+      "era": "united-monarchy",
+      "topics": ["wisdom", "prayer", "worship", "blessing"],
+      "events": ["Solomon worships at Gibeon", "God grants Solomon wisdom and wealth"],
+      "keyVerses": [7, 10, 12],
+      "crossReferences": [
+        {"book": "1 Kings", "chapter": 3, "label": "Parallel account of Solomon's request for wisdom"}
+      ]
+    },
+    "2": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Solomon", "role": "protagonist"},
+        {"name": "Hiram", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem", "Tyre"],
+      "timePeriod": "United Monarchy",
+      "era": "united-monarchy",
+      "topics": ["temple-preparation", "alliance", "craftsmanship"],
+      "events": ["Solomon arranges with Hiram for temple materials and craftsmen"],
+      "keyVerses": [1, 5, 6],
+      "crossReferences": [
+        {"book": "1 Kings", "chapter": 5, "label": "Parallel temple preparations"}
+      ]
+    },
+    "3": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Solomon", "role": "protagonist"}
+      ],
+      "locations": ["Jerusalem", "Mount Moriah"],
+      "timePeriod": "United Monarchy",
+      "era": "united-monarchy",
+      "topics": ["temple", "construction", "holiness"],
+      "events": ["Temple construction begins on Mount Moriah", "Details of the temple structure"],
+      "keyVerses": [1, 17],
+      "crossReferences": [
+        {"book": "1 Kings", "chapter": 6, "label": "Parallel temple construction account"}
+      ]
+    },
+    "4": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Solomon", "role": "protagonist"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "United Monarchy",
+      "era": "united-monarchy",
+      "topics": ["temple", "furnishings", "craftsmanship"],
+      "events": ["Temple furnishings described: altar, sea, lampstands, courts"],
+      "keyVerses": [1, 19],
+      "crossReferences": [
+        {"book": "1 Kings", "chapter": 7, "label": "Parallel furnishings account"}
+      ]
+    },
+    "5": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Solomon", "role": "protagonist"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "United Monarchy",
+      "era": "united-monarchy",
+      "topics": ["ark-of-the-covenant", "worship", "glory-of-god"],
+      "events": ["Ark brought into the temple", "God's glory fills the temple"],
+      "keyVerses": [13, 14],
+      "crossReferences": [
+        {"book": "1 Kings", "chapter": 8, "label": "Parallel account of ark entering temple"}
+      ]
+    },
+    "6": {
+      "genre": ["narrative", "poetry"],
+      "people": [
+        {"name": "Solomon", "role": "protagonist"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "United Monarchy",
+      "era": "united-monarchy",
+      "topics": ["prayer", "dedication", "forgiveness", "temple"],
+      "events": ["Solomon's dedication prayer for the temple"],
+      "keyVerses": [18, 20, 21],
+      "crossReferences": [
+        {"book": "1 Kings", "chapter": 8, "label": "Parallel dedication prayer"}
+      ]
+    },
+    "7": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Solomon", "role": "protagonist"},
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "United Monarchy",
+      "era": "united-monarchy",
+      "topics": ["fire-from-heaven", "dedication", "conditional-promise", "repentance"],
+      "events": ["Fire from heaven consumes sacrifices", "God appears to Solomon with conditional promises"],
+      "keyVerses": [1, 14],
+      "crossReferences": [
+        {"book": "1 Kings", "chapter": 9, "label": "Parallel divine response to Solomon"}
+      ]
+    },
+    "8": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Solomon", "role": "protagonist"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "United Monarchy",
+      "era": "united-monarchy",
+      "topics": ["building", "worship", "administration"],
+      "events": ["Solomon's building projects", "Temple worship organized"],
+      "keyVerses": [1, 16],
+      "crossReferences": [
+        {"book": "1 Kings", "chapter": 9, "label": "Parallel account of Solomon's activities"}
+      ]
+    },
+    "9": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Solomon", "role": "protagonist"},
+        {"name": "Queen of Sheba", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem", "Sheba"],
+      "timePeriod": "United Monarchy",
+      "era": "united-monarchy",
+      "topics": ["wisdom", "wealth", "fame", "death"],
+      "events": ["Queen of Sheba visits Solomon", "Solomon's wealth described", "Death of Solomon"],
+      "keyVerses": [5, 6, 23],
+      "crossReferences": [
+        {"book": "1 Kings", "chapter": 10, "label": "Parallel Queen of Sheba account"}
+      ]
+    },
+    "10": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Rehoboam", "role": "protagonist"},
+        {"name": "Jeroboam", "role": "mentioned"}
+      ],
+      "locations": ["Shechem"],
+      "timePeriod": "Divided Monarchy",
+      "era": "divided-monarchy",
+      "topics": ["foolishness", "division", "rebellion"],
+      "events": ["Rehoboam rejects wise counsel", "Kingdom divides"],
+      "keyVerses": [16, 19],
+      "crossReferences": [
+        {"book": "1 Kings", "chapter": 12, "label": "Parallel account of kingdom division"}
+      ]
+    },
+    "11": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Rehoboam", "role": "protagonist"},
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "Divided Monarchy",
+      "era": "divided-monarchy",
+      "topics": ["fortification", "priesthood", "loyalty"],
+      "events": ["Rehoboam forbidden to fight Israel", "Priests and Levites come to Judah", "Rehoboam fortifies cities"],
+      "keyVerses": [4, 14, 16],
+      "crossReferences": [
+        {"book": "1 Kings", "chapter": 12, "label": "Division of the kingdom"}
+      ]
+    },
+    "12": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Rehoboam", "role": "protagonist"},
+        {"name": "Shishak", "role": "antagonist"},
+        {"name": "Shemaiah", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem", "Egypt"],
+      "timePeriod": "Divided Monarchy",
+      "era": "divided-monarchy",
+      "topics": ["apostasy", "judgment", "invasion", "humility"],
+      "events": ["Rehoboam forsakes the law", "Shishak invades", "Rehoboam humbles himself"],
+      "keyVerses": [1, 5, 12],
+      "crossReferences": [
+        {"book": "1 Kings", "chapter": 14, "label": "Parallel account of Shishak's invasion"}
+      ]
+    },
+    "13": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Abijah", "role": "protagonist"},
+        {"name": "Jeroboam", "role": "antagonist"}
+      ],
+      "locations": ["Mount Zemaraim"],
+      "timePeriod": "Divided Monarchy",
+      "era": "divided-monarchy",
+      "topics": ["warfare", "faithfulness", "true-worship"],
+      "events": ["Abijah's speech against Jeroboam", "Judah's victory over Israel through reliance on God"],
+      "keyVerses": [10, 12, 18],
+      "crossReferences": [
+        {"book": "1 Kings", "chapter": 15, "label": "Brief mention of Abijam's reign"}
+      ]
+    },
+    "14": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Asa", "role": "protagonist"},
+        {"name": "Zerah", "role": "antagonist"}
+      ],
+      "locations": ["Jerusalem", "Mareshah"],
+      "timePeriod": "Divided Monarchy",
+      "era": "divided-monarchy",
+      "topics": ["reform", "prayer", "trust", "victory"],
+      "events": ["Asa's reforms", "Asa defeats Ethiopian army through prayer"],
+      "keyVerses": [2, 11],
+      "crossReferences": [
+        {"book": "1 Kings", "chapter": 15, "label": "Asa's reign summarized"}
+      ]
+    },
+    "15": {
+      "genre": ["narrative", "prophecy"],
+      "people": [
+        {"name": "Asa", "role": "protagonist"},
+        {"name": "Azariah", "role": "speaker"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "Divided Monarchy",
+      "era": "divided-monarchy",
+      "topics": ["reform", "covenant-renewal", "seeking-god"],
+      "events": ["Azariah prophesies to Asa", "Asa's religious reforms", "Covenant renewal ceremony"],
+      "keyVerses": [2, 12, 15],
+      "crossReferences": [
+        {"book": "James", "chapter": 4, "label": "Draw near to God and he will draw near to you"}
+      ]
+    },
+    "16": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Asa", "role": "protagonist"},
+        {"name": "Baasha", "role": "antagonist"},
+        {"name": "Hanani", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem", "Ramah"],
+      "timePeriod": "Divided Monarchy",
+      "era": "divided-monarchy",
+      "topics": ["trust", "alliance", "rebuke", "decline"],
+      "events": ["Asa allies with Syria against Israel", "Hanani rebukes Asa for not trusting God", "Asa's disease and death"],
+      "keyVerses": [7, 9],
+      "crossReferences": [
+        {"book": "1 Kings", "chapter": 15, "label": "Asa's alliance with Ben-hadad"}
+      ]
+    },
+    "17": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Jehoshaphat", "role": "protagonist"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "Divided Monarchy",
+      "era": "divided-monarchy",
+      "topics": ["reform", "teaching", "faithfulness", "prosperity"],
+      "events": ["Jehoshaphat's reforms", "Teaching mission throughout Judah", "Surrounding nations bring tribute"],
+      "keyVerses": [3, 4, 9],
+      "crossReferences": [
+        {"book": "1 Kings", "chapter": 22, "label": "Jehoshaphat's reign overview"}
+      ]
+    },
+    "18": {
+      "genre": ["narrative", "prophecy"],
+      "people": [
+        {"name": "Jehoshaphat", "role": "mentioned"},
+        {"name": "Ahab", "role": "protagonist"},
+        {"name": "Micaiah", "role": "protagonist"}
+      ],
+      "locations": ["Samaria", "Ramothgilead"],
+      "timePeriod": "Divided Monarchy",
+      "era": "divided-monarchy",
+      "topics": ["false-prophecy", "truth", "alliance", "death"],
+      "events": ["Jehoshaphat allies with Ahab", "Micaiah prophesies Ahab's defeat", "Ahab killed at Ramoth-gilead"],
+      "keyVerses": [13, 16, 33],
+      "crossReferences": [
+        {"book": "1 Kings", "chapter": 22, "label": "Parallel account of Micaiah and Ahab's death"}
+      ]
+    },
+    "19": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Jehoshaphat", "role": "protagonist"},
+        {"name": "Jehu", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "Divided Monarchy",
+      "era": "divided-monarchy",
+      "topics": ["justice", "reform", "judicial-system", "rebuke"],
+      "events": ["Jehu rebukes Jehoshaphat", "Jehoshaphat appoints judges throughout Judah"],
+      "keyVerses": [2, 6, 7],
+      "crossReferences": [
+        {"book": "Deuteronomy", "chapter": 16, "label": "Appointment of judges commanded"}
+      ]
+    },
+    "20": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Jehoshaphat", "role": "protagonist"},
+        {"name": "Jahaziel", "role": "speaker"},
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Jerusalem", "Engedi", "Beracah"],
+      "timePeriod": "Divided Monarchy",
+      "era": "divided-monarchy",
+      "topics": ["prayer", "worship", "divine-warfare", "faith"],
+      "events": ["Moab and Ammon invade", "Jehoshaphat prays", "Singers lead army into battle", "Enemies destroy each other"],
+      "keyVerses": [12, 15, 22],
+      "crossReferences": [
+        {"book": "Psalms", "chapter": 46, "label": "God is our refuge in time of trouble"}
+      ]
+    },
+    "21": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Jehoram", "role": "antagonist"},
+        {"name": "Elijah", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "Divided Monarchy",
+      "era": "divided-monarchy",
+      "topics": ["evil", "judgment", "apostasy", "fratricide"],
+      "events": ["Jehoram kills his brothers", "Jehoram's wickedness", "Letter from Elijah prophesies his doom", "Jehoram dies of disease"],
+      "keyVerses": [12, 13, 20],
+      "crossReferences": [
+        {"book": "2 Kings", "chapter": 8, "label": "Parallel account of Jehoram's reign"}
+      ]
+    },
+    "22": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Ahaziah", "role": "mentioned"},
+        {"name": "Athaliah", "role": "antagonist"},
+        {"name": "Jehosheba", "role": "mentioned"},
+        {"name": "Jehu", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem", "Jezreel"],
+      "timePeriod": "Divided Monarchy",
+      "era": "divided-monarchy",
+      "topics": ["evil", "judgment", "preservation", "dynasty"],
+      "events": ["Ahaziah's evil reign", "Jehu kills Ahaziah", "Athaliah seizes throne", "Joash hidden in the temple"],
+      "keyVerses": [3, 10, 12],
+      "crossReferences": [
+        {"book": "2 Kings", "chapter": 11, "label": "Parallel account of Athaliah's coup"}
+      ]
+    },
+    "23": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Jehoiada", "role": "protagonist"},
+        {"name": "Joash", "role": "protagonist"},
+        {"name": "Athaliah", "role": "antagonist"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "Divided Monarchy",
+      "era": "divided-monarchy",
+      "topics": ["restoration", "covenant", "justice", "reform"],
+      "events": ["Jehoiada's coup restores Joash to throne", "Athaliah executed", "Covenant renewed"],
+      "keyVerses": [3, 11, 16],
+      "crossReferences": [
+        {"book": "2 Kings", "chapter": 11, "label": "Parallel account of Joash's restoration"}
+      ]
+    },
+    "24": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Joash", "role": "protagonist"},
+        {"name": "Jehoiada", "role": "mentioned"},
+        {"name": "Zechariah", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "Divided Monarchy",
+      "era": "divided-monarchy",
+      "topics": ["temple-repair", "reform", "apostasy", "murder"],
+      "events": ["Joash repairs the temple", "After Jehoiada's death Joash turns to idolatry", "Zechariah murdered", "Joash assassinated"],
+      "keyVerses": [2, 20, 22],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 23, "label": "Jesus references Zechariah's murder"}
+      ]
+    },
+    "25": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Amaziah", "role": "protagonist"}
+      ],
+      "locations": ["Jerusalem", "Edom"],
+      "timePeriod": "Divided Monarchy",
+      "era": "divided-monarchy",
+      "topics": ["partial-obedience", "idolatry", "pride", "defeat"],
+      "events": ["Amaziah defeats Edom", "Amaziah worships Edomite gods", "Amaziah defeated by Israel"],
+      "keyVerses": [2, 14, 15],
+      "crossReferences": [
+        {"book": "2 Kings", "chapter": 14, "label": "Parallel account of Amaziah"}
+      ]
+    },
+    "26": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Uzziah", "role": "protagonist"},
+        {"name": "Azariah", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "Divided Monarchy",
+      "era": "divided-monarchy",
+      "topics": ["prosperity", "pride", "judgment", "leprosy"],
+      "events": ["Uzziah's military and agricultural success", "Uzziah's pride leads him to burn incense", "Uzziah struck with leprosy"],
+      "keyVerses": [5, 16, 21],
+      "crossReferences": [
+        {"book": "Isaiah", "chapter": 6, "label": "Isaiah's vision in the year King Uzziah died"}
+      ]
+    },
+    "27": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Jotham", "role": "protagonist"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "Divided Monarchy",
+      "era": "divided-monarchy",
+      "topics": ["faithfulness", "building", "victory"],
+      "events": ["Jotham's righteous reign", "Building projects and victory over Ammon"],
+      "keyVerses": [2, 6],
+      "crossReferences": [
+        {"book": "2 Kings", "chapter": 15, "label": "Parallel account of Jotham"}
+      ]
+    },
+    "28": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Ahaz", "role": "antagonist"},
+        {"name": "Oded", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem", "Damascus"],
+      "timePeriod": "Divided Monarchy",
+      "era": "divided-monarchy",
+      "topics": ["apostasy", "defeat", "idolatry", "child-sacrifice"],
+      "events": ["Ahaz's extreme wickedness", "Defeats by Syria and Israel", "Prophet Oded intervenes for Judean captives", "Ahaz appeals to Assyria"],
+      "keyVerses": [1, 3, 22],
+      "crossReferences": [
+        {"book": "Isaiah", "chapter": 7, "label": "Isaiah confronts Ahaz during Syrian threat"}
+      ]
+    },
+    "29": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Hezekiah", "role": "protagonist"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "Late Monarchy of Judah",
+      "era": "divided-monarchy",
+      "topics": ["reform", "temple-cleansing", "worship", "repentance"],
+      "events": ["Hezekiah cleanses and reopens the temple", "Worship restored"],
+      "keyVerses": [2, 3, 36],
+      "crossReferences": [
+        {"book": "2 Kings", "chapter": 18, "label": "Hezekiah's reforms summarized"}
+      ]
+    },
+    "30": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Hezekiah", "role": "protagonist"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "Late Monarchy of Judah",
+      "era": "divided-monarchy",
+      "topics": ["passover", "unity", "grace", "worship"],
+      "events": ["Hezekiah invites all Israel and Judah to Passover", "Great Passover celebration"],
+      "keyVerses": [1, 9, 26],
+      "crossReferences": [
+        {"book": "2 Kings", "chapter": 23, "label": "Josiah's Passover comparison"}
+      ]
+    },
+    "31": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Hezekiah", "role": "protagonist"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "Late Monarchy of Judah",
+      "era": "divided-monarchy",
+      "topics": ["reform", "tithing", "generosity", "organization"],
+      "events": ["Idols destroyed throughout the land", "Tithes and offerings organized", "Priestly provisions restored"],
+      "keyVerses": [1, 20, 21],
+      "crossReferences": [
+        {"book": "Malachi", "chapter": 3, "label": "Bring the whole tithe into the storehouse"}
+      ]
+    },
+    "32": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Hezekiah", "role": "protagonist"},
+        {"name": "Sennacherib", "role": "antagonist"},
+        {"name": "Isaiah", "role": "mentioned"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "Late Monarchy of Judah",
+      "era": "divided-monarchy",
+      "topics": ["faith", "siege", "deliverance", "pride"],
+      "events": ["Sennacherib invades Judah", "Hezekiah and Isaiah pray", "Angel destroys Assyrian army", "Hezekiah's pride and wealth"],
+      "keyVerses": [7, 8, 21],
+      "crossReferences": [
+        {"book": "2 Kings", "chapter": 19, "label": "Parallel deliverance from Assyria"}
+      ]
+    },
+    "33": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Manasseh", "role": "protagonist"},
+        {"name": "Amon", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem", "Babylon"],
+      "timePeriod": "Late Monarchy of Judah",
+      "era": "divided-monarchy",
+      "topics": ["wickedness", "repentance", "restoration", "mercy"],
+      "events": ["Manasseh's extreme wickedness", "Manasseh taken captive to Babylon", "Manasseh repents and is restored", "Amon's evil reign"],
+      "keyVerses": [12, 13, 23],
+      "crossReferences": [
+        {"book": "2 Kings", "chapter": 21, "label": "Parallel account without repentance details"}
+      ]
+    },
+    "34": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Josiah", "role": "protagonist"},
+        {"name": "Hilkiah", "role": "mentioned"},
+        {"name": "Huldah", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "Late Monarchy of Judah",
+      "era": "divided-monarchy",
+      "topics": ["reform", "law", "repentance", "covenant-renewal"],
+      "events": ["Josiah's early reforms", "Book of the Law discovered", "Huldah's prophecy", "Covenant renewal"],
+      "keyVerses": [2, 14, 31],
+      "crossReferences": [
+        {"book": "2 Kings", "chapter": 22, "label": "Parallel account of the Law found"}
+      ]
+    },
+    "35": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Josiah", "role": "protagonist"},
+        {"name": "Pharaoh Necho", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem", "Megiddo"],
+      "timePeriod": "Late Monarchy of Judah",
+      "era": "divided-monarchy",
+      "topics": ["passover", "worship", "death", "disobedience"],
+      "events": ["Great Passover celebration", "Josiah killed at Megiddo by Pharaoh Necho"],
+      "keyVerses": [18, 22, 25],
+      "crossReferences": [
+        {"book": "2 Kings", "chapter": 23, "label": "Parallel Passover and death of Josiah"}
+      ]
+    },
+    "36": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Jehoahaz", "role": "mentioned"},
+        {"name": "Jehoiakim", "role": "mentioned"},
+        {"name": "Jehoiachin", "role": "mentioned"},
+        {"name": "Zedekiah", "role": "mentioned"},
+        {"name": "Nebuchadnezzar", "role": "antagonist"},
+        {"name": "Cyrus", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem", "Babylon"],
+      "timePeriod": "Fall of Judah to Restoration",
+      "era": "exile",
+      "topics": ["exile", "judgment", "destruction", "hope"],
+      "events": ["Last four kings of Judah", "Fall of Jerusalem", "Temple destroyed", "Cyrus's decree to rebuild"],
+      "keyVerses": [15, 16, 23],
+      "crossReferences": [
+        {"book": "Ezra", "chapter": 1, "label": "Cyrus's decree continued"},
+        {"book": "Jeremiah", "chapter": 25, "label": "Seventy years of exile prophesied"}
+      ]
+    }
+  }
+}

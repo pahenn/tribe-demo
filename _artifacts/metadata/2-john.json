@@ -1,0 +1,25 @@
+{
+  "book": "2 John",
+  "bookSlug": "63.2-john",
+  "testament": "2.new-testament",
+  "chapters": {
+    "1": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "John", "role": "author"},
+        {"name": "Jesus", "role": "mentioned"},
+        {"name": "The Elect Lady", "role": "recipient"}
+      ],
+      "locations": [],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["truth", "love-one-another", "false-teachers", "doctrine-of-christ"],
+      "events": ["Warning against deceivers who deny Christ in the flesh", "Instruction not to receive false teachers"],
+      "keyVerses": [6, 7, 9],
+      "crossReferences": [
+        {"book": "1 John", "chapter": 4, "label": "Testing spirits and confessing Christ in the flesh"},
+        {"book": "1 John", "chapter": 2, "label": "Warning about antichrist"}
+      ]
+    }
+  }
+}

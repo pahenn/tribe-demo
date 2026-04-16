@@ -1,0 +1,439 @@
+{
+  "book": "2 Kings",
+  "bookSlug": "12.2-kings",
+  "testament": "1.old-testament",
+  "chapters": {
+    "1": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Elijah", "role": "protagonist"},
+        {"name": "Ahaziah", "role": "antagonist"},
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Samaria", "Moab"],
+      "timePeriod": "Divided Monarchy",
+      "era": "divided-monarchy",
+      "topics": ["judgment", "idolatry", "divine-authority"],
+      "events": ["Ahaziah consults Baal-zebub", "Elijah calls fire from heaven on soldiers", "Ahaziah dies"],
+      "keyVerses": [3, 10],
+      "crossReferences": [
+        {"book": "Luke", "chapter": 9, "label": "Jesus rebukes disciples who want to call fire from heaven"}
+      ]
+    },
+    "2": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Elijah", "role": "protagonist"},
+        {"name": "Elisha", "role": "protagonist"}
+      ],
+      "locations": ["Gilgal", "Bethel", "Jericho", "Jordan"],
+      "timePeriod": "Divided Monarchy",
+      "era": "divided-monarchy",
+      "topics": ["succession", "faith", "miracles", "ascension"],
+      "events": ["Elijah taken up in a whirlwind", "Elisha receives double portion of Elijah's spirit", "Elisha heals the waters of Jericho"],
+      "keyVerses": [9, 11, 14],
+      "crossReferences": [
+        {"book": "Malachi", "chapter": 4, "label": "Elijah will return before the day of the Lord"}
+      ]
+    },
+    "3": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Jehoram", "role": "mentioned"},
+        {"name": "Jehoshaphat", "role": "mentioned"},
+        {"name": "Elisha", "role": "protagonist"},
+        {"name": "Mesha", "role": "antagonist"}
+      ],
+      "locations": ["Samaria", "Moab", "Edom"],
+      "timePeriod": "Divided Monarchy",
+      "era": "divided-monarchy",
+      "topics": ["warfare", "prophecy", "divine-provision"],
+      "events": ["Alliance against Moab", "Elisha provides water in the desert", "Mesha sacrifices his son"],
+      "keyVerses": [14, 17],
+      "crossReferences": [
+        {"book": "2 Chronicles", "chapter": 20, "label": "Jehoshaphat's reliance on God"}
+      ]
+    },
+    "4": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Elisha", "role": "protagonist"},
+        {"name": "Shunammite woman", "role": "mentioned"}
+      ],
+      "locations": ["Shunem", "Gilgal"],
+      "timePeriod": "Divided Monarchy",
+      "era": "divided-monarchy",
+      "topics": ["miracles", "faith", "provision", "resurrection"],
+      "events": ["Widow's oil multiplied", "Shunammite's son promised and raised from death", "Poisoned stew healed", "Bread multiplied"],
+      "keyVerses": [16, 35],
+      "crossReferences": [
+        {"book": "1 Kings", "chapter": 17, "label": "Elijah's parallel miracles"}
+      ]
+    },
+    "5": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Naaman", "role": "protagonist"},
+        {"name": "Elisha", "role": "protagonist"},
+        {"name": "Gehazi", "role": "antagonist"}
+      ],
+      "locations": ["Syria", "Jordan", "Samaria"],
+      "timePeriod": "Divided Monarchy",
+      "era": "divided-monarchy",
+      "topics": ["healing", "faith", "humility", "greed"],
+      "events": ["Naaman healed of leprosy in the Jordan", "Gehazi's greed and punishment"],
+      "keyVerses": [14, 15, 27],
+      "crossReferences": [
+        {"book": "Luke", "chapter": 4, "label": "Jesus references Naaman the leper"}
+      ]
+    },
+    "6": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Elisha", "role": "protagonist"},
+        {"name": "King of Syria", "role": "antagonist"},
+        {"name": "King of Israel", "role": "mentioned"}
+      ],
+      "locations": ["Jordan", "Dothan", "Samaria"],
+      "timePeriod": "Divided Monarchy",
+      "era": "divided-monarchy",
+      "topics": ["miracles", "divine-protection", "siege", "famine"],
+      "events": ["Floating axe head", "Elisha traps blinded Syrian army", "Siege and famine in Samaria"],
+      "keyVerses": [16, 17],
+      "crossReferences": [
+        {"book": "Psalms", "chapter": 34, "label": "Angel of the Lord encamps around those who fear him"}
+      ]
+    },
+    "7": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Elisha", "role": "protagonist"}
+      ],
+      "locations": ["Samaria"],
+      "timePeriod": "Divided Monarchy",
+      "era": "divided-monarchy",
+      "topics": ["deliverance", "prophecy", "faith", "provision"],
+      "events": ["Elisha prophesies end of famine", "Lepers discover Syrian camp abandoned", "Famine ends as Elisha prophesied"],
+      "keyVerses": [1, 2],
+      "crossReferences": [
+        {"book": "2 Kings", "chapter": 6, "label": "Siege that preceded this deliverance"}
+      ]
+    },
+    "8": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Elisha", "role": "protagonist"},
+        {"name": "Shunammite woman", "role": "mentioned"},
+        {"name": "Hazael", "role": "mentioned"},
+        {"name": "Jehoram", "role": "mentioned"},
+        {"name": "Ahaziah", "role": "mentioned"}
+      ],
+      "locations": ["Samaria", "Damascus", "Jerusalem"],
+      "timePeriod": "Divided Monarchy",
+      "era": "divided-monarchy",
+      "topics": ["prophecy", "kingship", "evil", "judgment"],
+      "events": ["Shunammite's land restored", "Elisha prophesies Hazael will be king of Syria", "Reigns of Jehoram and Ahaziah of Judah"],
+      "keyVerses": [12, 13, 19],
+      "crossReferences": [
+        {"book": "1 Kings", "chapter": 19, "label": "Elijah told to anoint Hazael"}
+      ]
+    },
+    "9": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Jehu", "role": "protagonist"},
+        {"name": "Jezebel", "role": "antagonist"},
+        {"name": "Joram", "role": "mentioned"},
+        {"name": "Ahaziah", "role": "mentioned"}
+      ],
+      "locations": ["Ramothgilead", "Jezreel"],
+      "timePeriod": "Divided Monarchy",
+      "era": "divided-monarchy",
+      "topics": ["judgment", "zeal", "dynasty-change", "prophecy-fulfilled"],
+      "events": ["Jehu anointed king of Israel", "Jehu kills Joram and Ahaziah", "Jezebel thrown from a window and eaten by dogs"],
+      "keyVerses": [7, 30, 36],
+      "crossReferences": [
+        {"book": "1 Kings", "chapter": 21, "label": "Elijah's prophecy about Jezebel fulfilled"}
+      ]
+    },
+    "10": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Jehu", "role": "protagonist"}
+      ],
+      "locations": ["Samaria", "Jezreel"],
+      "timePeriod": "Divided Monarchy",
+      "era": "divided-monarchy",
+      "topics": ["judgment", "zeal", "idolatry", "bloodshed"],
+      "events": ["Jehu destroys Ahab's family", "Jehu destroys Baal worship in Israel", "Jehu continues in Jeroboam's sins"],
+      "keyVerses": [16, 28, 31],
+      "crossReferences": [
+        {"book": "Hosea", "chapter": 1, "label": "Blood of Jezreel held against Jehu's house"}
+      ]
+    },
+    "11": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Athaliah", "role": "antagonist"},
+        {"name": "Joash", "role": "protagonist"},
+        {"name": "Jehosheba", "role": "mentioned"},
+        {"name": "Jehoiada", "role": "protagonist"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "Divided Monarchy",
+      "era": "divided-monarchy",
+      "topics": ["preservation", "restoration", "covenant", "usurpation"],
+      "events": ["Athaliah seizes the throne", "Joash hidden for six years", "Jehoiada's coup restores Joash", "Athaliah executed"],
+      "keyVerses": [1, 12, 17],
+      "crossReferences": [
+        {"book": "2 Chronicles", "chapter": 23, "label": "Parallel account of Joash's restoration"}
+      ]
+    },
+    "12": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Joash", "role": "protagonist"},
+        {"name": "Jehoiada", "role": "mentioned"},
+        {"name": "Hazael", "role": "antagonist"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "Divided Monarchy",
+      "era": "divided-monarchy",
+      "topics": ["temple-repair", "reform", "decline"],
+      "events": ["Joash repairs the temple", "Hazael threatens Jerusalem", "Joash assassinated"],
+      "keyVerses": [2, 15],
+      "crossReferences": [
+        {"book": "2 Chronicles", "chapter": 24, "label": "Fuller account of Joash's reign"}
+      ]
+    },
+    "13": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Jehoahaz", "role": "mentioned"},
+        {"name": "Joash", "role": "mentioned"},
+        {"name": "Elisha", "role": "protagonist"}
+      ],
+      "locations": ["Samaria"],
+      "timePeriod": "Divided Monarchy",
+      "era": "divided-monarchy",
+      "topics": ["oppression", "prophecy", "death", "miracles"],
+      "events": ["Reigns of Jehoahaz and Joash of Israel", "Death of Elisha", "Dead man revived by touching Elisha's bones"],
+      "keyVerses": [14, 21],
+      "crossReferences": [
+        {"book": "2 Kings", "chapter": 2, "label": "Elisha's ministry began"}
+      ]
+    },
+    "14": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Amaziah", "role": "protagonist"},
+        {"name": "Jeroboam II", "role": "mentioned"},
+        {"name": "Joash", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem", "Samaria", "Bethshemesh"],
+      "timePeriod": "Divided Monarchy",
+      "era": "divided-monarchy",
+      "topics": ["pride", "defeat", "partial-obedience"],
+      "events": ["Amaziah defeats Edom", "Amaziah defeated by Joash of Israel", "Jeroboam II restores Israel's borders"],
+      "keyVerses": [10, 25, 27],
+      "crossReferences": [
+        {"book": "2 Chronicles", "chapter": 25, "label": "Parallel account of Amaziah"}
+      ]
+    },
+    "15": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Azariah", "role": "mentioned"},
+        {"name": "Jotham", "role": "mentioned"},
+        {"name": "Pekah", "role": "mentioned"},
+        {"name": "Tiglathpileser", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem", "Samaria"],
+      "timePeriod": "Divided Monarchy",
+      "era": "divided-monarchy",
+      "topics": ["kingship", "decline", "instability", "judgment"],
+      "events": ["Reigns of Azariah, Jotham in Judah", "Multiple kings in Israel through coups", "Tiglath-pileser invades Israel"],
+      "keyVerses": [5, 29],
+      "crossReferences": [
+        {"book": "Isaiah", "chapter": 6, "label": "Isaiah's vision in the year King Uzziah died"}
+      ]
+    },
+    "16": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Ahaz", "role": "antagonist"},
+        {"name": "Tiglathpileser", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem", "Damascus"],
+      "timePeriod": "Divided Monarchy",
+      "era": "divided-monarchy",
+      "topics": ["idolatry", "apostasy", "foreign-alliance"],
+      "events": ["Ahaz introduces pagan worship", "Ahaz appeals to Assyria for help", "Ahaz alters the temple"],
+      "keyVerses": [3, 10],
+      "crossReferences": [
+        {"book": "Isaiah", "chapter": 7, "label": "Isaiah's encounter with Ahaz"},
+        {"book": "2 Chronicles", "chapter": 28, "label": "Parallel account of Ahaz's reign"}
+      ]
+    },
+    "17": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Hoshea", "role": "mentioned"},
+        {"name": "Shalmaneser", "role": "antagonist"}
+      ],
+      "locations": ["Samaria", "Assyria"],
+      "timePeriod": "Fall of Northern Kingdom",
+      "era": "divided-monarchy",
+      "topics": ["exile", "judgment", "idolatry", "covenant-breaking"],
+      "events": ["Fall of Samaria to Assyria", "Israel exiled", "Foreign peoples resettled in Samaria"],
+      "keyVerses": [7, 18, 23],
+      "crossReferences": [
+        {"book": "Hosea", "chapter": 1, "label": "Hosea foretold Israel's exile"},
+        {"book": "Amos", "chapter": 5, "label": "Amos warned of exile"}
+      ]
+    },
+    "18": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Hezekiah", "role": "protagonist"},
+        {"name": "Sennacherib", "role": "antagonist"},
+        {"name": "Rabshakeh", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem", "Lachish", "Samaria"],
+      "timePeriod": "Late Monarchy of Judah",
+      "era": "divided-monarchy",
+      "topics": ["reform", "faith", "siege", "trust"],
+      "events": ["Hezekiah's reforms and faithfulness", "Sennacherib invades Judah", "Rabshakeh's propaganda speech"],
+      "keyVerses": [5, 6],
+      "crossReferences": [
+        {"book": "Isaiah", "chapter": 36, "label": "Parallel account of Assyrian siege"},
+        {"book": "2 Chronicles", "chapter": 29, "label": "Hezekiah's reforms in detail"}
+      ]
+    },
+    "19": {
+      "genre": ["narrative", "prophecy"],
+      "people": [
+        {"name": "Hezekiah", "role": "protagonist"},
+        {"name": "Isaiah", "role": "protagonist"},
+        {"name": "Sennacherib", "role": "antagonist"},
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "Late Monarchy of Judah",
+      "era": "divided-monarchy",
+      "topics": ["prayer", "deliverance", "trust", "divine-intervention"],
+      "events": ["Hezekiah prays in the temple", "Isaiah prophesies Jerusalem's deliverance", "Angel destroys 185,000 Assyrians", "Sennacherib assassinated"],
+      "keyVerses": [15, 19, 35],
+      "crossReferences": [
+        {"book": "Isaiah", "chapter": 37, "label": "Parallel account of deliverance from Assyria"}
+      ]
+    },
+    "20": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Hezekiah", "role": "protagonist"},
+        {"name": "Isaiah", "role": "protagonist"},
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Jerusalem", "Babylon"],
+      "timePeriod": "Late Monarchy of Judah",
+      "era": "divided-monarchy",
+      "topics": ["prayer", "healing", "pride", "prophecy"],
+      "events": ["Hezekiah healed and given fifteen more years", "Sun's shadow goes backward", "Hezekiah shows treasures to Babylonian envoys", "Isaiah prophesies Babylonian exile"],
+      "keyVerses": [5, 6, 17],
+      "crossReferences": [
+        {"book": "Isaiah", "chapter": 38, "label": "Hezekiah's illness and recovery"}
+      ]
+    },
+    "21": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Manasseh", "role": "antagonist"},
+        {"name": "Amon", "role": "mentioned"},
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "Late Monarchy of Judah",
+      "era": "divided-monarchy",
+      "topics": ["apostasy", "evil", "judgment", "idolatry"],
+      "events": ["Manasseh's extreme wickedness", "God pronounces judgment on Jerusalem", "Amon's brief evil reign"],
+      "keyVerses": [2, 12, 13],
+      "crossReferences": [
+        {"book": "2 Chronicles", "chapter": 33, "label": "Manasseh's repentance in captivity"}
+      ]
+    },
+    "22": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Josiah", "role": "protagonist"},
+        {"name": "Hilkiah", "role": "mentioned"},
+        {"name": "Huldah", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "Late Monarchy of Judah",
+      "era": "divided-monarchy",
+      "topics": ["reform", "law", "repentance", "discovery"],
+      "events": ["Josiah repairs the temple", "Book of the Law found", "Huldah the prophetess consulted"],
+      "keyVerses": [8, 11, 19],
+      "crossReferences": [
+        {"book": "2 Chronicles", "chapter": 34, "label": "Parallel account of Josiah's reforms"}
+      ]
+    },
+    "23": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Josiah", "role": "protagonist"},
+        {"name": "Jehoahaz", "role": "mentioned"},
+        {"name": "Pharaoh Necho", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem", "Bethel", "Megiddo"],
+      "timePeriod": "Late Monarchy of Judah",
+      "era": "divided-monarchy",
+      "topics": ["reform", "covenant-renewal", "passover", "judgment"],
+      "events": ["Josiah's sweeping reforms", "Passover celebrated", "Josiah killed at Megiddo", "Jehoahaz deposed by Pharaoh Necho"],
+      "keyVerses": [25, 26, 27],
+      "crossReferences": [
+        {"book": "1 Kings", "chapter": 13, "label": "Prophecy about Josiah fulfilled"}
+      ]
+    },
+    "24": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Jehoiakim", "role": "mentioned"},
+        {"name": "Jehoiachin", "role": "mentioned"},
+        {"name": "Nebuchadnezzar", "role": "antagonist"},
+        {"name": "Zedekiah", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem", "Babylon"],
+      "timePeriod": "Fall of Judah",
+      "era": "exile",
+      "topics": ["exile", "judgment", "siege", "deportation"],
+      "events": ["Nebuchadnezzar subjugates Judah", "First deportation to Babylon", "Jehoiachin surrenders", "Zedekiah installed as puppet king"],
+      "keyVerses": [2, 14, 20],
+      "crossReferences": [
+        {"book": "Jeremiah", "chapter": 22, "label": "Jeremiah's prophecies about these kings"},
+        {"book": "Daniel", "chapter": 1, "label": "Daniel taken to Babylon in early deportation"}
+      ]
+    },
+    "25": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Zedekiah", "role": "mentioned"},
+        {"name": "Nebuchadnezzar", "role": "antagonist"},
+        {"name": "Nebuzaradan", "role": "mentioned"},
+        {"name": "Gedaliah", "role": "mentioned"},
+        {"name": "Jehoiachin", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem", "Babylon", "Riblah"],
+      "timePeriod": "Fall of Judah",
+      "era": "exile",
+      "topics": ["destruction", "exile", "judgment", "temple-destroyed"],
+      "events": ["Fall of Jerusalem", "Temple destroyed", "Zedekiah blinded and taken captive", "Gedaliah assassinated", "Jehoiachin released from prison in Babylon"],
+      "keyVerses": [9, 11, 27],
+      "crossReferences": [
+        {"book": "Jeremiah", "chapter": 52, "label": "Parallel account of Jerusalem's fall"},
+        {"book": "2 Chronicles", "chapter": 36, "label": "Parallel account with hope of return"}
+      ]
+    }
+  }
+}

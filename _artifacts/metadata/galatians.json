@@ -1,0 +1,120 @@
+{
+  "book": "Galatians",
+  "bookSlug": "48.galatians",
+  "testament": "2.new-testament",
+  "chapters": {
+    "1": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Paul", "role": "author"},
+        {"name": "Jesus Christ", "role": "mentioned"},
+        {"name": "Peter", "role": "mentioned"},
+        {"name": "James", "role": "mentioned"}
+      ],
+      "locations": ["Galatia", "Arabia", "Damascus", "Jerusalem", "Syria", "Cilicia", "Judaea"],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["gospel", "apostleship", "conversion", "false-gospel"],
+      "events": ["Paul recounts his conversion and early ministry"],
+      "keyVerses": [8, 9, 16],
+      "crossReferences": [
+        {"book": "Acts", "chapter": 9, "label": "Paul's conversion on the road to Damascus"}
+      ]
+    },
+    "2": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Paul", "role": "author"},
+        {"name": "Barnabas", "role": "mentioned"},
+        {"name": "Titus", "role": "mentioned"},
+        {"name": "Peter", "role": "mentioned"},
+        {"name": "James", "role": "mentioned"},
+        {"name": "John", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem", "Antioch"],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["justification", "faith-vs-works", "christian-liberty", "hypocrisy"],
+      "events": ["Paul confronts Peter at Antioch over table fellowship"],
+      "keyVerses": [16, 20, 21],
+      "crossReferences": [
+        {"book": "Acts", "chapter": 15, "label": "The Jerusalem Council"},
+        {"book": "Romans", "chapter": 3, "label": "Justified by faith apart from works of the law"}
+      ]
+    },
+    "3": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Paul", "role": "author"},
+        {"name": "Abraham", "role": "mentioned"},
+        {"name": "Jesus Christ", "role": "mentioned"}
+      ],
+      "locations": ["Galatia"],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["faith-vs-law", "curse-of-law", "promise", "unity-in-christ"],
+      "events": [],
+      "keyVerses": [11, 13, 28],
+      "crossReferences": [
+        {"book": "Genesis", "chapter": 15, "label": "Abraham believed God and it was counted as righteousness"},
+        {"book": "Habakkuk", "chapter": 2, "label": "The just shall live by faith"},
+        {"book": "Deuteronomy", "chapter": 21, "label": "Cursed is everyone that hangs on a tree"}
+      ]
+    },
+    "4": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Paul", "role": "author"},
+        {"name": "Abraham", "role": "mentioned"},
+        {"name": "Hagar", "role": "mentioned"},
+        {"name": "Isaac", "role": "mentioned"},
+        {"name": "Jesus Christ", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem", "Sinai"],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["adoption", "sonship", "allegory", "freedom-vs-bondage"],
+      "events": ["Paul uses the allegory of Hagar and Sarah"],
+      "keyVerses": [4, 5, 6],
+      "crossReferences": [
+        {"book": "Genesis", "chapter": 21, "label": "Cast out the bondwoman and her son"},
+        {"book": "Romans", "chapter": 8, "label": "Spirit of adoption crying Abba Father"}
+      ]
+    },
+    "5": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Paul", "role": "author"},
+        {"name": "Jesus Christ", "role": "mentioned"},
+        {"name": "Holy Spirit", "role": "mentioned"}
+      ],
+      "locations": ["Galatia"],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["christian-liberty", "fruit-of-the-spirit", "flesh-vs-spirit", "love"],
+      "events": [],
+      "keyVerses": [1, 16, 22],
+      "crossReferences": [
+        {"book": "Leviticus", "chapter": 19, "label": "Love thy neighbour as thyself"},
+        {"book": "Romans", "chapter": 8, "label": "Walk not after the flesh but after the Spirit"}
+      ]
+    },
+    "6": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Paul", "role": "author"},
+        {"name": "Jesus Christ", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["sowing-and-reaping", "burden-bearing", "new-creation", "cross"],
+      "events": [],
+      "keyVerses": [2, 7, 14],
+      "crossReferences": [
+        {"book": "2 Corinthians", "chapter": 5, "label": "If any man be in Christ he is a new creature"},
+        {"book": "Proverbs", "chapter": 22, "label": "Whatsoever a man soweth that shall he also reap"}
+      ]
+    }
+  }
+}

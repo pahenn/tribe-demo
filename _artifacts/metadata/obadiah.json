@@ -1,0 +1,27 @@
+{
+  "book": "Obadiah",
+  "bookSlug": "31.obadiah",
+  "testament": "1.old-testament",
+  "chapters": {
+    "1": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "Obadiah", "role": "author"},
+        {"name": "God", "role": "speaker"},
+        {"name": "Esau", "role": "mentioned"},
+        {"name": "Jacob", "role": "mentioned"}
+      ],
+      "locations": ["Edom", "Jerusalem", "Zion", "Teman", "Samaria", "Gilead", "Zarephath"],
+      "timePeriod": "Divided Kingdom",
+      "era": "divided-monarchy",
+      "topics": ["judgment-on-edom", "pride", "brotherly-betrayal", "day-of-the-lord", "restoration"],
+      "events": ["Edom condemned for pride and violence against Judah", "Edom judged for gloating over Jerusalem's fall", "Promise of deliverance on Mount Zion"],
+      "keyVerses": [3, 15, 21],
+      "crossReferences": [
+        {"book": "Jeremiah", "chapter": 49, "label": "Oracle against Edom"},
+        {"book": "Genesis", "chapter": 25, "label": "Jacob and Esau rivalry"},
+        {"book": "Ezekiel", "chapter": 35, "label": "Prophecy against Mount Seir/Edom"}
+      ]
+    }
+  }
+}

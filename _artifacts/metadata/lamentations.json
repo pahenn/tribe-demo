@@ -1,0 +1,93 @@
+{
+  "book": "Lamentations",
+  "bookSlug": "25.lamentations",
+  "testament": "1.old-testament",
+  "chapters": {
+    "1": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "Jeremiah", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem", "Zion", "Judah"],
+      "timePeriod": "After fall of Jerusalem (586 BC)",
+      "era": "exile",
+      "topics": ["lamentation", "judgment", "sin"],
+      "events": ["Mourning over Jerusalem's desolation", "Jerusalem personified as a widow"],
+      "keyVerses": [1, 12, 18],
+      "crossReferences": [
+        {"book": "Jeremiah", "chapter": 52, "label": "Fall of Jerusalem"},
+        {"book": "Psalm", "chapter": 137, "label": "By the rivers of Babylon"}
+      ]
+    },
+    "2": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "Jeremiah", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": ["Zion", "Jerusalem", "Judah"],
+      "timePeriod": "After fall of Jerusalem (586 BC)",
+      "era": "exile",
+      "topics": ["judgment", "wrath", "destruction"],
+      "events": ["God's wrath against Jerusalem", "Destruction of the temple and walls", "Famine's horrors"],
+      "keyVerses": [17, 19, 13],
+      "crossReferences": [
+        {"book": "Deuteronomy", "chapter": 28, "label": "Curses for disobedience"},
+        {"book": "2 Chronicles", "chapter": 36, "label": "Destruction of the temple"}
+      ]
+    },
+    "3": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "Jeremiah", "role": "speaker"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "After fall of Jerusalem (586 BC)",
+      "era": "exile",
+      "topics": ["suffering", "hope", "faithfulness", "mercy"],
+      "events": ["Personal lament of affliction", "Great is Thy faithfulness", "Call to repentance"],
+      "keyVerses": [22, 23, 40],
+      "crossReferences": [
+        {"book": "Psalm", "chapter": 30, "label": "Weeping endures but joy comes"},
+        {"book": "Romans", "chapter": 11, "label": "Goodness and severity of God"},
+        {"book": "Hebrews", "chapter": 10, "label": "God is faithful"}
+      ]
+    },
+    "4": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "Jeremiah", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": ["Zion", "Jerusalem", "Sodom", "Edom", "Uz"],
+      "timePeriod": "After fall of Jerusalem (586 BC)",
+      "era": "exile",
+      "topics": ["judgment", "famine", "suffering"],
+      "events": ["Gold become dim", "Horrors of the siege and famine", "Warning to Edom"],
+      "keyVerses": [1, 12, 22],
+      "crossReferences": [
+        {"book": "Ezekiel", "chapter": 5, "label": "Famine and siege horrors"},
+        {"book": "Obadiah", "chapter": 1, "label": "Judgment on Edom"}
+      ]
+    },
+    "5": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "Jeremiah", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": ["Zion", "Judah"],
+      "timePeriod": "After fall of Jerusalem (586 BC)",
+      "era": "exile",
+      "topics": ["prayer", "lamentation", "restoration"],
+      "events": ["Community prayer for mercy", "Appeal to God's eternal throne"],
+      "keyVerses": [19, 21, 16],
+      "crossReferences": [
+        {"book": "Psalm", "chapter": 80, "label": "Restore us O God"},
+        {"book": "Psalm", "chapter": 102, "label": "God's throne endures forever"}
+      ]
+    }
+  }
+}

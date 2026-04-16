@@ -1,0 +1,77 @@
+{
+  "book": "Malachi",
+  "bookSlug": "39.malachi",
+  "testament": "1.old-testament",
+  "chapters": {
+    "1": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "Malachi", "role": "author"},
+        {"name": "God", "role": "speaker"},
+        {"name": "Jacob", "role": "mentioned"},
+        {"name": "Esau", "role": "mentioned"}
+      ],
+      "locations": ["Israel", "Edom"],
+      "timePeriod": "Post-Exile",
+      "era": "post-exile",
+      "topics": ["election", "corrupt-worship", "defiled-offerings", "priestly-rebuke"],
+      "events": ["God declares his love for Jacob over Esau", "Priests rebuked for offering blemished sacrifices"],
+      "keyVerses": [2, 6, 11],
+      "crossReferences": [
+        {"book": "Romans", "chapter": 9, "label": "Jacob I loved, Esau I hated"},
+        {"book": "Leviticus", "chapter": 22, "label": "Sacrifices must be without blemish"}
+      ]
+    },
+    "2": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Levi", "role": "mentioned"}
+      ],
+      "locations": ["Judah", "Israel", "Jerusalem"],
+      "timePeriod": "Post-Exile",
+      "era": "post-exile",
+      "topics": ["corrupt-priesthood", "covenant-of-levi", "divorce", "intermarriage"],
+      "events": ["Curse on unfaithful priests who corrupt the covenant of Levi", "Rebuke for marrying foreign wives and divorcing", "God declares he hates divorce"],
+      "keyVerses": [7, 10, 16],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 19, "label": "Jesus on God's design for marriage"},
+        {"book": "Nehemiah", "chapter": 13, "label": "Nehemiah addresses intermarriage"}
+      ]
+    },
+    "3": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Jerusalem", "Judah"],
+      "timePeriod": "Post-Exile",
+      "era": "post-exile",
+      "topics": ["messenger", "refining", "tithing", "book-of-remembrance"],
+      "events": ["Prophecy of the messenger who prepares the way", "God challenges Israel to tithe and prove his blessing", "Book of remembrance written for those who fear the Lord"],
+      "keyVerses": [1, 8, 10, 16],
+      "crossReferences": [
+        {"book": "Mark", "chapter": 1, "label": "I send my messenger before your face"},
+        {"book": "Matthew", "chapter": 11, "label": "John the Baptist as the messenger"}
+      ]
+    },
+    "4": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Moses", "role": "mentioned"},
+        {"name": "Elijah", "role": "mentioned"}
+      ],
+      "locations": ["Horeb"],
+      "timePeriod": "Post-Exile",
+      "era": "post-exile",
+      "topics": ["day-of-the-lord", "sun-of-righteousness", "elijah", "reconciliation"],
+      "events": ["Day of judgment burns the wicked like an oven", "Sun of righteousness rises with healing", "Promise to send Elijah before the great day of the Lord"],
+      "keyVerses": [2, 5, 6],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 17, "label": "Jesus identifies John the Baptist as Elijah"},
+        {"book": "Luke", "chapter": 1, "label": "John the Baptist goes in the spirit of Elijah"}
+      ]
+    }
+  }
+}

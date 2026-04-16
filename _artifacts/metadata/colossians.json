@@ -1,0 +1,86 @@
+{
+  "book": "Colossians",
+  "bookSlug": "51.colossians",
+  "testament": "2.new-testament",
+  "chapters": {
+    "1": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Paul", "role": "author"},
+        {"name": "Timothy", "role": "co-sender"},
+        {"name": "Jesus Christ", "role": "mentioned"},
+        {"name": "Epaphras", "role": "mentioned"}
+      ],
+      "locations": ["Colossae"],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["supremacy-of-christ", "creation", "reconciliation", "mystery"],
+      "events": [],
+      "keyVerses": [15, 17, 27],
+      "crossReferences": [
+        {"book": "John", "chapter": 1, "label": "All things were made by him"},
+        {"book": "Hebrews", "chapter": 1, "label": "The Son is the image of the invisible God"}
+      ]
+    },
+    "2": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Paul", "role": "author"},
+        {"name": "Jesus Christ", "role": "mentioned"}
+      ],
+      "locations": ["Colossae", "Laodicea"],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["fullness-of-christ", "false-teaching", "freedom-from-legalism", "baptism"],
+      "events": [],
+      "keyVerses": [8, 9, 14],
+      "crossReferences": [
+        {"book": "Romans", "chapter": 6, "label": "Buried with him in baptism"},
+        {"book": "Ephesians", "chapter": 2, "label": "Dead in sins but quickened together with Christ"}
+      ]
+    },
+    "3": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Paul", "role": "author"},
+        {"name": "Jesus Christ", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["new-man", "holiness", "love", "household-duties"],
+      "events": [],
+      "keyVerses": [2, 14, 23],
+      "crossReferences": [
+        {"book": "Ephesians", "chapter": 4, "label": "Put off the old man and put on the new"},
+        {"book": "Ephesians", "chapter": 5, "label": "Singing psalms and hymns and spiritual songs"}
+      ]
+    },
+    "4": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Paul", "role": "author"},
+        {"name": "Tychicus", "role": "mentioned"},
+        {"name": "Onesimus", "role": "mentioned"},
+        {"name": "Aristarchus", "role": "mentioned"},
+        {"name": "Mark", "role": "mentioned"},
+        {"name": "Barnabas", "role": "mentioned"},
+        {"name": "Epaphras", "role": "mentioned"},
+        {"name": "Luke", "role": "mentioned"},
+        {"name": "Demas", "role": "mentioned"},
+        {"name": "Nymphas", "role": "mentioned"},
+        {"name": "Archippus", "role": "mentioned"}
+      ],
+      "locations": ["Colossae", "Laodicea", "Hierapolis"],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["prayer", "wisdom", "greetings", "ministry"],
+      "events": ["Paul sends greetings and instructs the letter to be shared with Laodicea"],
+      "keyVerses": [2, 5, 6],
+      "crossReferences": [
+        {"book": "Ephesians", "chapter": 6, "label": "Tychicus as Paul's messenger"},
+        {"book": "Philemon", "chapter": 1, "label": "Onesimus mentioned in connection with Philemon"}
+      ]
+    }
+  }
+}

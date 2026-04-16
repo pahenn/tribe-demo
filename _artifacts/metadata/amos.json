@@ -1,0 +1,163 @@
+{
+  "book": "Amos",
+  "bookSlug": "30.amos",
+  "testament": "1.old-testament",
+  "chapters": {
+    "1": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "Amos", "role": "author"},
+        {"name": "God", "role": "speaker"},
+        {"name": "Uzziah", "role": "mentioned"},
+        {"name": "Jeroboam", "role": "mentioned"}
+      ],
+      "locations": ["Tekoa", "Zion", "Jerusalem", "Damascus", "Gaza", "Tyre", "Edom", "Ammon", "Carmel", "Gilead", "Ashdod", "Ashkelon", "Ekron", "Teman", "Bozrah", "Rabbah"],
+      "timePeriod": "Divided Kingdom",
+      "era": "divided-monarchy",
+      "topics": ["judgment-of-nations", "divine-justice", "war-crimes"],
+      "events": ["Oracles of judgment against Damascus, Gaza, Tyre, Edom, and Ammon"],
+      "keyVerses": [2, 3],
+      "crossReferences": [
+        {"book": "Joel", "chapter": 3, "label": "The Lord roars from Zion"},
+        {"book": "Isaiah", "chapter": 17, "label": "Oracle against Damascus"}
+      ]
+    },
+    "2": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Amos", "role": "author"}
+      ],
+      "locations": ["Moab", "Judah", "Jerusalem", "Israel", "Egypt"],
+      "timePeriod": "Divided Kingdom",
+      "era": "divided-monarchy",
+      "topics": ["judgment", "social-injustice", "ingratitude", "oppression-of-poor"],
+      "events": ["Oracles against Moab, Judah, and Israel", "God recounts his deliverance from Egypt"],
+      "keyVerses": [6, 11],
+      "crossReferences": [
+        {"book": "Deuteronomy", "chapter": 8, "label": "Remember God's provision in the wilderness"},
+        {"book": "Numbers", "chapter": 6, "label": "The Nazirite vow"}
+      ]
+    },
+    "3": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Amos", "role": "author"}
+      ],
+      "locations": ["Israel", "Egypt", "Samaria", "Ashdod", "Bethel"],
+      "timePeriod": "Divided Kingdom",
+      "era": "divided-monarchy",
+      "topics": ["election", "accountability", "prophetic-authority", "judgment"],
+      "events": ["God declares Israel uniquely chosen and therefore uniquely accountable", "Series of cause-and-effect rhetorical questions"],
+      "keyVerses": [2, 7],
+      "crossReferences": [
+        {"book": "Luke", "chapter": 12, "label": "To whom much is given, much is required"},
+        {"book": "1 Peter", "chapter": 4, "label": "Judgment begins at the house of God"}
+      ]
+    },
+    "4": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Samaria", "Bethel", "Gilgal", "Sodom", "Gomorrah"],
+      "timePeriod": "Divided Kingdom",
+      "era": "divided-monarchy",
+      "topics": ["oppression-of-poor", "false-worship", "divine-discipline", "unrepentance"],
+      "events": ["Wealthy women of Samaria rebuked as cows of Bashan", "God recounts five failed disciplines on Israel"],
+      "keyVerses": [1, 12],
+      "crossReferences": [
+        {"book": "Isaiah", "chapter": 1, "label": "God rejects meaningless worship"},
+        {"book": "Genesis", "chapter": 19, "label": "Overthrow of Sodom and Gomorrah"}
+      ]
+    },
+    "5": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Amos", "role": "author"}
+      ],
+      "locations": ["Israel", "Bethel", "Gilgal", "Beersheba", "Damascus"],
+      "timePeriod": "Divided Kingdom",
+      "era": "divided-monarchy",
+      "topics": ["social-justice", "day-of-the-lord", "false-worship", "righteousness"],
+      "events": ["Lament over fallen Israel", "Call to seek God and live", "God rejects empty religious rituals"],
+      "keyVerses": [14, 24],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 23, "label": "Woe to hypocritical religious leaders"},
+        {"book": "Acts", "chapter": 7, "label": "Stephen quotes Amos on Israel's idolatry in the wilderness"}
+      ]
+    },
+    "6": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "David", "role": "mentioned"}
+      ],
+      "locations": ["Zion", "Samaria", "Calneh", "Hamath", "Gath"],
+      "timePeriod": "Divided Kingdom",
+      "era": "divided-monarchy",
+      "topics": ["complacency", "luxury", "judgment", "pride"],
+      "events": ["Woe pronounced on those at ease in Zion", "God swears to deliver up the city"],
+      "keyVerses": [1, 8],
+      "crossReferences": [
+        {"book": "Luke", "chapter": 6, "label": "Woe to the rich and comfortable"},
+        {"book": "James", "chapter": 5, "label": "Warning to the rich who live in luxury"}
+      ]
+    },
+    "7": {
+      "genre": ["prophecy", "narrative"],
+      "people": [
+        {"name": "Amos", "role": "protagonist"},
+        {"name": "God", "role": "speaker"},
+        {"name": "Amaziah", "role": "antagonist"},
+        {"name": "Jeroboam", "role": "mentioned"}
+      ],
+      "locations": ["Israel", "Bethel", "Judah"],
+      "timePeriod": "Divided Kingdom",
+      "era": "divided-monarchy",
+      "topics": ["visions", "prophetic-calling", "opposition", "judgment"],
+      "events": ["Visions of locusts, fire, and plumbline", "Amaziah confronts Amos at Bethel", "Amos declares his calling as a herdsman"],
+      "keyVerses": [8, 14, 15],
+      "crossReferences": [
+        {"book": "Jeremiah", "chapter": 1, "label": "God calls a reluctant prophet"},
+        {"book": "1 Kings", "chapter": 13, "label": "Prophet confronts the altar at Bethel"}
+      ]
+    },
+    "8": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Amos", "role": "author"}
+      ],
+      "locations": ["Israel", "Samaria", "Dan", "Beersheba", "Egypt"],
+      "timePeriod": "Divided Kingdom",
+      "era": "divided-monarchy",
+      "topics": ["social-injustice", "judgment", "famine-of-the-word", "end-times"],
+      "events": ["Vision of summer fruit signaling Israel's end", "Prophecy of a famine of hearing God's word"],
+      "keyVerses": [2, 11],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 27, "label": "Darkness at the crucifixion echoes sun going down at noon"},
+        {"book": "1 Samuel", "chapter": 3, "label": "The word of the Lord was rare in those days"}
+      ]
+    },
+    "9": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "David", "role": "mentioned"}
+      ],
+      "locations": ["Israel", "Carmel", "Egypt", "Ethiopia"],
+      "timePeriod": "Divided Kingdom",
+      "era": "divided-monarchy",
+      "topics": ["inescapable-judgment", "restoration", "messianic-hope", "sovereignty"],
+      "events": ["Vision of God standing upon the altar", "No escape from divine judgment", "Promise to restore the fallen tabernacle of David"],
+      "keyVerses": [8, 11, 15],
+      "crossReferences": [
+        {"book": "Acts", "chapter": 15, "label": "James quotes the tabernacle of David at the Jerusalem council"},
+        {"book": "Psalm", "chapter": 139, "label": "No escaping God's presence"}
+      ]
+    }
+  }
+}

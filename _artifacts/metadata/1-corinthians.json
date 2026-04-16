@@ -1,0 +1,290 @@
+{
+  "book": "1 Corinthians",
+  "bookSlug": "46.1-corinthians",
+  "testament": "2.new-testament",
+  "chapters": {
+    "1": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Paul", "role": "author"},
+        {"name": "Sosthenes", "role": "co-sender"},
+        {"name": "Apollos", "role": "mentioned"},
+        {"name": "Cephas", "role": "mentioned"},
+        {"name": "Crispus", "role": "mentioned"},
+        {"name": "Gaius", "role": "mentioned"},
+        {"name": "Stephanas", "role": "mentioned"},
+        {"name": "Chloe", "role": "mentioned"}
+      ],
+      "locations": ["Corinth"],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["divisions", "wisdom", "cross", "unity"],
+      "events": ["Paul addresses divisions in the Corinthian church"],
+      "keyVerses": [18, 23, 27],
+      "crossReferences": [
+        {"book": "Isaiah", "chapter": 29, "label": "I will destroy the wisdom of the wise"}
+      ]
+    },
+    "2": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Paul", "role": "author"},
+        {"name": "Holy Spirit", "role": "mentioned"}
+      ],
+      "locations": ["Corinth"],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["wisdom", "holy-spirit", "revelation", "spiritual-discernment"],
+      "events": [],
+      "keyVerses": [9, 14, 16],
+      "crossReferences": [
+        {"book": "Isaiah", "chapter": 64, "label": "Eye hath not seen, nor ear heard"},
+        {"book": "Isaiah", "chapter": 40, "label": "Who hath known the mind of the Lord"}
+      ]
+    },
+    "3": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Paul", "role": "author"},
+        {"name": "Apollos", "role": "mentioned"},
+        {"name": "Cephas", "role": "mentioned"}
+      ],
+      "locations": ["Corinth"],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["spiritual-maturity", "ministry", "temple-of-god", "foundation"],
+      "events": [],
+      "keyVerses": [6, 11, 16],
+      "crossReferences": [
+        {"book": "Job", "chapter": 5, "label": "He taketh the wise in their own craftiness"}
+      ]
+    },
+    "4": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Paul", "role": "author"},
+        {"name": "Apollos", "role": "mentioned"},
+        {"name": "Timothy", "role": "mentioned"}
+      ],
+      "locations": ["Corinth"],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["stewardship", "apostolic-suffering", "humility", "fatherhood"],
+      "events": ["Paul sends Timothy to Corinth"],
+      "keyVerses": [2, 7, 20],
+      "crossReferences": [
+        {"book": "2 Corinthians", "chapter": 11, "label": "Paul's sufferings as an apostle"}
+      ]
+    },
+    "5": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Paul", "role": "author"},
+        {"name": "Jesus Christ", "role": "mentioned"}
+      ],
+      "locations": ["Corinth"],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["church-discipline", "sexual-immorality", "leaven", "passover"],
+      "events": ["Paul commands the church to expel an immoral member"],
+      "keyVerses": [5, 7, 13],
+      "crossReferences": [
+        {"book": "Deuteronomy", "chapter": 17, "label": "Put away the evil person from among you"}
+      ]
+    },
+    "6": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Paul", "role": "author"},
+        {"name": "Jesus Christ", "role": "mentioned"},
+        {"name": "Holy Spirit", "role": "mentioned"}
+      ],
+      "locations": ["Corinth"],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["lawsuits", "sexual-purity", "body-as-temple", "sanctification"],
+      "events": [],
+      "keyVerses": [19, 20, 9],
+      "crossReferences": [
+        {"book": "Romans", "chapter": 6, "label": "Washed, sanctified, justified"}
+      ]
+    },
+    "7": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Paul", "role": "author"}
+      ],
+      "locations": ["Corinth"],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["marriage", "celibacy", "divorce", "calling"],
+      "events": [],
+      "keyVerses": [9, 15, 20],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 19, "label": "Teaching on divorce and marriage"},
+        {"book": "Genesis", "chapter": 2, "label": "A man shall leave his father and mother"}
+      ]
+    },
+    "8": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Paul", "role": "author"},
+        {"name": "Jesus Christ", "role": "mentioned"}
+      ],
+      "locations": ["Corinth"],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["idols", "conscience", "christian-liberty", "stumbling-block"],
+      "events": [],
+      "keyVerses": [1, 6, 13],
+      "crossReferences": [
+        {"book": "Romans", "chapter": 14, "label": "Do not cause a weaker brother to stumble"}
+      ]
+    },
+    "9": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Paul", "role": "author"},
+        {"name": "Barnabas", "role": "mentioned"},
+        {"name": "Cephas", "role": "mentioned"}
+      ],
+      "locations": ["Corinth"],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["apostolic-rights", "self-discipline", "ministry-support", "race"],
+      "events": [],
+      "keyVerses": [22, 24, 27],
+      "crossReferences": [
+        {"book": "Deuteronomy", "chapter": 25, "label": "Do not muzzle the ox while it treads the grain"},
+        {"book": "2 Timothy", "chapter": 4, "label": "I have fought the good fight"}
+      ]
+    },
+    "10": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Paul", "role": "author"},
+        {"name": "Moses", "role": "mentioned"}
+      ],
+      "locations": ["Corinth"],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["idolatry", "temptation", "communion", "wilderness-examples"],
+      "events": ["Paul warns using Israel's wilderness failures as examples"],
+      "keyVerses": [13, 16, 31],
+      "crossReferences": [
+        {"book": "Exodus", "chapter": 32, "label": "The people sat down to eat and drink and rose up to play"},
+        {"book": "Psalms", "chapter": 24, "label": "The earth is the Lord's and the fulness thereof"}
+      ]
+    },
+    "11": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Paul", "role": "author"},
+        {"name": "Jesus Christ", "role": "mentioned"}
+      ],
+      "locations": ["Corinth"],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["head-coverings", "lords-supper", "worship-order", "self-examination"],
+      "events": ["Paul recounts the institution of the Lord's Supper"],
+      "keyVerses": [24, 26, 28],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 26, "label": "Institution of the Lord's Supper"},
+        {"book": "Luke", "chapter": 22, "label": "This is my body given for you"}
+      ]
+    },
+    "12": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Paul", "role": "author"},
+        {"name": "Holy Spirit", "role": "mentioned"}
+      ],
+      "locations": ["Corinth"],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["spiritual-gifts", "body-of-christ", "unity", "diversity"],
+      "events": [],
+      "keyVerses": [4, 12, 27],
+      "crossReferences": [
+        {"book": "Romans", "chapter": 12, "label": "Many members, one body with different gifts"},
+        {"book": "Ephesians", "chapter": 4, "label": "One body, one Spirit, one Lord"}
+      ]
+    },
+    "13": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Paul", "role": "author"}
+      ],
+      "locations": [],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["love", "charity", "faith", "hope"],
+      "events": [],
+      "keyVerses": [4, 7, 13],
+      "crossReferences": [
+        {"book": "Colossians", "chapter": 3, "label": "Above all put on charity which is the bond of perfectness"},
+        {"book": "1 John", "chapter": 4, "label": "God is love"}
+      ]
+    },
+    "14": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Paul", "role": "author"}
+      ],
+      "locations": ["Corinth"],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["tongues", "prophecy", "worship-order", "edification"],
+      "events": [],
+      "keyVerses": [1, 33, 40],
+      "crossReferences": [
+        {"book": "Isaiah", "chapter": 28, "label": "With men of other tongues will I speak unto this people"},
+        {"book": "Acts", "chapter": 2, "label": "Speaking in tongues at Pentecost"}
+      ]
+    },
+    "15": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Paul", "role": "author"},
+        {"name": "Jesus Christ", "role": "mentioned"},
+        {"name": "Cephas", "role": "mentioned"},
+        {"name": "James", "role": "mentioned"},
+        {"name": "Adam", "role": "mentioned"}
+      ],
+      "locations": ["Ephesus"],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["resurrection", "gospel", "death", "victory"],
+      "events": ["Paul recounts the resurrection appearances of Christ"],
+      "keyVerses": [3, 22, 55],
+      "crossReferences": [
+        {"book": "Genesis", "chapter": 2, "label": "The first man Adam was made a living soul"},
+        {"book": "Isaiah", "chapter": 25, "label": "Death is swallowed up in victory"},
+        {"book": "Hosea", "chapter": 13, "label": "O death, where is thy sting"}
+      ]
+    },
+    "16": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Paul", "role": "author"},
+        {"name": "Timothy", "role": "mentioned"},
+        {"name": "Apollos", "role": "mentioned"},
+        {"name": "Stephanas", "role": "mentioned"},
+        {"name": "Fortunatus", "role": "mentioned"},
+        {"name": "Achaicus", "role": "mentioned"},
+        {"name": "Aquila", "role": "mentioned"},
+        {"name": "Priscilla", "role": "mentioned"}
+      ],
+      "locations": ["Ephesus", "Macedonia", "Galatia", "Jerusalem", "Achaia"],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["collection", "travel-plans", "greetings", "generosity"],
+      "events": ["Paul gives instructions for the collection for the Jerusalem saints"],
+      "keyVerses": [13, 14, 22],
+      "crossReferences": [
+        {"book": "2 Corinthians", "chapter": 8, "label": "Collection for the saints in Jerusalem"},
+        {"book": "Acts", "chapter": 18, "label": "Aquila and Priscilla in Corinth"}
+      ]
+    }
+  }
+}

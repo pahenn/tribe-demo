@@ -1,0 +1,20 @@
+{
+  "name": "tribe-demo",
+  "scripts": {
+    "dev": "nuxt dev",
+    "build": "nuxt build"
+  },
+  "dependencies": {
+    "@ai-sdk/anthropic": "^3.0.69",
+    "@ai-sdk/gateway": "^3.0.99",
+    "@ai-sdk/mcp": "^1.0.36",
+    "@ai-sdk/openai-compatible": "^2.0.41",
+    "@ai-sdk/vue": "^3.0.162",
+    "@comark/nuxt": "^0.2.1",
+    "ai": "^6.0.162",
+    "better-sqlite3": "^12.6.2",
+    "docus": "latest",
+    "nuxt": "^4.3.1"
+  },
+  "packageManager": "pnpm@10.17.1+sha512.17c560fca4867ae9473a3899ad84a88334914f379be46d455cbf92e5cf4b39d34985d452d2583baf19967fa76cb5c17bc9e245529d0b98745721aa7200ecaf7a"
+}

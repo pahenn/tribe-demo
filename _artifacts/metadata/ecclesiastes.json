@@ -1,0 +1,200 @@
+{
+  "book": "Ecclesiastes",
+  "bookSlug": "21.ecclesiastes",
+  "testament": "1.old-testament",
+  "chapters": {
+    "1": {
+      "genre": ["wisdom", "poetry"],
+      "people": [
+        {"name": "Solomon", "role": "author"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["vanity", "cycles-of-nature", "futility"],
+      "events": [],
+      "keyVerses": [2, 9],
+      "crossReferences": [
+        {"book": "Romans", "chapter": 8, "label": "Creation subjected to futility"}
+      ]
+    },
+    "2": {
+      "genre": ["wisdom", "narrative"],
+      "people": [
+        {"name": "Solomon", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["vanity", "pleasure", "labor"],
+      "events": ["Solomon tests pleasure and achievement"],
+      "keyVerses": [11, 24, 26],
+      "crossReferences": [
+        {"book": "Luke", "chapter": 12, "label": "Rich fool storing up treasures"}
+      ]
+    },
+    "3": {
+      "genre": ["wisdom", "poetry"],
+      "people": [
+        {"name": "Solomon", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["time", "sovereignty", "eternity"],
+      "events": [],
+      "keyVerses": [1, 11],
+      "crossReferences": [
+        {"book": "Romans", "chapter": 8, "label": "All things work together"},
+        {"book": "Acts", "chapter": 17, "label": "God set eternity in hearts"}
+      ]
+    },
+    "4": {
+      "genre": ["wisdom"],
+      "people": [
+        {"name": "Solomon", "role": "author"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["oppression", "companionship", "vanity"],
+      "events": [],
+      "keyVerses": [9, 12],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 18, "label": "Two or three gathered together"}
+      ]
+    },
+    "5": {
+      "genre": ["wisdom"],
+      "people": [
+        {"name": "Solomon", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["worship", "vows", "wealth"],
+      "events": [],
+      "keyVerses": [2, 4, 10, 15],
+      "crossReferences": [
+        {"book": "James", "chapter": 5, "label": "Let your yes be yes"},
+        {"book": "1 Timothy", "chapter": 6, "label": "We brought nothing into this world"}
+      ]
+    },
+    "6": {
+      "genre": ["wisdom"],
+      "people": [
+        {"name": "Solomon", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["wealth", "dissatisfaction", "vanity"],
+      "events": [],
+      "keyVerses": [2],
+      "crossReferences": [
+        {"book": "Luke", "chapter": 12, "label": "Life does not consist in possessions"}
+      ]
+    },
+    "7": {
+      "genre": ["wisdom", "poetry"],
+      "people": [
+        {"name": "Solomon", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["wisdom", "sorrow", "moderation"],
+      "events": [],
+      "keyVerses": [1, 2, 20, 29],
+      "crossReferences": [
+        {"book": "Romans", "chapter": 3, "label": "All have sinned"}
+      ]
+    },
+    "8": {
+      "genre": ["wisdom"],
+      "people": [
+        {"name": "Solomon", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["authority", "justice", "theodicy"],
+      "events": [],
+      "keyVerses": [12, 15],
+      "crossReferences": [
+        {"book": "Romans", "chapter": 13, "label": "Submit to authorities"}
+      ]
+    },
+    "9": {
+      "genre": ["wisdom"],
+      "people": [
+        {"name": "Solomon", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["mortality", "enjoyment", "wisdom"],
+      "events": [],
+      "keyVerses": [7, 10, 11],
+      "crossReferences": [
+        {"book": "James", "chapter": 4, "label": "You do not know what tomorrow brings"}
+      ]
+    },
+    "10": {
+      "genre": ["wisdom"],
+      "people": [
+        {"name": "Solomon", "role": "author"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["folly", "wisdom", "leadership"],
+      "events": [],
+      "keyVerses": [1, 10, 18],
+      "crossReferences": [
+        {"book": "1 Corinthians", "chapter": 5, "label": "A little leaven leavens the whole lump"}
+      ]
+    },
+    "11": {
+      "genre": ["wisdom"],
+      "people": [
+        {"name": "Solomon", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["generosity", "youth", "diligence"],
+      "events": [],
+      "keyVerses": [1, 5, 9],
+      "crossReferences": [
+        {"book": "2 Corinthians", "chapter": 9, "label": "Sow generously"},
+        {"book": "Galatians", "chapter": 6, "label": "Whatever a man sows he reaps"}
+      ]
+    },
+    "12": {
+      "genre": ["wisdom", "poetry"],
+      "people": [
+        {"name": "Solomon", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["aging", "mortality", "fear-of-the-lord"],
+      "events": [],
+      "keyVerses": [1, 13, 14],
+      "crossReferences": [
+        {"book": "2 Corinthians", "chapter": 5, "label": "We must all appear before the judgment seat"},
+        {"book": "Revelation", "chapter": 20, "label": "Judgment of the dead"}
+      ]
+    }
+  }
+}

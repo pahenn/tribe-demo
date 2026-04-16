@@ -1,0 +1,535 @@
+{
+  "book": "Acts",
+  "bookSlug": "44.acts",
+  "testament": "2.new-testament",
+  "chapters": {
+    "1": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Jesus", "role": "mentioned"},
+        {"name": "Peter", "role": "speaker"},
+        {"name": "Matthias", "role": "mentioned"},
+        {"name": "Judas Iscariot", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem", "Mount of Olives"],
+      "timePeriod": "Post-Resurrection",
+      "era": "early-church",
+      "topics": ["ascension", "holy-spirit", "apostleship"],
+      "events": ["Ascension of Jesus", "Promise of the Holy Spirit", "Choosing of Matthias to replace Judas"],
+      "keyVerses": [8, 9, 11],
+      "crossReferences": [
+        {"book": "Luke", "chapter": 24, "label": "Parallel ascension account"},
+        {"book": "Matthew", "chapter": 28, "label": "Great Commission"}
+      ]
+    },
+    "2": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Peter", "role": "speaker"},
+        {"name": "Jesus", "role": "mentioned"},
+        {"name": "David", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "Pentecost",
+      "era": "early-church",
+      "topics": ["holy-spirit", "pentecost", "church-growth"],
+      "events": ["Day of Pentecost", "Speaking in tongues", "Peter's sermon", "Three thousand baptized", "Early church fellowship"],
+      "keyVerses": [4, 38, 42],
+      "crossReferences": [
+        {"book": "Joel", "chapter": 2, "label": "I will pour out my Spirit"},
+        {"book": "John", "chapter": 14, "label": "Promise of the Comforter fulfilled"}
+      ]
+    },
+    "3": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Peter", "role": "speaker"},
+        {"name": "John", "role": "mentioned"},
+        {"name": "Jesus", "role": "mentioned"},
+        {"name": "Abraham", "role": "mentioned"},
+        {"name": "Moses", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "Early Church in Jerusalem",
+      "era": "early-church",
+      "topics": ["miracles", "repentance", "messianic-fulfillment"],
+      "events": ["Healing of the lame man at the Beautiful Gate", "Peter's second sermon"],
+      "keyVerses": [6, 19],
+      "crossReferences": [
+        {"book": "Deuteronomy", "chapter": 18, "label": "A prophet like unto Moses"},
+        {"book": "Isaiah", "chapter": 35, "label": "The lame shall leap"}
+      ]
+    },
+    "4": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Peter", "role": "speaker"},
+        {"name": "John", "role": "mentioned"},
+        {"name": "Annas", "role": "mentioned"},
+        {"name": "Caiaphas", "role": "mentioned"},
+        {"name": "Barnabas", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "Early Church in Jerusalem",
+      "era": "early-church",
+      "topics": ["persecution", "boldness", "community"],
+      "events": ["Peter and John arrested by Sanhedrin", "Peter's defense: no other name for salvation", "Believers share possessions", "Barnabas introduced"],
+      "keyVerses": [12, 13, 32],
+      "crossReferences": [
+        {"book": "Psalm", "chapter": 118, "label": "The stone the builders rejected"},
+        {"book": "Psalm", "chapter": 2, "label": "Why do the heathen rage"}
+      ]
+    },
+    "5": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Peter", "role": "speaker"},
+        {"name": "Ananias", "role": "mentioned"},
+        {"name": "Sapphira", "role": "mentioned"},
+        {"name": "Gamaliel", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "Early Church in Jerusalem",
+      "era": "early-church",
+      "topics": ["holiness", "persecution", "miracles"],
+      "events": ["Death of Ananias and Sapphira", "Apostles' signs and wonders", "Apostles arrested and freed by angel", "Gamaliel's counsel"],
+      "keyVerses": [3, 29, 39],
+      "crossReferences": [
+        {"book": "Joshua", "chapter": 7, "label": "Achan's deception parallel"},
+        {"book": "Matthew", "chapter": 10, "label": "Persecution of the apostles"}
+      ]
+    },
+    "6": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Stephen", "role": "protagonist"},
+        {"name": "Philip", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "Early Church in Jerusalem",
+      "era": "early-church",
+      "topics": ["church-organization", "persecution", "holy-spirit"],
+      "events": ["Appointment of the Seven deacons", "Stephen's ministry and arrest"],
+      "keyVerses": [3, 7, 15],
+      "crossReferences": [
+        {"book": "1 Timothy", "chapter": 3, "label": "Qualifications for deacons"},
+        {"book": "Exodus", "chapter": 18, "label": "Delegation of leadership"}
+      ]
+    },
+    "7": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Stephen", "role": "speaker"},
+        {"name": "Abraham", "role": "mentioned"},
+        {"name": "Moses", "role": "mentioned"},
+        {"name": "David", "role": "mentioned"},
+        {"name": "Solomon", "role": "mentioned"},
+        {"name": "Paul", "role": "mentioned"},
+        {"name": "Jesus", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "Early Church in Jerusalem",
+      "era": "early-church",
+      "topics": ["martyrdom", "israel-history", "rejection"],
+      "events": ["Stephen's speech reviewing Israel's history", "Stoning of Stephen", "Saul consents to Stephen's death"],
+      "keyVerses": [51, 56, 60],
+      "crossReferences": [
+        {"book": "Exodus", "chapter": 3, "label": "Moses at the burning bush"},
+        {"book": "Luke", "chapter": 23, "label": "Father forgive them parallel"}
+      ]
+    },
+    "8": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Philip", "role": "protagonist"},
+        {"name": "Paul", "role": "mentioned"},
+        {"name": "Peter", "role": "mentioned"},
+        {"name": "John", "role": "mentioned"},
+        {"name": "Simon", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem", "Samaria", "Gaza", "Azotus", "Caesarea"],
+      "timePeriod": "Spread of the Church",
+      "era": "early-church",
+      "topics": ["evangelism", "persecution", "holy-spirit"],
+      "events": ["Persecution scatters the church", "Philip preaches in Samaria", "Simon the Sorcerer", "Philip and the Ethiopian eunuch"],
+      "keyVerses": [4, 30, 37],
+      "crossReferences": [
+        {"book": "Isaiah", "chapter": 53, "label": "He was led as a sheep to the slaughter"},
+        {"book": "Acts", "chapter": 1, "label": "Witnesses in Samaria fulfilled"}
+      ]
+    },
+    "9": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Paul", "role": "protagonist"},
+        {"name": "Jesus", "role": "speaker"},
+        {"name": "Ananias", "role": "mentioned"},
+        {"name": "Barnabas", "role": "mentioned"},
+        {"name": "Peter", "role": "mentioned"}
+      ],
+      "locations": ["Damascus", "Jerusalem", "Tarsus", "Lydda", "Joppa", "Caesarea"],
+      "timePeriod": "Conversion of Paul",
+      "era": "early-church",
+      "topics": ["conversion", "calling", "miracles"],
+      "events": ["Conversion of Saul on road to Damascus", "Ananias heals Saul's blindness", "Saul preaches in Damascus", "Barnabas introduces Saul in Jerusalem", "Peter heals Aeneas", "Peter raises Tabitha (Dorcas)"],
+      "keyVerses": [4, 15, 20],
+      "crossReferences": [
+        {"book": "Acts", "chapter": 22, "label": "Paul retells his conversion"},
+        {"book": "Galatians", "chapter": 1, "label": "Paul's conversion testimony"}
+      ]
+    },
+    "10": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Peter", "role": "protagonist"},
+        {"name": "Cornelius", "role": "mentioned"},
+        {"name": "Jesus", "role": "mentioned"}
+      ],
+      "locations": ["Caesarea", "Joppa"],
+      "timePeriod": "Gospel to the Gentiles",
+      "era": "early-church",
+      "topics": ["gentile-inclusion", "holy-spirit", "visions"],
+      "events": ["Cornelius' vision", "Peter's vision of the sheet", "Peter preaches to Cornelius' household", "Holy Spirit falls on the Gentiles"],
+      "keyVerses": [15, 34, 44],
+      "crossReferences": [
+        {"book": "Romans", "chapter": 2, "label": "God is no respecter of persons"},
+        {"book": "Ephesians", "chapter": 2, "label": "Gentiles brought near"}
+      ]
+    },
+    "11": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Peter", "role": "speaker"},
+        {"name": "Barnabas", "role": "mentioned"},
+        {"name": "Paul", "role": "mentioned"},
+        {"name": "Agabus", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem", "Antioch", "Cyprus"],
+      "timePeriod": "Gospel to the Gentiles",
+      "era": "early-church",
+      "topics": ["gentile-inclusion", "church-growth", "generosity"],
+      "events": ["Peter defends Gentile inclusion", "Church at Antioch founded", "Disciples first called Christians at Antioch", "Famine relief sent to Judaea"],
+      "keyVerses": [18, 26],
+      "crossReferences": [
+        {"book": "Galatians", "chapter": 2, "label": "Peter and the Gentile question"},
+        {"book": "1 Peter", "chapter": 4, "label": "Name of Christian"}
+      ]
+    },
+    "12": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Peter", "role": "protagonist"},
+        {"name": "Herod", "role": "antagonist"},
+        {"name": "James", "role": "mentioned"},
+        {"name": "Barnabas", "role": "mentioned"},
+        {"name": "Paul", "role": "mentioned"},
+        {"name": "John Mark", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem", "Caesarea"],
+      "timePeriod": "Persecution under Herod",
+      "era": "early-church",
+      "topics": ["persecution", "prayer", "divine-deliverance"],
+      "events": ["James killed by Herod", "Peter imprisoned and freed by angel", "Death of Herod"],
+      "keyVerses": [5, 7, 23],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 20, "label": "James and John will drink the cup"},
+        {"book": "Daniel", "chapter": 4, "label": "King struck down for pride"}
+      ]
+    },
+    "13": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Paul", "role": "protagonist"},
+        {"name": "Barnabas", "role": "mentioned"},
+        {"name": "John Mark", "role": "mentioned"},
+        {"name": "David", "role": "mentioned"}
+      ],
+      "locations": ["Antioch", "Cyprus", "Salamis", "Paphos", "Perga", "Antioch in Pisidia", "Iconium"],
+      "timePeriod": "First Missionary Journey",
+      "era": "early-church",
+      "topics": ["mission", "justification", "gentile-inclusion"],
+      "events": ["First missionary journey begins", "Elymas the sorcerer blinded", "Paul's sermon at Antioch in Pisidia", "Turning to the Gentiles"],
+      "keyVerses": [2, 38, 47],
+      "crossReferences": [
+        {"book": "Isaiah", "chapter": 49, "label": "Light to the Gentiles"},
+        {"book": "Psalm", "chapter": 2, "label": "Thou art my Son"}
+      ]
+    },
+    "14": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Paul", "role": "protagonist"},
+        {"name": "Barnabas", "role": "mentioned"}
+      ],
+      "locations": ["Iconium", "Lystra", "Derbe", "Antioch"],
+      "timePeriod": "First Missionary Journey",
+      "era": "early-church",
+      "topics": ["miracles", "persecution", "church-planting"],
+      "events": ["Ministry at Iconium", "Healing of cripple at Lystra", "Mistaken for gods", "Paul stoned at Lystra", "Return journey establishing churches"],
+      "keyVerses": [15, 22, 27],
+      "crossReferences": [
+        {"book": "2 Corinthians", "chapter": 11, "label": "Paul stoned once"},
+        {"book": "2 Timothy", "chapter": 3, "label": "Persecutions at Lystra"}
+      ]
+    },
+    "15": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Paul", "role": "speaker"},
+        {"name": "Barnabas", "role": "mentioned"},
+        {"name": "Peter", "role": "speaker"},
+        {"name": "James", "role": "speaker"},
+        {"name": "Silas", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem", "Antioch", "Syria", "Cilicia", "Cyprus"],
+      "timePeriod": "Jerusalem Council",
+      "era": "early-church",
+      "topics": ["gentile-inclusion", "grace", "church-governance"],
+      "events": ["Jerusalem Council", "Debate over circumcision for Gentiles", "James' decision", "Paul and Barnabas separate", "Paul chooses Silas"],
+      "keyVerses": [11, 19, 28],
+      "crossReferences": [
+        {"book": "Galatians", "chapter": 2, "label": "Parallel account of Jerusalem council"},
+        {"book": "Amos", "chapter": 9, "label": "Tabernacle of David rebuilt"}
+      ]
+    },
+    "16": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Paul", "role": "protagonist"},
+        {"name": "Silas", "role": "mentioned"},
+        {"name": "Timothy", "role": "mentioned"},
+        {"name": "Lydia", "role": "mentioned"},
+        {"name": "Luke", "role": "author"}
+      ],
+      "locations": ["Derbe", "Lystra", "Troas", "Philippi", "Macedonia"],
+      "timePeriod": "Second Missionary Journey",
+      "era": "early-church",
+      "topics": ["mission", "divine-guidance", "salvation"],
+      "events": ["Timothy joins Paul", "Macedonian vision", "Conversion of Lydia at Philippi", "Casting out spirit of divination", "Paul and Silas imprisoned", "Philippian jailer converted"],
+      "keyVerses": [9, 14, 31],
+      "crossReferences": [
+        {"book": "Philippians", "chapter": 1, "label": "Letter to Philippian church"},
+        {"book": "1 Thessalonians", "chapter": 2, "label": "Paul's suffering at Philippi"}
+      ]
+    },
+    "17": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Paul", "role": "protagonist"},
+        {"name": "Silas", "role": "mentioned"},
+        {"name": "Timothy", "role": "mentioned"}
+      ],
+      "locations": ["Thessalonica", "Berea", "Athens"],
+      "timePeriod": "Second Missionary Journey",
+      "era": "early-church",
+      "topics": ["evangelism", "apologetics", "idolatry"],
+      "events": ["Ministry at Thessalonica", "Bereans search the Scriptures", "Paul's sermon on Mars Hill (Areopagus)", "Unknown God declaration"],
+      "keyVerses": [6, 11, 28],
+      "crossReferences": [
+        {"book": "1 Thessalonians", "chapter": 1, "label": "Letter to Thessalonica"},
+        {"book": "Romans", "chapter": 1, "label": "God revealed through creation"}
+      ]
+    },
+    "18": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Paul", "role": "protagonist"},
+        {"name": "Aquila", "role": "mentioned"},
+        {"name": "Priscilla", "role": "mentioned"},
+        {"name": "Silas", "role": "mentioned"},
+        {"name": "Timothy", "role": "mentioned"},
+        {"name": "Apollos", "role": "mentioned"}
+      ],
+      "locations": ["Corinth", "Ephesus", "Caesarea", "Antioch"],
+      "timePeriod": "Second Missionary Journey",
+      "era": "early-church",
+      "topics": ["church-planting", "tentmaking", "evangelism"],
+      "events": ["Paul meets Aquila and Priscilla at Corinth", "Ministry at Corinth for 18 months", "Before Gallio's judgment seat", "Apollos in Ephesus"],
+      "keyVerses": [9, 10, 28],
+      "crossReferences": [
+        {"book": "1 Corinthians", "chapter": 1, "label": "Letter to the Corinthian church"},
+        {"book": "Romans", "chapter": 16, "label": "Greetings to Aquila and Priscilla"}
+      ]
+    },
+    "19": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Paul", "role": "protagonist"},
+        {"name": "Apollos", "role": "mentioned"},
+        {"name": "Demetrius", "role": "antagonist"}
+      ],
+      "locations": ["Ephesus", "Corinth"],
+      "timePeriod": "Third Missionary Journey",
+      "era": "early-church",
+      "topics": ["holy-spirit", "miracles", "idolatry"],
+      "events": ["Ephesian disciples receive the Holy Spirit", "Paul's ministry in Ephesus", "Sons of Sceva incident", "Burning of occult books", "Riot of the silversmiths"],
+      "keyVerses": [2, 20, 28],
+      "crossReferences": [
+        {"book": "Ephesians", "chapter": 1, "label": "Letter to the Ephesian church"},
+        {"book": "1 Corinthians", "chapter": 15, "label": "Paul's fight with beasts at Ephesus"}
+      ]
+    },
+    "20": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Paul", "role": "protagonist"},
+        {"name": "Eutychus", "role": "mentioned"},
+        {"name": "Luke", "role": "author"}
+      ],
+      "locations": ["Macedonia", "Troas", "Miletus", "Ephesus"],
+      "timePeriod": "Third Missionary Journey",
+      "era": "early-church",
+      "topics": ["ministry", "farewell", "perseverance"],
+      "events": ["Eutychus raised from the dead", "Paul's farewell address to Ephesian elders"],
+      "keyVerses": [24, 28, 35],
+      "crossReferences": [
+        {"book": "2 Timothy", "chapter": 4, "label": "Paul's final charge"},
+        {"book": "1 Peter", "chapter": 5, "label": "Feed the flock of God"}
+      ]
+    },
+    "21": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Paul", "role": "protagonist"},
+        {"name": "Philip", "role": "mentioned"},
+        {"name": "Agabus", "role": "mentioned"},
+        {"name": "James", "role": "mentioned"}
+      ],
+      "locations": ["Tyre", "Caesarea", "Jerusalem"],
+      "timePeriod": "Paul's Arrest",
+      "era": "early-church",
+      "topics": ["prophecy", "persecution", "obedience"],
+      "events": ["Warnings not to go to Jerusalem", "Agabus prophesies Paul's arrest", "Paul visits James in Jerusalem", "Paul arrested in the Temple"],
+      "keyVerses": [13, 14, 33],
+      "crossReferences": [
+        {"book": "Acts", "chapter": 20, "label": "Paul's determination to go to Jerusalem"},
+        {"book": "Romans", "chapter": 15, "label": "Paul's plan to visit Jerusalem"}
+      ]
+    },
+    "22": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Paul", "role": "speaker"},
+        {"name": "Jesus", "role": "mentioned"},
+        {"name": "Ananias", "role": "mentioned"},
+        {"name": "Stephen", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem", "Damascus"],
+      "timePeriod": "Paul's Trials",
+      "era": "early-church",
+      "topics": ["testimony", "conversion", "roman-citizenship"],
+      "events": ["Paul's defense to the crowd", "Retelling of his conversion", "Paul claims Roman citizenship"],
+      "keyVerses": [8, 15, 28],
+      "crossReferences": [
+        {"book": "Acts", "chapter": 9, "label": "First account of Paul's conversion"},
+        {"book": "Acts", "chapter": 26, "label": "Third account before Agrippa"}
+      ]
+    },
+    "23": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Paul", "role": "protagonist"},
+        {"name": "Ananias", "role": "mentioned"},
+        {"name": "Jesus", "role": "speaker"}
+      ],
+      "locations": ["Jerusalem", "Caesarea"],
+      "timePeriod": "Paul's Trials",
+      "era": "early-church",
+      "topics": ["trial", "divine-protection", "conspiracy"],
+      "events": ["Paul before the Sanhedrin", "Pharisees vs Sadducees dispute", "The Lord appears to Paul at night", "Conspiracy to kill Paul discovered", "Paul transferred to Caesarea"],
+      "keyVerses": [1, 11, 23],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 22, "label": "Sadducees deny resurrection"},
+        {"book": "2 Timothy", "chapter": 4, "label": "The Lord stood with me"}
+      ]
+    },
+    "24": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Paul", "role": "protagonist"},
+        {"name": "Felix", "role": "mentioned"}
+      ],
+      "locations": ["Caesarea"],
+      "timePeriod": "Paul's Trials",
+      "era": "early-church",
+      "topics": ["trial", "righteousness", "justice"],
+      "events": ["Paul's trial before Felix", "Paul's defense", "Felix delays judgment for two years"],
+      "keyVerses": [14, 16, 25],
+      "crossReferences": [
+        {"book": "Acts", "chapter": 25, "label": "Trial continues before Festus"},
+        {"book": "2 Timothy", "chapter": 4, "label": "Paul's continued imprisonment"}
+      ]
+    },
+    "25": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Paul", "role": "protagonist"},
+        {"name": "Festus", "role": "mentioned"},
+        {"name": "Agrippa", "role": "mentioned"}
+      ],
+      "locations": ["Caesarea", "Jerusalem"],
+      "timePeriod": "Paul's Trials",
+      "era": "early-church",
+      "topics": ["trial", "appeal-to-caesar", "justice"],
+      "events": ["Paul before Festus", "Paul appeals to Caesar", "Festus presents Paul's case to King Agrippa"],
+      "keyVerses": [10, 11, 25],
+      "crossReferences": [
+        {"book": "Acts", "chapter": 23, "label": "Paul told he must testify in Rome"},
+        {"book": "Acts", "chapter": 26, "label": "Paul before Agrippa"}
+      ]
+    },
+    "26": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Paul", "role": "speaker"},
+        {"name": "Agrippa", "role": "mentioned"},
+        {"name": "Festus", "role": "mentioned"},
+        {"name": "Jesus", "role": "mentioned"}
+      ],
+      "locations": ["Caesarea"],
+      "timePeriod": "Paul's Trials",
+      "era": "early-church",
+      "topics": ["testimony", "conversion", "evangelism"],
+      "events": ["Paul's defense before King Agrippa", "Third retelling of conversion", "Almost thou persuadest me to be a Christian"],
+      "keyVerses": [18, 28, 29],
+      "crossReferences": [
+        {"book": "Acts", "chapter": 9, "label": "First account of Paul's conversion"},
+        {"book": "Isaiah", "chapter": 42, "label": "A light to the Gentiles"}
+      ]
+    },
+    "27": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Paul", "role": "protagonist"},
+        {"name": "Luke", "role": "author"}
+      ],
+      "locations": ["Caesarea", "Sidon", "Myra", "Crete", "Malta"],
+      "timePeriod": "Voyage to Rome",
+      "era": "early-church",
+      "topics": ["providence", "faith", "shipwreck"],
+      "events": ["Voyage to Rome begins", "Storm at sea (Euroclydon)", "Angel assures Paul of safety", "Shipwreck on Malta"],
+      "keyVerses": [22, 24, 25],
+      "crossReferences": [
+        {"book": "2 Corinthians", "chapter": 11, "label": "Three times shipwrecked"},
+        {"book": "Psalm", "chapter": 107, "label": "Those who go down to the sea in ships"}
+      ]
+    },
+    "28": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Paul", "role": "protagonist"},
+        {"name": "Luke", "role": "author"}
+      ],
+      "locations": ["Malta", "Syracuse", "Puteoli", "Rome"],
+      "timePeriod": "Paul in Rome",
+      "era": "early-church",
+      "topics": ["mission", "preaching", "kingdom-of-god"],
+      "events": ["Paul bitten by viper on Malta", "Healings on Malta", "Paul arrives in Rome", "Paul preaches in Rome under house arrest"],
+      "keyVerses": [24, 28, 31],
+      "crossReferences": [
+        {"book": "Romans", "chapter": 1, "label": "Paul's desire to visit Rome"},
+        {"book": "Isaiah", "chapter": 6, "label": "Hearing they shall not understand"}
+      ]
+    }
+  }
+}

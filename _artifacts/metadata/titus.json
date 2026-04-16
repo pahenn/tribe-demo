@@ -1,0 +1,64 @@
+{
+  "book": "Titus",
+  "bookSlug": "56.titus",
+  "testament": "2.new-testament",
+  "chapters": {
+    "1": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Paul", "role": "author"},
+        {"name": "Titus", "role": "recipient"}
+      ],
+      "locations": ["Crete"],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["elder-qualifications", "false-teachers", "sound-doctrine", "purity"],
+      "events": ["Paul instructs Titus to appoint elders in every city of Crete"],
+      "keyVerses": [5, 7, 15],
+      "crossReferences": [
+        {"book": "1 Timothy", "chapter": 3, "label": "Qualifications for bishops and deacons"},
+        {"book": "Acts", "chapter": 27, "label": "Paul's time in Crete"}
+      ]
+    },
+    "2": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Paul", "role": "author"},
+        {"name": "Titus", "role": "recipient"},
+        {"name": "Jesus Christ", "role": "mentioned"}
+      ],
+      "locations": ["Crete"],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["sound-doctrine", "grace", "godly-living", "blessed-hope"],
+      "events": [],
+      "keyVerses": [11, 13, 14],
+      "crossReferences": [
+        {"book": "1 Timothy", "chapter": 2, "label": "Christ gave himself a ransom for all"},
+        {"book": "1 Peter", "chapter": 2, "label": "A peculiar people zealous of good works"}
+      ]
+    },
+    "3": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Paul", "role": "author"},
+        {"name": "Titus", "role": "recipient"},
+        {"name": "Artemas", "role": "mentioned"},
+        {"name": "Tychicus", "role": "mentioned"},
+        {"name": "Zenas", "role": "mentioned"},
+        {"name": "Apollos", "role": "mentioned"},
+        {"name": "Holy Spirit", "role": "mentioned"}
+      ],
+      "locations": ["Nicopolis"],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["salvation-by-grace", "regeneration", "good-works", "civil-obedience"],
+      "events": [],
+      "keyVerses": [4, 5, 7],
+      "crossReferences": [
+        {"book": "Ephesians", "chapter": 2, "label": "Not by works of righteousness which we have done"},
+        {"book": "Romans", "chapter": 13, "label": "Be subject to governing authorities"}
+      ]
+    }
+  }
+}

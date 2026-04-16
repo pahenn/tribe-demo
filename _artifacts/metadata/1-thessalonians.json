@@ -1,0 +1,92 @@
+{
+  "book": "1 Thessalonians",
+  "bookSlug": "52.1-thessalonians",
+  "testament": "2.new-testament",
+  "chapters": {
+    "1": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Paul", "role": "author"},
+        {"name": "Silvanus", "role": "co-sender"},
+        {"name": "Timothy", "role": "co-sender"},
+        {"name": "Jesus Christ", "role": "mentioned"}
+      ],
+      "locations": ["Thessalonica", "Macedonia", "Achaia"],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["faith", "election", "conversion", "second-coming"],
+      "events": ["Paul commends the Thessalonians for turning from idols to God"],
+      "keyVerses": [3, 9, 10],
+      "crossReferences": [
+        {"book": "Acts", "chapter": 17, "label": "Paul's ministry in Thessalonica"}
+      ]
+    },
+    "2": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Paul", "role": "author"},
+        {"name": "Silvanus", "role": "co-sender"},
+        {"name": "Timothy", "role": "co-sender"}
+      ],
+      "locations": ["Thessalonica", "Philippi", "Judaea"],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["apostolic-integrity", "persecution", "gospel-ministry", "affection"],
+      "events": ["Paul recalls his suffering at Philippi before coming to Thessalonica"],
+      "keyVerses": [4, 13, 19],
+      "crossReferences": [
+        {"book": "Acts", "chapter": 16, "label": "Paul and Silas beaten at Philippi"}
+      ]
+    },
+    "3": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Paul", "role": "author"},
+        {"name": "Timothy", "role": "mentioned"}
+      ],
+      "locations": ["Athens", "Thessalonica"],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["faith", "affliction", "love", "holiness"],
+      "events": ["Timothy sent to check on the Thessalonians and returns with good news"],
+      "keyVerses": [8, 12, 13],
+      "crossReferences": [
+        {"book": "Acts", "chapter": 17, "label": "Paul left alone in Athens"}
+      ]
+    },
+    "4": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Paul", "role": "author"},
+        {"name": "Jesus Christ", "role": "mentioned"}
+      ],
+      "locations": ["Macedonia"],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["sanctification", "second-coming", "resurrection", "comfort"],
+      "events": ["Paul describes the rapture and resurrection of believers"],
+      "keyVerses": [3, 16, 17],
+      "crossReferences": [
+        {"book": "1 Corinthians", "chapter": 15, "label": "The dead shall be raised incorruptible"},
+        {"book": "Matthew", "chapter": 24, "label": "The coming of the Son of Man"}
+      ]
+    },
+    "5": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Paul", "role": "author"},
+        {"name": "Jesus Christ", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["day-of-the-lord", "watchfulness", "holy-living", "prayer"],
+      "events": [],
+      "keyVerses": [2, 16, 17],
+      "crossReferences": [
+        {"book": "2 Peter", "chapter": 3, "label": "The day of the Lord comes as a thief in the night"},
+        {"book": "Matthew", "chapter": 24, "label": "Watch therefore for ye know not the hour"}
+      ]
+    }
+  }
+}

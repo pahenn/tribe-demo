@@ -1,0 +1,97 @@
+{
+  "book": "1 John",
+  "bookSlug": "62.1-john",
+  "testament": "2.new-testament",
+  "chapters": {
+    "1": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "John", "role": "author"},
+        {"name": "Jesus", "role": "protagonist"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["fellowship", "light-and-darkness", "confession-of-sin", "word-of-life"],
+      "events": ["Proclamation of the Word of life", "Teaching on walking in the light and confessing sin"],
+      "keyVerses": [5, 7, 9],
+      "crossReferences": [
+        {"book": "John", "chapter": 1, "label": "In the beginning was the Word"},
+        {"book": "Psalms", "chapter": 32, "label": "Confession and forgiveness of sin"}
+      ]
+    },
+    "2": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Jesus", "role": "protagonist"},
+        {"name": "John", "role": "author"},
+        {"name": "Cain", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["obedience", "love-one-another", "antichrist", "worldliness"],
+      "events": ["Christ as advocate and propitiation", "Warning about antichrists", "Warning against loving the world"],
+      "keyVerses": [1, 15, 22],
+      "crossReferences": [
+        {"book": "John", "chapter": 13, "label": "A new commandment to love one another"},
+        {"book": "Romans", "chapter": 3, "label": "Christ as propitiation"}
+      ]
+    },
+    "3": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Jesus", "role": "protagonist"},
+        {"name": "Cain", "role": "mentioned"},
+        {"name": "Abel", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["children-of-god", "love-in-action", "righteousness", "assurance"],
+      "events": ["Teaching on the marks of God's children", "Call to love in deed and truth"],
+      "keyVerses": [1, 16, 18],
+      "crossReferences": [
+        {"book": "Genesis", "chapter": 4, "label": "Cain and Abel"},
+        {"book": "John", "chapter": 15, "label": "Greater love hath no man than this"}
+      ]
+    },
+    "4": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "God", "role": "protagonist"},
+        {"name": "Jesus", "role": "mentioned"},
+        {"name": "Holy Spirit", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["testing-spirits", "god-is-love", "perfect-love", "incarnation"],
+      "events": ["Test of spirits: confessing Christ in the flesh", "Teaching that God is love"],
+      "keyVerses": [4, 8, 18],
+      "crossReferences": [
+        {"book": "John", "chapter": 3, "label": "God sent his only begotten Son"},
+        {"book": "1 Corinthians", "chapter": 13, "label": "Love chapter"}
+      ]
+    },
+    "5": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Jesus", "role": "protagonist"},
+        {"name": "God", "role": "mentioned"},
+        {"name": "Holy Spirit", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["overcoming-the-world", "assurance-of-salvation", "eternal-life", "trinity"],
+      "events": ["Three witnesses: Spirit, water, and blood", "Assurance of eternal life in the Son"],
+      "keyVerses": [4, 12, 13],
+      "crossReferences": [
+        {"book": "John", "chapter": 20, "label": "Written that ye might believe"},
+        {"book": "Romans", "chapter": 8, "label": "Overcoming through faith"}
+      ]
+    }
+  }
+}

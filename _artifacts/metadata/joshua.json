@@ -1,0 +1,417 @@
+{
+  "book": "Joshua",
+  "bookSlug": "06.joshua",
+  "testament": "1.old-testament",
+  "chapters": {
+    "1": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Joshua", "role": "protagonist"},
+        {"name": "God", "role": "speaker"},
+        {"name": "Moses", "role": "mentioned"}
+      ],
+      "locations": ["Jordan"],
+      "timePeriod": "Conquest of Canaan",
+      "era": "conquest",
+      "topics": ["courage", "obedience", "leadership", "promised-land"],
+      "events": ["God commissions Joshua", "Joshua commands Israel to prepare to cross Jordan"],
+      "keyVerses": [8, 9],
+      "crossReferences": [
+        {"book": "Deuteronomy", "chapter": 31, "label": "Moses commissions Joshua"},
+        {"book": "Deuteronomy", "chapter": 11, "label": "Promised land boundaries"}
+      ]
+    },
+    "2": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Joshua", "role": "mentioned"},
+        {"name": "Rahab", "role": "protagonist"},
+        {"name": "King of Jericho", "role": "antagonist"}
+      ],
+      "locations": ["Shittim", "Jericho"],
+      "timePeriod": "Conquest of Canaan",
+      "era": "conquest",
+      "topics": ["faith", "protection", "espionage", "salvation"],
+      "events": ["Two spies sent to Jericho", "Rahab hides the spies", "Rahab's covenant with the spies"],
+      "keyVerses": [11, 18],
+      "crossReferences": [
+        {"book": "Hebrews", "chapter": 11, "label": "Rahab listed in the hall of faith"},
+        {"book": "James", "chapter": 2, "label": "Rahab justified by works"}
+      ]
+    },
+    "3": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Joshua", "role": "protagonist"},
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Jordan", "Shittim", "Jericho", "Zaretan"],
+      "timePeriod": "Conquest of Canaan",
+      "era": "conquest",
+      "topics": ["faith", "miracles", "ark-of-the-covenant"],
+      "events": ["Israel crosses the Jordan on dry ground", "Jordan waters cut off"],
+      "keyVerses": [5, 17],
+      "crossReferences": [
+        {"book": "Exodus", "chapter": 14, "label": "Crossing the Red Sea parallels crossing Jordan"}
+      ]
+    },
+    "4": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Joshua", "role": "protagonist"},
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Jordan", "Gilgal", "Jericho"],
+      "timePeriod": "Conquest of Canaan",
+      "era": "conquest",
+      "topics": ["memorial", "remembrance", "testimony"],
+      "events": ["Twelve memorial stones set up at Gilgal", "Israel camps at Gilgal"],
+      "keyVerses": [7, 24],
+      "crossReferences": [
+        {"book": "Exodus", "chapter": 14, "label": "Red Sea crossing recalled"}
+      ]
+    },
+    "5": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Joshua", "role": "protagonist"},
+        {"name": "God", "role": "speaker"},
+        {"name": "Commander of the Lord's army", "role": "speaker"}
+      ],
+      "locations": ["Gilgal", "Jericho"],
+      "timePeriod": "Conquest of Canaan",
+      "era": "conquest",
+      "topics": ["circumcision", "passover", "holiness", "consecration"],
+      "events": ["Circumcision at Gilgal", "First Passover in Canaan", "Manna ceases", "Joshua meets the commander of the Lord's army"],
+      "keyVerses": [12, 14],
+      "crossReferences": [
+        {"book": "Exodus", "chapter": 3, "label": "Holy ground parallels Moses at the burning bush"},
+        {"book": "Exodus", "chapter": 16, "label": "Manna provision ends"}
+      ]
+    },
+    "6": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Joshua", "role": "protagonist"},
+        {"name": "God", "role": "speaker"},
+        {"name": "Rahab", "role": "mentioned"}
+      ],
+      "locations": ["Jericho"],
+      "timePeriod": "Conquest of Canaan",
+      "era": "conquest",
+      "topics": ["obedience", "faith", "divine-warfare", "judgment"],
+      "events": ["Walls of Jericho fall", "Rahab and her family spared", "Jericho destroyed"],
+      "keyVerses": [20, 27],
+      "crossReferences": [
+        {"book": "Hebrews", "chapter": 11, "label": "By faith the walls of Jericho fell"},
+        {"book": "1 Kings", "chapter": 16, "label": "Curse on rebuilding Jericho fulfilled"}
+      ]
+    },
+    "7": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Joshua", "role": "protagonist"},
+        {"name": "God", "role": "speaker"},
+        {"name": "Achan", "role": "antagonist"}
+      ],
+      "locations": ["Ai", "Valley of Achor", "Bethel"],
+      "timePeriod": "Conquest of Canaan",
+      "era": "conquest",
+      "topics": ["sin", "judgment", "disobedience", "corporate-responsibility"],
+      "events": ["Defeat at Ai", "Achan's sin discovered", "Achan and his family stoned"],
+      "keyVerses": [11, 21],
+      "crossReferences": [
+        {"book": "Numbers", "chapter": 32, "label": "One person's sin affects the whole community"},
+        {"book": "Hosea", "chapter": 2, "label": "Valley of Achor referenced"}
+      ]
+    },
+    "8": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Joshua", "role": "protagonist"},
+        {"name": "God", "role": "speaker"},
+        {"name": "King of Ai", "role": "antagonist"}
+      ],
+      "locations": ["Ai", "Bethel", "Mount Ebal", "Mount Gerizim"],
+      "timePeriod": "Conquest of Canaan",
+      "era": "conquest",
+      "topics": ["victory", "strategy", "obedience", "covenant-renewal"],
+      "events": ["Conquest of Ai by ambush", "Altar built on Mount Ebal", "Law read to all Israel"],
+      "keyVerses": [1, 30],
+      "crossReferences": [
+        {"book": "Deuteronomy", "chapter": 27, "label": "Command to build altar on Mount Ebal"}
+      ]
+    },
+    "9": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Joshua", "role": "protagonist"},
+        {"name": "Gibeonites", "role": "mentioned"}
+      ],
+      "locations": ["Gilgal", "Gibeon", "Chephirah", "Beeroth", "Kirjathjearim"],
+      "timePeriod": "Conquest of Canaan",
+      "era": "conquest",
+      "topics": ["deception", "treaty", "discernment", "oath-keeping"],
+      "events": ["Gibeonites deceive Israel", "Israel makes a treaty without consulting God", "Gibeonites made woodcutters and water carriers"],
+      "keyVerses": [14, 15],
+      "crossReferences": [
+        {"book": "2 Samuel", "chapter": 21, "label": "Consequences of breaking the Gibeonite treaty"}
+      ]
+    },
+    "10": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Joshua", "role": "protagonist"},
+        {"name": "God", "role": "speaker"},
+        {"name": "Adonizedec", "role": "antagonist"}
+      ],
+      "locations": ["Jerusalem", "Gibeon", "Bethhoron", "Makkedah", "Lachish", "Hebron", "Eglon", "Debir"],
+      "timePeriod": "Conquest of Canaan",
+      "era": "conquest",
+      "topics": ["divine-warfare", "miracles", "conquest", "victory"],
+      "events": ["Sun stands still over Gibeon", "Five Amorite kings defeated", "Southern cities conquered"],
+      "keyVerses": [12, 13, 14],
+      "crossReferences": [
+        {"book": "Habakkuk", "chapter": 3, "label": "Sun and moon stand still referenced"}
+      ]
+    },
+    "11": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Joshua", "role": "protagonist"},
+        {"name": "God", "role": "speaker"},
+        {"name": "Jabin", "role": "antagonist"}
+      ],
+      "locations": ["Hazor", "Merom", "Zidon", "Hermon"],
+      "timePeriod": "Conquest of Canaan",
+      "era": "conquest",
+      "topics": ["conquest", "obedience", "divine-warfare"],
+      "events": ["Northern coalition defeated at waters of Merom", "Hazor burned", "Land rests from war"],
+      "keyVerses": [15, 23],
+      "crossReferences": [
+        {"book": "Deuteronomy", "chapter": 7, "label": "Command to destroy Canaanite nations"}
+      ]
+    },
+    "12": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Joshua", "role": "mentioned"},
+        {"name": "Moses", "role": "mentioned"},
+        {"name": "Sihon", "role": "mentioned"},
+        {"name": "Og", "role": "mentioned"}
+      ],
+      "locations": ["Jordan", "Heshbon", "Bashan", "Jericho", "Jerusalem", "Hebron"],
+      "timePeriod": "Conquest of Canaan",
+      "era": "conquest",
+      "topics": ["conquest", "victory", "divine-faithfulness"],
+      "events": ["List of thirty-one defeated kings"],
+      "keyVerses": [24],
+      "crossReferences": [
+        {"book": "Numbers", "chapter": 21, "label": "Defeat of Sihon and Og under Moses"}
+      ]
+    },
+    "13": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Joshua", "role": "protagonist"},
+        {"name": "God", "role": "speaker"},
+        {"name": "Moses", "role": "mentioned"},
+        {"name": "Balaam", "role": "mentioned"}
+      ],
+      "locations": ["Bashan", "Gilead", "Heshbon", "Jordan"],
+      "timePeriod": "Conquest of Canaan",
+      "era": "conquest",
+      "topics": ["inheritance", "land-distribution", "unconquered-land"],
+      "events": ["Land remaining to be conquered described", "Eastern tribal allotments reviewed"],
+      "keyVerses": [1, 33],
+      "crossReferences": [
+        {"book": "Numbers", "chapter": 32, "label": "Eastern tribes receive their inheritance"}
+      ]
+    },
+    "14": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Joshua", "role": "protagonist"},
+        {"name": "Caleb", "role": "protagonist"},
+        {"name": "Eleazar", "role": "mentioned"},
+        {"name": "Moses", "role": "mentioned"}
+      ],
+      "locations": ["Gilgal", "Hebron", "Kadeshbarnea"],
+      "timePeriod": "Conquest of Canaan",
+      "era": "conquest",
+      "topics": ["faith", "inheritance", "perseverance", "wholehearted-devotion"],
+      "events": ["Caleb claims Hebron", "Land distribution begins"],
+      "keyVerses": [11, 12],
+      "crossReferences": [
+        {"book": "Numbers", "chapter": 14, "label": "Caleb's faithfulness at Kadesh-barnea"}
+      ]
+    },
+    "15": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Caleb", "role": "protagonist"},
+        {"name": "Othniel", "role": "mentioned"},
+        {"name": "Achsah", "role": "mentioned"}
+      ],
+      "locations": ["Hebron", "Debir", "Jerusalem", "Edom", "Beersheba", "Gaza"],
+      "timePeriod": "Conquest of Canaan",
+      "era": "conquest",
+      "topics": ["inheritance", "land-distribution", "tribal-boundaries"],
+      "events": ["Territory of Judah described", "Caleb conquers Hebron and Debir", "Othniel wins Achsah as wife"],
+      "keyVerses": [16, 63],
+      "crossReferences": [
+        {"book": "Judges", "chapter": 1, "label": "Parallel account of Othniel and Achsah"}
+      ]
+    },
+    "16": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Joshua", "role": "mentioned"}
+      ],
+      "locations": ["Jericho", "Bethel", "Gezer", "Bethhoron"],
+      "timePeriod": "Conquest of Canaan",
+      "era": "conquest",
+      "topics": ["inheritance", "land-distribution", "tribal-boundaries"],
+      "events": ["Territory of Ephraim described", "Canaanites not driven from Gezer"],
+      "keyVerses": [10],
+      "crossReferences": [
+        {"book": "Judges", "chapter": 1, "label": "Failure to drive out Canaanites"}
+      ]
+    },
+    "17": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Joshua", "role": "protagonist"},
+        {"name": "Zelophehad", "role": "mentioned"},
+        {"name": "Eleazar", "role": "mentioned"}
+      ],
+      "locations": ["Gilead", "Bashan", "Shechem", "Bethshean", "Jezreel"],
+      "timePeriod": "Conquest of Canaan",
+      "era": "conquest",
+      "topics": ["inheritance", "land-distribution", "faith"],
+      "events": ["Territory of Manasseh described", "Daughters of Zelophehad receive inheritance", "Joseph's complaint about insufficient land"],
+      "keyVerses": [4, 17],
+      "crossReferences": [
+        {"book": "Numbers", "chapter": 27, "label": "Zelophehad's daughters granted inheritance"}
+      ]
+    },
+    "18": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Joshua", "role": "protagonist"}
+      ],
+      "locations": ["Shiloh", "Jericho", "Bethel", "Jerusalem"],
+      "timePeriod": "Conquest of Canaan",
+      "era": "conquest",
+      "topics": ["inheritance", "land-distribution", "tabernacle"],
+      "events": ["Tabernacle set up at Shiloh", "Remaining land surveyed and divided", "Territory of Benjamin described"],
+      "keyVerses": [1, 3],
+      "crossReferences": [
+        {"book": "Judges", "chapter": 18, "label": "Shiloh as center of worship"}
+      ]
+    },
+    "19": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Joshua", "role": "protagonist"},
+        {"name": "Eleazar", "role": "mentioned"}
+      ],
+      "locations": ["Beersheba", "Jezreel", "Carmel", "Tyre", "Zidon"],
+      "timePeriod": "Conquest of Canaan",
+      "era": "conquest",
+      "topics": ["inheritance", "land-distribution", "tribal-boundaries"],
+      "events": ["Territories of Simeon, Zebulun, Issachar, Asher, Naphtali, and Dan described", "Joshua receives Timnathserah"],
+      "keyVerses": [49, 51],
+      "crossReferences": [
+        {"book": "Genesis", "chapter": 49, "label": "Jacob's blessings foretell tribal territories"}
+      ]
+    },
+    "20": {
+      "genre": ["narrative", "law"],
+      "people": [
+        {"name": "Joshua", "role": "protagonist"},
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Kedesh", "Shechem", "Hebron", "Bezer", "Ramoth", "Golan"],
+      "timePeriod": "Conquest of Canaan",
+      "era": "conquest",
+      "topics": ["justice", "refuge", "mercy", "cities-of-refuge"],
+      "events": ["Six cities of refuge designated"],
+      "keyVerses": [2, 3],
+      "crossReferences": [
+        {"book": "Numbers", "chapter": 35, "label": "Cities of refuge commanded"},
+        {"book": "Deuteronomy", "chapter": 19, "label": "Cities of refuge detailed"}
+      ]
+    },
+    "21": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Joshua", "role": "mentioned"},
+        {"name": "Eleazar", "role": "mentioned"},
+        {"name": "Caleb", "role": "mentioned"}
+      ],
+      "locations": ["Shiloh", "Hebron", "Shechem", "Gibeon"],
+      "timePeriod": "Conquest of Canaan",
+      "era": "conquest",
+      "topics": ["inheritance", "levitical-cities", "divine-faithfulness"],
+      "events": ["Forty-eight Levitical cities assigned", "God's promises fulfilled"],
+      "keyVerses": [43, 44, 45],
+      "crossReferences": [
+        {"book": "Numbers", "chapter": 35, "label": "Levitical cities commanded"}
+      ]
+    },
+    "22": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Joshua", "role": "protagonist"},
+        {"name": "Phinehas", "role": "mentioned"}
+      ],
+      "locations": ["Jordan", "Shiloh", "Gilead"],
+      "timePeriod": "Conquest of Canaan",
+      "era": "conquest",
+      "topics": ["unity", "worship", "misunderstanding", "reconciliation"],
+      "events": ["Eastern tribes dismissed", "Altar of witness built at Jordan", "Near civil war averted"],
+      "keyVerses": [5, 34],
+      "crossReferences": [
+        {"book": "Numbers", "chapter": 25, "label": "Phinehas' zeal at Peor recalled"}
+      ]
+    },
+    "23": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Joshua", "role": "protagonist"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Conquest of Canaan",
+      "era": "conquest",
+      "topics": ["faithfulness", "obedience", "warning", "covenant"],
+      "events": ["Joshua's farewell address to Israel's leaders"],
+      "keyVerses": [11, 14],
+      "crossReferences": [
+        {"book": "Deuteronomy", "chapter": 28, "label": "Blessings and curses of the covenant"}
+      ]
+    },
+    "24": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Joshua", "role": "protagonist"},
+        {"name": "God", "role": "speaker"},
+        {"name": "Abraham", "role": "mentioned"},
+        {"name": "Moses", "role": "mentioned"},
+        {"name": "Eleazar", "role": "mentioned"},
+        {"name": "Joseph", "role": "mentioned"}
+      ],
+      "locations": ["Shechem", "Timnathserah"],
+      "timePeriod": "Conquest of Canaan",
+      "era": "conquest",
+      "topics": ["covenant-renewal", "choice", "faithfulness", "worship"],
+      "events": ["Covenant renewal at Shechem", "Joshua's charge: choose whom you will serve", "Death of Joshua", "Burial of Joseph's bones"],
+      "keyVerses": [15, 31],
+      "crossReferences": [
+        {"book": "Genesis", "chapter": 50, "label": "Joseph's bones brought from Egypt"},
+        {"book": "Exodus", "chapter": 24, "label": "Covenant ceremony parallels"}
+      ]
+    }
+  }
+}

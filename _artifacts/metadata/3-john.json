@@ -1,0 +1,26 @@
+{
+  "book": "3 John",
+  "bookSlug": "64.3-john",
+  "testament": "2.new-testament",
+  "chapters": {
+    "1": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "John", "role": "author"},
+        {"name": "Gaius", "role": "recipient"},
+        {"name": "Diotrephes", "role": "antagonist"},
+        {"name": "Demetrius", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["hospitality", "truth", "church-leadership", "good-vs-evil"],
+      "events": ["Commendation of Gaius for hospitality", "Rebuke of Diotrephes for opposing the apostle", "Commendation of Demetrius"],
+      "keyVerses": [4, 9, 11],
+      "crossReferences": [
+        {"book": "Hebrews", "chapter": 13, "label": "Entertaining strangers"},
+        {"book": "Romans", "chapter": 12, "label": "Given to hospitality"}
+      ]
+    }
+  }
+}

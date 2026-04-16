@@ -1,0 +1,246 @@
+{
+  "book": "Zechariah",
+  "bookSlug": "38.zechariah",
+  "testament": "1.old-testament",
+  "chapters": {
+    "1": {
+      "genre": ["prophecy", "apocalyptic"],
+      "people": [
+        {"name": "Zechariah", "role": "protagonist"},
+        {"name": "God", "role": "speaker"},
+        {"name": "Darius", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem", "Zion", "Judah"],
+      "timePeriod": "Post-Exile",
+      "era": "post-exile",
+      "topics": ["repentance", "visions", "restoration", "divine-jealousy"],
+      "events": ["Call to return to the Lord", "Vision of the horseman among the myrtle trees", "Vision of the four horns and four craftsmen"],
+      "keyVerses": [3, 14, 16],
+      "crossReferences": [
+        {"book": "Revelation", "chapter": 6, "label": "Horses of different colors sent through the earth"},
+        {"book": "Haggai", "chapter": 1, "label": "Contemporary call to rebuild the temple"}
+      ]
+    },
+    "2": {
+      "genre": ["prophecy", "apocalyptic"],
+      "people": [
+        {"name": "Zechariah", "role": "protagonist"},
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Jerusalem", "Zion", "Babylon"],
+      "timePeriod": "Post-Exile",
+      "era": "post-exile",
+      "topics": ["restoration", "divine-protection", "expansion", "dwelling-of-god"],
+      "events": ["Vision of a man measuring Jerusalem", "God promises to be a wall of fire around Jerusalem", "Call to flee from Babylon"],
+      "keyVerses": [5, 8, 10],
+      "crossReferences": [
+        {"book": "Revelation", "chapter": 21, "label": "New Jerusalem with God dwelling among his people"},
+        {"book": "Deuteronomy", "chapter": 32, "label": "Apple of his eye"}
+      ]
+    },
+    "3": {
+      "genre": ["prophecy", "apocalyptic"],
+      "people": [
+        {"name": "Joshua", "role": "protagonist"},
+        {"name": "God", "role": "speaker"},
+        {"name": "Satan", "role": "antagonist"},
+        {"name": "Zechariah", "role": "author"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "Post-Exile",
+      "era": "post-exile",
+      "topics": ["cleansing", "priesthood", "messianic-branch", "forgiveness"],
+      "events": ["Joshua the high priest accused by Satan", "God removes Joshua's filthy garments and clothes him in clean robes", "Prophecy of the Branch"],
+      "keyVerses": [1, 4, 8],
+      "crossReferences": [
+        {"book": "Jude", "chapter": 1, "label": "The Lord rebuke thee, Satan"},
+        {"book": "Isaiah", "chapter": 11, "label": "The Branch of the Lord"}
+      ]
+    },
+    "4": {
+      "genre": ["prophecy", "apocalyptic"],
+      "people": [
+        {"name": "Zechariah", "role": "protagonist"},
+        {"name": "Zerubbabel", "role": "mentioned"},
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "Post-Exile",
+      "era": "post-exile",
+      "topics": ["holy-spirit", "temple-rebuilding", "divine-empowerment", "anointed-ones"],
+      "events": ["Vision of the golden lampstand and two olive trees", "Declaration: Not by might nor by power but by my Spirit"],
+      "keyVerses": [6, 10, 14],
+      "crossReferences": [
+        {"book": "Revelation", "chapter": 11, "label": "Two witnesses as two olive trees"},
+        {"book": "Revelation", "chapter": 1, "label": "Seven golden lampstands"}
+      ]
+    },
+    "5": {
+      "genre": ["prophecy", "apocalyptic"],
+      "people": [
+        {"name": "Zechariah", "role": "protagonist"},
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Shinar"],
+      "timePeriod": "Post-Exile",
+      "era": "post-exile",
+      "topics": ["curse", "wickedness", "purification", "judgment"],
+      "events": ["Vision of the flying scroll cursing thieves and liars", "Vision of wickedness in an ephah carried to Shinar"],
+      "keyVerses": [3, 8],
+      "crossReferences": [
+        {"book": "Revelation", "chapter": 17, "label": "Woman representing wickedness"},
+        {"book": "Genesis", "chapter": 11, "label": "Shinar as Babylon"}
+      ]
+    },
+    "6": {
+      "genre": ["prophecy", "apocalyptic"],
+      "people": [
+        {"name": "Zechariah", "role": "protagonist"},
+        {"name": "God", "role": "speaker"},
+        {"name": "Joshua", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem", "Babylon"],
+      "timePeriod": "Post-Exile",
+      "era": "post-exile",
+      "topics": ["divine-chariots", "messianic-branch", "priest-king", "temple"],
+      "events": ["Vision of four chariots with colored horses", "Joshua crowned and the Branch prophecy given", "Branch will be both priest and king"],
+      "keyVerses": [5, 12, 13],
+      "crossReferences": [
+        {"book": "Revelation", "chapter": 6, "label": "Four horsemen"},
+        {"book": "Hebrews", "chapter": 7, "label": "Christ as priest and king after Melchizedek"}
+      ]
+    },
+    "7": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "Zechariah", "role": "protagonist"},
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "Post-Exile",
+      "era": "post-exile",
+      "topics": ["fasting", "obedience", "justice", "mercy", "hardened-hearts"],
+      "events": ["Question about continuing fasting from the exile", "God demands justice and mercy over ritual fasting"],
+      "keyVerses": [5, 9, 10],
+      "crossReferences": [
+        {"book": "Isaiah", "chapter": 58, "label": "True fasting is doing justice"},
+        {"book": "Micah", "chapter": 6, "label": "What does the Lord require?"}
+      ]
+    },
+    "8": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Zechariah", "role": "author"}
+      ],
+      "locations": ["Jerusalem", "Zion"],
+      "timePeriod": "Post-Exile",
+      "era": "post-exile",
+      "topics": ["restoration", "blessing", "truth", "nations-seeking-god"],
+      "events": ["God promises to return to Zion and dwell in Jerusalem", "Fasts turned into joyful feasts", "Nations will seek the God of Israel"],
+      "keyVerses": [3, 16, 23],
+      "crossReferences": [
+        {"book": "Isaiah", "chapter": 2, "label": "Nations streaming to Jerusalem"},
+        {"book": "Romans", "chapter": 11, "label": "Gentiles grafted in to seek God"}
+      ]
+    },
+    "9": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Damascus", "Hamath", "Tyre", "Sidon", "Ashkelon", "Gaza", "Ekron", "Ashdod", "Zion", "Jerusalem"],
+      "timePeriod": "Post-Exile",
+      "era": "post-exile",
+      "topics": ["messianic-king", "judgment-of-nations", "triumphal-entry", "peace"],
+      "events": ["Judgment on surrounding nations", "Prophecy of the king riding on a donkey", "Promise of dominion from sea to sea"],
+      "keyVerses": [9, 10, 12],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 21, "label": "Jesus rides into Jerusalem on a donkey"},
+        {"book": "John", "chapter": 12, "label": "Triumphal entry fulfills Zechariah"}
+      ]
+    },
+    "10": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Judah", "Ephraim", "Egypt", "Assyria", "Gilead", "Lebanon"],
+      "timePeriod": "Post-Exile",
+      "era": "post-exile",
+      "topics": ["false-shepherds", "restoration", "gathering", "divine-strength"],
+      "events": ["God condemns false shepherds and idols", "Promise to regather and strengthen Judah and Ephraim"],
+      "keyVerses": [2, 4, 6],
+      "crossReferences": [
+        {"book": "Ezekiel", "chapter": 34, "label": "God against the false shepherds"},
+        {"book": "John", "chapter": 10, "label": "Jesus as the good shepherd"}
+      ]
+    },
+    "11": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "Zechariah", "role": "protagonist"},
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Lebanon", "Bashan", "Jordan"],
+      "timePeriod": "Post-Exile",
+      "era": "post-exile",
+      "topics": ["rejected-shepherd", "thirty-pieces-of-silver", "foolish-shepherd", "covenant-broken"],
+      "events": ["Zechariah acts as shepherd with two staffs: Beauty and Bands", "The shepherd valued at thirty pieces of silver cast to the potter", "Rise of a foolish shepherd foretold"],
+      "keyVerses": [7, 12, 13],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 27, "label": "Judas returns thirty pieces of silver"},
+        {"book": "Matthew", "chapter": 26, "label": "Price of the betrayal of Jesus"}
+      ]
+    },
+    "12": {
+      "genre": ["prophecy", "apocalyptic"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "David", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem", "Judah", "Megiddo"],
+      "timePeriod": "Post-Exile",
+      "era": "post-exile",
+      "topics": ["siege-of-jerusalem", "deliverance", "mourning", "pierced-one"],
+      "events": ["Jerusalem becomes a cup of trembling for the nations", "God pours out a spirit of grace", "They look upon him whom they have pierced and mourn"],
+      "keyVerses": [2, 10],
+      "crossReferences": [
+        {"book": "John", "chapter": 19, "label": "They shall look on him whom they pierced"},
+        {"book": "Revelation", "chapter": 1, "label": "Every eye shall see him, they also which pierced him"}
+      ]
+    },
+    "13": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "Post-Exile",
+      "era": "post-exile",
+      "topics": ["cleansing", "smitten-shepherd", "refining", "false-prophets"],
+      "events": ["Fountain opened for sin and uncleanness", "Strike the shepherd and the sheep scatter", "Remnant refined through fire"],
+      "keyVerses": [1, 7, 9],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 26, "label": "I will strike the shepherd and the sheep will scatter"},
+        {"book": "1 Peter", "chapter": 1, "label": "Refined through fire like gold"}
+      ]
+    },
+    "14": {
+      "genre": ["prophecy", "apocalyptic"],
+      "people": [
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Jerusalem", "Mount of Olives", "Egypt"],
+      "timePeriod": "Post-Exile",
+      "era": "post-exile",
+      "topics": ["day-of-the-lord", "living-waters", "universal-worship", "holiness"],
+      "events": ["God gathers nations against Jerusalem then fights for it", "The Lord's feet stand on the Mount of Olives", "Living waters flow from Jerusalem", "All nations worship at the feast of tabernacles"],
+      "keyVerses": [4, 8, 9],
+      "crossReferences": [
+        {"book": "Acts", "chapter": 1, "label": "Jesus ascends from the Mount of Olives"},
+        {"book": "Revelation", "chapter": 22, "label": "River of living water flowing from the throne"}
+      ]
+    }
+  }
+}

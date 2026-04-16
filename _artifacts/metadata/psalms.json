@@ -1,0 +1,2397 @@
+{
+  "book": "Psalms",
+  "bookSlug": "19.psalms",
+  "testament": "1.old-testament",
+  "chapters": {
+    "1": {
+      "genre": ["poetry", "wisdom"],
+      "people": [
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["wisdom-psalm", "righteousness", "law-of-god"],
+      "events": [],
+      "keyVerses": [1, 3],
+      "crossReferences": [
+        {"book": "Jeremiah", "chapter": 17, "label": "Tree planted by water"},
+        {"book": "Joshua", "chapter": 1, "label": "Meditating on the law"}
+      ]
+    },
+    "2": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "David", "role": "author"}
+      ],
+      "locations": ["Zion"],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["royal", "messianic", "sovereignty"],
+      "events": [],
+      "keyVerses": [7, 12],
+      "crossReferences": [
+        {"book": "Acts", "chapter": 4, "label": "Apostles quote Psalm 2"},
+        {"book": "Hebrews", "chapter": 1, "label": "Thou art my Son"}
+      ]
+    },
+    "3": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "David", "role": "author"},
+        {"name": "God", "role": "mentioned"},
+        {"name": "Absalom", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["lament", "trust", "deliverance"],
+      "events": ["David flees from Absalom"],
+      "keyVerses": [3, 8],
+      "crossReferences": [
+        {"book": "2 Samuel", "chapter": 15, "label": "Absalom's rebellion"}
+      ]
+    },
+    "4": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "David", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["trust", "peace", "prayer"],
+      "events": [],
+      "keyVerses": [4, 8],
+      "crossReferences": [
+        {"book": "Ephesians", "chapter": 4, "label": "Be angry and sin not"}
+      ]
+    },
+    "5": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "David", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["lament", "morning-prayer", "righteousness"],
+      "events": [],
+      "keyVerses": [3],
+      "crossReferences": [
+        {"book": "Romans", "chapter": 3, "label": "Open sepulchre throat"}
+      ]
+    },
+    "6": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "David", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["lament", "penitential", "healing"],
+      "events": [],
+      "keyVerses": [1, 4],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 7, "label": "Depart from me you workers of iniquity"}
+      ]
+    },
+    "7": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "David", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["lament", "justice", "vindication"],
+      "events": [],
+      "keyVerses": [1, 11],
+      "crossReferences": [
+        {"book": "Romans", "chapter": 2, "label": "Righteous judgment of God"}
+      ]
+    },
+    "8": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "David", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["praise", "creation", "humanity"],
+      "events": [],
+      "keyVerses": [1, 4, 5],
+      "crossReferences": [
+        {"book": "Hebrews", "chapter": 2, "label": "Man crowned with glory"},
+        {"book": "Matthew", "chapter": 21, "label": "Out of the mouth of babes"}
+      ]
+    },
+    "9": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "David", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": ["Zion"],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["thanksgiving", "justice", "praise"],
+      "events": [],
+      "keyVerses": [1, 9, 10],
+      "crossReferences": [
+        {"book": "Revelation", "chapter": 19, "label": "Righteous judgments"}
+      ]
+    },
+    "10": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["lament", "oppression", "justice"],
+      "events": [],
+      "keyVerses": [1, 14],
+      "crossReferences": [
+        {"book": "James", "chapter": 5, "label": "Oppression of the poor"}
+      ]
+    },
+    "11": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "David", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["trust", "righteousness", "judgment"],
+      "events": [],
+      "keyVerses": [1, 3],
+      "crossReferences": [
+        {"book": "Revelation", "chapter": 14, "label": "Fire and brimstone on the wicked"}
+      ]
+    },
+    "12": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "David", "role": "author"},
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["lament", "faithfulness", "pure-words"],
+      "events": [],
+      "keyVerses": [6],
+      "crossReferences": [
+        {"book": "Proverbs", "chapter": 30, "label": "Every word of God is pure"}
+      ]
+    },
+    "13": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "David", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["lament", "trust", "salvation"],
+      "events": [],
+      "keyVerses": [1, 5, 6],
+      "crossReferences": [
+        {"book": "Habakkuk", "chapter": 1, "label": "How long O Lord"}
+      ]
+    },
+    "14": {
+      "genre": ["poetry", "wisdom"],
+      "people": [
+        {"name": "David", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": ["Zion"],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["wisdom-psalm", "human-depravity", "atheism"],
+      "events": [],
+      "keyVerses": [1, 3],
+      "crossReferences": [
+        {"book": "Romans", "chapter": 3, "label": "None righteous, no not one"}
+      ]
+    },
+    "15": {
+      "genre": ["poetry", "wisdom"],
+      "people": [
+        {"name": "David", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": ["Zion"],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["wisdom-psalm", "righteousness", "worship"],
+      "events": [],
+      "keyVerses": [1, 2],
+      "crossReferences": [
+        {"book": "Isaiah", "chapter": 33, "label": "Who shall dwell with God"}
+      ]
+    },
+    "16": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "David", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["trust", "messianic", "joy"],
+      "events": [],
+      "keyVerses": [8, 10, 11],
+      "crossReferences": [
+        {"book": "Acts", "chapter": 2, "label": "Peter quotes about resurrection"},
+        {"book": "Acts", "chapter": 13, "label": "Paul quotes about resurrection"}
+      ]
+    },
+    "17": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "David", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["lament", "vindication", "protection"],
+      "events": [],
+      "keyVerses": [8, 15],
+      "crossReferences": [
+        {"book": "Deuteronomy", "chapter": 32, "label": "Apple of his eye"}
+      ]
+    },
+    "18": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "David", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["thanksgiving", "deliverance", "praise"],
+      "events": ["David's deliverance from Saul"],
+      "keyVerses": [1, 2, 46],
+      "crossReferences": [
+        {"book": "2 Samuel", "chapter": 22, "label": "Parallel song of deliverance"}
+      ]
+    },
+    "19": {
+      "genre": ["poetry", "wisdom"],
+      "people": [
+        {"name": "David", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["praise", "creation", "law-of-god"],
+      "events": [],
+      "keyVerses": [1, 7, 14],
+      "crossReferences": [
+        {"book": "Romans", "chapter": 1, "label": "Creation reveals God"},
+        {"book": "Romans", "chapter": 10, "label": "Their sound went into all the earth"}
+      ]
+    },
+    "20": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "David", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": ["Zion"],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["royal", "prayer", "trust"],
+      "events": [],
+      "keyVerses": [7],
+      "crossReferences": [
+        {"book": "Proverbs", "chapter": 21, "label": "Horse prepared but victory from the Lord"}
+      ]
+    },
+    "21": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "David", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["royal", "thanksgiving", "blessing"],
+      "events": [],
+      "keyVerses": [1, 6],
+      "crossReferences": [
+        {"book": "Proverbs", "chapter": 21, "label": "King's heart in the Lord's hand"}
+      ]
+    },
+    "22": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "David", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["lament", "messianic", "suffering"],
+      "events": [],
+      "keyVerses": [1, 16, 18],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 27, "label": "My God why hast thou forsaken me"},
+        {"book": "John", "chapter": 19, "label": "They parted my garments"}
+      ]
+    },
+    "23": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "David", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["trust", "comfort", "provision"],
+      "events": [],
+      "keyVerses": [1, 4],
+      "crossReferences": [
+        {"book": "John", "chapter": 10, "label": "I am the good shepherd"},
+        {"book": "Revelation", "chapter": 7, "label": "Lamb shall lead them to living waters"}
+      ]
+    },
+    "24": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "David", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["praise", "worship", "holiness"],
+      "events": [],
+      "keyVerses": [1, 3, 7],
+      "crossReferences": [
+        {"book": "1 Corinthians", "chapter": 10, "label": "The earth is the Lord's"}
+      ]
+    },
+    "25": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "David", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["lament", "guidance", "forgiveness"],
+      "events": [],
+      "keyVerses": [4, 5],
+      "crossReferences": [
+        {"book": "Proverbs", "chapter": 3, "label": "Trust in the Lord with all your heart"}
+      ]
+    },
+    "26": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "David", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["lament", "integrity", "vindication"],
+      "events": [],
+      "keyVerses": [1, 2],
+      "crossReferences": [
+        {"book": "James", "chapter": 4, "label": "Draw near to God"}
+      ]
+    },
+    "27": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "David", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["trust", "worship", "courage"],
+      "events": [],
+      "keyVerses": [1, 4, 14],
+      "crossReferences": [
+        {"book": "Romans", "chapter": 8, "label": "If God is for us who can be against us"}
+      ]
+    },
+    "28": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "David", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["lament", "prayer", "thanksgiving"],
+      "events": [],
+      "keyVerses": [7],
+      "crossReferences": [
+        {"book": "Philippians", "chapter": 4, "label": "Peace through prayer"}
+      ]
+    },
+    "29": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "David", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": ["Lebanon"],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["praise", "divine-power", "worship"],
+      "events": [],
+      "keyVerses": [2, 4],
+      "crossReferences": [
+        {"book": "Job", "chapter": 37, "label": "Voice of God in the storm"}
+      ]
+    },
+    "30": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "David", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["thanksgiving", "healing", "joy"],
+      "events": [],
+      "keyVerses": [5],
+      "crossReferences": [
+        {"book": "Isaiah", "chapter": 54, "label": "Anger for a moment, favor for a lifetime"}
+      ]
+    },
+    "31": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "David", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["lament", "trust", "deliverance"],
+      "events": [],
+      "keyVerses": [5, 15],
+      "crossReferences": [
+        {"book": "Luke", "chapter": 23, "label": "Into thy hands I commit my spirit"}
+      ]
+    },
+    "32": {
+      "genre": ["poetry", "wisdom"],
+      "people": [
+        {"name": "David", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["penitential", "forgiveness", "confession"],
+      "events": [],
+      "keyVerses": [1, 5],
+      "crossReferences": [
+        {"book": "Romans", "chapter": 4, "label": "Blessed is the man whose sin is not imputed"},
+        {"book": "1 John", "chapter": 1, "label": "Confessing sins"}
+      ]
+    },
+    "33": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["praise", "creation", "sovereignty"],
+      "events": [],
+      "keyVerses": [6, 12],
+      "crossReferences": [
+        {"book": "Hebrews", "chapter": 11, "label": "By faith worlds were framed by the word of God"}
+      ]
+    },
+    "34": {
+      "genre": ["poetry", "wisdom"],
+      "people": [
+        {"name": "David", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["thanksgiving", "wisdom-psalm", "deliverance"],
+      "events": [],
+      "keyVerses": [8, 18],
+      "crossReferences": [
+        {"book": "1 Peter", "chapter": 2, "label": "Taste and see that the Lord is good"},
+        {"book": "1 Peter", "chapter": 3, "label": "Eyes of the Lord on the righteous"}
+      ]
+    },
+    "35": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "David", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["imprecatory", "justice", "vindication"],
+      "events": [],
+      "keyVerses": [1, 10],
+      "crossReferences": [
+        {"book": "John", "chapter": 15, "label": "They hated me without a cause"}
+      ]
+    },
+    "36": {
+      "genre": ["poetry", "wisdom"],
+      "people": [
+        {"name": "David", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["wisdom-psalm", "mercy", "wickedness"],
+      "events": [],
+      "keyVerses": [5, 7, 9],
+      "crossReferences": [
+        {"book": "Romans", "chapter": 3, "label": "No fear of God before their eyes"}
+      ]
+    },
+    "37": {
+      "genre": ["poetry", "wisdom"],
+      "people": [
+        {"name": "David", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["wisdom-psalm", "trust", "righteousness"],
+      "events": [],
+      "keyVerses": [4, 5, 25],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 5, "label": "The meek shall inherit the earth"},
+        {"book": "Proverbs", "chapter": 3, "label": "Trust in the Lord"}
+      ]
+    },
+    "38": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "David", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["penitential", "suffering", "lament"],
+      "events": [],
+      "keyVerses": [1, 4, 18],
+      "crossReferences": [
+        {"book": "Job", "chapter": 6, "label": "Arrows of the Almighty"}
+      ]
+    },
+    "39": {
+      "genre": ["poetry", "wisdom"],
+      "people": [
+        {"name": "David", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["lament", "brevity-of-life", "vanity"],
+      "events": [],
+      "keyVerses": [4, 5],
+      "crossReferences": [
+        {"book": "James", "chapter": 4, "label": "Life is a vapor"}
+      ]
+    },
+    "40": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "David", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["thanksgiving", "messianic", "obedience"],
+      "events": [],
+      "keyVerses": [1, 2, 6, 8],
+      "crossReferences": [
+        {"book": "Hebrews", "chapter": 10, "label": "Sacrifice and offering thou didst not desire"}
+      ]
+    },
+    "41": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "David", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["lament", "betrayal", "blessing"],
+      "events": [],
+      "keyVerses": [1, 9],
+      "crossReferences": [
+        {"book": "John", "chapter": 13, "label": "He who eats bread with me lifted his heel"}
+      ]
+    },
+    "42": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": ["Jordan", "Hermon"],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["lament", "longing-for-god", "hope"],
+      "events": [],
+      "keyVerses": [1, 5],
+      "crossReferences": [
+        {"book": "John", "chapter": 7, "label": "If anyone thirsts let him come to me"}
+      ]
+    },
+    "43": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": ["Zion"],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["lament", "hope", "worship"],
+      "events": [],
+      "keyVerses": [3, 5],
+      "crossReferences": [
+        {"book": "John", "chapter": 8, "label": "Light and truth"}
+      ]
+    },
+    "44": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["lament", "national-crisis", "faithfulness"],
+      "events": [],
+      "keyVerses": [22],
+      "crossReferences": [
+        {"book": "Romans", "chapter": 8, "label": "For thy sake we are killed all the day long"}
+      ]
+    },
+    "45": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["royal", "messianic", "wedding"],
+      "events": [],
+      "keyVerses": [6, 7],
+      "crossReferences": [
+        {"book": "Hebrews", "chapter": 1, "label": "Thy throne O God is forever"}
+      ]
+    },
+    "46": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": ["Zion"],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["trust", "refuge", "sovereignty"],
+      "events": [],
+      "keyVerses": [1, 10],
+      "crossReferences": [
+        {"book": "Isaiah", "chapter": 8, "label": "God is with us"}
+      ]
+    },
+    "47": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["praise", "sovereignty", "kingship-of-god"],
+      "events": [],
+      "keyVerses": [1, 7],
+      "crossReferences": [
+        {"book": "Revelation", "chapter": 19, "label": "God reigns"}
+      ]
+    },
+    "48": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": ["Zion", "Jerusalem"],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["praise", "zion", "sovereignty"],
+      "events": [],
+      "keyVerses": [1, 2],
+      "crossReferences": [
+        {"book": "Hebrews", "chapter": 12, "label": "City of the living God"}
+      ]
+    },
+    "49": {
+      "genre": ["poetry", "wisdom"],
+      "people": [
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["wisdom-psalm", "mortality", "wealth"],
+      "events": [],
+      "keyVerses": [15],
+      "crossReferences": [
+        {"book": "Luke", "chapter": 12, "label": "Rich fool parable"}
+      ]
+    },
+    "50": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Asaph", "role": "author"}
+      ],
+      "locations": ["Zion"],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["judgment", "worship", "thanksgiving"],
+      "events": [],
+      "keyVerses": [14, 15, 23],
+      "crossReferences": [
+        {"book": "Hebrews", "chapter": 13, "label": "Sacrifice of praise"}
+      ]
+    },
+    "51": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "David", "role": "author"},
+        {"name": "God", "role": "mentioned"},
+        {"name": "Bathsheba", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["penitential", "forgiveness", "repentance"],
+      "events": ["David's repentance after Bathsheba"],
+      "keyVerses": [1, 10, 17],
+      "crossReferences": [
+        {"book": "2 Samuel", "chapter": 12, "label": "Nathan confronts David"},
+        {"book": "Romans", "chapter": 3, "label": "That thou mightest be justified"}
+      ]
+    },
+    "52": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "David", "role": "author"},
+        {"name": "Doeg", "role": "mentioned"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["imprecatory", "wickedness", "trust"],
+      "events": [],
+      "keyVerses": [8],
+      "crossReferences": [
+        {"book": "1 Samuel", "chapter": 22, "label": "Doeg the Edomite"}
+      ]
+    },
+    "53": {
+      "genre": ["poetry", "wisdom"],
+      "people": [
+        {"name": "David", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": ["Zion"],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["wisdom-psalm", "human-depravity", "atheism"],
+      "events": [],
+      "keyVerses": [1, 3],
+      "crossReferences": [
+        {"book": "Romans", "chapter": 3, "label": "None righteous"}
+      ]
+    },
+    "54": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "David", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["lament", "deliverance", "trust"],
+      "events": [],
+      "keyVerses": [4],
+      "crossReferences": [
+        {"book": "1 Samuel", "chapter": 23, "label": "Ziphites betray David"}
+      ]
+    },
+    "55": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "David", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["lament", "betrayal", "trust"],
+      "events": [],
+      "keyVerses": [22],
+      "crossReferences": [
+        {"book": "1 Peter", "chapter": 5, "label": "Cast your cares upon him"}
+      ]
+    },
+    "56": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "David", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": ["Gath"],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["lament", "trust", "fear"],
+      "events": [],
+      "keyVerses": [3, 4],
+      "crossReferences": [
+        {"book": "1 Samuel", "chapter": 21, "label": "David among the Philistines"}
+      ]
+    },
+    "57": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "David", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["lament", "trust", "praise"],
+      "events": [],
+      "keyVerses": [1, 5],
+      "crossReferences": [
+        {"book": "1 Samuel", "chapter": 24, "label": "David in the cave"}
+      ]
+    },
+    "58": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "David", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["imprecatory", "justice", "wickedness"],
+      "events": [],
+      "keyVerses": [11],
+      "crossReferences": [
+        {"book": "Romans", "chapter": 3, "label": "Poison of asps under their lips"}
+      ]
+    },
+    "59": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "David", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["lament", "deliverance", "protection"],
+      "events": [],
+      "keyVerses": [16],
+      "crossReferences": [
+        {"book": "1 Samuel", "chapter": 19, "label": "Saul sends men to watch David"}
+      ]
+    },
+    "60": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "David", "role": "author"},
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Shechem", "Succoth", "Gilead", "Manasseh", "Ephraim", "Moab", "Edom"],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["lament", "national-crisis", "victory"],
+      "events": [],
+      "keyVerses": [12],
+      "crossReferences": [
+        {"book": "2 Samuel", "chapter": 8, "label": "David's wars"}
+      ]
+    },
+    "61": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "David", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["lament", "trust", "royal"],
+      "events": [],
+      "keyVerses": [2],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 7, "label": "Rock foundation"}
+      ]
+    },
+    "62": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "David", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["trust", "waiting-on-god", "refuge"],
+      "events": [],
+      "keyVerses": [1, 2, 11],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 16, "label": "Rendering to each according to works"}
+      ]
+    },
+    "63": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "David", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["praise", "longing-for-god", "worship"],
+      "events": [],
+      "keyVerses": [1, 3],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 5, "label": "Blessed are those who hunger and thirst"}
+      ]
+    },
+    "64": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "David", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["lament", "protection", "judgment"],
+      "events": [],
+      "keyVerses": [7, 10],
+      "crossReferences": [
+        {"book": "Proverbs", "chapter": 26, "label": "The wicked fall into their own pit"}
+      ]
+    },
+    "65": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "David", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": ["Zion"],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["thanksgiving", "praise", "creation"],
+      "events": [],
+      "keyVerses": [2, 4],
+      "crossReferences": [
+        {"book": "Acts", "chapter": 14, "label": "God gives rain and fruitful seasons"}
+      ]
+    },
+    "66": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["praise", "thanksgiving", "testimony"],
+      "events": [],
+      "keyVerses": [1, 16, 18],
+      "crossReferences": [
+        {"book": "Isaiah", "chapter": 59, "label": "Sin hinders prayer"}
+      ]
+    },
+    "67": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["praise", "missions", "blessing"],
+      "events": [],
+      "keyVerses": [1, 2],
+      "crossReferences": [
+        {"book": "Numbers", "chapter": 6, "label": "Aaronic blessing"}
+      ]
+    },
+    "68": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "David", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": ["Sinai", "Zion", "Bashan"],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["praise", "triumph", "sovereignty"],
+      "events": [],
+      "keyVerses": [5, 18],
+      "crossReferences": [
+        {"book": "Ephesians", "chapter": 4, "label": "He ascended on high and led captivity captive"}
+      ]
+    },
+    "69": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "David", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": ["Zion"],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["lament", "messianic", "imprecatory"],
+      "events": [],
+      "keyVerses": [9, 21],
+      "crossReferences": [
+        {"book": "John", "chapter": 2, "label": "Zeal for thy house"},
+        {"book": "John", "chapter": 19, "label": "They gave me vinegar to drink"}
+      ]
+    },
+    "70": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "David", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["lament", "urgency", "deliverance"],
+      "events": [],
+      "keyVerses": [1, 5],
+      "crossReferences": [
+        {"book": "Psalms", "chapter": 40, "label": "Parallel passage"}
+      ]
+    },
+    "71": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["lament", "trust", "old-age"],
+      "events": [],
+      "keyVerses": [5, 9, 17],
+      "crossReferences": [
+        {"book": "Isaiah", "chapter": 46, "label": "God carries us to old age"}
+      ]
+    },
+    "72": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "Solomon", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": ["Tarshish", "Sheba"],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["royal", "messianic", "justice"],
+      "events": [],
+      "keyVerses": [8, 11, 18],
+      "crossReferences": [
+        {"book": "Isaiah", "chapter": 11, "label": "Righteous king"},
+        {"book": "Matthew", "chapter": 2, "label": "Kings bringing gifts"}
+      ]
+    },
+    "73": {
+      "genre": ["poetry", "wisdom"],
+      "people": [
+        {"name": "Asaph", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["wisdom-psalm", "prosperity-of-the-wicked", "theodicy"],
+      "events": [],
+      "keyVerses": [1, 17, 25, 26],
+      "crossReferences": [
+        {"book": "Jeremiah", "chapter": 12, "label": "Why do the wicked prosper"},
+        {"book": "Job", "chapter": 21, "label": "Prosperity of the wicked"}
+      ]
+    },
+    "74": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "Asaph", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": ["Zion"],
+      "timePeriod": "Exile",
+      "era": "exile",
+      "topics": ["lament", "national-crisis", "temple-destruction"],
+      "events": ["Destruction of the sanctuary"],
+      "keyVerses": [1, 10],
+      "crossReferences": [
+        {"book": "Lamentations", "chapter": 2, "label": "Destruction of temple"}
+      ]
+    },
+    "75": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "Asaph", "role": "author"},
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["thanksgiving", "judgment", "sovereignty"],
+      "events": [],
+      "keyVerses": [6, 7],
+      "crossReferences": [
+        {"book": "Revelation", "chapter": 14, "label": "Cup of God's wrath"}
+      ]
+    },
+    "76": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "Asaph", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": ["Judah", "Salem", "Zion"],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["praise", "victory", "divine-power"],
+      "events": [],
+      "keyVerses": [1, 10],
+      "crossReferences": [
+        {"book": "2 Kings", "chapter": 19, "label": "God defeats enemies"}
+      ]
+    },
+    "77": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "Asaph", "role": "author"},
+        {"name": "God", "role": "mentioned"},
+        {"name": "Moses", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["lament", "remembrance", "faithfulness"],
+      "events": [],
+      "keyVerses": [11, 13, 14],
+      "crossReferences": [
+        {"book": "Exodus", "chapter": 14, "label": "Parting of the Red Sea"}
+      ]
+    },
+    "78": {
+      "genre": ["poetry", "narrative"],
+      "people": [
+        {"name": "Asaph", "role": "author"},
+        {"name": "God", "role": "mentioned"},
+        {"name": "Moses", "role": "mentioned"},
+        {"name": "David", "role": "mentioned"}
+      ],
+      "locations": ["Egypt", "Zoan", "Ephraim"],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["history", "faithfulness", "rebellion"],
+      "events": ["Recounting of Exodus and wilderness wandering"],
+      "keyVerses": [2, 4, 72],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 13, "label": "I will open my mouth in parables"}
+      ]
+    },
+    "79": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "Asaph", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "Exile",
+      "era": "exile",
+      "topics": ["lament", "national-crisis", "temple-destruction"],
+      "events": ["Fall of Jerusalem"],
+      "keyVerses": [1, 9],
+      "crossReferences": [
+        {"book": "Lamentations", "chapter": 1, "label": "Jerusalem desolate"}
+      ]
+    },
+    "80": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "Asaph", "role": "author"},
+        {"name": "God", "role": "mentioned"},
+        {"name": "Joseph", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["lament", "restoration", "vine-metaphor"],
+      "events": [],
+      "keyVerses": [3, 7, 19],
+      "crossReferences": [
+        {"book": "John", "chapter": 15, "label": "I am the vine"}
+      ]
+    },
+    "81": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "Asaph", "role": "author"},
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Egypt"],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["praise", "warning", "obedience"],
+      "events": [],
+      "keyVerses": [10, 13],
+      "crossReferences": [
+        {"book": "Deuteronomy", "chapter": 5, "label": "I am the Lord who brought you out of Egypt"}
+      ]
+    },
+    "82": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "Asaph", "role": "author"},
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["justice", "judgment", "divine-council"],
+      "events": [],
+      "keyVerses": [6, 8],
+      "crossReferences": [
+        {"book": "John", "chapter": 10, "label": "I said ye are gods"}
+      ]
+    },
+    "83": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "Asaph", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": ["Edom", "Moab", "Tyre"],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["imprecatory", "national-crisis", "enemies"],
+      "events": [],
+      "keyVerses": [1, 18],
+      "crossReferences": [
+        {"book": "2 Chronicles", "chapter": 20, "label": "Coalition against Israel"}
+      ]
+    },
+    "84": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": ["Zion"],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["praise", "longing-for-god", "worship"],
+      "events": [],
+      "keyVerses": [1, 4, 10, 11],
+      "crossReferences": [
+        {"book": "Revelation", "chapter": 21, "label": "God's dwelling with man"}
+      ]
+    },
+    "85": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Post-exile",
+      "era": "post-exile",
+      "topics": ["praise", "restoration", "mercy"],
+      "events": [],
+      "keyVerses": [10],
+      "crossReferences": [
+        {"book": "Ezra", "chapter": 1, "label": "Return from captivity"}
+      ]
+    },
+    "86": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "David", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["lament", "prayer", "mercy"],
+      "events": [],
+      "keyVerses": [5, 11, 15],
+      "crossReferences": [
+        {"book": "Exodus", "chapter": 34, "label": "God merciful and gracious"}
+      ]
+    },
+    "87": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": ["Zion", "Rahab", "Babylon", "Philistia", "Tyre", "Ethiopia"],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["praise", "zion", "nations"],
+      "events": [],
+      "keyVerses": [3],
+      "crossReferences": [
+        {"book": "Galatians", "chapter": 4, "label": "Jerusalem which is above"}
+      ]
+    },
+    "88": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["lament", "despair", "death"],
+      "events": [],
+      "keyVerses": [1, 14],
+      "crossReferences": [
+        {"book": "Lamentations", "chapter": 3, "label": "Depths of despair"}
+      ]
+    },
+    "89": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "David", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["royal", "covenant", "lament"],
+      "events": [],
+      "keyVerses": [1, 3, 4],
+      "crossReferences": [
+        {"book": "2 Samuel", "chapter": 7, "label": "Davidic covenant"},
+        {"book": "Acts", "chapter": 2, "label": "Christ on David's throne"}
+      ]
+    },
+    "90": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "Moses", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Exodus period",
+      "era": "exodus",
+      "topics": ["wisdom-psalm", "brevity-of-life", "eternity-of-god"],
+      "events": [],
+      "keyVerses": [2, 4, 12],
+      "crossReferences": [
+        {"book": "2 Peter", "chapter": 3, "label": "A thousand years as one day"},
+        {"book": "James", "chapter": 4, "label": "Life is a vapor"}
+      ]
+    },
+    "91": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["trust", "protection", "refuge"],
+      "events": [],
+      "keyVerses": [1, 2, 11],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 4, "label": "Satan quotes this psalm in temptation"},
+        {"book": "Luke", "chapter": 4, "label": "Angels charge over thee"}
+      ]
+    },
+    "92": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["thanksgiving", "sabbath", "praise"],
+      "events": [],
+      "keyVerses": [1, 12],
+      "crossReferences": [
+        {"book": "Jeremiah", "chapter": 17, "label": "Planted by the waters"}
+      ]
+    },
+    "93": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["praise", "kingship-of-god", "sovereignty"],
+      "events": [],
+      "keyVerses": [1, 4],
+      "crossReferences": [
+        {"book": "Revelation", "chapter": 19, "label": "The Lord reigns"}
+      ]
+    },
+    "94": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["imprecatory", "justice", "vengeance"],
+      "events": [],
+      "keyVerses": [1, 12],
+      "crossReferences": [
+        {"book": "Romans", "chapter": 12, "label": "Vengeance belongs to the Lord"},
+        {"book": "Hebrews", "chapter": 10, "label": "The Lord will judge his people"}
+      ]
+    },
+    "95": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["praise", "worship", "warning"],
+      "events": [],
+      "keyVerses": [1, 6, 7, 8],
+      "crossReferences": [
+        {"book": "Hebrews", "chapter": 3, "label": "Today if ye will hear his voice"},
+        {"book": "Hebrews", "chapter": 4, "label": "Rest for the people of God"}
+      ]
+    },
+    "96": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["praise", "worship", "missions"],
+      "events": [],
+      "keyVerses": [1, 3, 10],
+      "crossReferences": [
+        {"book": "1 Chronicles", "chapter": 16, "label": "Parallel passage"}
+      ]
+    },
+    "97": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": ["Zion"],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["praise", "kingship-of-god", "judgment"],
+      "events": [],
+      "keyVerses": [1, 10],
+      "crossReferences": [
+        {"book": "Hebrews", "chapter": 1, "label": "Let all the angels worship him"}
+      ]
+    },
+    "98": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["praise", "salvation", "kingship-of-god"],
+      "events": [],
+      "keyVerses": [1, 4],
+      "crossReferences": [
+        {"book": "Revelation", "chapter": 5, "label": "New song unto the Lord"}
+      ]
+    },
+    "99": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "God", "role": "mentioned"},
+        {"name": "Moses", "role": "mentioned"},
+        {"name": "Aaron", "role": "mentioned"},
+        {"name": "Samuel", "role": "mentioned"}
+      ],
+      "locations": ["Zion"],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["praise", "holiness", "kingship-of-god"],
+      "events": [],
+      "keyVerses": [1, 3, 9],
+      "crossReferences": [
+        {"book": "Isaiah", "chapter": 6, "label": "Holy holy holy"}
+      ]
+    },
+    "100": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["praise", "thanksgiving", "worship"],
+      "events": [],
+      "keyVerses": [3, 4, 5],
+      "crossReferences": [
+        {"book": "Ephesians", "chapter": 2, "label": "We are his workmanship"}
+      ]
+    },
+    "101": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "David", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["royal", "integrity", "righteousness"],
+      "events": [],
+      "keyVerses": [2, 3],
+      "crossReferences": [
+        {"book": "Proverbs", "chapter": 20, "label": "King on the throne of judgment"}
+      ]
+    },
+    "102": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": ["Zion"],
+      "timePeriod": "Exile",
+      "era": "exile",
+      "topics": ["lament", "penitential", "eternity-of-god"],
+      "events": [],
+      "keyVerses": [25, 26, 27],
+      "crossReferences": [
+        {"book": "Hebrews", "chapter": 1, "label": "Heavens are the work of thy hands"}
+      ]
+    },
+    "103": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "David", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["praise", "mercy", "forgiveness"],
+      "events": [],
+      "keyVerses": [1, 8, 12],
+      "crossReferences": [
+        {"book": "James", "chapter": 5, "label": "The Lord is compassionate and merciful"},
+        {"book": "Exodus", "chapter": 34, "label": "Slow to anger, abounding in love"}
+      ]
+    },
+    "104": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["praise", "creation", "providence"],
+      "events": [],
+      "keyVerses": [1, 24, 33],
+      "crossReferences": [
+        {"book": "Genesis", "chapter": 1, "label": "Creation account"},
+        {"book": "Hebrews", "chapter": 1, "label": "Angels as winds and flames"}
+      ]
+    },
+    "105": {
+      "genre": ["poetry", "narrative"],
+      "people": [
+        {"name": "God", "role": "mentioned"},
+        {"name": "Abraham", "role": "mentioned"},
+        {"name": "Joseph", "role": "mentioned"},
+        {"name": "Moses", "role": "mentioned"},
+        {"name": "Aaron", "role": "mentioned"}
+      ],
+      "locations": ["Egypt", "Canaan"],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["praise", "history", "covenant"],
+      "events": ["Retelling of patriarchal history and Exodus"],
+      "keyVerses": [1, 8],
+      "crossReferences": [
+        {"book": "1 Chronicles", "chapter": 16, "label": "Parallel passage"}
+      ]
+    },
+    "106": {
+      "genre": ["poetry", "narrative"],
+      "people": [
+        {"name": "God", "role": "mentioned"},
+        {"name": "Moses", "role": "mentioned"},
+        {"name": "Aaron", "role": "mentioned"},
+        {"name": "Phinehas", "role": "mentioned"}
+      ],
+      "locations": ["Egypt", "Red Sea"],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["history", "confession", "faithfulness"],
+      "events": ["Retelling of Israel's rebellions"],
+      "keyVerses": [1, 6, 48],
+      "crossReferences": [
+        {"book": "Romans", "chapter": 1, "label": "Exchanged glory of God for images"}
+      ]
+    },
+    "107": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Post-exile",
+      "era": "post-exile",
+      "topics": ["thanksgiving", "deliverance", "mercy"],
+      "events": [],
+      "keyVerses": [1, 8],
+      "crossReferences": [
+        {"book": "Isaiah", "chapter": 43, "label": "Gathered from east and west"}
+      ]
+    },
+    "108": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "David", "role": "author"},
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Shechem", "Succoth", "Moab", "Edom"],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["praise", "victory", "trust"],
+      "events": [],
+      "keyVerses": [5, 13],
+      "crossReferences": [
+        {"book": "Psalms", "chapter": 57, "label": "Parallel passage"},
+        {"book": "Psalms", "chapter": 60, "label": "Parallel passage"}
+      ]
+    },
+    "109": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "David", "role": "author"},
+        {"name": "God", "role": "mentioned"},
+        {"name": "Satan", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["imprecatory", "betrayal", "judgment"],
+      "events": [],
+      "keyVerses": [4, 8],
+      "crossReferences": [
+        {"book": "Acts", "chapter": 1, "label": "Let another take his office"}
+      ]
+    },
+    "110": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "David", "role": "author"},
+        {"name": "God", "role": "speaker"},
+        {"name": "Melchizedek", "role": "mentioned"}
+      ],
+      "locations": ["Zion"],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["messianic", "royal", "priesthood"],
+      "events": [],
+      "keyVerses": [1, 4],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 22, "label": "The Lord said unto my Lord"},
+        {"book": "Hebrews", "chapter": 5, "label": "Priest after the order of Melchizedek"},
+        {"book": "Hebrews", "chapter": 7, "label": "Melchizedek priesthood"}
+      ]
+    },
+    "111": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["praise", "wisdom-psalm", "covenant"],
+      "events": [],
+      "keyVerses": [10],
+      "crossReferences": [
+        {"book": "Proverbs", "chapter": 9, "label": "Fear of the Lord is the beginning of wisdom"}
+      ]
+    },
+    "112": {
+      "genre": ["poetry", "wisdom"],
+      "people": [
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["wisdom-psalm", "blessing", "righteousness"],
+      "events": [],
+      "keyVerses": [1, 4],
+      "crossReferences": [
+        {"book": "2 Corinthians", "chapter": 9, "label": "He has distributed to the poor"}
+      ]
+    },
+    "113": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["praise", "sovereignty", "humility-of-god"],
+      "events": [],
+      "keyVerses": [3, 5, 6],
+      "crossReferences": [
+        {"book": "Luke", "chapter": 1, "label": "Magnificat echoes this psalm"}
+      ]
+    },
+    "114": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": ["Egypt", "Judah", "Jordan"],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["praise", "exodus", "divine-power"],
+      "events": ["Exodus from Egypt", "Jordan crossing"],
+      "keyVerses": [1, 7, 8],
+      "crossReferences": [
+        {"book": "Exodus", "chapter": 14, "label": "Parting of the Red Sea"},
+        {"book": "Joshua", "chapter": 3, "label": "Jordan crossing"}
+      ]
+    },
+    "115": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["praise", "idolatry", "trust"],
+      "events": [],
+      "keyVerses": [1, 3],
+      "crossReferences": [
+        {"book": "Isaiah", "chapter": 44, "label": "Futility of idols"}
+      ]
+    },
+    "116": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["thanksgiving", "deliverance", "devotion"],
+      "events": [],
+      "keyVerses": [1, 15],
+      "crossReferences": [
+        {"book": "2 Corinthians", "chapter": 4, "label": "I believed therefore I spoke"}
+      ]
+    },
+    "117": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["praise", "missions", "mercy"],
+      "events": [],
+      "keyVerses": [1, 2],
+      "crossReferences": [
+        {"book": "Romans", "chapter": 15, "label": "Praise the Lord all ye Gentiles"}
+      ]
+    },
+    "118": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["thanksgiving", "messianic", "deliverance"],
+      "events": [],
+      "keyVerses": [6, 22, 24],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 21, "label": "The stone the builders rejected"},
+        {"book": "Acts", "chapter": 4, "label": "Stone which builders rejected"}
+      ]
+    },
+    "119": {
+      "genre": ["poetry", "wisdom"],
+      "people": [
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["wisdom-psalm", "law-of-god", "obedience"],
+      "events": [],
+      "keyVerses": [11, 105, 130],
+      "crossReferences": [
+        {"book": "Joshua", "chapter": 1, "label": "Meditating on the law day and night"},
+        {"book": "2 Timothy", "chapter": 3, "label": "All scripture is profitable"}
+      ]
+    },
+    "120": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": ["Mesech", "Kedar"],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["lament", "deception", "pilgrimage"],
+      "events": [],
+      "keyVerses": [1, 2],
+      "crossReferences": [
+        {"book": "James", "chapter": 3, "label": "Tongue is a fire"}
+      ]
+    },
+    "121": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["trust", "protection", "pilgrimage"],
+      "events": [],
+      "keyVerses": [1, 2, 7],
+      "crossReferences": [
+        {"book": "Isaiah", "chapter": 40, "label": "Creator of heaven and earth"}
+      ]
+    },
+    "122": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "David", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["praise", "pilgrimage", "peace"],
+      "events": [],
+      "keyVerses": [1, 6],
+      "crossReferences": [
+        {"book": "Isaiah", "chapter": 2, "label": "Going up to the house of the Lord"}
+      ]
+    },
+    "123": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["lament", "mercy", "pilgrimage"],
+      "events": [],
+      "keyVerses": [1, 2],
+      "crossReferences": [
+        {"book": "Colossians", "chapter": 3, "label": "Set your eyes on things above"}
+      ]
+    },
+    "124": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "David", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["thanksgiving", "deliverance", "pilgrimage"],
+      "events": [],
+      "keyVerses": [1, 8],
+      "crossReferences": [
+        {"book": "Romans", "chapter": 8, "label": "If God is for us"}
+      ]
+    },
+    "125": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": ["Zion", "Jerusalem"],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["trust", "protection", "pilgrimage"],
+      "events": [],
+      "keyVerses": [1, 2],
+      "crossReferences": [
+        {"book": "Isaiah", "chapter": 26, "label": "Trust in the Lord forever"}
+      ]
+    },
+    "126": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": ["Zion"],
+      "timePeriod": "Post-exile",
+      "era": "post-exile",
+      "topics": ["thanksgiving", "restoration", "pilgrimage"],
+      "events": ["Return from captivity"],
+      "keyVerses": [5, 6],
+      "crossReferences": [
+        {"book": "Ezra", "chapter": 1, "label": "Return from Babylon"}
+      ]
+    },
+    "127": {
+      "genre": ["poetry", "wisdom"],
+      "people": [
+        {"name": "Solomon", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["wisdom-psalm", "family", "trust"],
+      "events": [],
+      "keyVerses": [1, 3],
+      "crossReferences": [
+        {"book": "Proverbs", "chapter": 10, "label": "Blessing of the Lord makes rich"}
+      ]
+    },
+    "128": {
+      "genre": ["poetry", "wisdom"],
+      "people": [
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": ["Zion", "Jerusalem"],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["wisdom-psalm", "blessing", "family"],
+      "events": [],
+      "keyVerses": [1, 3],
+      "crossReferences": [
+        {"book": "Proverbs", "chapter": 31, "label": "Blessed household"}
+      ]
+    },
+    "129": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": ["Zion"],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["lament", "deliverance", "pilgrimage"],
+      "events": [],
+      "keyVerses": [1, 4],
+      "crossReferences": [
+        {"book": "Isaiah", "chapter": 50, "label": "Plowers plowed upon my back"}
+      ]
+    },
+    "130": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["penitential", "forgiveness", "hope"],
+      "events": [],
+      "keyVerses": [1, 3, 4],
+      "crossReferences": [
+        {"book": "Romans", "chapter": 8, "label": "No condemnation"},
+        {"book": "Micah", "chapter": 7, "label": "Who is a God like thee that pardons"}
+      ]
+    },
+    "131": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "David", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["trust", "humility", "pilgrimage"],
+      "events": [],
+      "keyVerses": [1, 2],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 18, "label": "Become as little children"}
+      ]
+    },
+    "132": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "David", "role": "mentioned"},
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Zion", "Ephratah"],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["royal", "covenant", "temple"],
+      "events": ["Ark brought to Jerusalem"],
+      "keyVerses": [11, 13, 14],
+      "crossReferences": [
+        {"book": "2 Samuel", "chapter": 7, "label": "Davidic covenant"},
+        {"book": "Acts", "chapter": 2, "label": "Oath sworn to David"}
+      ]
+    },
+    "133": {
+      "genre": ["poetry", "wisdom"],
+      "people": [
+        {"name": "David", "role": "author"},
+        {"name": "Aaron", "role": "mentioned"}
+      ],
+      "locations": ["Zion", "Hermon"],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["wisdom-psalm", "unity", "blessing"],
+      "events": [],
+      "keyVerses": [1],
+      "crossReferences": [
+        {"book": "John", "chapter": 17, "label": "That they may be one"}
+      ]
+    },
+    "134": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": ["Zion"],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["praise", "worship", "pilgrimage"],
+      "events": [],
+      "keyVerses": [1, 3],
+      "crossReferences": [
+        {"book": "1 Timothy", "chapter": 2, "label": "Lifting holy hands"}
+      ]
+    },
+    "135": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": ["Egypt", "Zion"],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["praise", "sovereignty", "idolatry"],
+      "events": [],
+      "keyVerses": [3, 6],
+      "crossReferences": [
+        {"book": "Isaiah", "chapter": 44, "label": "Futility of idols"}
+      ]
+    },
+    "136": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": ["Egypt", "Red Sea"],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["praise", "history", "mercy"],
+      "events": ["Creation", "Exodus", "Conquest"],
+      "keyVerses": [1, 26],
+      "crossReferences": [
+        {"book": "Ezra", "chapter": 3, "label": "His mercy endures forever"}
+      ]
+    },
+    "137": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": ["Babylon", "Zion", "Jerusalem"],
+      "timePeriod": "Exile",
+      "era": "exile",
+      "topics": ["lament", "exile", "imprecatory"],
+      "events": ["Babylonian exile"],
+      "keyVerses": [1, 4, 5],
+      "crossReferences": [
+        {"book": "Jeremiah", "chapter": 29, "label": "Exile in Babylon"}
+      ]
+    },
+    "138": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "David", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["thanksgiving", "praise", "faithfulness"],
+      "events": [],
+      "keyVerses": [2, 6],
+      "crossReferences": [
+        {"book": "Isaiah", "chapter": 57, "label": "God dwells with the lowly"}
+      ]
+    },
+    "139": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "David", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["praise", "omniscience", "creation"],
+      "events": [],
+      "keyVerses": [1, 13, 14, 23, 24],
+      "crossReferences": [
+        {"book": "Jeremiah", "chapter": 1, "label": "Formed in the womb"},
+        {"book": "Hebrews", "chapter": 4, "label": "All things naked before God"}
+      ]
+    },
+    "140": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "David", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["lament", "protection", "imprecatory"],
+      "events": [],
+      "keyVerses": [1, 12],
+      "crossReferences": [
+        {"book": "Romans", "chapter": 3, "label": "Poison of asps under their lips"}
+      ]
+    },
+    "141": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "David", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["lament", "prayer", "self-control"],
+      "events": [],
+      "keyVerses": [2, 3],
+      "crossReferences": [
+        {"book": "Revelation", "chapter": 8, "label": "Prayers as incense"}
+      ]
+    },
+    "142": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "David", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["lament", "loneliness", "refuge"],
+      "events": [],
+      "keyVerses": [5, 7],
+      "crossReferences": [
+        {"book": "1 Samuel", "chapter": 22, "label": "David in the cave of Adullam"}
+      ]
+    },
+    "143": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "David", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["penitential", "guidance", "lament"],
+      "events": [],
+      "keyVerses": [2, 8, 10],
+      "crossReferences": [
+        {"book": "Romans", "chapter": 3, "label": "No man justified in God's sight"}
+      ]
+    },
+    "144": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "David", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["royal", "praise", "blessing"],
+      "events": [],
+      "keyVerses": [1, 3, 15],
+      "crossReferences": [
+        {"book": "Psalms", "chapter": 8, "label": "What is man that you regard him"}
+      ]
+    },
+    "145": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "David", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["praise", "sovereignty", "goodness-of-god"],
+      "events": [],
+      "keyVerses": [3, 8, 9, 18],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 6, "label": "Thine is the kingdom"}
+      ]
+    },
+    "146": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": ["Zion"],
+      "timePeriod": "Post-exile",
+      "era": "post-exile",
+      "topics": ["praise", "trust", "justice"],
+      "events": [],
+      "keyVerses": [3, 5],
+      "crossReferences": [
+        {"book": "Luke", "chapter": 4, "label": "Jesus reads of freeing prisoners"}
+      ]
+    },
+    "147": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem", "Zion"],
+      "timePeriod": "Post-exile",
+      "era": "post-exile",
+      "topics": ["praise", "restoration", "creation"],
+      "events": [],
+      "keyVerses": [3, 4, 5],
+      "crossReferences": [
+        {"book": "Isaiah", "chapter": 40, "label": "He heals the brokenhearted"}
+      ]
+    },
+    "148": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Post-exile",
+      "era": "post-exile",
+      "topics": ["praise", "creation", "worship"],
+      "events": [],
+      "keyVerses": [1, 5, 13],
+      "crossReferences": [
+        {"book": "Revelation", "chapter": 5, "label": "All creation praising God"}
+      ]
+    },
+    "149": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": ["Zion"],
+      "timePeriod": "Post-exile",
+      "era": "post-exile",
+      "topics": ["praise", "victory", "worship"],
+      "events": [],
+      "keyVerses": [1, 4],
+      "crossReferences": [
+        {"book": "Revelation", "chapter": 19, "label": "Sword of the Spirit"}
+      ]
+    },
+    "150": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Post-exile",
+      "era": "post-exile",
+      "topics": ["praise", "worship", "doxology"],
+      "events": [],
+      "keyVerses": [6],
+      "crossReferences": [
+        {"book": "Revelation", "chapter": 5, "label": "Every creature praising God"}
+      ]
+    }
+  }
+}

@@ -1,0 +1,695 @@
+{
+  "book": "Exodus",
+  "bookSlug": "02.exodus",
+  "testament": "1.old-testament",
+  "chapters": {
+    "1": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Pharaoh", "role": "antagonist"},
+        {"name": "Joseph", "role": "mentioned"},
+        {"name": "Shiphrah", "role": "protagonist"},
+        {"name": "Puah", "role": "protagonist"}
+      ],
+      "locations": ["Egypt", "Pithom", "Raamses"],
+      "timePeriod": "Israel in Egypt",
+      "era": "exodus",
+      "topics": ["oppression", "courage", "multiplication"],
+      "events": ["Israel multiplies in Egypt", "New Pharaoh enslaves Israel", "Hebrew midwives defy Pharaoh's order to kill baby boys"],
+      "keyVerses": [8, 17, 22],
+      "crossReferences": [
+        {"book": "Acts", "chapter": 7, "label": "A king who did not know Joseph"},
+        {"book": "Genesis", "chapter": 15, "label": "Prophecy of 400 years of affliction"}
+      ]
+    },
+    "2": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Moses", "role": "protagonist"},
+        {"name": "Pharaoh", "role": "antagonist"},
+        {"name": "Miriam", "role": "mentioned"},
+        {"name": "Zipporah", "role": "mentioned"},
+        {"name": "Jethro", "role": "mentioned"}
+      ],
+      "locations": ["Egypt", "Midian"],
+      "timePeriod": "Birth of Moses",
+      "era": "exodus",
+      "topics": ["providence", "deliverance", "exile"],
+      "events": ["Birth and rescue of Moses", "Moses kills an Egyptian and flees to Midian", "Moses marries Zipporah"],
+      "keyVerses": [10, 24, 25],
+      "crossReferences": [
+        {"book": "Acts", "chapter": 7, "label": "Moses was learned in all the wisdom of the Egyptians"},
+        {"book": "Hebrews", "chapter": 11, "label": "By faith Moses was hidden three months"}
+      ]
+    },
+    "3": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "God", "role": "protagonist"},
+        {"name": "Moses", "role": "protagonist"}
+      ],
+      "locations": ["Horeb", "Midian"],
+      "timePeriod": "Call of Moses",
+      "era": "exodus",
+      "topics": ["calling", "holiness", "identity-of-god"],
+      "events": ["The burning bush", "God reveals his name I AM", "God commissions Moses to deliver Israel"],
+      "keyVerses": [5, 14],
+      "crossReferences": [
+        {"book": "John", "chapter": 8, "label": "Before Abraham was, I AM"},
+        {"book": "Acts", "chapter": 7, "label": "An angel appeared to Moses in a flame of fire in a bush"}
+      ]
+    },
+    "4": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "God", "role": "protagonist"},
+        {"name": "Moses", "role": "protagonist"},
+        {"name": "Aaron", "role": "protagonist"},
+        {"name": "Zipporah", "role": "mentioned"}
+      ],
+      "locations": ["Midian", "Egypt"],
+      "timePeriod": "Call of Moses",
+      "era": "exodus",
+      "topics": ["obedience", "signs", "calling"],
+      "events": ["God gives Moses three signs", "Aaron appointed as Moses' spokesman", "Moses returns to Egypt"],
+      "keyVerses": [11, 22, 31],
+      "crossReferences": [
+        {"book": "Romans", "chapter": 9, "label": "Who are you to answer back to God?"}
+      ]
+    },
+    "5": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Moses", "role": "protagonist"},
+        {"name": "Aaron", "role": "protagonist"},
+        {"name": "Pharaoh", "role": "antagonist"}
+      ],
+      "locations": ["Egypt"],
+      "timePeriod": "Confrontation with Pharaoh",
+      "era": "exodus",
+      "topics": ["oppression", "resistance", "faith"],
+      "events": ["Moses and Aaron confront Pharaoh", "Pharaoh increases Israel's burden - bricks without straw"],
+      "keyVerses": [1, 2],
+      "crossReferences": [
+        {"book": "Exodus", "chapter": 3, "label": "God foretold Pharaoh would not let them go"}
+      ]
+    },
+    "6": {
+      "genre": ["narrative", "genealogy"],
+      "people": [
+        {"name": "God", "role": "protagonist"},
+        {"name": "Moses", "role": "protagonist"},
+        {"name": "Aaron", "role": "mentioned"}
+      ],
+      "locations": ["Egypt"],
+      "timePeriod": "Before the plagues",
+      "era": "exodus",
+      "topics": ["covenant", "promise", "identity-of-god"],
+      "events": ["God reaffirms covenant promises", "Genealogy of Moses and Aaron"],
+      "keyVerses": [2, 6, 7],
+      "crossReferences": [
+        {"book": "Genesis", "chapter": 17, "label": "God's covenant with Abraham"}
+      ]
+    },
+    "7": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "God", "role": "protagonist"},
+        {"name": "Moses", "role": "protagonist"},
+        {"name": "Aaron", "role": "protagonist"},
+        {"name": "Pharaoh", "role": "antagonist"}
+      ],
+      "locations": ["Egypt"],
+      "timePeriod": "The plagues",
+      "era": "exodus",
+      "topics": ["judgment", "hardness-of-heart", "power-of-god"],
+      "events": ["Aaron's rod becomes a serpent", "First plague: water turned to blood"],
+      "keyVerses": [3, 17],
+      "crossReferences": [
+        {"book": "Revelation", "chapter": 16, "label": "Water turned to blood"}
+      ]
+    },
+    "8": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "God", "role": "protagonist"},
+        {"name": "Moses", "role": "protagonist"},
+        {"name": "Aaron", "role": "protagonist"},
+        {"name": "Pharaoh", "role": "antagonist"}
+      ],
+      "locations": ["Egypt"],
+      "timePeriod": "The plagues",
+      "era": "exodus",
+      "topics": ["judgment", "hardness-of-heart", "power-of-god"],
+      "events": ["Second plague: frogs", "Third plague: lice", "Fourth plague: flies"],
+      "keyVerses": [10, 19, 32],
+      "crossReferences": [
+        {"book": "Psalms", "chapter": 78, "label": "He sent swarms of flies and frogs"}
+      ]
+    },
+    "9": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "God", "role": "protagonist"},
+        {"name": "Moses", "role": "protagonist"},
+        {"name": "Pharaoh", "role": "antagonist"}
+      ],
+      "locations": ["Egypt", "Goshen"],
+      "timePeriod": "The plagues",
+      "era": "exodus",
+      "topics": ["judgment", "hardness-of-heart", "sovereignty"],
+      "events": ["Fifth plague: livestock disease", "Sixth plague: boils", "Seventh plague: hail"],
+      "keyVerses": [16, 27],
+      "crossReferences": [
+        {"book": "Romans", "chapter": 9, "label": "For this purpose I raised you up to show my power"}
+      ]
+    },
+    "10": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "God", "role": "protagonist"},
+        {"name": "Moses", "role": "protagonist"},
+        {"name": "Aaron", "role": "mentioned"},
+        {"name": "Pharaoh", "role": "antagonist"}
+      ],
+      "locations": ["Egypt"],
+      "timePeriod": "The plagues",
+      "era": "exodus",
+      "topics": ["judgment", "hardness-of-heart", "power-of-god"],
+      "events": ["Eighth plague: locusts", "Ninth plague: darkness"],
+      "keyVerses": [2, 21],
+      "crossReferences": [
+        {"book": "Revelation", "chapter": 9, "label": "Locusts as instruments of judgment"}
+      ]
+    },
+    "11": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "God", "role": "protagonist"},
+        {"name": "Moses", "role": "protagonist"},
+        {"name": "Pharaoh", "role": "antagonist"}
+      ],
+      "locations": ["Egypt"],
+      "timePeriod": "Before the Passover",
+      "era": "exodus",
+      "topics": ["judgment", "warning", "death"],
+      "events": ["God announces the tenth plague: death of the firstborn"],
+      "keyVerses": [1, 5],
+      "crossReferences": [
+        {"book": "Hebrews", "chapter": 11, "label": "By faith Moses kept the Passover"}
+      ]
+    },
+    "12": {
+      "genre": ["narrative", "law"],
+      "people": [
+        {"name": "God", "role": "protagonist"},
+        {"name": "Moses", "role": "protagonist"},
+        {"name": "Aaron", "role": "mentioned"},
+        {"name": "Pharaoh", "role": "antagonist"}
+      ],
+      "locations": ["Egypt", "Rameses", "Succoth"],
+      "timePeriod": "The Exodus",
+      "era": "exodus",
+      "topics": ["passover", "deliverance", "sacrifice", "redemption"],
+      "events": ["Institution of the Passover", "Death of the firstborn", "Israel departs from Egypt"],
+      "keyVerses": [13, 23, 42],
+      "crossReferences": [
+        {"book": "1 Corinthians", "chapter": 5, "label": "Christ our Passover is sacrificed for us"},
+        {"book": "John", "chapter": 1, "label": "Behold the Lamb of God"},
+        {"book": "1 Peter", "chapter": 1, "label": "Redeemed with the precious blood of Christ as a lamb"}
+      ]
+    },
+    "13": {
+      "genre": ["narrative", "law"],
+      "people": [
+        {"name": "God", "role": "protagonist"},
+        {"name": "Moses", "role": "protagonist"}
+      ],
+      "locations": ["Succoth", "Etham"],
+      "timePeriod": "The Exodus",
+      "era": "exodus",
+      "topics": ["firstborn", "remembrance", "guidance"],
+      "events": ["Consecration of the firstborn", "God leads Israel with pillar of cloud and fire"],
+      "keyVerses": [2, 21, 22],
+      "crossReferences": [
+        {"book": "Luke", "chapter": 2, "label": "Every firstborn male shall be consecrated to the Lord"}
+      ]
+    },
+    "14": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "God", "role": "protagonist"},
+        {"name": "Moses", "role": "protagonist"},
+        {"name": "Pharaoh", "role": "antagonist"}
+      ],
+      "locations": ["Red Sea", "Pihahiroth"],
+      "timePeriod": "The Exodus",
+      "era": "exodus",
+      "topics": ["deliverance", "faith", "power-of-god"],
+      "events": ["Pharaoh pursues Israel", "Parting of the Red Sea", "Destruction of the Egyptian army"],
+      "keyVerses": [13, 14, 21],
+      "crossReferences": [
+        {"book": "Hebrews", "chapter": 11, "label": "By faith they passed through the Red Sea"},
+        {"book": "1 Corinthians", "chapter": 10, "label": "All passed through the sea"}
+      ]
+    },
+    "15": {
+      "genre": ["poetry", "narrative"],
+      "people": [
+        {"name": "Moses", "role": "speaker"},
+        {"name": "Miriam", "role": "speaker"},
+        {"name": "God", "role": "protagonist"}
+      ],
+      "locations": ["Red Sea", "Marah", "Elim"],
+      "timePeriod": "After the Red Sea crossing",
+      "era": "exodus",
+      "topics": ["worship", "victory", "praise"],
+      "events": ["Song of Moses celebrating victory at the Red Sea", "Miriam leads women in worship", "Bitter waters made sweet at Marah"],
+      "keyVerses": [1, 2, 26],
+      "crossReferences": [
+        {"book": "Revelation", "chapter": 15, "label": "They sing the song of Moses and the Lamb"}
+      ]
+    },
+    "16": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "God", "role": "protagonist"},
+        {"name": "Moses", "role": "protagonist"},
+        {"name": "Aaron", "role": "mentioned"}
+      ],
+      "locations": ["Wilderness of Sin"],
+      "timePeriod": "Wilderness wandering",
+      "era": "exodus",
+      "topics": ["provision", "trust", "sabbath"],
+      "events": ["God provides manna and quail", "Instructions for gathering manna and keeping the Sabbath"],
+      "keyVerses": [4, 15, 35],
+      "crossReferences": [
+        {"book": "John", "chapter": 6, "label": "I am the bread of life - manna from heaven"},
+        {"book": "Revelation", "chapter": 2, "label": "Hidden manna"}
+      ]
+    },
+    "17": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "God", "role": "protagonist"},
+        {"name": "Moses", "role": "protagonist"},
+        {"name": "Aaron", "role": "mentioned"},
+        {"name": "Joshua", "role": "protagonist"},
+        {"name": "Hur", "role": "mentioned"}
+      ],
+      "locations": ["Rephidim", "Horeb"],
+      "timePeriod": "Wilderness wandering",
+      "era": "exodus",
+      "topics": ["provision", "warfare", "intercession"],
+      "events": ["Water from the rock at Horeb", "Battle with Amalek - Moses' hands held up"],
+      "keyVerses": [6, 11, 15],
+      "crossReferences": [
+        {"book": "1 Corinthians", "chapter": 10, "label": "They drank from the spiritual rock that followed them"}
+      ]
+    },
+    "18": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Moses", "role": "protagonist"},
+        {"name": "Jethro", "role": "protagonist"},
+        {"name": "Zipporah", "role": "mentioned"}
+      ],
+      "locations": ["Wilderness", "Horeb"],
+      "timePeriod": "Wilderness wandering",
+      "era": "exodus",
+      "topics": ["wisdom", "leadership", "delegation"],
+      "events": ["Jethro visits Moses", "Jethro advises Moses to delegate judges"],
+      "keyVerses": [18, 21],
+      "crossReferences": [
+        {"book": "Deuteronomy", "chapter": 1, "label": "Moses appoints judges over the people"}
+      ]
+    },
+    "19": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "God", "role": "protagonist"},
+        {"name": "Moses", "role": "protagonist"}
+      ],
+      "locations": ["Sinai"],
+      "timePeriod": "At Sinai",
+      "era": "exodus",
+      "topics": ["covenant", "holiness", "theophany"],
+      "events": ["Israel arrives at Mount Sinai", "God descends on Sinai with thunder, lightning, and fire"],
+      "keyVerses": [5, 6, 18],
+      "crossReferences": [
+        {"book": "Hebrews", "chapter": 12, "label": "You have not come to a mountain that can be touched"},
+        {"book": "1 Peter", "chapter": 2, "label": "A royal priesthood, a holy nation"}
+      ]
+    },
+    "20": {
+      "genre": ["law"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Moses", "role": "protagonist"}
+      ],
+      "locations": ["Sinai"],
+      "timePeriod": "At Sinai",
+      "era": "exodus",
+      "topics": ["commandments", "law", "holiness", "worship"],
+      "events": ["God gives the Ten Commandments"],
+      "keyVerses": [2, 3, 12],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 5, "label": "Jesus interprets the commandments in the Sermon on the Mount"},
+        {"book": "Romans", "chapter": 13, "label": "Love is the fulfillment of the law"},
+        {"book": "Deuteronomy", "chapter": 5, "label": "Ten Commandments repeated"}
+      ]
+    },
+    "21": {
+      "genre": ["law"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Moses", "role": "recipient"}
+      ],
+      "locations": ["Sinai"],
+      "timePeriod": "At Sinai",
+      "era": "exodus",
+      "topics": ["law", "justice", "servitude"],
+      "events": ["Laws concerning servants, violence, and personal injury"],
+      "keyVerses": [24],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 5, "label": "You have heard it said, an eye for an eye"}
+      ]
+    },
+    "22": {
+      "genre": ["law"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Moses", "role": "recipient"}
+      ],
+      "locations": ["Sinai"],
+      "timePeriod": "At Sinai",
+      "era": "exodus",
+      "topics": ["law", "justice", "property", "compassion"],
+      "events": ["Laws concerning property, restitution, and social responsibility"],
+      "keyVerses": [21, 27],
+      "crossReferences": [
+        {"book": "James", "chapter": 2, "label": "Show no partiality"}
+      ]
+    },
+    "23": {
+      "genre": ["law"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Moses", "role": "recipient"}
+      ],
+      "locations": ["Sinai"],
+      "timePeriod": "At Sinai",
+      "era": "exodus",
+      "topics": ["law", "justice", "sabbath", "feasts"],
+      "events": ["Laws concerning justice, Sabbath year, and three annual feasts"],
+      "keyVerses": [2, 25],
+      "crossReferences": [
+        {"book": "Deuteronomy", "chapter": 16, "label": "Three times a year shall all males appear before the Lord"}
+      ]
+    },
+    "24": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "God", "role": "protagonist"},
+        {"name": "Moses", "role": "protagonist"},
+        {"name": "Aaron", "role": "mentioned"},
+        {"name": "Joshua", "role": "mentioned"}
+      ],
+      "locations": ["Sinai"],
+      "timePeriod": "At Sinai",
+      "era": "exodus",
+      "topics": ["covenant", "worship", "glory-of-god"],
+      "events": ["Covenant ratified with blood", "Moses and elders see God", "Moses ascends Sinai for forty days"],
+      "keyVerses": [7, 10, 17],
+      "crossReferences": [
+        {"book": "Hebrews", "chapter": 9, "label": "Not without blood - the blood of the covenant"}
+      ]
+    },
+    "25": {
+      "genre": ["law"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Moses", "role": "recipient"}
+      ],
+      "locations": ["Sinai"],
+      "timePeriod": "At Sinai",
+      "era": "exodus",
+      "topics": ["tabernacle", "offering", "worship"],
+      "events": ["Instructions for tabernacle offerings", "Design of the Ark of the Covenant, table, and lampstand"],
+      "keyVerses": [2, 8, 22],
+      "crossReferences": [
+        {"book": "Hebrews", "chapter": 9, "label": "The earthly tabernacle a copy of the heavenly"},
+        {"book": "Revelation", "chapter": 11, "label": "The ark of the covenant seen in heaven"}
+      ]
+    },
+    "26": {
+      "genre": ["law"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Moses", "role": "recipient"}
+      ],
+      "locations": ["Sinai"],
+      "timePeriod": "At Sinai",
+      "era": "exodus",
+      "topics": ["tabernacle", "worship", "holiness"],
+      "events": ["Instructions for the tabernacle curtains, boards, and veil"],
+      "keyVerses": [1, 33],
+      "crossReferences": [
+        {"book": "Hebrews", "chapter": 10, "label": "Through the veil, that is his flesh"}
+      ]
+    },
+    "27": {
+      "genre": ["law"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Moses", "role": "recipient"}
+      ],
+      "locations": ["Sinai"],
+      "timePeriod": "At Sinai",
+      "era": "exodus",
+      "topics": ["tabernacle", "sacrifice", "worship"],
+      "events": ["Instructions for the bronze altar, the courtyard, and the lampstand oil"],
+      "keyVerses": [1, 20],
+      "crossReferences": [
+        {"book": "Hebrews", "chapter": 13, "label": "We have an altar"}
+      ]
+    },
+    "28": {
+      "genre": ["law"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Moses", "role": "recipient"},
+        {"name": "Aaron", "role": "mentioned"}
+      ],
+      "locations": ["Sinai"],
+      "timePeriod": "At Sinai",
+      "era": "exodus",
+      "topics": ["priesthood", "holiness", "worship"],
+      "events": ["Instructions for priestly garments: ephod, breastplate, robe, and turban"],
+      "keyVerses": [1, 36],
+      "crossReferences": [
+        {"book": "Hebrews", "chapter": 7, "label": "Christ as high priest of a better covenant"}
+      ]
+    },
+    "29": {
+      "genre": ["law"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Moses", "role": "recipient"},
+        {"name": "Aaron", "role": "mentioned"}
+      ],
+      "locations": ["Sinai"],
+      "timePeriod": "At Sinai",
+      "era": "exodus",
+      "topics": ["priesthood", "consecration", "sacrifice"],
+      "events": ["Instructions for consecration of the priests"],
+      "keyVerses": [45, 46],
+      "crossReferences": [
+        {"book": "Hebrews", "chapter": 9, "label": "Without shedding of blood there is no remission"}
+      ]
+    },
+    "30": {
+      "genre": ["law"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Moses", "role": "recipient"}
+      ],
+      "locations": ["Sinai"],
+      "timePeriod": "At Sinai",
+      "era": "exodus",
+      "topics": ["worship", "incense", "atonement"],
+      "events": ["Instructions for altar of incense, census tax, laver, and anointing oil"],
+      "keyVerses": [12, 15],
+      "crossReferences": [
+        {"book": "Revelation", "chapter": 8, "label": "The smoke of the incense with the prayers of the saints"}
+      ]
+    },
+    "31": {
+      "genre": ["narrative", "law"],
+      "people": [
+        {"name": "God", "role": "protagonist"},
+        {"name": "Moses", "role": "protagonist"},
+        {"name": "Bezaleel", "role": "mentioned"},
+        {"name": "Aholiab", "role": "mentioned"}
+      ],
+      "locations": ["Sinai"],
+      "timePeriod": "At Sinai",
+      "era": "exodus",
+      "topics": ["craftsmanship", "sabbath", "spirit-of-god"],
+      "events": ["God appoints Bezaleel and Aholiab as craftsmen", "Sabbath commandment reiterated", "God gives Moses the tablets of stone"],
+      "keyVerses": [3, 13, 18],
+      "crossReferences": [
+        {"book": "Exodus", "chapter": 35, "label": "Bezaleel and Aholiab begin building the tabernacle"}
+      ]
+    },
+    "32": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "God", "role": "protagonist"},
+        {"name": "Moses", "role": "protagonist"},
+        {"name": "Aaron", "role": "antagonist"}
+      ],
+      "locations": ["Sinai"],
+      "timePeriod": "At Sinai",
+      "era": "exodus",
+      "topics": ["idolatry", "intercession", "judgment", "sin"],
+      "events": ["The golden calf", "Moses breaks the tablets of the law", "Moses intercedes for Israel"],
+      "keyVerses": [4, 14, 32],
+      "crossReferences": [
+        {"book": "Acts", "chapter": 7, "label": "They made a calf and offered sacrifice to the idol"},
+        {"book": "1 Corinthians", "chapter": 10, "label": "Do not be idolaters as some of them were"}
+      ]
+    },
+    "33": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "God", "role": "protagonist"},
+        {"name": "Moses", "role": "protagonist"}
+      ],
+      "locations": ["Sinai"],
+      "timePeriod": "At Sinai",
+      "era": "exodus",
+      "topics": ["presence-of-god", "intimacy", "glory-of-god"],
+      "events": ["God threatens to withdraw his presence", "Moses speaks with God face to face", "Moses asks to see God's glory"],
+      "keyVerses": [11, 15, 20],
+      "crossReferences": [
+        {"book": "2 Corinthians", "chapter": 3, "label": "We behold the glory of the Lord with unveiled face"}
+      ]
+    },
+    "34": {
+      "genre": ["narrative", "law"],
+      "people": [
+        {"name": "God", "role": "protagonist"},
+        {"name": "Moses", "role": "protagonist"}
+      ],
+      "locations": ["Sinai"],
+      "timePeriod": "At Sinai",
+      "era": "exodus",
+      "topics": ["covenant-renewal", "mercy", "glory-of-god"],
+      "events": ["God gives new tablets of the law", "God proclaims his name and character", "Moses' face shines"],
+      "keyVerses": [6, 7, 29],
+      "crossReferences": [
+        {"book": "2 Corinthians", "chapter": 3, "label": "The glory on Moses' face"},
+        {"book": "Psalms", "chapter": 103, "label": "The Lord is merciful and gracious"}
+      ]
+    },
+    "35": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Moses", "role": "protagonist"},
+        {"name": "Bezaleel", "role": "mentioned"},
+        {"name": "Aholiab", "role": "mentioned"}
+      ],
+      "locations": ["Sinai"],
+      "timePeriod": "At Sinai",
+      "era": "exodus",
+      "topics": ["generosity", "sabbath", "craftsmanship"],
+      "events": ["Sabbath commandment restated", "People bring offerings for the tabernacle"],
+      "keyVerses": [5, 21, 31],
+      "crossReferences": [
+        {"book": "2 Corinthians", "chapter": 9, "label": "God loves a cheerful giver"}
+      ]
+    },
+    "36": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Moses", "role": "mentioned"},
+        {"name": "Bezaleel", "role": "protagonist"},
+        {"name": "Aholiab", "role": "protagonist"}
+      ],
+      "locations": ["Sinai"],
+      "timePeriod": "At Sinai",
+      "era": "exodus",
+      "topics": ["tabernacle", "generosity", "craftsmanship"],
+      "events": ["Construction of the tabernacle begins", "People give more than enough"],
+      "keyVerses": [5, 6],
+      "crossReferences": [
+        {"book": "Exodus", "chapter": 26, "label": "Tabernacle design instructions now executed"}
+      ]
+    },
+    "37": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Bezaleel", "role": "protagonist"}
+      ],
+      "locations": ["Sinai"],
+      "timePeriod": "At Sinai",
+      "era": "exodus",
+      "topics": ["tabernacle", "craftsmanship", "worship"],
+      "events": ["Construction of the Ark, table, lampstand, and incense altar"],
+      "keyVerses": [1],
+      "crossReferences": [
+        {"book": "Hebrews", "chapter": 9, "label": "The ark of the covenant overlaid with gold"}
+      ]
+    },
+    "38": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Bezaleel", "role": "protagonist"}
+      ],
+      "locations": ["Sinai"],
+      "timePeriod": "At Sinai",
+      "era": "exodus",
+      "topics": ["tabernacle", "craftsmanship", "offering"],
+      "events": ["Construction of the bronze altar, laver, and courtyard", "Accounting of materials used"],
+      "keyVerses": [1, 24],
+      "crossReferences": [
+        {"book": "Exodus", "chapter": 27, "label": "Altar design instructions now executed"}
+      ]
+    },
+    "39": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Moses", "role": "protagonist"},
+        {"name": "Aaron", "role": "mentioned"}
+      ],
+      "locations": ["Sinai"],
+      "timePeriod": "At Sinai",
+      "era": "exodus",
+      "topics": ["priesthood", "obedience", "craftsmanship"],
+      "events": ["Making of the priestly garments", "All tabernacle work completed as the Lord commanded"],
+      "keyVerses": [32, 43],
+      "crossReferences": [
+        {"book": "Exodus", "chapter": 28, "label": "Priestly garment design instructions now executed"}
+      ]
+    },
+    "40": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "God", "role": "protagonist"},
+        {"name": "Moses", "role": "protagonist"},
+        {"name": "Aaron", "role": "mentioned"}
+      ],
+      "locations": ["Sinai"],
+      "timePeriod": "At Sinai",
+      "era": "exodus",
+      "topics": ["glory-of-god", "presence-of-god", "worship"],
+      "events": ["Moses erects the tabernacle", "The glory of the Lord fills the tabernacle", "Cloud and fire guide Israel"],
+      "keyVerses": [34, 35, 38],
+      "crossReferences": [
+        {"book": "John", "chapter": 1, "label": "The Word became flesh and tabernacled among us"},
+        {"book": "Revelation", "chapter": 21, "label": "The tabernacle of God is with men"}
+      ]
+    }
+  }
+}

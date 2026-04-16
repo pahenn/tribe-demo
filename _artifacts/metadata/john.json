@@ -1,0 +1,407 @@
+{
+  "book": "John",
+  "bookSlug": "43.john",
+  "testament": "2.new-testament",
+  "chapters": {
+    "1": {
+      "genre": ["gospel", "narrative"],
+      "people": [
+        {"name": "Jesus", "role": "protagonist"},
+        {"name": "John the Baptist", "role": "speaker"},
+        {"name": "Andrew", "role": "mentioned"},
+        {"name": "Peter", "role": "mentioned"},
+        {"name": "Philip", "role": "mentioned"},
+        {"name": "Nathanael", "role": "mentioned"}
+      ],
+      "locations": ["Bethabara", "Jordan", "Galilee", "Bethsaida", "Nazareth"],
+      "timePeriod": "Beginning of Ministry",
+      "era": "life-of-christ",
+      "topics": ["incarnation", "identity-of-christ", "calling-of-disciples"],
+      "events": ["The Word made flesh (Prologue)", "John the Baptist's testimony", "Lamb of God declaration", "Calling of Andrew, Peter, Philip, and Nathanael"],
+      "keyVerses": [1, 14, 29],
+      "crossReferences": [
+        {"book": "Genesis", "chapter": 1, "label": "In the beginning"},
+        {"book": "Matthew", "chapter": 3, "label": "Parallel John the Baptist testimony"}
+      ]
+    },
+    "2": {
+      "genre": ["gospel", "narrative"],
+      "people": [
+        {"name": "Jesus", "role": "protagonist"},
+        {"name": "Mary", "role": "mentioned"}
+      ],
+      "locations": ["Cana", "Galilee", "Capernaum", "Jerusalem"],
+      "timePeriod": "Early Ministry",
+      "era": "life-of-christ",
+      "topics": ["miracles", "authority", "temple"],
+      "events": ["Wedding at Cana - water turned to wine", "Cleansing of the Temple"],
+      "keyVerses": [11, 16, 19],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 21, "label": "Parallel temple cleansing"},
+        {"book": "Psalm", "chapter": 69, "label": "Zeal for thine house"}
+      ]
+    },
+    "3": {
+      "genre": ["gospel", "narrative"],
+      "people": [
+        {"name": "Jesus", "role": "speaker"},
+        {"name": "Nicodemus", "role": "mentioned"},
+        {"name": "John the Baptist", "role": "speaker"},
+        {"name": "Moses", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem", "Judaea"],
+      "timePeriod": "Early Ministry",
+      "era": "life-of-christ",
+      "topics": ["salvation", "new-birth", "eternal-life"],
+      "events": ["Nicodemus visits Jesus by night", "Teaching on being born again", "John 3:16", "John the Baptist's final testimony"],
+      "keyVerses": [3, 16, 30],
+      "crossReferences": [
+        {"book": "Numbers", "chapter": 21, "label": "Moses lifted up the serpent"},
+        {"book": "Romans", "chapter": 6, "label": "New birth theology"}
+      ]
+    },
+    "4": {
+      "genre": ["gospel", "narrative"],
+      "people": [
+        {"name": "Jesus", "role": "protagonist"},
+        {"name": "Jacob", "role": "mentioned"}
+      ],
+      "locations": ["Samaria", "Sychar", "Galilee", "Cana", "Capernaum"],
+      "timePeriod": "Early Ministry",
+      "era": "life-of-christ",
+      "topics": ["worship", "living-water", "miracles"],
+      "events": ["Woman at the well", "Many Samaritans believe", "Healing of nobleman's son at Capernaum"],
+      "keyVerses": [14, 24, 26],
+      "crossReferences": [
+        {"book": "Isaiah", "chapter": 12, "label": "Draw water from wells of salvation"},
+        {"book": "Matthew", "chapter": 8, "label": "Parallel healing at a distance"}
+      ]
+    },
+    "5": {
+      "genre": ["gospel", "narrative"],
+      "people": [
+        {"name": "Jesus", "role": "protagonist"},
+        {"name": "Moses", "role": "mentioned"},
+        {"name": "John the Baptist", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem", "Bethesda"],
+      "timePeriod": "Early Ministry",
+      "era": "life-of-christ",
+      "topics": ["sabbath", "authority", "judgment"],
+      "events": ["Healing at the Pool of Bethesda", "Discourse on the Son's authority"],
+      "keyVerses": [17, 24, 39],
+      "crossReferences": [
+        {"book": "Daniel", "chapter": 12, "label": "Resurrection of life and damnation"},
+        {"book": "Matthew", "chapter": 12, "label": "Parallel Sabbath controversy"}
+      ]
+    },
+    "6": {
+      "genre": ["gospel", "narrative"],
+      "people": [
+        {"name": "Jesus", "role": "protagonist"},
+        {"name": "Philip", "role": "mentioned"},
+        {"name": "Andrew", "role": "mentioned"},
+        {"name": "Peter", "role": "speaker"},
+        {"name": "Judas Iscariot", "role": "mentioned"},
+        {"name": "Moses", "role": "mentioned"}
+      ],
+      "locations": ["Galilee", "Tiberias", "Capernaum"],
+      "timePeriod": "Galilean Ministry",
+      "era": "life-of-christ",
+      "topics": ["miracles", "bread-of-life", "faith"],
+      "events": ["Feeding of the Five Thousand", "Jesus walks on water", "Bread of Life discourse", "Many disciples leave"],
+      "keyVerses": [35, 40, 68],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 14, "label": "Parallel feeding of 5000 and walking on water"},
+        {"book": "Exodus", "chapter": 16, "label": "Manna in the wilderness"}
+      ]
+    },
+    "7": {
+      "genre": ["gospel", "narrative"],
+      "people": [
+        {"name": "Jesus", "role": "protagonist"},
+        {"name": "Nicodemus", "role": "mentioned"},
+        {"name": "Moses", "role": "mentioned"}
+      ],
+      "locations": ["Galilee", "Jerusalem"],
+      "timePeriod": "Later Ministry",
+      "era": "life-of-christ",
+      "topics": ["identity-of-christ", "living-water", "division"],
+      "events": ["Jesus at Feast of Tabernacles", "Rivers of living water", "Division among the people", "Nicodemus defends Jesus"],
+      "keyVerses": [37, 38, 46],
+      "crossReferences": [
+        {"book": "Isaiah", "chapter": 55, "label": "Come to the waters"},
+        {"book": "Micah", "chapter": 5, "label": "Christ from Bethlehem reference"}
+      ]
+    },
+    "8": {
+      "genre": ["gospel", "narrative"],
+      "people": [
+        {"name": "Jesus", "role": "protagonist"},
+        {"name": "Abraham", "role": "mentioned"},
+        {"name": "Moses", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem", "Mount of Olives"],
+      "timePeriod": "Later Ministry",
+      "era": "life-of-christ",
+      "topics": ["forgiveness", "truth", "identity-of-christ"],
+      "events": ["Woman taken in adultery", "I am the light of the world", "The truth shall make you free", "Before Abraham was, I am"],
+      "keyVerses": [7, 32, 58],
+      "crossReferences": [
+        {"book": "Exodus", "chapter": 3, "label": "I AM declaration"},
+        {"book": "Isaiah", "chapter": 9, "label": "Light of the world"}
+      ]
+    },
+    "9": {
+      "genre": ["gospel", "narrative"],
+      "people": [
+        {"name": "Jesus", "role": "protagonist"},
+        {"name": "Moses", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem", "Siloam"],
+      "timePeriod": "Later Ministry",
+      "era": "life-of-christ",
+      "topics": ["miracles", "sabbath", "spiritual-blindness"],
+      "events": ["Healing of the man born blind", "Pharisees investigate the healing", "The healed man's testimony and worship"],
+      "keyVerses": [5, 25, 39],
+      "crossReferences": [
+        {"book": "Isaiah", "chapter": 42, "label": "Opening the eyes of the blind"},
+        {"book": "Matthew", "chapter": 9, "label": "Parallel healings of the blind"}
+      ]
+    },
+    "10": {
+      "genre": ["gospel"],
+      "people": [
+        {"name": "Jesus", "role": "speaker"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "Later Ministry",
+      "era": "life-of-christ",
+      "topics": ["good-shepherd", "eternal-life", "identity-of-christ"],
+      "events": ["I am the Good Shepherd discourse", "I and my Father are one", "Jews attempt to stone Jesus"],
+      "keyVerses": [10, 11, 30],
+      "crossReferences": [
+        {"book": "Psalm", "chapter": 23, "label": "The Lord is my shepherd"},
+        {"book": "Ezekiel", "chapter": 34, "label": "God as shepherd of Israel"}
+      ]
+    },
+    "11": {
+      "genre": ["gospel", "narrative"],
+      "people": [
+        {"name": "Jesus", "role": "protagonist"},
+        {"name": "Lazarus", "role": "mentioned"},
+        {"name": "Martha", "role": "mentioned"},
+        {"name": "Mary", "role": "mentioned"},
+        {"name": "Thomas", "role": "mentioned"},
+        {"name": "Caiaphas", "role": "mentioned"}
+      ],
+      "locations": ["Bethany", "Jerusalem", "Ephraim"],
+      "timePeriod": "Later Ministry",
+      "era": "life-of-christ",
+      "topics": ["resurrection", "miracles", "faith"],
+      "events": ["Death of Lazarus", "I am the resurrection and the life", "Jesus weeps", "Raising of Lazarus", "Plot to kill Jesus"],
+      "keyVerses": [25, 35, 43],
+      "crossReferences": [
+        {"book": "Romans", "chapter": 8, "label": "Life and resurrection"},
+        {"book": "Ezekiel", "chapter": 37, "label": "Dry bones resurrection imagery"}
+      ]
+    },
+    "12": {
+      "genre": ["gospel", "narrative"],
+      "people": [
+        {"name": "Jesus", "role": "protagonist"},
+        {"name": "Mary", "role": "mentioned"},
+        {"name": "Lazarus", "role": "mentioned"},
+        {"name": "Martha", "role": "mentioned"},
+        {"name": "Judas Iscariot", "role": "mentioned"},
+        {"name": "Philip", "role": "mentioned"},
+        {"name": "Andrew", "role": "mentioned"}
+      ],
+      "locations": ["Bethany", "Jerusalem"],
+      "timePeriod": "Passion Week",
+      "era": "life-of-christ",
+      "topics": ["triumphal-entry", "sacrifice", "unbelief"],
+      "events": ["Mary anoints Jesus' feet", "Triumphal Entry", "Greeks seek Jesus", "Grain of wheat teaching", "Unbelief of the Jews"],
+      "keyVerses": [24, 32, 46],
+      "crossReferences": [
+        {"book": "Zechariah", "chapter": 9, "label": "King coming on a donkey"},
+        {"book": "Isaiah", "chapter": 53, "label": "Who hath believed our report"}
+      ]
+    },
+    "13": {
+      "genre": ["gospel", "narrative"],
+      "people": [
+        {"name": "Jesus", "role": "protagonist"},
+        {"name": "Peter", "role": "mentioned"},
+        {"name": "Judas Iscariot", "role": "antagonist"},
+        {"name": "John", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "Passion Week",
+      "era": "life-of-christ",
+      "topics": ["servanthood", "love", "betrayal"],
+      "events": ["Jesus washes the disciples' feet", "Prediction of Judas' betrayal", "New commandment to love one another", "Prediction of Peter's denial"],
+      "keyVerses": [14, 34, 35],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 26, "label": "Parallel betrayal prediction"},
+        {"book": "1 John", "chapter": 3, "label": "Love one another"}
+      ]
+    },
+    "14": {
+      "genre": ["gospel"],
+      "people": [
+        {"name": "Jesus", "role": "speaker"},
+        {"name": "Thomas", "role": "mentioned"},
+        {"name": "Philip", "role": "mentioned"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "Passion Week",
+      "era": "life-of-christ",
+      "topics": ["comfort", "holy-spirit", "identity-of-christ"],
+      "events": ["I am the way, the truth, and the life", "Promise of the Comforter (Holy Spirit)", "Promise of peace"],
+      "keyVerses": [2, 6, 27],
+      "crossReferences": [
+        {"book": "Acts", "chapter": 2, "label": "Fulfillment of Comforter promise"},
+        {"book": "Hebrews", "chapter": 10, "label": "New and living way"}
+      ]
+    },
+    "15": {
+      "genre": ["gospel"],
+      "people": [
+        {"name": "Jesus", "role": "speaker"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "Passion Week",
+      "era": "life-of-christ",
+      "topics": ["abiding-in-christ", "love", "persecution"],
+      "events": ["I am the true vine discourse", "Command to love one another", "Warning of the world's hatred", "Promise of the Spirit of truth"],
+      "keyVerses": [5, 12, 13],
+      "crossReferences": [
+        {"book": "Isaiah", "chapter": 5, "label": "Song of the vineyard"},
+        {"book": "Galatians", "chapter": 5, "label": "Fruit of the Spirit"}
+      ]
+    },
+    "16": {
+      "genre": ["gospel"],
+      "people": [
+        {"name": "Jesus", "role": "speaker"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "Passion Week",
+      "era": "life-of-christ",
+      "topics": ["holy-spirit", "persecution", "overcoming"],
+      "events": ["Warning of persecution", "Promise of the Spirit of truth", "Sorrow turned to joy", "I have overcome the world"],
+      "keyVerses": [7, 13, 33],
+      "crossReferences": [
+        {"book": "Acts", "chapter": 2, "label": "Spirit of truth comes at Pentecost"},
+        {"book": "1 John", "chapter": 5, "label": "Overcoming the world"}
+      ]
+    },
+    "17": {
+      "genre": ["gospel"],
+      "people": [
+        {"name": "Jesus", "role": "speaker"},
+        {"name": "God", "role": "recipient"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "Passion Week",
+      "era": "life-of-christ",
+      "topics": ["prayer", "unity", "sanctification"],
+      "events": ["High Priestly Prayer", "Prayer for the disciples", "Prayer for all believers' unity"],
+      "keyVerses": [3, 17, 21],
+      "crossReferences": [
+        {"book": "Hebrews", "chapter": 7, "label": "Jesus as High Priest"},
+        {"book": "Ephesians", "chapter": 4, "label": "Unity of believers"}
+      ]
+    },
+    "18": {
+      "genre": ["gospel", "narrative"],
+      "people": [
+        {"name": "Jesus", "role": "protagonist"},
+        {"name": "Judas Iscariot", "role": "antagonist"},
+        {"name": "Peter", "role": "mentioned"},
+        {"name": "Malchus", "role": "mentioned"},
+        {"name": "Annas", "role": "mentioned"},
+        {"name": "Caiaphas", "role": "mentioned"},
+        {"name": "Pilate", "role": "mentioned"},
+        {"name": "Barabbas", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem", "Cedron"],
+      "timePeriod": "Passion Week",
+      "era": "life-of-christ",
+      "topics": ["betrayal", "trial", "truth"],
+      "events": ["Arrest of Jesus in the garden", "Peter cuts off Malchus' ear", "Trial before Annas and Caiaphas", "Peter's denial", "Trial before Pilate", "My kingdom is not of this world"],
+      "keyVerses": [11, 36, 38],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 26, "label": "Parallel arrest and trial"},
+        {"book": "Luke", "chapter": 22, "label": "Parallel Peter's denial"}
+      ]
+    },
+    "19": {
+      "genre": ["gospel", "narrative"],
+      "people": [
+        {"name": "Jesus", "role": "protagonist"},
+        {"name": "Pilate", "role": "mentioned"},
+        {"name": "Mary", "role": "mentioned"},
+        {"name": "Mary Magdalene", "role": "mentioned"},
+        {"name": "John", "role": "mentioned"},
+        {"name": "Joseph of Arimathea", "role": "mentioned"},
+        {"name": "Nicodemus", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem", "Golgotha"],
+      "timePeriod": "Passion Week",
+      "era": "life-of-christ",
+      "topics": ["crucifixion", "atonement", "fulfillment-of-scripture"],
+      "events": ["Scourging and mocking", "Ecce homo - Behold the man", "Crucifixion", "It is finished", "Piercing of Jesus' side", "Burial by Joseph and Nicodemus"],
+      "keyVerses": [5, 30, 34],
+      "crossReferences": [
+        {"book": "Psalm", "chapter": 22, "label": "They parted my garments"},
+        {"book": "Zechariah", "chapter": 12, "label": "They shall look on him whom they pierced"}
+      ]
+    },
+    "20": {
+      "genre": ["gospel", "narrative"],
+      "people": [
+        {"name": "Jesus", "role": "protagonist"},
+        {"name": "Mary Magdalene", "role": "mentioned"},
+        {"name": "Peter", "role": "mentioned"},
+        {"name": "John", "role": "mentioned"},
+        {"name": "Thomas", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "Resurrection",
+      "era": "life-of-christ",
+      "topics": ["resurrection", "faith", "holy-spirit"],
+      "events": ["Mary Magdalene at the empty tomb", "Peter and John run to the tomb", "Jesus appears to Mary", "Jesus appears to the disciples", "Doubting Thomas believes"],
+      "keyVerses": [16, 28, 31],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 28, "label": "Parallel resurrection account"},
+        {"book": "1 Corinthians", "chapter": 15, "label": "Resurrection appearances"}
+      ]
+    },
+    "21": {
+      "genre": ["gospel", "narrative"],
+      "people": [
+        {"name": "Jesus", "role": "protagonist"},
+        {"name": "Peter", "role": "mentioned"},
+        {"name": "Thomas", "role": "mentioned"},
+        {"name": "Nathanael", "role": "mentioned"},
+        {"name": "John", "role": "mentioned"}
+      ],
+      "locations": ["Galilee", "Tiberias"],
+      "timePeriod": "Resurrection",
+      "era": "life-of-christ",
+      "topics": ["restoration", "calling", "resurrection"],
+      "events": ["Miraculous catch of fish", "Breakfast on the shore", "Peter's restoration - Feed my sheep", "Prediction of Peter's death"],
+      "keyVerses": [15, 17, 25],
+      "crossReferences": [
+        {"book": "Luke", "chapter": 5, "label": "Parallel miraculous catch of fish"},
+        {"book": "2 Peter", "chapter": 1, "label": "Peter's impending death"}
+      ]
+    }
+  }
+}

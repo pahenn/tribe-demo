@@ -1,0 +1,574 @@
+{
+  "book": "Deuteronomy",
+  "bookSlug": "05.deuteronomy",
+  "testament": "1.old-testament",
+  "chapters": {
+    "1": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Moses", "role": "speaker"},
+        {"name": "God", "role": "mentioned"},
+        {"name": "Caleb", "role": "mentioned"},
+        {"name": "Joshua", "role": "mentioned"}
+      ],
+      "locations": ["Moab", "Horeb", "Kadeshbarnea"],
+      "timePeriod": "Fortieth year",
+      "era": "exodus",
+      "topics": ["remembrance", "leadership", "unbelief"],
+      "events": ["Moses recounts Israel's journey from Horeb", "Appointment of judges", "Failure at Kadesh-barnea recalled"],
+      "keyVerses": [21, 32, 33],
+      "crossReferences": [
+        {"book": "Exodus", "chapter": 18, "label": "Jethro's advice to appoint judges"},
+        {"book": "Hebrews", "chapter": 3, "label": "Do not harden your hearts"}
+      ]
+    },
+    "2": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Moses", "role": "speaker"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": ["Seir", "Moab", "Arnon"],
+      "timePeriod": "Fortieth year",
+      "era": "exodus",
+      "topics": ["journey", "sovereignty", "nations"],
+      "events": ["Wandering through Edom and Moab", "God commands Israel not to disturb Edom, Moab, or Ammon"],
+      "keyVerses": [7, 14],
+      "crossReferences": [
+        {"book": "Numbers", "chapter": 20, "label": "Edom refuses Israel passage"}
+      ]
+    },
+    "3": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Moses", "role": "speaker"},
+        {"name": "God", "role": "mentioned"},
+        {"name": "Joshua", "role": "mentioned"}
+      ],
+      "locations": ["Bashan", "Gilead", "Jordan"],
+      "timePeriod": "Fortieth year",
+      "era": "exodus",
+      "topics": ["conquest", "inheritance", "encouragement"],
+      "events": ["Defeat of Og king of Bashan", "Distribution of Transjordan lands", "Moses forbidden to enter the land; encourages Joshua"],
+      "keyVerses": [22, 28],
+      "crossReferences": [
+        {"book": "Numbers", "chapter": 21, "label": "Defeat of Og king of Bashan"},
+        {"book": "Psalms", "chapter": 136, "label": "Who smote great kings - Og king of Bashan"}
+      ]
+    },
+    "4": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Moses", "role": "speaker"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": ["Moab", "Horeb"],
+      "timePeriod": "Fortieth year",
+      "era": "exodus",
+      "topics": ["obedience", "idolatry", "uniqueness-of-god"],
+      "events": ["Moses exhorts obedience to God's law", "Warning against idolatry", "Cities of refuge in Transjordan designated"],
+      "keyVerses": [7, 9, 29, 39],
+      "crossReferences": [
+        {"book": "Romans", "chapter": 1, "label": "They changed the glory of the incorruptible God into an image"}
+      ]
+    },
+    "5": {
+      "genre": ["law"],
+      "people": [
+        {"name": "Moses", "role": "speaker"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": ["Moab", "Horeb"],
+      "timePeriod": "Fortieth year",
+      "era": "exodus",
+      "topics": ["commandments", "covenant", "law"],
+      "events": ["Moses restates the Ten Commandments"],
+      "keyVerses": [6, 7, 29],
+      "crossReferences": [
+        {"book": "Exodus", "chapter": 20, "label": "Original giving of the Ten Commandments"},
+        {"book": "Matthew", "chapter": 19, "label": "Jesus cites the commandments"}
+      ]
+    },
+    "6": {
+      "genre": ["law"],
+      "people": [
+        {"name": "Moses", "role": "speaker"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": ["Moab"],
+      "timePeriod": "Fortieth year",
+      "era": "exodus",
+      "topics": ["love", "obedience", "teaching", "monotheism"],
+      "events": ["The Shema: Hear, O Israel", "Command to love God with all heart, soul, and might", "Instructions to teach children"],
+      "keyVerses": [4, 5, 7],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 22, "label": "The greatest commandment: love the Lord your God"},
+        {"book": "Mark", "chapter": 12, "label": "Hear O Israel, the Lord our God, the Lord is one"}
+      ]
+    },
+    "7": {
+      "genre": ["law"],
+      "people": [
+        {"name": "Moses", "role": "speaker"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": ["Canaan"],
+      "timePeriod": "Fortieth year",
+      "era": "exodus",
+      "topics": ["chosen-people", "holiness", "separation"],
+      "events": ["Command to drive out the Canaanite nations", "Israel chosen as God's special people"],
+      "keyVerses": [6, 9, 21],
+      "crossReferences": [
+        {"book": "1 Peter", "chapter": 2, "label": "You are a chosen generation, a royal priesthood"}
+      ]
+    },
+    "8": {
+      "genre": ["law"],
+      "people": [
+        {"name": "Moses", "role": "speaker"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": ["Wilderness"],
+      "timePeriod": "Fortieth year",
+      "era": "exodus",
+      "topics": ["remembrance", "humility", "provision"],
+      "events": ["Moses reminds Israel of God's provision in the wilderness", "Warning not to forget God in prosperity"],
+      "keyVerses": [2, 3, 18],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 4, "label": "Man shall not live by bread alone"},
+        {"book": "Luke", "chapter": 4, "label": "Man shall not live by bread alone"}
+      ]
+    },
+    "9": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Moses", "role": "speaker"},
+        {"name": "God", "role": "mentioned"},
+        {"name": "Aaron", "role": "mentioned"}
+      ],
+      "locations": ["Horeb"],
+      "timePeriod": "Fortieth year",
+      "era": "exodus",
+      "topics": ["grace", "rebellion", "intercession"],
+      "events": ["Warning against self-righteousness", "Recounting of Israel's rebellions", "Moses recalls interceding for Israel after the golden calf"],
+      "keyVerses": [4, 5, 6],
+      "crossReferences": [
+        {"book": "Exodus", "chapter": 32, "label": "The golden calf incident"}
+      ]
+    },
+    "10": {
+      "genre": ["narrative", "law"],
+      "people": [
+        {"name": "Moses", "role": "speaker"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": ["Horeb"],
+      "timePeriod": "Fortieth year",
+      "era": "exodus",
+      "topics": ["covenant-renewal", "heart", "justice"],
+      "events": ["New tablets of stone", "What the Lord requires: fear, love, serve", "Command to circumcise the heart"],
+      "keyVerses": [12, 16],
+      "crossReferences": [
+        {"book": "Micah", "chapter": 6, "label": "What does the Lord require of you?"},
+        {"book": "Romans", "chapter": 2, "label": "Circumcision is that of the heart"}
+      ]
+    },
+    "11": {
+      "genre": ["law"],
+      "people": [
+        {"name": "Moses", "role": "speaker"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": ["Canaan", "Gerizim", "Ebal"],
+      "timePeriod": "Fortieth year",
+      "era": "exodus",
+      "topics": ["obedience", "blessing", "cursing"],
+      "events": ["Blessings for obedience, curses for disobedience", "Blessing and curse on Mount Gerizim and Ebal"],
+      "keyVerses": [13, 26, 27, 28],
+      "crossReferences": [
+        {"book": "Joshua", "chapter": 8, "label": "Joshua reads blessings and curses at Gerizim and Ebal"}
+      ]
+    },
+    "12": {
+      "genre": ["law"],
+      "people": [
+        {"name": "Moses", "role": "speaker"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": ["Canaan"],
+      "timePeriod": "Fortieth year",
+      "era": "exodus",
+      "topics": ["worship", "centralized-worship", "idolatry"],
+      "events": ["Command to worship at the place God chooses", "Destruction of pagan worship sites"],
+      "keyVerses": [5, 11, 32],
+      "crossReferences": [
+        {"book": "John", "chapter": 4, "label": "The hour comes when you will worship the Father neither on this mountain nor in Jerusalem"}
+      ]
+    },
+    "13": {
+      "genre": ["law"],
+      "people": [
+        {"name": "Moses", "role": "speaker"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Fortieth year",
+      "era": "exodus",
+      "topics": ["false-prophets", "idolatry", "faithfulness"],
+      "events": ["Warning against false prophets", "Warning against enticement to idolatry"],
+      "keyVerses": [1, 3, 4],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 24, "label": "False prophets shall arise and deceive many"},
+        {"book": "1 John", "chapter": 4, "label": "Test the spirits"}
+      ]
+    },
+    "14": {
+      "genre": ["law"],
+      "people": [
+        {"name": "Moses", "role": "speaker"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Fortieth year",
+      "era": "exodus",
+      "topics": ["dietary-laws", "holiness", "tithing"],
+      "events": ["Clean and unclean animals restated", "Laws of tithing"],
+      "keyVerses": [2, 22],
+      "crossReferences": [
+        {"book": "Leviticus", "chapter": 11, "label": "Clean and unclean animals"}
+      ]
+    },
+    "15": {
+      "genre": ["law"],
+      "people": [
+        {"name": "Moses", "role": "speaker"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Fortieth year",
+      "era": "exodus",
+      "topics": ["debt-release", "generosity", "servitude"],
+      "events": ["Year of release from debts every seven years", "Generosity to the poor", "Laws for Hebrew servants"],
+      "keyVerses": [1, 7, 8, 11],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 18, "label": "Parable of the unforgiving servant"}
+      ]
+    },
+    "16": {
+      "genre": ["law"],
+      "people": [
+        {"name": "Moses", "role": "speaker"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Fortieth year",
+      "era": "exodus",
+      "topics": ["feasts", "justice", "worship"],
+      "events": ["Three annual feasts: Passover, Weeks, Tabernacles", "Appointment of judges"],
+      "keyVerses": [16, 20],
+      "crossReferences": [
+        {"book": "Leviticus", "chapter": 23, "label": "The appointed feasts of the Lord"}
+      ]
+    },
+    "17": {
+      "genre": ["law"],
+      "people": [
+        {"name": "Moses", "role": "speaker"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Fortieth year",
+      "era": "exodus",
+      "topics": ["justice", "kingship", "law"],
+      "events": ["Rules for judges and courts", "Law of the king"],
+      "keyVerses": [15, 18, 19],
+      "crossReferences": [
+        {"book": "1 Samuel", "chapter": 8, "label": "Israel asks for a king"}
+      ]
+    },
+    "18": {
+      "genre": ["law", "prophecy"],
+      "people": [
+        {"name": "Moses", "role": "speaker"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Fortieth year",
+      "era": "exodus",
+      "topics": ["priesthood", "prophecy", "occult"],
+      "events": ["Provision for Levitical priests", "Prohibition of occult practices", "Promise of a prophet like Moses"],
+      "keyVerses": [15, 18],
+      "crossReferences": [
+        {"book": "Acts", "chapter": 3, "label": "A prophet like me will the Lord raise up"},
+        {"book": "Acts", "chapter": 7, "label": "A prophet like me will the Lord raise up"},
+        {"book": "John", "chapter": 6, "label": "This is indeed the Prophet who is to come"}
+      ]
+    },
+    "19": {
+      "genre": ["law"],
+      "people": [
+        {"name": "Moses", "role": "speaker"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Fortieth year",
+      "era": "exodus",
+      "topics": ["cities-of-refuge", "justice", "witnesses"],
+      "events": ["Three cities of refuge in Canaan", "Law of witnesses", "Law of false witnesses"],
+      "keyVerses": [4, 15, 21],
+      "crossReferences": [
+        {"book": "Numbers", "chapter": 35, "label": "Cities of refuge established"},
+        {"book": "Matthew", "chapter": 18, "label": "By two or three witnesses every matter shall be established"}
+      ]
+    },
+    "20": {
+      "genre": ["law"],
+      "people": [
+        {"name": "Moses", "role": "speaker"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Fortieth year",
+      "era": "exodus",
+      "topics": ["warfare", "trust", "mercy"],
+      "events": ["Laws of warfare: exemptions from battle, rules for siege"],
+      "keyVerses": [1, 4],
+      "crossReferences": [
+        {"book": "2 Chronicles", "chapter": 20, "label": "The battle is not yours but God's"}
+      ]
+    },
+    "21": {
+      "genre": ["law"],
+      "people": [
+        {"name": "Moses", "role": "speaker"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Fortieth year",
+      "era": "exodus",
+      "topics": ["justice", "family", "atonement"],
+      "events": ["Unsolved murders", "Captive women", "Rights of the firstborn", "A rebellious son"],
+      "keyVerses": [23],
+      "crossReferences": [
+        {"book": "Galatians", "chapter": 3, "label": "Cursed is everyone who hangs on a tree"}
+      ]
+    },
+    "22": {
+      "genre": ["law"],
+      "people": [
+        {"name": "Moses", "role": "speaker"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Fortieth year",
+      "era": "exodus",
+      "topics": ["kindness", "purity", "distinctions"],
+      "events": ["Miscellaneous laws: returning lost animals, building safety, diverse mixtures, sexual morality"],
+      "keyVerses": [1, 5],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 7, "label": "Treat others as you would have them treat you"}
+      ]
+    },
+    "23": {
+      "genre": ["law"],
+      "people": [
+        {"name": "Moses", "role": "speaker"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Fortieth year",
+      "era": "exodus",
+      "topics": ["purity", "community", "exclusion"],
+      "events": ["Laws on membership in the assembly", "Camp purity", "Laws on usury, vows, and gleaning"],
+      "keyVerses": [14, 21],
+      "crossReferences": [
+        {"book": "Isaiah", "chapter": 56, "label": "Foreigners welcomed into God's house"}
+      ]
+    },
+    "24": {
+      "genre": ["law"],
+      "people": [
+        {"name": "Moses", "role": "speaker"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Fortieth year",
+      "era": "exodus",
+      "topics": ["divorce", "justice", "compassion"],
+      "events": ["Law of divorce", "Various humanitarian laws: care for the poor, widows, orphans, and foreigners"],
+      "keyVerses": [1, 16, 19],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 5, "label": "It was said, whoever divorces his wife let him give her a certificate"},
+        {"book": "Matthew", "chapter": 19, "label": "Moses permitted divorce because of hardness of heart"}
+      ]
+    },
+    "25": {
+      "genre": ["law"],
+      "people": [
+        {"name": "Moses", "role": "speaker"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Fortieth year",
+      "era": "exodus",
+      "topics": ["justice", "levirate-marriage", "honesty"],
+      "events": ["Limits on corporal punishment", "Levirate marriage law", "Honest weights and measures", "Command to remember and destroy Amalek"],
+      "keyVerses": [4, 15, 19],
+      "crossReferences": [
+        {"book": "1 Corinthians", "chapter": 9, "label": "Do not muzzle the ox while it treads out the grain"},
+        {"book": "1 Timothy", "chapter": 5, "label": "Do not muzzle the ox"},
+        {"book": "Ruth", "chapter": 4, "label": "Levirate marriage practice"}
+      ]
+    },
+    "26": {
+      "genre": ["law"],
+      "people": [
+        {"name": "Moses", "role": "speaker"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": ["Canaan"],
+      "timePeriod": "Fortieth year",
+      "era": "exodus",
+      "topics": ["firstfruits", "confession", "tithing"],
+      "events": ["Offering of firstfruits with confession of faith", "Declaration of tithes", "Israel declared to be God's special people"],
+      "keyVerses": [5, 18, 19],
+      "crossReferences": [
+        {"book": "1 Corinthians", "chapter": 15, "label": "Christ the firstfruits of those who have fallen asleep"}
+      ]
+    },
+    "27": {
+      "genre": ["law"],
+      "people": [
+        {"name": "Moses", "role": "speaker"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": ["Gerizim", "Ebal"],
+      "timePeriod": "Fortieth year",
+      "era": "exodus",
+      "topics": ["covenant", "curses", "obedience"],
+      "events": ["Command to set up stones on Mount Ebal", "Twelve curses proclaimed"],
+      "keyVerses": [10, 26],
+      "crossReferences": [
+        {"book": "Galatians", "chapter": 3, "label": "Cursed is everyone who does not continue in all things written in the law"},
+        {"book": "Joshua", "chapter": 8, "label": "Ceremony on Ebal and Gerizim fulfilled"}
+      ]
+    },
+    "28": {
+      "genre": ["law"],
+      "people": [
+        {"name": "Moses", "role": "speaker"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Fortieth year",
+      "era": "exodus",
+      "topics": ["blessing", "cursing", "obedience", "covenant"],
+      "events": ["Blessings for obedience", "Curses for disobedience - including exile and siege"],
+      "keyVerses": [1, 2, 15],
+      "crossReferences": [
+        {"book": "Leviticus", "chapter": 26, "label": "Parallel blessings and curses"}
+      ]
+    },
+    "29": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Moses", "role": "speaker"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": ["Moab", "Horeb"],
+      "timePeriod": "Fortieth year",
+      "era": "exodus",
+      "topics": ["covenant-renewal", "warning", "obedience"],
+      "events": ["Covenant renewal in Moab", "Warning against turning to other gods"],
+      "keyVerses": [9, 29],
+      "crossReferences": [
+        {"book": "Romans", "chapter": 11, "label": "God gave them eyes that do not see"}
+      ]
+    },
+    "30": {
+      "genre": ["law", "prophecy"],
+      "people": [
+        {"name": "Moses", "role": "speaker"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Fortieth year",
+      "era": "exodus",
+      "topics": ["repentance", "restoration", "choice", "life-and-death"],
+      "events": ["Promise of restoration after exile", "The choice set before Israel: life and death, blessing and cursing"],
+      "keyVerses": [6, 14, 19],
+      "crossReferences": [
+        {"book": "Romans", "chapter": 10, "label": "The word is near you, in your mouth and in your heart"},
+        {"book": "Jeremiah", "chapter": 29, "label": "When you seek me with all your heart you will find me"}
+      ]
+    },
+    "31": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Moses", "role": "protagonist"},
+        {"name": "Joshua", "role": "protagonist"},
+        {"name": "God", "role": "protagonist"}
+      ],
+      "locations": ["Moab"],
+      "timePeriod": "Fortieth year",
+      "era": "exodus",
+      "topics": ["succession", "courage", "law"],
+      "events": ["Moses commissions Joshua", "The law written and entrusted to the Levites", "God foretells Israel's future unfaithfulness"],
+      "keyVerses": [6, 8],
+      "crossReferences": [
+        {"book": "Joshua", "chapter": 1, "label": "Be strong and of good courage"}
+      ]
+    },
+    "32": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "Moses", "role": "speaker"},
+        {"name": "God", "role": "protagonist"}
+      ],
+      "locations": ["Moab", "Nebo"],
+      "timePeriod": "Fortieth year",
+      "era": "exodus",
+      "topics": ["faithfulness-of-god", "judgment", "rebellion", "song"],
+      "events": ["The Song of Moses", "God tells Moses to ascend Mount Nebo"],
+      "keyVerses": [4, 35, 47],
+      "crossReferences": [
+        {"book": "Revelation", "chapter": 15, "label": "They sing the song of Moses"},
+        {"book": "Romans", "chapter": 12, "label": "Vengeance is mine, I will repay, says the Lord"}
+      ]
+    },
+    "33": {
+      "genre": ["poetry", "prophecy"],
+      "people": [
+        {"name": "Moses", "role": "speaker"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": ["Sinai", "Seir", "Paran"],
+      "timePeriod": "Fortieth year",
+      "era": "exodus",
+      "topics": ["blessing", "tribes-of-israel", "prophecy"],
+      "events": ["Moses blesses the twelve tribes of Israel before his death"],
+      "keyVerses": [1, 27, 29],
+      "crossReferences": [
+        {"book": "Genesis", "chapter": 49, "label": "Jacob's blessings on the twelve tribes"}
+      ]
+    },
+    "34": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Moses", "role": "protagonist"},
+        {"name": "God", "role": "protagonist"},
+        {"name": "Joshua", "role": "mentioned"}
+      ],
+      "locations": ["Nebo", "Pisgah", "Moab"],
+      "timePeriod": "Death of Moses",
+      "era": "exodus",
+      "topics": ["death", "faithfulness", "succession"],
+      "events": ["Moses views the Promised Land from Mount Nebo", "Death and burial of Moses", "Joshua assumes leadership"],
+      "keyVerses": [4, 5, 10],
+      "crossReferences": [
+        {"book": "Jude", "chapter": 1, "label": "Michael the archangel disputed about the body of Moses"},
+        {"book": "Matthew", "chapter": 17, "label": "Moses appears with Elijah at the Transfiguration"}
+      ]
+    }
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "book": "1 Timothy",
+  "bookSlug": "54.1-timothy",
+  "testament": "2.new-testament",
+  "chapters": {
+    "1": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Paul", "role": "author"},
+        {"name": "Timothy", "role": "recipient"},
+        {"name": "Jesus Christ", "role": "mentioned"},
+        {"name": "Hymenaeus", "role": "mentioned"},
+        {"name": "Alexander", "role": "mentioned"}
+      ],
+      "locations": ["Ephesus", "Macedonia"],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["sound-doctrine", "grace", "false-teachers", "salvation"],
+      "events": ["Paul recounts his conversion from persecutor to apostle"],
+      "keyVerses": [5, 15, 17],
+      "crossReferences": [
+        {"book": "Acts", "chapter": 9, "label": "Paul's conversion"},
+        {"book": "Luke", "chapter": 19, "label": "The Son of Man came to seek and save the lost"}
+      ]
+    },
+    "2": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Paul", "role": "author"},
+        {"name": "Timothy", "role": "recipient"},
+        {"name": "Jesus Christ", "role": "mentioned"},
+        {"name": "Adam", "role": "mentioned"},
+        {"name": "Eve", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["prayer", "mediator", "worship", "modesty"],
+      "events": [],
+      "keyVerses": [1, 4, 5],
+      "crossReferences": [
+        {"book": "Hebrews", "chapter": 9, "label": "One mediator between God and men"},
+        {"book": "Genesis", "chapter": 3, "label": "Adam and Eve in the transgression"}
+      ]
+    },
+    "3": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Paul", "role": "author"},
+        {"name": "Timothy", "role": "recipient"},
+        {"name": "Jesus Christ", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["elders", "deacons", "church-leadership", "godliness"],
+      "events": [],
+      "keyVerses": [1, 15, 16],
+      "crossReferences": [
+        {"book": "Titus", "chapter": 1, "label": "Qualifications for elders"},
+        {"book": "Acts", "chapter": 20, "label": "Paul's charge to the Ephesian elders"}
+      ]
+    },
+    "4": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Paul", "role": "author"},
+        {"name": "Timothy", "role": "recipient"}
+      ],
+      "locations": [],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["apostasy", "godliness", "youth", "spiritual-gifts"],
+      "events": [],
+      "keyVerses": [1, 8, 12],
+      "crossReferences": [
+        {"book": "2 Timothy", "chapter": 3, "label": "Perilous times shall come in the last days"},
+        {"book": "2 Timothy", "chapter": 1, "label": "Stir up the gift of God which is in thee"}
+      ]
+    },
+    "5": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Paul", "role": "author"},
+        {"name": "Timothy", "role": "recipient"}
+      ],
+      "locations": [],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["widows", "elders", "church-care", "discipline"],
+      "events": [],
+      "keyVerses": [8, 17, 18],
+      "crossReferences": [
+        {"book": "Deuteronomy", "chapter": 25, "label": "Do not muzzle the ox while it treads the grain"},
+        {"book": "Luke", "chapter": 10, "label": "The labourer is worthy of his reward"}
+      ]
+    },
+    "6": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Paul", "role": "author"},
+        {"name": "Timothy", "role": "recipient"},
+        {"name": "Jesus Christ", "role": "mentioned"},
+        {"name": "Pontius Pilate", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["contentment", "love-of-money", "fight-of-faith", "riches"],
+      "events": [],
+      "keyVerses": [6, 10, 12],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 6, "label": "You cannot serve God and mammon"},
+        {"book": "Revelation", "chapter": 19, "label": "King of kings and Lord of lords"}
+      ]
+    }
+  }
+}

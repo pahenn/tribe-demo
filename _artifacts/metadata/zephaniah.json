@@ -1,0 +1,57 @@
+{
+  "book": "Zephaniah",
+  "bookSlug": "36.zephaniah",
+  "testament": "1.old-testament",
+  "chapters": {
+    "1": {
+      "genre": ["prophecy", "apocalyptic"],
+      "people": [
+        {"name": "Zephaniah", "role": "author"},
+        {"name": "God", "role": "speaker"},
+        {"name": "Josiah", "role": "mentioned"}
+      ],
+      "locations": ["Judah", "Jerusalem"],
+      "timePeriod": "Late Kingdom of Judah",
+      "era": "divided-monarchy",
+      "topics": ["day-of-the-lord", "judgment", "idolatry", "complacency"],
+      "events": ["God threatens total devastation of Judah", "Description of the great day of the Lord as wrath, darkness, and destruction"],
+      "keyVerses": [7, 14, 15],
+      "crossReferences": [
+        {"book": "Joel", "chapter": 2, "label": "Day of darkness and gloominess"},
+        {"book": "Revelation", "chapter": 6, "label": "The great day of wrath"}
+      ]
+    },
+    "2": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Gaza", "Ashkelon", "Ashdod", "Ekron", "Canaan", "Moab", "Ammon", "Ethiopia", "Assyria", "Nineveh"],
+      "timePeriod": "Late Kingdom of Judah",
+      "era": "divided-monarchy",
+      "topics": ["repentance", "judgment-of-nations", "humility", "remnant"],
+      "events": ["Call to seek the Lord before the day of wrath", "Oracles against Philistia, Moab, Ammon, Ethiopia, and Assyria"],
+      "keyVerses": [3, 13, 15],
+      "crossReferences": [
+        {"book": "Isaiah", "chapter": 14, "label": "Oracle against Philistia"},
+        {"book": "Nahum", "chapter": 3, "label": "Destruction of Nineveh"}
+      ]
+    },
+    "3": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Jerusalem", "Zion", "Ethiopia"],
+      "timePeriod": "Late Kingdom of Judah",
+      "era": "divided-monarchy",
+      "topics": ["corrupt-leadership", "restoration", "divine-joy", "remnant", "purification"],
+      "events": ["Woe against Jerusalem for oppression and corruption", "God promises to purify a remnant", "God rejoices over his people with singing"],
+      "keyVerses": [9, 12, 17],
+      "crossReferences": [
+        {"book": "Isaiah", "chapter": 62, "label": "God rejoices over his people"},
+        {"book": "Romans", "chapter": 11, "label": "A remnant preserved by grace"}
+      ]
+    }
+  }
+}

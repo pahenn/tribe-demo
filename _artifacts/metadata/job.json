@@ -1,0 +1,715 @@
+{
+  "book": "Job",
+  "bookSlug": "18.job",
+  "testament": "1.old-testament",
+  "chapters": {
+    "1": {
+      "genre": ["narrative", "wisdom"],
+      "people": [
+        {"name": "Job", "role": "protagonist"},
+        {"name": "God", "role": "speaker"},
+        {"name": "Satan", "role": "antagonist"}
+      ],
+      "locations": ["Uz"],
+      "timePeriod": "Patriarchal period",
+      "era": "patriarchal",
+      "topics": ["suffering", "faith", "sovereignty"],
+      "events": ["Satan tests Job", "Job loses his possessions and children"],
+      "keyVerses": [21],
+      "crossReferences": [
+        {"book": "James", "chapter": 5, "label": "Patience of Job"}
+      ]
+    },
+    "2": {
+      "genre": ["narrative", "wisdom"],
+      "people": [
+        {"name": "Job", "role": "protagonist"},
+        {"name": "God", "role": "speaker"},
+        {"name": "Satan", "role": "antagonist"},
+        {"name": "Job's wife", "role": "mentioned"},
+        {"name": "Eliphaz", "role": "mentioned"},
+        {"name": "Bildad", "role": "mentioned"},
+        {"name": "Zophar", "role": "mentioned"}
+      ],
+      "locations": ["Uz"],
+      "timePeriod": "Patriarchal period",
+      "era": "patriarchal",
+      "topics": ["suffering", "integrity", "friendship"],
+      "events": ["Satan afflicts Job with boils", "Three friends arrive to mourn"],
+      "keyVerses": [10],
+      "crossReferences": [
+        {"book": "James", "chapter": 5, "label": "Patience of Job"}
+      ]
+    },
+    "3": {
+      "genre": ["poetry", "wisdom"],
+      "people": [
+        {"name": "Job", "role": "speaker"}
+      ],
+      "locations": [],
+      "timePeriod": "Patriarchal period",
+      "era": "patriarchal",
+      "topics": ["lament", "suffering", "death"],
+      "events": ["Job curses the day of his birth"],
+      "keyVerses": [3, 25],
+      "crossReferences": [
+        {"book": "Jeremiah", "chapter": 20, "label": "Jeremiah curses day of birth"}
+      ]
+    },
+    "4": {
+      "genre": ["poetry", "wisdom"],
+      "people": [
+        {"name": "Eliphaz", "role": "speaker"},
+        {"name": "Job", "role": "recipient"}
+      ],
+      "locations": [],
+      "timePeriod": "Patriarchal period",
+      "era": "patriarchal",
+      "topics": ["retribution", "innocence", "divine-justice"],
+      "events": ["Eliphaz's first speech begins"],
+      "keyVerses": [7, 17],
+      "crossReferences": [
+        {"book": "Galatians", "chapter": 6, "label": "Reaping what one sows"}
+      ]
+    },
+    "5": {
+      "genre": ["poetry", "wisdom"],
+      "people": [
+        {"name": "Eliphaz", "role": "speaker"},
+        {"name": "Job", "role": "recipient"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Patriarchal period",
+      "era": "patriarchal",
+      "topics": ["divine-discipline", "blessing", "repentance"],
+      "events": [],
+      "keyVerses": [7, 17],
+      "crossReferences": [
+        {"book": "Hebrews", "chapter": 12, "label": "God's discipline"},
+        {"book": "1 Corinthians", "chapter": 3, "label": "Catching the wise in craftiness"}
+      ]
+    },
+    "6": {
+      "genre": ["poetry", "wisdom"],
+      "people": [
+        {"name": "Job", "role": "speaker"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": ["Tema", "Sheba"],
+      "timePeriod": "Patriarchal period",
+      "era": "patriarchal",
+      "topics": ["suffering", "friendship", "despair"],
+      "events": [],
+      "keyVerses": [4, 14],
+      "crossReferences": [
+        {"book": "Psalms", "chapter": 38, "label": "Arrows of God"}
+      ]
+    },
+    "7": {
+      "genre": ["poetry", "wisdom"],
+      "people": [
+        {"name": "Job", "role": "speaker"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Patriarchal period",
+      "era": "patriarchal",
+      "topics": ["brevity-of-life", "suffering", "lament"],
+      "events": [],
+      "keyVerses": [17],
+      "crossReferences": [
+        {"book": "Psalms", "chapter": 8, "label": "What is man that you are mindful of him"}
+      ]
+    },
+    "8": {
+      "genre": ["poetry", "wisdom"],
+      "people": [
+        {"name": "Bildad", "role": "speaker"},
+        {"name": "Job", "role": "recipient"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Patriarchal period",
+      "era": "patriarchal",
+      "topics": ["divine-justice", "retribution", "repentance"],
+      "events": ["Bildad's first speech"],
+      "keyVerses": [3, 20],
+      "crossReferences": [
+        {"book": "Psalms", "chapter": 1, "label": "Contrast of righteous and wicked"}
+      ]
+    },
+    "9": {
+      "genre": ["poetry", "wisdom"],
+      "people": [
+        {"name": "Job", "role": "speaker"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Patriarchal period",
+      "era": "patriarchal",
+      "topics": ["divine-power", "justice", "mediator"],
+      "events": [],
+      "keyVerses": [2, 33],
+      "crossReferences": [
+        {"book": "1 Timothy", "chapter": 2, "label": "One mediator between God and man"}
+      ]
+    },
+    "10": {
+      "genre": ["poetry", "wisdom"],
+      "people": [
+        {"name": "Job", "role": "speaker"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Patriarchal period",
+      "era": "patriarchal",
+      "topics": ["lament", "creation", "suffering"],
+      "events": [],
+      "keyVerses": [8, 9],
+      "crossReferences": [
+        {"book": "Psalms", "chapter": 139, "label": "God forming in the womb"}
+      ]
+    },
+    "11": {
+      "genre": ["poetry", "wisdom"],
+      "people": [
+        {"name": "Zophar", "role": "speaker"},
+        {"name": "Job", "role": "recipient"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Patriarchal period",
+      "era": "patriarchal",
+      "topics": ["divine-mystery", "repentance", "wisdom"],
+      "events": ["Zophar's first speech"],
+      "keyVerses": [7],
+      "crossReferences": [
+        {"book": "Romans", "chapter": 11, "label": "Unsearchable ways of God"}
+      ]
+    },
+    "12": {
+      "genre": ["poetry", "wisdom"],
+      "people": [
+        {"name": "Job", "role": "speaker"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Patriarchal period",
+      "era": "patriarchal",
+      "topics": ["sovereignty", "wisdom", "divine-power"],
+      "events": [],
+      "keyVerses": [9, 13],
+      "crossReferences": [
+        {"book": "Isaiah", "chapter": 40, "label": "God's sovereign power over nations"}
+      ]
+    },
+    "13": {
+      "genre": ["poetry", "wisdom"],
+      "people": [
+        {"name": "Job", "role": "speaker"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Patriarchal period",
+      "era": "patriarchal",
+      "topics": ["faith", "trust", "vindication"],
+      "events": [],
+      "keyVerses": [15],
+      "crossReferences": [
+        {"book": "Habakkuk", "chapter": 3, "label": "Though he slay me I will trust"}
+      ]
+    },
+    "14": {
+      "genre": ["poetry", "wisdom"],
+      "people": [
+        {"name": "Job", "role": "speaker"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Patriarchal period",
+      "era": "patriarchal",
+      "topics": ["mortality", "hope", "resurrection"],
+      "events": [],
+      "keyVerses": [1, 14],
+      "crossReferences": [
+        {"book": "Psalms", "chapter": 103, "label": "Man's days like grass"},
+        {"book": "1 Corinthians", "chapter": 15, "label": "If a man die shall he live again"}
+      ]
+    },
+    "15": {
+      "genre": ["poetry", "wisdom"],
+      "people": [
+        {"name": "Eliphaz", "role": "speaker"},
+        {"name": "Job", "role": "recipient"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Patriarchal period",
+      "era": "patriarchal",
+      "topics": ["retribution", "wickedness", "human-sinfulness"],
+      "events": ["Eliphaz's second speech"],
+      "keyVerses": [14, 16],
+      "crossReferences": [
+        {"book": "Psalms", "chapter": 51, "label": "Human sinfulness"}
+      ]
+    },
+    "16": {
+      "genre": ["poetry", "wisdom"],
+      "people": [
+        {"name": "Job", "role": "speaker"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Patriarchal period",
+      "era": "patriarchal",
+      "topics": ["suffering", "advocacy", "lament"],
+      "events": [],
+      "keyVerses": [19, 21],
+      "crossReferences": [
+        {"book": "Hebrews", "chapter": 7, "label": "Heavenly advocate"}
+      ]
+    },
+    "17": {
+      "genre": ["poetry", "wisdom"],
+      "people": [
+        {"name": "Job", "role": "speaker"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Patriarchal period",
+      "era": "patriarchal",
+      "topics": ["despair", "death", "hope"],
+      "events": [],
+      "keyVerses": [9, 15],
+      "crossReferences": [
+        {"book": "Psalms", "chapter": 88, "label": "Depths of despair"}
+      ]
+    },
+    "18": {
+      "genre": ["poetry", "wisdom"],
+      "people": [
+        {"name": "Bildad", "role": "speaker"},
+        {"name": "Job", "role": "recipient"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Patriarchal period",
+      "era": "patriarchal",
+      "topics": ["fate-of-the-wicked", "retribution", "darkness"],
+      "events": ["Bildad's second speech"],
+      "keyVerses": [5, 14],
+      "crossReferences": [
+        {"book": "Proverbs", "chapter": 13, "label": "Lamp of the wicked put out"}
+      ]
+    },
+    "19": {
+      "genre": ["poetry", "wisdom"],
+      "people": [
+        {"name": "Job", "role": "speaker"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Patriarchal period",
+      "era": "patriarchal",
+      "topics": ["redemption", "hope", "resurrection"],
+      "events": [],
+      "keyVerses": [25, 26],
+      "crossReferences": [
+        {"book": "1 Corinthians", "chapter": 15, "label": "Resurrection hope"},
+        {"book": "Isaiah", "chapter": 26, "label": "The dead shall live"}
+      ]
+    },
+    "20": {
+      "genre": ["poetry", "wisdom"],
+      "people": [
+        {"name": "Zophar", "role": "speaker"},
+        {"name": "Job", "role": "recipient"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Patriarchal period",
+      "era": "patriarchal",
+      "topics": ["fate-of-the-wicked", "retribution", "divine-judgment"],
+      "events": ["Zophar's second speech"],
+      "keyVerses": [5, 29],
+      "crossReferences": [
+        {"book": "Psalms", "chapter": 73, "label": "Fate of the wicked"}
+      ]
+    },
+    "21": {
+      "genre": ["poetry", "wisdom"],
+      "people": [
+        {"name": "Job", "role": "speaker"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Patriarchal period",
+      "era": "patriarchal",
+      "topics": ["prosperity-of-the-wicked", "injustice", "theodicy"],
+      "events": [],
+      "keyVerses": [7, 15],
+      "crossReferences": [
+        {"book": "Psalms", "chapter": 73, "label": "Prosperity of the wicked"},
+        {"book": "Jeremiah", "chapter": 12, "label": "Why do the wicked prosper"}
+      ]
+    },
+    "22": {
+      "genre": ["poetry", "wisdom"],
+      "people": [
+        {"name": "Eliphaz", "role": "speaker"},
+        {"name": "Job", "role": "recipient"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": ["Ophir"],
+      "timePeriod": "Patriarchal period",
+      "era": "patriarchal",
+      "topics": ["false-accusation", "repentance", "restoration"],
+      "events": ["Eliphaz's third speech"],
+      "keyVerses": [21, 23],
+      "crossReferences": [
+        {"book": "Isaiah", "chapter": 55, "label": "Return to the Lord"}
+      ]
+    },
+    "23": {
+      "genre": ["poetry", "wisdom"],
+      "people": [
+        {"name": "Job", "role": "speaker"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Patriarchal period",
+      "era": "patriarchal",
+      "topics": ["seeking-god", "faith", "sovereignty"],
+      "events": [],
+      "keyVerses": [10, 12],
+      "crossReferences": [
+        {"book": "1 Peter", "chapter": 1, "label": "Tested as gold"},
+        {"book": "Psalms", "chapter": 119, "label": "Esteeming God's words"}
+      ]
+    },
+    "24": {
+      "genre": ["poetry", "wisdom"],
+      "people": [
+        {"name": "Job", "role": "speaker"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Patriarchal period",
+      "era": "patriarchal",
+      "topics": ["injustice", "oppression", "theodicy"],
+      "events": [],
+      "keyVerses": [1, 12],
+      "crossReferences": [
+        {"book": "Ecclesiastes", "chapter": 8, "label": "Delayed justice"}
+      ]
+    },
+    "25": {
+      "genre": ["poetry", "wisdom"],
+      "people": [
+        {"name": "Bildad", "role": "speaker"},
+        {"name": "Job", "role": "recipient"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Patriarchal period",
+      "era": "patriarchal",
+      "topics": ["divine-majesty", "human-sinfulness", "unworthiness"],
+      "events": ["Bildad's third speech"],
+      "keyVerses": [4, 6],
+      "crossReferences": [
+        {"book": "Psalms", "chapter": 8, "label": "What is man"}
+      ]
+    },
+    "26": {
+      "genre": ["poetry", "wisdom"],
+      "people": [
+        {"name": "Job", "role": "speaker"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Patriarchal period",
+      "era": "patriarchal",
+      "topics": ["divine-power", "creation", "mystery"],
+      "events": [],
+      "keyVerses": [7, 14],
+      "crossReferences": [
+        {"book": "Isaiah", "chapter": 40, "label": "God's creative power"}
+      ]
+    },
+    "27": {
+      "genre": ["poetry", "wisdom"],
+      "people": [
+        {"name": "Job", "role": "speaker"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Patriarchal period",
+      "era": "patriarchal",
+      "topics": ["integrity", "fate-of-the-wicked", "righteousness"],
+      "events": [],
+      "keyVerses": [5, 6],
+      "crossReferences": [
+        {"book": "Psalms", "chapter": 37, "label": "Fate of the wicked"}
+      ]
+    },
+    "28": {
+      "genre": ["poetry", "wisdom"],
+      "people": [
+        {"name": "Job", "role": "speaker"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": ["Ophir"],
+      "timePeriod": "Patriarchal period",
+      "era": "patriarchal",
+      "topics": ["wisdom", "fear-of-the-lord", "divine-knowledge"],
+      "events": [],
+      "keyVerses": [12, 28],
+      "crossReferences": [
+        {"book": "Proverbs", "chapter": 1, "label": "Fear of the Lord is the beginning of wisdom"},
+        {"book": "Proverbs", "chapter": 8, "label": "Wisdom's value above rubies"}
+      ]
+    },
+    "29": {
+      "genre": ["poetry", "wisdom"],
+      "people": [
+        {"name": "Job", "role": "speaker"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Patriarchal period",
+      "era": "patriarchal",
+      "topics": ["former-blessings", "righteousness", "justice"],
+      "events": [],
+      "keyVerses": [14, 15],
+      "crossReferences": [
+        {"book": "Isaiah", "chapter": 1, "label": "Caring for widows and orphans"}
+      ]
+    },
+    "30": {
+      "genre": ["poetry", "wisdom"],
+      "people": [
+        {"name": "Job", "role": "speaker"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Patriarchal period",
+      "era": "patriarchal",
+      "topics": ["lament", "humiliation", "suffering"],
+      "events": [],
+      "keyVerses": [20, 26],
+      "crossReferences": [
+        {"book": "Psalms", "chapter": 22, "label": "Cry of suffering"}
+      ]
+    },
+    "31": {
+      "genre": ["poetry", "wisdom"],
+      "people": [
+        {"name": "Job", "role": "speaker"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Patriarchal period",
+      "era": "patriarchal",
+      "topics": ["integrity", "self-examination", "righteousness"],
+      "events": ["Job's final oath of innocence"],
+      "keyVerses": [1, 6, 35],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 5, "label": "Purity of heart and eyes"}
+      ]
+    },
+    "32": {
+      "genre": ["narrative", "wisdom"],
+      "people": [
+        {"name": "Elihu", "role": "speaker"},
+        {"name": "Job", "role": "mentioned"},
+        {"name": "Eliphaz", "role": "mentioned"},
+        {"name": "Bildad", "role": "mentioned"},
+        {"name": "Zophar", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Patriarchal period",
+      "era": "patriarchal",
+      "topics": ["youth-and-wisdom", "inspiration", "speech"],
+      "events": ["Elihu begins to speak"],
+      "keyVerses": [8, 9],
+      "crossReferences": [
+        {"book": "1 Timothy", "chapter": 4, "label": "Let no one despise your youth"}
+      ]
+    },
+    "33": {
+      "genre": ["poetry", "wisdom"],
+      "people": [
+        {"name": "Elihu", "role": "speaker"},
+        {"name": "Job", "role": "recipient"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Patriarchal period",
+      "era": "patriarchal",
+      "topics": ["divine-communication", "redemption", "discipline"],
+      "events": [],
+      "keyVerses": [14, 24],
+      "crossReferences": [
+        {"book": "Hebrews", "chapter": 1, "label": "God speaks in various ways"}
+      ]
+    },
+    "34": {
+      "genre": ["poetry", "wisdom"],
+      "people": [
+        {"name": "Elihu", "role": "speaker"},
+        {"name": "Job", "role": "mentioned"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Patriarchal period",
+      "era": "patriarchal",
+      "topics": ["divine-justice", "sovereignty", "judgment"],
+      "events": [],
+      "keyVerses": [10, 12],
+      "crossReferences": [
+        {"book": "Deuteronomy", "chapter": 32, "label": "God does no wickedness"}
+      ]
+    },
+    "35": {
+      "genre": ["poetry", "wisdom"],
+      "people": [
+        {"name": "Elihu", "role": "speaker"},
+        {"name": "Job", "role": "mentioned"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Patriarchal period",
+      "era": "patriarchal",
+      "topics": ["transcendence", "pride", "prayer"],
+      "events": [],
+      "keyVerses": [10, 11],
+      "crossReferences": [
+        {"book": "Acts", "chapter": 17, "label": "God not served by human hands"}
+      ]
+    },
+    "36": {
+      "genre": ["poetry", "wisdom"],
+      "people": [
+        {"name": "Elihu", "role": "speaker"},
+        {"name": "Job", "role": "recipient"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Patriarchal period",
+      "era": "patriarchal",
+      "topics": ["divine-discipline", "sovereignty", "creation"],
+      "events": [],
+      "keyVerses": [5, 26],
+      "crossReferences": [
+        {"book": "Romans", "chapter": 11, "label": "God's unsearchable greatness"}
+      ]
+    },
+    "37": {
+      "genre": ["poetry", "wisdom"],
+      "people": [
+        {"name": "Elihu", "role": "speaker"},
+        {"name": "Job", "role": "recipient"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Patriarchal period",
+      "era": "patriarchal",
+      "topics": ["creation", "divine-power", "weather"],
+      "events": [],
+      "keyVerses": [5, 23],
+      "crossReferences": [
+        {"book": "Psalms", "chapter": 29, "label": "Voice of God in the storm"}
+      ]
+    },
+    "38": {
+      "genre": ["poetry", "wisdom"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Job", "role": "recipient"}
+      ],
+      "locations": [],
+      "timePeriod": "Patriarchal period",
+      "era": "patriarchal",
+      "topics": ["creation", "sovereignty", "divine-power"],
+      "events": ["God speaks from the whirlwind"],
+      "keyVerses": [1, 4, 7],
+      "crossReferences": [
+        {"book": "Psalms", "chapter": 104, "label": "God's creative works"},
+        {"book": "Proverbs", "chapter": 8, "label": "Wisdom at creation"}
+      ]
+    },
+    "39": {
+      "genre": ["poetry", "wisdom"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Job", "role": "recipient"}
+      ],
+      "locations": [],
+      "timePeriod": "Patriarchal period",
+      "era": "patriarchal",
+      "topics": ["creation", "divine-wisdom", "animals"],
+      "events": [],
+      "keyVerses": [19],
+      "crossReferences": [
+        {"book": "Psalms", "chapter": 104, "label": "God's care for creatures"}
+      ]
+    },
+    "40": {
+      "genre": ["poetry", "wisdom"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Job", "role": "speaker"}
+      ],
+      "locations": ["Jordan"],
+      "timePeriod": "Patriarchal period",
+      "era": "patriarchal",
+      "topics": ["humility", "divine-power", "sovereignty"],
+      "events": ["Job's first response to God", "God describes behemoth"],
+      "keyVerses": [4, 5, 9],
+      "crossReferences": [
+        {"book": "Isaiah", "chapter": 45, "label": "Contending with the Almighty"}
+      ]
+    },
+    "41": {
+      "genre": ["poetry", "wisdom"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Job", "role": "recipient"}
+      ],
+      "locations": [],
+      "timePeriod": "Patriarchal period",
+      "era": "patriarchal",
+      "topics": ["divine-power", "creation", "sovereignty"],
+      "events": ["God describes leviathan"],
+      "keyVerses": [10, 11],
+      "crossReferences": [
+        {"book": "Psalms", "chapter": 104, "label": "Leviathan"},
+        {"book": "Isaiah", "chapter": 27, "label": "Leviathan the sea monster"}
+      ]
+    },
+    "42": {
+      "genre": ["narrative", "wisdom"],
+      "people": [
+        {"name": "Job", "role": "protagonist"},
+        {"name": "God", "role": "speaker"},
+        {"name": "Eliphaz", "role": "mentioned"},
+        {"name": "Bildad", "role": "mentioned"},
+        {"name": "Zophar", "role": "mentioned"},
+        {"name": "Jemima", "role": "mentioned"},
+        {"name": "Kezia", "role": "mentioned"},
+        {"name": "Kerenhappuch", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Patriarchal period",
+      "era": "patriarchal",
+      "topics": ["repentance", "restoration", "blessing"],
+      "events": ["Job repents in dust and ashes", "God rebukes Job's friends", "God restores Job's fortunes"],
+      "keyVerses": [2, 5, 6, 10],
+      "crossReferences": [
+        {"book": "James", "chapter": 5, "label": "The Lord is full of compassion"},
+        {"book": "Ezekiel", "chapter": 14, "label": "Job mentioned as righteous"}
+      ]
+    }
+  }
+}

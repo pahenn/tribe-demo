@@ -1,0 +1,76 @@
+{
+  "book": "Jonah",
+  "bookSlug": "32.jonah",
+  "testament": "1.old-testament",
+  "chapters": {
+    "1": {
+      "genre": ["narrative", "prophecy"],
+      "people": [
+        {"name": "Jonah", "role": "protagonist"},
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Nineveh", "Tarshish", "Joppa"],
+      "timePeriod": "Divided Kingdom",
+      "era": "divided-monarchy",
+      "topics": ["disobedience", "fleeing-from-god", "divine-sovereignty", "storm"],
+      "events": ["God commands Jonah to go to Nineveh", "Jonah flees to Tarshish", "God sends a storm", "Jonah thrown overboard and swallowed by a great fish"],
+      "keyVerses": [3, 17],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 12, "label": "Sign of Jonah - three days and three nights"},
+        {"book": "Psalm", "chapter": 139, "label": "No fleeing from God's presence"}
+      ]
+    },
+    "2": {
+      "genre": ["poetry", "narrative"],
+      "people": [
+        {"name": "Jonah", "role": "protagonist"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Divided Kingdom",
+      "era": "divided-monarchy",
+      "topics": ["prayer", "deliverance", "thanksgiving", "salvation"],
+      "events": ["Jonah prays from the belly of the fish", "God commands the fish to release Jonah"],
+      "keyVerses": [2, 9],
+      "crossReferences": [
+        {"book": "Psalm", "chapter": 18, "label": "Cried to the Lord in distress"},
+        {"book": "Psalm", "chapter": 42, "label": "All your waves and breakers sweep over me"}
+      ]
+    },
+    "3": {
+      "genre": ["narrative", "prophecy"],
+      "people": [
+        {"name": "Jonah", "role": "protagonist"},
+        {"name": "God", "role": "speaker"},
+        {"name": "King of Nineveh", "role": "mentioned"}
+      ],
+      "locations": ["Nineveh"],
+      "timePeriod": "Divided Kingdom",
+      "era": "divided-monarchy",
+      "topics": ["repentance", "mercy", "preaching", "obedience"],
+      "events": ["Jonah preaches in Nineveh", "Nineveh repents from king to commoner", "God relents from judgment"],
+      "keyVerses": [5, 10],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 12, "label": "Men of Nineveh will rise in judgment"},
+        {"book": "Jeremiah", "chapter": 18, "label": "God relents when a nation repents"}
+      ]
+    },
+    "4": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Jonah", "role": "protagonist"},
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Nineveh"],
+      "timePeriod": "Divided Kingdom",
+      "era": "divided-monarchy",
+      "topics": ["divine-compassion", "anger", "mercy-for-nations", "object-lesson"],
+      "events": ["Jonah angry that God spared Nineveh", "God teaches Jonah through the gourd and the worm"],
+      "keyVerses": [2, 11],
+      "crossReferences": [
+        {"book": "Exodus", "chapter": 34, "label": "God gracious, merciful, slow to anger"},
+        {"book": "Luke", "chapter": 15, "label": "God's joy over repentant sinners"}
+      ]
+    }
+  }
+}

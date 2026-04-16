@@ -1,0 +1,228 @@
+{
+  "book": "2 Corinthians",
+  "bookSlug": "47.2-corinthians",
+  "testament": "2.new-testament",
+  "chapters": {
+    "1": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Paul", "role": "author"},
+        {"name": "Timothy", "role": "co-sender"},
+        {"name": "Silvanus", "role": "mentioned"},
+        {"name": "Jesus Christ", "role": "mentioned"}
+      ],
+      "locations": ["Corinth", "Achaia", "Macedonia", "Asia"],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["comfort", "suffering", "faithfulness", "promises-of-god"],
+      "events": ["Paul recounts severe affliction in Asia"],
+      "keyVerses": [3, 4, 20],
+      "crossReferences": [
+        {"book": "Psalms", "chapter": 34, "label": "The Lord is near to the brokenhearted"}
+      ]
+    },
+    "2": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Paul", "role": "author"},
+        {"name": "Titus", "role": "mentioned"}
+      ],
+      "locations": ["Troas", "Macedonia"],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["forgiveness", "restoration", "triumph", "sincerity"],
+      "events": ["Paul urges forgiveness for the repentant offender"],
+      "keyVerses": [7, 14, 15],
+      "crossReferences": [
+        {"book": "1 Corinthians", "chapter": 5, "label": "The original discipline of the offender"}
+      ]
+    },
+    "3": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Paul", "role": "author"},
+        {"name": "Moses", "role": "mentioned"},
+        {"name": "Holy Spirit", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["new-covenant", "glory", "spirit-vs-letter", "transformation"],
+      "events": [],
+      "keyVerses": [6, 17, 18],
+      "crossReferences": [
+        {"book": "Exodus", "chapter": 34, "label": "Moses' face shone with glory and he wore a veil"},
+        {"book": "Jeremiah", "chapter": 31, "label": "The new covenant written on the heart"}
+      ]
+    },
+    "4": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Paul", "role": "author"},
+        {"name": "Jesus Christ", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["treasure-in-earthen-vessels", "suffering", "eternal-glory", "perseverance"],
+      "events": [],
+      "keyVerses": [7, 17, 18],
+      "crossReferences": [
+        {"book": "Genesis", "chapter": 1, "label": "God commanded light to shine out of darkness"},
+        {"book": "Psalms", "chapter": 116, "label": "I believed and therefore have I spoken"}
+      ]
+    },
+    "5": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Paul", "role": "author"},
+        {"name": "Jesus Christ", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["eternal-body", "faith", "new-creation", "reconciliation"],
+      "events": [],
+      "keyVerses": [7, 17, 21],
+      "crossReferences": [
+        {"book": "Isaiah", "chapter": 43, "label": "Behold, I make all things new"},
+        {"book": "Romans", "chapter": 5, "label": "Reconciled to God through Christ"}
+      ]
+    },
+    "6": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Paul", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": ["Corinth"],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["separation", "holiness", "ministry", "temple-of-god"],
+      "events": [],
+      "keyVerses": [2, 14, 17],
+      "crossReferences": [
+        {"book": "Isaiah", "chapter": 49, "label": "In an acceptable time have I heard thee"},
+        {"book": "Isaiah", "chapter": 52, "label": "Come out from among them and be ye separate"}
+      ]
+    },
+    "7": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Paul", "role": "author"},
+        {"name": "Titus", "role": "mentioned"}
+      ],
+      "locations": ["Macedonia"],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["repentance", "godly-sorrow", "comfort", "joy"],
+      "events": ["Titus brings good news of the Corinthians' repentance"],
+      "keyVerses": [9, 10, 11],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 26, "label": "Godly sorrow versus worldly sorrow"}
+      ]
+    },
+    "8": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Paul", "role": "author"},
+        {"name": "Titus", "role": "mentioned"},
+        {"name": "Jesus Christ", "role": "mentioned"}
+      ],
+      "locations": ["Macedonia", "Achaia"],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["generosity", "collection", "grace", "equality"],
+      "events": ["Paul commends the Macedonians' generosity and urges the Corinthians to give"],
+      "keyVerses": [9, 12, 15],
+      "crossReferences": [
+        {"book": "Exodus", "chapter": 16, "label": "He that gathered much had nothing over"},
+        {"book": "Philippians", "chapter": 2, "label": "Christ emptied himself for our sake"}
+      ]
+    },
+    "9": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Paul", "role": "author"}
+      ],
+      "locations": ["Achaia", "Macedonia"],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["cheerful-giving", "generosity", "sowing-and-reaping", "thanksgiving"],
+      "events": [],
+      "keyVerses": [6, 7, 15],
+      "crossReferences": [
+        {"book": "Proverbs", "chapter": 11, "label": "He that scattereth yet increaseth"},
+        {"book": "Psalms", "chapter": 112, "label": "He hath dispersed abroad and given to the poor"}
+      ]
+    },
+    "10": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Paul", "role": "author"}
+      ],
+      "locations": ["Corinth"],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["spiritual-warfare", "authority", "boasting", "obedience"],
+      "events": [],
+      "keyVerses": [4, 5, 17],
+      "crossReferences": [
+        {"book": "Ephesians", "chapter": 6, "label": "The armor of God and spiritual warfare"},
+        {"book": "Jeremiah", "chapter": 9, "label": "Let him that glorieth glory in the Lord"}
+      ]
+    },
+    "11": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Paul", "role": "author"},
+        {"name": "Eve", "role": "mentioned"},
+        {"name": "Satan", "role": "mentioned"}
+      ],
+      "locations": ["Damascus", "Achaia", "Macedonia"],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["false-apostles", "apostolic-suffering", "boasting", "perseverance"],
+      "events": ["Paul catalogs his sufferings and escapes from Damascus"],
+      "keyVerses": [14, 23, 25],
+      "crossReferences": [
+        {"book": "Acts", "chapter": 9, "label": "Paul's escape from Damascus in a basket"},
+        {"book": "Genesis", "chapter": 3, "label": "The serpent beguiled Eve"}
+      ]
+    },
+    "12": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Paul", "role": "author"},
+        {"name": "Titus", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["visions", "thorn-in-flesh", "grace", "weakness"],
+      "events": ["Paul recounts being caught up to the third heaven", "Paul describes his thorn in the flesh"],
+      "keyVerses": [2, 9, 10],
+      "crossReferences": [
+        {"book": "Philippians", "chapter": 4, "label": "I can do all things through Christ who strengthens me"}
+      ]
+    },
+    "13": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Paul", "role": "author"},
+        {"name": "Jesus Christ", "role": "mentioned"},
+        {"name": "Holy Spirit", "role": "mentioned"}
+      ],
+      "locations": ["Corinth"],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["self-examination", "faith", "benediction", "unity"],
+      "events": [],
+      "keyVerses": [5, 11, 14],
+      "crossReferences": [
+        {"book": "Deuteronomy", "chapter": 19, "label": "By two or three witnesses a matter is established"},
+        {"book": "Matthew", "chapter": 28, "label": "Trinitarian benediction"}
+      ]
+    }
+  }
+}

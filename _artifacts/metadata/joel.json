@@ -1,0 +1,57 @@
+{
+  "book": "Joel",
+  "bookSlug": "29.joel",
+  "testament": "1.old-testament",
+  "chapters": {
+    "1": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "Joel", "role": "author"},
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Judah", "Zion"],
+      "timePeriod": "Divided Kingdom",
+      "era": "divided-monarchy",
+      "topics": ["locust-plague", "lament", "day-of-the-lord", "fasting"],
+      "events": ["Devastating locust plague described", "Call to priests and elders to fast and mourn"],
+      "keyVerses": [4, 15],
+      "crossReferences": [
+        {"book": "Exodus", "chapter": 10, "label": "Plague of locusts in Egypt"},
+        {"book": "Revelation", "chapter": 9, "label": "Locusts from the bottomless pit"}
+      ]
+    },
+    "2": {
+      "genre": ["prophecy", "apocalyptic"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Joel", "role": "author"}
+      ],
+      "locations": ["Zion", "Jerusalem", "Eden"],
+      "timePeriod": "Divided Kingdom",
+      "era": "divided-monarchy",
+      "topics": ["day-of-the-lord", "repentance", "outpouring-of-the-spirit", "restoration"],
+      "events": ["Army of locusts invades like a military force", "Call to rend hearts and return to God", "Promise of the outpouring of the Spirit on all flesh"],
+      "keyVerses": [13, 28, 32],
+      "crossReferences": [
+        {"book": "Acts", "chapter": 2, "label": "Peter quotes Joel at Pentecost"},
+        {"book": "Romans", "chapter": 10, "label": "Whoever calls on the name of the Lord shall be saved"}
+      ]
+    },
+    "3": {
+      "genre": ["prophecy", "apocalyptic"],
+      "people": [
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Jerusalem", "Judah", "Valley of Jehoshaphat", "Tyre", "Sidon", "Egypt", "Edom", "Zion"],
+      "timePeriod": "Divided Kingdom",
+      "era": "divided-monarchy",
+      "topics": ["judgment-of-nations", "day-of-the-lord", "restoration", "divine-justice"],
+      "events": ["God judges the nations in the Valley of Jehoshaphat", "Plowshares beaten into swords", "Promise of Judah's eternal restoration"],
+      "keyVerses": [10, 14, 16],
+      "crossReferences": [
+        {"book": "Isaiah", "chapter": 2, "label": "Swords into plowshares (reversed here)"},
+        {"book": "Revelation", "chapter": 14, "label": "Harvest of the earth and winepress of wrath"}
+      ]
+    }
+  }
+}

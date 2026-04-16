@@ -1,0 +1,543 @@
+{
+  "book": "1 Samuel",
+  "bookSlug": "09.1-samuel",
+  "testament": "1.old-testament",
+  "chapters": {
+    "1": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Hannah", "role": "protagonist"},
+        {"name": "Elkanah", "role": "mentioned"},
+        {"name": "Peninnah", "role": "mentioned"},
+        {"name": "Eli", "role": "mentioned"},
+        {"name": "Samuel", "role": "mentioned"}
+      ],
+      "locations": ["Shiloh", "Ramah"],
+      "timePeriod": "Transition from Judges to Monarchy",
+      "era": "judges",
+      "topics": ["prayer", "barrenness", "vows", "faith"],
+      "events": ["Hannah's prayer for a son", "Birth of Samuel", "Samuel dedicated to the Lord at Shiloh"],
+      "keyVerses": [11, 27, 28],
+      "crossReferences": [
+        {"book": "Luke", "chapter": 1, "label": "Hannah's prayer parallels Mary's Magnificat"}
+      ]
+    },
+    "2": {
+      "genre": ["poetry", "narrative"],
+      "people": [
+        {"name": "Hannah", "role": "speaker"},
+        {"name": "Samuel", "role": "mentioned"},
+        {"name": "Eli", "role": "mentioned"},
+        {"name": "Hophni", "role": "antagonist"},
+        {"name": "Phinehas", "role": "antagonist"}
+      ],
+      "locations": ["Shiloh"],
+      "timePeriod": "Transition from Judges to Monarchy",
+      "era": "judges",
+      "topics": ["praise", "sovereignty", "corruption", "judgment"],
+      "events": ["Hannah's song of praise", "Wickedness of Eli's sons", "Prophecy against Eli's house"],
+      "keyVerses": [2, 30],
+      "crossReferences": [
+        {"book": "Luke", "chapter": 1, "label": "Hannah's song parallels the Magnificat"}
+      ]
+    },
+    "3": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Samuel", "role": "protagonist"},
+        {"name": "God", "role": "speaker"},
+        {"name": "Eli", "role": "mentioned"}
+      ],
+      "locations": ["Shiloh"],
+      "timePeriod": "Transition from Judges to Monarchy",
+      "era": "judges",
+      "topics": ["calling", "prophecy", "revelation", "obedience"],
+      "events": ["God calls Samuel in the night", "Samuel receives prophecy against Eli's house", "Samuel established as a prophet"],
+      "keyVerses": [4, 9, 19],
+      "crossReferences": [
+        {"book": "Jeremiah", "chapter": 1, "label": "Prophetic calling parallels"}
+      ]
+    },
+    "4": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Eli", "role": "mentioned"},
+        {"name": "Hophni", "role": "mentioned"},
+        {"name": "Phinehas", "role": "mentioned"}
+      ],
+      "locations": ["Ebenezer", "Aphek", "Shiloh"],
+      "timePeriod": "Transition from Judges to Monarchy",
+      "era": "judges",
+      "topics": ["judgment", "ark-of-the-covenant", "defeat", "glory-departed"],
+      "events": ["Philistines defeat Israel", "Ark of the covenant captured", "Deaths of Hophni and Phinehas", "Death of Eli", "Ichabod born"],
+      "keyVerses": [21, 22],
+      "crossReferences": [
+        {"book": "Psalms", "chapter": 78, "label": "God abandons Shiloh"}
+      ]
+    },
+    "5": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "God", "role": "protagonist"}
+      ],
+      "locations": ["Ashdod", "Gath", "Ekron"],
+      "timePeriod": "Transition from Judges to Monarchy",
+      "era": "judges",
+      "topics": ["sovereignty", "idolatry", "judgment", "divine-power"],
+      "events": ["Dagon falls before the ark", "Plagues on Philistine cities"],
+      "keyVerses": [4],
+      "crossReferences": [
+        {"book": "Exodus", "chapter": 12, "label": "God's judgment on the gods of other nations"}
+      ]
+    },
+    "6": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": ["Bethshemesh", "Kirjathjearim"],
+      "timePeriod": "Transition from Judges to Monarchy",
+      "era": "judges",
+      "topics": ["ark-of-the-covenant", "reverence", "guilt-offering"],
+      "events": ["Philistines return the ark with a guilt offering", "Ark arrives at Beth-shemesh", "Men of Beth-shemesh struck for looking into the ark"],
+      "keyVerses": [6, 19],
+      "crossReferences": [
+        {"book": "2 Samuel", "chapter": 6, "label": "Uzzah struck for touching the ark"}
+      ]
+    },
+    "7": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Samuel", "role": "protagonist"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": ["Kirjathjearim", "Mizpeh", "Ebenezer"],
+      "timePeriod": "Transition from Judges to Monarchy",
+      "era": "judges",
+      "topics": ["repentance", "deliverance", "prayer", "memorial"],
+      "events": ["Samuel calls Israel to repentance", "Philistines defeated at Mizpeh", "Ebenezer stone raised"],
+      "keyVerses": [3, 12],
+      "crossReferences": [
+        {"book": "Judges", "chapter": 10, "label": "Pattern of sin, repentance, deliverance"}
+      ]
+    },
+    "8": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Samuel", "role": "protagonist"},
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Ramah", "Beersheba"],
+      "timePeriod": "Transition from Judges to Monarchy",
+      "era": "judges",
+      "topics": ["kingship", "rejection", "warning", "governance"],
+      "events": ["Israel demands a king", "God warns of the ways of a king", "God tells Samuel to give them a king"],
+      "keyVerses": [5, 7, 20],
+      "crossReferences": [
+        {"book": "Deuteronomy", "chapter": 17, "label": "Law of the king"},
+        {"book": "Judges", "chapter": 8, "label": "Gideon refuses kingship"}
+      ]
+    },
+    "9": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Saul", "role": "protagonist"},
+        {"name": "Samuel", "role": "protagonist"},
+        {"name": "Kish", "role": "mentioned"}
+      ],
+      "locations": ["Zuph", "Ramah"],
+      "timePeriod": "Early Monarchy",
+      "era": "united-monarchy",
+      "topics": ["providence", "anointing", "calling"],
+      "events": ["Saul seeks lost donkeys", "Saul meets Samuel", "Samuel hosts Saul"],
+      "keyVerses": [2, 17],
+      "crossReferences": [
+        {"book": "1 Samuel", "chapter": 10, "label": "Saul's anointing continues"}
+      ]
+    },
+    "10": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Samuel", "role": "protagonist"},
+        {"name": "Saul", "role": "protagonist"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": ["Mizpeh", "Gibeah"],
+      "timePeriod": "Early Monarchy",
+      "era": "united-monarchy",
+      "topics": ["anointing", "kingship", "holy-spirit", "prophecy"],
+      "events": ["Samuel anoints Saul as king", "Spirit of God comes upon Saul", "Saul chosen by lot at Mizpeh"],
+      "keyVerses": [1, 6, 24],
+      "crossReferences": [
+        {"book": "1 Samuel", "chapter": 16, "label": "David's anointing contrasts with Saul's"}
+      ]
+    },
+    "11": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Saul", "role": "protagonist"},
+        {"name": "Nahash", "role": "antagonist"}
+      ],
+      "locations": ["Jabeshgilead", "Gilgal"],
+      "timePeriod": "Early Monarchy",
+      "era": "united-monarchy",
+      "topics": ["leadership", "deliverance", "holy-spirit", "kingship"],
+      "events": ["Nahash besieges Jabesh-gilead", "Saul rallies Israel and defeats Ammonites", "Kingship renewed at Gilgal"],
+      "keyVerses": [6, 13],
+      "crossReferences": [
+        {"book": "Judges", "chapter": 21, "label": "Jabesh-gilead connection to Benjamin"}
+      ]
+    },
+    "12": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Samuel", "role": "protagonist"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": ["Gilgal"],
+      "timePeriod": "Early Monarchy",
+      "era": "united-monarchy",
+      "topics": ["farewell-speech", "faithfulness", "warning", "covenant"],
+      "events": ["Samuel's farewell address", "Thunder and rain as divine sign", "Samuel warns against disobedience"],
+      "keyVerses": [22, 24],
+      "crossReferences": [
+        {"book": "Joshua", "chapter": 24, "label": "Joshua's farewell speech parallel"}
+      ]
+    },
+    "13": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Saul", "role": "protagonist"},
+        {"name": "Jonathan", "role": "mentioned"},
+        {"name": "Samuel", "role": "mentioned"}
+      ],
+      "locations": ["Michmash", "Gilgal", "Gibeah"],
+      "timePeriod": "Early Monarchy",
+      "era": "united-monarchy",
+      "topics": ["disobedience", "impatience", "rejection", "warfare"],
+      "events": ["Jonathan attacks Philistine garrison", "Saul unlawfully offers sacrifice", "Samuel declares Saul's kingdom will not endure"],
+      "keyVerses": [13, 14],
+      "crossReferences": [
+        {"book": "1 Samuel", "chapter": 15, "label": "Saul's second act of disobedience"}
+      ]
+    },
+    "14": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Jonathan", "role": "protagonist"},
+        {"name": "Saul", "role": "mentioned"}
+      ],
+      "locations": ["Michmash", "Gibeah"],
+      "timePeriod": "Early Monarchy",
+      "era": "united-monarchy",
+      "topics": ["faith", "courage", "rash-vows", "divine-deliverance"],
+      "events": ["Jonathan's daring attack on Philistine outpost", "Saul's rash oath", "Jonathan saved from Saul's oath by the people"],
+      "keyVerses": [6, 45],
+      "crossReferences": [
+        {"book": "Judges", "chapter": 11, "label": "Jephthah's rash vow parallel"}
+      ]
+    },
+    "15": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Saul", "role": "protagonist"},
+        {"name": "Samuel", "role": "protagonist"},
+        {"name": "Agag", "role": "antagonist"},
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Amalek", "Gilgal", "Carmel"],
+      "timePeriod": "Early Monarchy",
+      "era": "united-monarchy",
+      "topics": ["obedience", "rejection", "disobedience", "repentance"],
+      "events": ["Saul spares Agag and the best of the spoil", "Samuel rebukes Saul", "God rejects Saul as king", "Samuel kills Agag"],
+      "keyVerses": [22, 23],
+      "crossReferences": [
+        {"book": "Exodus", "chapter": 17, "label": "Amalek's attack on Israel"},
+        {"book": "Hosea", "chapter": 6, "label": "Obedience better than sacrifice"}
+      ]
+    },
+    "16": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Samuel", "role": "protagonist"},
+        {"name": "David", "role": "protagonist"},
+        {"name": "Jesse", "role": "mentioned"},
+        {"name": "Saul", "role": "mentioned"},
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Bethlehem", "Gibeah"],
+      "timePeriod": "Early Monarchy",
+      "era": "united-monarchy",
+      "topics": ["anointing", "divine-choice", "heart", "holy-spirit"],
+      "events": ["Samuel anoints David", "Spirit departs from Saul", "David plays harp for Saul"],
+      "keyVerses": [7, 13],
+      "crossReferences": [
+        {"book": "Acts", "chapter": 13, "label": "David a man after God's own heart"}
+      ]
+    },
+    "17": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "David", "role": "protagonist"},
+        {"name": "Goliath", "role": "antagonist"},
+        {"name": "Saul", "role": "mentioned"},
+        {"name": "Jesse", "role": "mentioned"}
+      ],
+      "locations": ["Valley of Elah", "Shochoh", "Azekah"],
+      "timePeriod": "Early Monarchy",
+      "era": "united-monarchy",
+      "topics": ["faith", "courage", "divine-power", "giant-slaying"],
+      "events": ["Goliath challenges Israel", "David volunteers to fight", "David kills Goliath with a sling and stone"],
+      "keyVerses": [45, 47],
+      "crossReferences": [
+        {"book": "2 Samuel", "chapter": 21, "label": "Other giants killed by David's men"}
+      ]
+    },
+    "18": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "David", "role": "protagonist"},
+        {"name": "Jonathan", "role": "protagonist"},
+        {"name": "Saul", "role": "antagonist"},
+        {"name": "Michal", "role": "mentioned"}
+      ],
+      "locations": ["Gibeah"],
+      "timePeriod": "Early Monarchy",
+      "era": "united-monarchy",
+      "topics": ["friendship", "jealousy", "covenant", "persecution"],
+      "events": ["Jonathan and David's covenant", "Saul becomes jealous of David", "David marries Michal"],
+      "keyVerses": [1, 3, 7],
+      "crossReferences": [
+        {"book": "Proverbs", "chapter": 17, "label": "A friend loves at all times"}
+      ]
+    },
+    "19": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "David", "role": "protagonist"},
+        {"name": "Saul", "role": "antagonist"},
+        {"name": "Jonathan", "role": "mentioned"},
+        {"name": "Michal", "role": "mentioned"}
+      ],
+      "locations": ["Gibeah", "Ramah", "Naioth"],
+      "timePeriod": "Early Monarchy",
+      "era": "united-monarchy",
+      "topics": ["persecution", "escape", "protection", "prophecy"],
+      "events": ["Saul tries to kill David", "Michal helps David escape", "Saul prophesies at Naioth"],
+      "keyVerses": [5, 24],
+      "crossReferences": [
+        {"book": "Psalms", "chapter": 59, "label": "Psalm written during this event"}
+      ]
+    },
+    "20": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "David", "role": "protagonist"},
+        {"name": "Jonathan", "role": "protagonist"},
+        {"name": "Saul", "role": "antagonist"}
+      ],
+      "locations": ["Gibeah"],
+      "timePeriod": "Early Monarchy",
+      "era": "united-monarchy",
+      "topics": ["friendship", "covenant", "loyalty", "farewell"],
+      "events": ["David and Jonathan's plan to test Saul", "Saul's rage at Jonathan", "David and Jonathan's tearful parting"],
+      "keyVerses": [17, 42],
+      "crossReferences": [
+        {"book": "2 Samuel", "chapter": 9, "label": "David honors covenant with Jonathan"}
+      ]
+    },
+    "21": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "David", "role": "protagonist"},
+        {"name": "Ahimelech", "role": "mentioned"},
+        {"name": "Doeg", "role": "mentioned"},
+        {"name": "Achish", "role": "mentioned"}
+      ],
+      "locations": ["Nob", "Gath"],
+      "timePeriod": "Early Monarchy",
+      "era": "united-monarchy",
+      "topics": ["flight", "deception", "desperation"],
+      "events": ["David receives showbread and Goliath's sword at Nob", "David feigns madness before Achish of Gath"],
+      "keyVerses": [6, 9],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 12, "label": "Jesus references David eating showbread"},
+        {"book": "Psalms", "chapter": 34, "label": "Psalm written when David feigned madness"}
+      ]
+    },
+    "22": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "David", "role": "protagonist"},
+        {"name": "Saul", "role": "antagonist"},
+        {"name": "Doeg", "role": "antagonist"},
+        {"name": "Abiathar", "role": "mentioned"},
+        {"name": "Gad", "role": "mentioned"}
+      ],
+      "locations": ["Adullam", "Moab", "Nob"],
+      "timePeriod": "Early Monarchy",
+      "era": "united-monarchy",
+      "topics": ["refuge", "massacre", "loyalty", "leadership"],
+      "events": ["David gathers followers at Adullam", "Saul orders massacre of priests at Nob", "Abiathar escapes to David"],
+      "keyVerses": [2, 17],
+      "crossReferences": [
+        {"book": "Psalms", "chapter": 52, "label": "Psalm about Doeg the Edomite"},
+        {"book": "Psalms", "chapter": 142, "label": "Psalm from the cave"}
+      ]
+    },
+    "23": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "David", "role": "protagonist"},
+        {"name": "Saul", "role": "antagonist"},
+        {"name": "Jonathan", "role": "mentioned"},
+        {"name": "Abiathar", "role": "mentioned"}
+      ],
+      "locations": ["Keilah", "Ziph", "Maon", "Engedi"],
+      "timePeriod": "Early Monarchy",
+      "era": "united-monarchy",
+      "topics": ["divine-guidance", "pursuit", "friendship", "deliverance"],
+      "events": ["David saves Keilah", "Jonathan visits David in the wilderness", "David narrowly escapes Saul at Maon"],
+      "keyVerses": [2, 16],
+      "crossReferences": [
+        {"book": "Psalms", "chapter": 54, "label": "Psalm when the Ziphites informed Saul"}
+      ]
+    },
+    "24": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "David", "role": "protagonist"},
+        {"name": "Saul", "role": "antagonist"}
+      ],
+      "locations": ["Engedi"],
+      "timePeriod": "Early Monarchy",
+      "era": "united-monarchy",
+      "topics": ["mercy", "restraint", "respect-for-authority", "anointing"],
+      "events": ["David spares Saul in the cave", "David cuts Saul's robe", "Saul acknowledges David will be king"],
+      "keyVerses": [6, 12, 20],
+      "crossReferences": [
+        {"book": "Romans", "chapter": 12, "label": "Overcoming evil with good"}
+      ]
+    },
+    "25": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "David", "role": "protagonist"},
+        {"name": "Nabal", "role": "antagonist"},
+        {"name": "Abigail", "role": "protagonist"},
+        {"name": "Samuel", "role": "mentioned"}
+      ],
+      "locations": ["Paran", "Maon", "Carmel"],
+      "timePeriod": "Early Monarchy",
+      "era": "united-monarchy",
+      "topics": ["wisdom", "folly", "anger", "intervention"],
+      "events": ["Death of Samuel", "Nabal insults David", "Abigail's wise intervention", "Nabal's death", "David marries Abigail"],
+      "keyVerses": [32, 33],
+      "crossReferences": [
+        {"book": "Proverbs", "chapter": 15, "label": "A soft answer turns away wrath"}
+      ]
+    },
+    "26": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "David", "role": "protagonist"},
+        {"name": "Saul", "role": "antagonist"},
+        {"name": "Abishai", "role": "mentioned"},
+        {"name": "Abner", "role": "mentioned"}
+      ],
+      "locations": ["Ziph", "Hachilah"],
+      "timePeriod": "Early Monarchy",
+      "era": "united-monarchy",
+      "topics": ["mercy", "restraint", "trust-in-god", "anointing"],
+      "events": ["David spares Saul a second time", "David takes Saul's spear and water jug"],
+      "keyVerses": [9, 23],
+      "crossReferences": [
+        {"book": "1 Samuel", "chapter": 24, "label": "First time David spares Saul"}
+      ]
+    },
+    "27": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "David", "role": "protagonist"},
+        {"name": "Achish", "role": "mentioned"}
+      ],
+      "locations": ["Gath", "Ziklag"],
+      "timePeriod": "Early Monarchy",
+      "era": "united-monarchy",
+      "topics": ["exile", "deception", "survival"],
+      "events": ["David flees to Philistine territory", "David given Ziklag", "David raids surrounding peoples"],
+      "keyVerses": [1, 6],
+      "crossReferences": [
+        {"book": "1 Samuel", "chapter": 21, "label": "David's previous visit to Gath"}
+      ]
+    },
+    "28": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Saul", "role": "protagonist"},
+        {"name": "Samuel", "role": "mentioned"},
+        {"name": "Witch of Endor", "role": "mentioned"}
+      ],
+      "locations": ["Endor", "Shunem", "Gilboa"],
+      "timePeriod": "Early Monarchy",
+      "era": "united-monarchy",
+      "topics": ["desperation", "occult", "judgment", "abandonment"],
+      "events": ["Saul consults the witch of Endor", "Samuel's spirit appears", "Saul told he will die in battle"],
+      "keyVerses": [6, 18, 19],
+      "crossReferences": [
+        {"book": "Deuteronomy", "chapter": 18, "label": "Prohibition against consulting the dead"},
+        {"book": "1 Chronicles", "chapter": 10, "label": "Saul's death attributed to consulting a medium"}
+      ]
+    },
+    "29": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "David", "role": "protagonist"},
+        {"name": "Achish", "role": "mentioned"}
+      ],
+      "locations": ["Aphek", "Jezreel"],
+      "timePeriod": "Early Monarchy",
+      "era": "united-monarchy",
+      "topics": ["providence", "loyalty", "deception"],
+      "events": ["Philistine lords reject David from battle", "David sent back to Ziklag"],
+      "keyVerses": [4, 6],
+      "crossReferences": [
+        {"book": "1 Samuel", "chapter": 27, "label": "David's arrangement with Achish"}
+      ]
+    },
+    "30": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "David", "role": "protagonist"},
+        {"name": "God", "role": "mentioned"},
+        {"name": "Abiathar", "role": "mentioned"}
+      ],
+      "locations": ["Ziklag"],
+      "timePeriod": "Early Monarchy",
+      "era": "united-monarchy",
+      "topics": ["grief", "encouragement", "divine-guidance", "recovery"],
+      "events": ["Amalekites raid Ziklag", "David strengthens himself in the Lord", "David recovers all captives and spoil"],
+      "keyVerses": [6, 8],
+      "crossReferences": [
+        {"book": "Psalms", "chapter": 56, "label": "Trust in God during distress"}
+      ]
+    },
+    "31": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Saul", "role": "protagonist"},
+        {"name": "Jonathan", "role": "mentioned"}
+      ],
+      "locations": ["Mount Gilboa", "Bethshan", "Jabeshgilead"],
+      "timePeriod": "Early Monarchy",
+      "era": "united-monarchy",
+      "topics": ["defeat", "death", "tragedy", "honor"],
+      "events": ["Philistines defeat Israel at Gilboa", "Deaths of Saul and Jonathan", "Men of Jabesh-gilead recover the bodies"],
+      "keyVerses": [4, 6],
+      "crossReferences": [
+        {"book": "2 Samuel", "chapter": 1, "label": "David's lament for Saul and Jonathan"},
+        {"book": "1 Chronicles", "chapter": 10, "label": "Parallel account of Saul's death"}
+      ]
+    }
+  }
+}

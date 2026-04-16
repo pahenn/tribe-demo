@@ -1,0 +1,811 @@
+{
+  "book": "Ezekiel",
+  "bookSlug": "26.ezekiel",
+  "testament": "1.old-testament",
+  "chapters": {
+    "1": {
+      "genre": ["prophecy", "apocalyptic"],
+      "people": [
+        {"name": "Ezekiel", "role": "protagonist"},
+        {"name": "God", "role": "speaker"},
+        {"name": "Jehoiachin", "role": "mentioned"}
+      ],
+      "locations": ["Chebar", "Babylon"],
+      "timePeriod": "5th year of Jehoiachin's captivity (~593 BC)",
+      "era": "exile",
+      "topics": ["glory-of-god", "vision", "calling"],
+      "events": ["Vision of the four living creatures", "Vision of the wheels within wheels", "Vision of God's throne"],
+      "keyVerses": [1, 28],
+      "crossReferences": [
+        {"book": "Revelation", "chapter": 4, "label": "Four living creatures around the throne"},
+        {"book": "Isaiah", "chapter": 6, "label": "Vision of God's glory"}
+      ]
+    },
+    "2": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "Ezekiel", "role": "protagonist"},
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Babylon"],
+      "timePeriod": "5th year of captivity",
+      "era": "exile",
+      "topics": ["calling", "rebellion", "word-of-god"],
+      "events": ["Ezekiel commissioned as prophet", "Scroll of lamentations given"],
+      "keyVerses": [3, 6],
+      "crossReferences": [
+        {"book": "Jeremiah", "chapter": 1, "label": "Prophetic commission"},
+        {"book": "Revelation", "chapter": 10, "label": "Eating the scroll"}
+      ]
+    },
+    "3": {
+      "genre": ["prophecy", "narrative"],
+      "people": [
+        {"name": "Ezekiel", "role": "protagonist"},
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Chebar", "Tel-abib"],
+      "timePeriod": "5th year of captivity",
+      "era": "exile",
+      "topics": ["calling", "watchman", "obedience"],
+      "events": ["Ezekiel eats the scroll", "Appointed as watchman", "Ezekiel struck mute"],
+      "keyVerses": [3, 17],
+      "crossReferences": [
+        {"book": "Revelation", "chapter": 10, "label": "Sweet scroll in the mouth"},
+        {"book": "Ezekiel", "chapter": 33, "label": "Watchman role reiterated"}
+      ]
+    },
+    "4": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "Ezekiel", "role": "protagonist"},
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Babylon", "Jerusalem"],
+      "timePeriod": "5th year of captivity",
+      "era": "exile",
+      "topics": ["judgment", "prophetic-sign", "siege"],
+      "events": ["Sign of the brick tile siege model", "Lying on left and right sides", "Siege bread"],
+      "keyVerses": [1, 6],
+      "crossReferences": [
+        {"book": "Jeremiah", "chapter": 13, "label": "Prophetic sign acts"}
+      ]
+    },
+    "5": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "Ezekiel", "role": "protagonist"},
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "5th year of captivity",
+      "era": "exile",
+      "topics": ["judgment", "prophetic-sign", "famine"],
+      "events": ["Sign of the divided hair", "Sword, famine, and plague upon Jerusalem"],
+      "keyVerses": [5, 12],
+      "crossReferences": [
+        {"book": "Leviticus", "chapter": 26, "label": "Covenant curses"}
+      ]
+    },
+    "6": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "Ezekiel", "role": "speaker"},
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Israel"],
+      "timePeriod": "5th year of captivity",
+      "era": "exile",
+      "topics": ["idolatry", "judgment", "remnant"],
+      "events": ["Prophecy against the mountains of Israel", "Destruction of high places"],
+      "keyVerses": [3, 7],
+      "crossReferences": [
+        {"book": "Leviticus", "chapter": 26, "label": "High places destroyed"}
+      ]
+    },
+    "7": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Ezekiel", "role": "speaker"}
+      ],
+      "locations": ["Israel"],
+      "timePeriod": "5th year of captivity",
+      "era": "exile",
+      "topics": ["judgment", "day-of-the-lord", "wrath"],
+      "events": ["The end has come upon Israel"],
+      "keyVerses": [2, 10],
+      "crossReferences": [
+        {"book": "Amos", "chapter": 8, "label": "The end has come"}
+      ]
+    },
+    "8": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "Ezekiel", "role": "protagonist"},
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "6th year of captivity",
+      "era": "exile",
+      "topics": ["idolatry", "abomination", "judgment"],
+      "events": ["Vision of idolatry in the temple", "Image of jealousy", "Weeping for Tammuz", "Sun worship"],
+      "keyVerses": [6, 16],
+      "crossReferences": [
+        {"book": "2 Kings", "chapter": 21, "label": "Idolatry in the temple under Manasseh"}
+      ]
+    },
+    "9": {
+      "genre": ["prophecy", "apocalyptic"],
+      "people": [
+        {"name": "Ezekiel", "role": "protagonist"},
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "6th year of captivity",
+      "era": "exile",
+      "topics": ["judgment", "protection", "marking"],
+      "events": ["Mark on foreheads of the faithful", "Six executioners sent through Jerusalem"],
+      "keyVerses": [4, 6],
+      "crossReferences": [
+        {"book": "Revelation", "chapter": 7, "label": "Sealing of the 144,000"},
+        {"book": "Revelation", "chapter": 9, "label": "Mark of protection"}
+      ]
+    },
+    "10": {
+      "genre": ["prophecy", "apocalyptic"],
+      "people": [
+        {"name": "Ezekiel", "role": "protagonist"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "6th year of captivity",
+      "era": "exile",
+      "topics": ["glory-of-god", "judgment", "cherubim"],
+      "events": ["Coals scattered over Jerusalem", "Glory of God departs from the temple threshold"],
+      "keyVerses": [4, 18],
+      "crossReferences": [
+        {"book": "Ezekiel", "chapter": 1, "label": "Cherubim and wheels vision"}
+      ]
+    },
+    "11": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "Ezekiel", "role": "protagonist"},
+        {"name": "God", "role": "speaker"},
+        {"name": "Jaazaniah", "role": "mentioned"},
+        {"name": "Pelatiah", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "6th year of captivity",
+      "era": "exile",
+      "topics": ["judgment", "new-heart", "glory-of-god"],
+      "events": ["Wicked counsel of Jerusalem's leaders", "Promise of a new heart", "Glory departs from Jerusalem"],
+      "keyVerses": [19, 23],
+      "crossReferences": [
+        {"book": "Ezekiel", "chapter": 36, "label": "New heart and new spirit"},
+        {"book": "Jeremiah", "chapter": 24, "label": "Promise to the exiles"}
+      ]
+    },
+    "12": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "Ezekiel", "role": "protagonist"},
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Babylon", "Jerusalem"],
+      "timePeriod": "6th year of captivity",
+      "era": "exile",
+      "topics": ["prophetic-sign", "exile", "judgment"],
+      "events": ["Sign of the baggage for exile", "Zedekiah's exile depicted", "No more delay of God's word"],
+      "keyVerses": [2, 25],
+      "crossReferences": [
+        {"book": "Jeremiah", "chapter": 39, "label": "Zedekiah's capture"}
+      ]
+    },
+    "13": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "Ezekiel", "role": "speaker"},
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Israel"],
+      "timePeriod": "During exile",
+      "era": "exile",
+      "topics": ["false-prophets", "judgment", "deception"],
+      "events": ["Woe to false prophets", "Whitewashed wall metaphor", "False prophetesses condemned"],
+      "keyVerses": [10, 3],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 7, "label": "False prophets in sheep's clothing"},
+        {"book": "Jeremiah", "chapter": 23, "label": "False prophets condemned"}
+      ]
+    },
+    "14": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "Ezekiel", "role": "speaker"},
+        {"name": "God", "role": "speaker"},
+        {"name": "Noah", "role": "mentioned"},
+        {"name": "Daniel", "role": "mentioned"},
+        {"name": "Job", "role": "mentioned"}
+      ],
+      "locations": ["Israel", "Jerusalem"],
+      "timePeriod": "During exile",
+      "era": "exile",
+      "topics": ["idolatry", "judgment", "individual-responsibility"],
+      "events": ["Idols in the heart", "Even Noah, Daniel, Job cannot save others"],
+      "keyVerses": [3, 14],
+      "crossReferences": [
+        {"book": "Jeremiah", "chapter": 15, "label": "Even Moses and Samuel cannot intercede"}
+      ]
+    },
+    "15": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Ezekiel", "role": "speaker"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "During exile",
+      "era": "exile",
+      "topics": ["judgment", "uselessness"],
+      "events": ["Parable of the useless vine"],
+      "keyVerses": [2, 6],
+      "crossReferences": [
+        {"book": "John", "chapter": 15, "label": "Branches thrown into the fire"}
+      ]
+    },
+    "16": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Ezekiel", "role": "speaker"}
+      ],
+      "locations": ["Jerusalem", "Sodom", "Samaria"],
+      "timePeriod": "During exile",
+      "era": "exile",
+      "topics": ["unfaithfulness", "judgment", "grace"],
+      "events": ["Allegory of Jerusalem as an unfaithful wife", "Worse than Sodom and Samaria", "Everlasting covenant despite unfaithfulness"],
+      "keyVerses": [6, 60, 63],
+      "crossReferences": [
+        {"book": "Hosea", "chapter": 2, "label": "Unfaithful wife allegory"}
+      ]
+    },
+    "17": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Ezekiel", "role": "speaker"},
+        {"name": "Zedekiah", "role": "mentioned"},
+        {"name": "Nebuchadnezzar", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem", "Babylon", "Lebanon", "Egypt"],
+      "timePeriod": "During exile",
+      "era": "exile",
+      "topics": ["covenant-breaking", "judgment", "messianic-prophecy"],
+      "events": ["Parable of two eagles and the vine", "Tender sprig planted on high mountain"],
+      "keyVerses": [22, 24],
+      "crossReferences": [
+        {"book": "Mark", "chapter": 4, "label": "Mustard seed becomes great tree"}
+      ]
+    },
+    "18": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Ezekiel", "role": "speaker"}
+      ],
+      "locations": ["Israel"],
+      "timePeriod": "During exile",
+      "era": "exile",
+      "topics": ["individual-responsibility", "repentance", "justice"],
+      "events": ["Each soul accountable for its own sin", "Call to repent and live"],
+      "keyVerses": [4, 20, 32],
+      "crossReferences": [
+        {"book": "Deuteronomy", "chapter": 24, "label": "Fathers not punished for children"},
+        {"book": "Romans", "chapter": 6, "label": "Wages of sin is death"}
+      ]
+    },
+    "19": {
+      "genre": ["poetry", "prophecy"],
+      "people": [
+        {"name": "Ezekiel", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": ["Israel", "Babylon"],
+      "timePeriod": "During exile",
+      "era": "exile",
+      "topics": ["lamentation", "kingship", "judgment"],
+      "events": ["Lament for the princes of Israel", "Lioness and her cubs", "Vine plucked up"],
+      "keyVerses": [1, 14],
+      "crossReferences": [
+        {"book": "2 Kings", "chapter": 23, "label": "Captivity of Judah's kings"}
+      ]
+    },
+    "20": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Ezekiel", "role": "speaker"}
+      ],
+      "locations": ["Israel", "Egypt"],
+      "timePeriod": "7th year of captivity",
+      "era": "exile",
+      "topics": ["rebellion", "history", "judgment"],
+      "events": ["Review of Israel's rebellious history", "God refuses to be inquired of"],
+      "keyVerses": [3, 44],
+      "crossReferences": [
+        {"book": "Psalm", "chapter": 106, "label": "Review of Israel's rebellion"}
+      ]
+    },
+    "21": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Ezekiel", "role": "speaker"},
+        {"name": "Nebuchadnezzar", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem", "Judah", "Ammon"],
+      "timePeriod": "During exile",
+      "era": "exile",
+      "topics": ["judgment", "sword", "messianic-prophecy"],
+      "events": ["Song of the sword", "Nebuchadnezzar at the crossroads", "Until He comes whose right it is"],
+      "keyVerses": [27, 3],
+      "crossReferences": [
+        {"book": "Genesis", "chapter": 49, "label": "Until Shiloh comes"}
+      ]
+    },
+    "22": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Ezekiel", "role": "speaker"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "During exile",
+      "era": "exile",
+      "topics": ["judgment", "sin", "corruption"],
+      "events": ["Catalog of Jerusalem's sins", "No intercessor found to stand in the gap"],
+      "keyVerses": [30, 2],
+      "crossReferences": [
+        {"book": "Isaiah", "chapter": 59, "label": "No intercessor"}
+      ]
+    },
+    "23": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Ezekiel", "role": "speaker"}
+      ],
+      "locations": ["Samaria", "Jerusalem", "Egypt", "Assyria", "Babylon"],
+      "timePeriod": "During exile",
+      "era": "exile",
+      "topics": ["unfaithfulness", "judgment", "idolatry"],
+      "events": ["Allegory of Oholah (Samaria) and Oholibah (Jerusalem)"],
+      "keyVerses": [4, 49],
+      "crossReferences": [
+        {"book": "Ezekiel", "chapter": 16, "label": "Unfaithful wife allegory"},
+        {"book": "Jeremiah", "chapter": 3, "label": "Backsliding sisters"}
+      ]
+    },
+    "24": {
+      "genre": ["prophecy", "narrative"],
+      "people": [
+        {"name": "Ezekiel", "role": "protagonist"},
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Jerusalem", "Babylon"],
+      "timePeriod": "Day siege began (Jan 588 BC)",
+      "era": "exile",
+      "topics": ["judgment", "grief", "prophetic-sign"],
+      "events": ["Parable of the boiling pot", "Death of Ezekiel's wife as a sign", "Ezekiel forbidden to mourn"],
+      "keyVerses": [2, 16, 24],
+      "crossReferences": [
+        {"book": "Jeremiah", "chapter": 16, "label": "Forbidden to mourn"}
+      ]
+    },
+    "25": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Ezekiel", "role": "speaker"}
+      ],
+      "locations": ["Ammon", "Moab", "Edom", "Philistia"],
+      "timePeriod": "During exile",
+      "era": "exile",
+      "topics": ["judgment", "nations"],
+      "events": ["Prophecies against Ammon, Moab, Edom, and Philistia"],
+      "keyVerses": [3, 7],
+      "crossReferences": [
+        {"book": "Jeremiah", "chapter": 49, "label": "Judgments on surrounding nations"}
+      ]
+    },
+    "26": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Ezekiel", "role": "speaker"},
+        {"name": "Nebuchadnezzar", "role": "mentioned"}
+      ],
+      "locations": ["Tyre"],
+      "timePeriod": "11th year of captivity",
+      "era": "exile",
+      "topics": ["judgment", "pride", "nations"],
+      "events": ["Prophecy of Tyre's destruction by Nebuchadnezzar"],
+      "keyVerses": [3, 14],
+      "crossReferences": [
+        {"book": "Isaiah", "chapter": 23, "label": "Burden of Tyre"}
+      ]
+    },
+    "27": {
+      "genre": ["prophecy", "poetry"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Ezekiel", "role": "speaker"}
+      ],
+      "locations": ["Tyre", "Tarshish", "Sidon"],
+      "timePeriod": "During exile",
+      "era": "exile",
+      "topics": ["judgment", "pride", "commerce"],
+      "events": ["Lament over Tyre as a great ship", "Catalog of Tyre's trade partners"],
+      "keyVerses": [3, 26],
+      "crossReferences": [
+        {"book": "Revelation", "chapter": 18, "label": "Merchants mourn over Babylon"}
+      ]
+    },
+    "28": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Ezekiel", "role": "speaker"}
+      ],
+      "locations": ["Tyre", "Sidon", "Eden"],
+      "timePeriod": "During exile",
+      "era": "exile",
+      "topics": ["pride", "judgment", "fall"],
+      "events": ["Lament over the king of Tyre", "Guardian cherub in Eden cast down", "Prophecy against Sidon"],
+      "keyVerses": [2, 13, 17],
+      "crossReferences": [
+        {"book": "Isaiah", "chapter": 14, "label": "Fall from heaven"},
+        {"book": "Genesis", "chapter": 3, "label": "Cast out of Eden"}
+      ]
+    },
+    "29": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Ezekiel", "role": "speaker"},
+        {"name": "Pharaoh", "role": "antagonist"},
+        {"name": "Nebuchadnezzar", "role": "mentioned"}
+      ],
+      "locations": ["Egypt"],
+      "timePeriod": "10th year of captivity",
+      "era": "exile",
+      "topics": ["judgment", "pride", "nations"],
+      "events": ["Prophecy against Pharaoh as the great dragon", "Egypt given to Nebuchadnezzar"],
+      "keyVerses": [3, 15],
+      "crossReferences": [
+        {"book": "Isaiah", "chapter": 19, "label": "Burden against Egypt"}
+      ]
+    },
+    "30": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Ezekiel", "role": "speaker"},
+        {"name": "Pharaoh", "role": "mentioned"},
+        {"name": "Nebuchadnezzar", "role": "mentioned"}
+      ],
+      "locations": ["Egypt", "Noph", "Zoan", "Thebes", "Ethiopia"],
+      "timePeriod": "During exile",
+      "era": "exile",
+      "topics": ["judgment", "day-of-the-lord", "nations"],
+      "events": ["Day of the Lord for Egypt", "Arms of Pharaoh broken"],
+      "keyVerses": [3, 21],
+      "crossReferences": [
+        {"book": "Jeremiah", "chapter": 46, "label": "Judgment on Egypt"}
+      ]
+    },
+    "31": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Ezekiel", "role": "speaker"},
+        {"name": "Pharaoh", "role": "mentioned"}
+      ],
+      "locations": ["Egypt", "Lebanon"],
+      "timePeriod": "11th year of captivity",
+      "era": "exile",
+      "topics": ["pride", "judgment", "fall"],
+      "events": ["Parable of the great cedar", "Egypt warned by Assyria's fall"],
+      "keyVerses": [10, 18],
+      "crossReferences": [
+        {"book": "Daniel", "chapter": 4, "label": "Great tree cut down"}
+      ]
+    },
+    "32": {
+      "genre": ["prophecy", "poetry"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Ezekiel", "role": "speaker"},
+        {"name": "Pharaoh", "role": "mentioned"}
+      ],
+      "locations": ["Egypt", "Sheol"],
+      "timePeriod": "12th year of captivity",
+      "era": "exile",
+      "topics": ["judgment", "lamentation", "death"],
+      "events": ["Lament over Pharaoh", "Egypt joins the uncircumcised in Sheol"],
+      "keyVerses": [2, 18],
+      "crossReferences": [
+        {"book": "Isaiah", "chapter": 14, "label": "Nations descend to Sheol"}
+      ]
+    },
+    "33": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "Ezekiel", "role": "protagonist"},
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Israel", "Jerusalem"],
+      "timePeriod": "12th year of captivity (news of fall)",
+      "era": "exile",
+      "topics": ["watchman", "repentance", "individual-responsibility"],
+      "events": ["Watchman duty reiterated", "News of Jerusalem's fall arrives", "Ezekiel's mouth opened"],
+      "keyVerses": [7, 11, 22],
+      "crossReferences": [
+        {"book": "Ezekiel", "chapter": 3, "label": "Watchman commissioning"},
+        {"book": "2 Peter", "chapter": 3, "label": "God not willing any should perish"}
+      ]
+    },
+    "34": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Ezekiel", "role": "speaker"},
+        {"name": "David", "role": "mentioned"}
+      ],
+      "locations": ["Israel"],
+      "timePeriod": "During exile",
+      "era": "exile",
+      "topics": ["shepherds", "messianic-prophecy", "restoration"],
+      "events": ["Woe to false shepherds", "God Himself will shepherd Israel", "David as one shepherd"],
+      "keyVerses": [11, 23, 31],
+      "crossReferences": [
+        {"book": "John", "chapter": 10, "label": "I am the Good Shepherd"},
+        {"book": "Psalm", "chapter": 23, "label": "The Lord is my shepherd"}
+      ]
+    },
+    "35": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Ezekiel", "role": "speaker"}
+      ],
+      "locations": ["Seir", "Edom"],
+      "timePeriod": "During exile",
+      "era": "exile",
+      "topics": ["judgment", "nations"],
+      "events": ["Prophecy against Mount Seir (Edom)"],
+      "keyVerses": [3, 10],
+      "crossReferences": [
+        {"book": "Obadiah", "chapter": 1, "label": "Judgment on Edom"}
+      ]
+    },
+    "36": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Ezekiel", "role": "speaker"}
+      ],
+      "locations": ["Israel"],
+      "timePeriod": "During exile",
+      "era": "exile",
+      "topics": ["restoration", "new-heart", "holiness"],
+      "events": ["Mountains of Israel restored", "New heart and new spirit given", "Sprinkling with clean water"],
+      "keyVerses": [26, 27, 22],
+      "crossReferences": [
+        {"book": "John", "chapter": 3, "label": "Born of water and Spirit"},
+        {"book": "2 Corinthians", "chapter": 3, "label": "Law written on hearts"}
+      ]
+    },
+    "37": {
+      "genre": ["prophecy", "apocalyptic"],
+      "people": [
+        {"name": "Ezekiel", "role": "protagonist"},
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Israel"],
+      "timePeriod": "During exile",
+      "era": "exile",
+      "topics": ["resurrection", "restoration", "unity"],
+      "events": ["Valley of dry bones vision", "Two sticks joined into one", "Promise of one nation and one king"],
+      "keyVerses": [3, 5, 22],
+      "crossReferences": [
+        {"book": "Romans", "chapter": 11, "label": "All Israel shall be saved"},
+        {"book": "Revelation", "chapter": 20, "label": "Resurrection"}
+      ]
+    },
+    "38": {
+      "genre": ["prophecy", "apocalyptic"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Ezekiel", "role": "speaker"},
+        {"name": "Gog", "role": "antagonist"}
+      ],
+      "locations": ["Magog", "Israel", "Meshech", "Tubal"],
+      "timePeriod": "Eschatological",
+      "era": "exile",
+      "topics": ["end-times", "judgment", "sovereignty"],
+      "events": ["Prophecy against Gog of Magog", "Invasion of Israel in the latter days", "God's judgment by fire and brimstone"],
+      "keyVerses": [2, 18, 23],
+      "crossReferences": [
+        {"book": "Revelation", "chapter": 20, "label": "Gog and Magog"},
+        {"book": "Revelation", "chapter": 19, "label": "Great battle"}
+      ]
+    },
+    "39": {
+      "genre": ["prophecy", "apocalyptic"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Ezekiel", "role": "speaker"},
+        {"name": "Gog", "role": "antagonist"}
+      ],
+      "locations": ["Israel", "Magog"],
+      "timePeriod": "Eschatological",
+      "era": "exile",
+      "topics": ["judgment", "restoration", "end-times"],
+      "events": ["Destruction of Gog's armies", "Great sacrificial feast", "Israel restored and Spirit poured out"],
+      "keyVerses": [7, 22, 29],
+      "crossReferences": [
+        {"book": "Revelation", "chapter": 19, "label": "Birds feast on the fallen"},
+        {"book": "Joel", "chapter": 2, "label": "Outpouring of the Spirit"}
+      ]
+    },
+    "40": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "Ezekiel", "role": "protagonist"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": ["Israel", "Jerusalem"],
+      "timePeriod": "25th year of captivity",
+      "era": "exile",
+      "topics": ["temple", "vision", "worship"],
+      "events": ["Vision of the new temple begins", "Measuring of the gates and courts"],
+      "keyVerses": [2, 4],
+      "crossReferences": [
+        {"book": "Revelation", "chapter": 11, "label": "Measuring the temple"},
+        {"book": "Revelation", "chapter": 21, "label": "Measuring the new Jerusalem"}
+      ]
+    },
+    "41": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "Ezekiel", "role": "protagonist"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "25th year of captivity",
+      "era": "exile",
+      "topics": ["temple", "vision"],
+      "events": ["Measurements of the temple sanctuary", "Cherubim and palm tree decorations"],
+      "keyVerses": [1, 18],
+      "crossReferences": [
+        {"book": "1 Kings", "chapter": 6, "label": "Solomon's temple design"}
+      ]
+    },
+    "42": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "Ezekiel", "role": "protagonist"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "25th year of captivity",
+      "era": "exile",
+      "topics": ["temple", "holiness", "worship"],
+      "events": ["Measurements of the priests' chambers", "Separation of holy and common"],
+      "keyVerses": [13, 20],
+      "crossReferences": [
+        {"book": "Leviticus", "chapter": 10, "label": "Distinction between holy and common"}
+      ]
+    },
+    "43": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "Ezekiel", "role": "protagonist"},
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "25th year of captivity",
+      "era": "exile",
+      "topics": ["glory-of-god", "temple", "worship"],
+      "events": ["Glory of God returns to the temple from the east", "Altar measurements and consecration"],
+      "keyVerses": [2, 4, 7],
+      "crossReferences": [
+        {"book": "Ezekiel", "chapter": 10, "label": "Glory departed; now returns"},
+        {"book": "Revelation", "chapter": 21, "label": "Glory of God fills the city"}
+      ]
+    },
+    "44": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Ezekiel", "role": "protagonist"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "25th year of captivity",
+      "era": "exile",
+      "topics": ["temple", "priesthood", "holiness"],
+      "events": ["East gate shut", "Levitical duties", "Zadokite priests serve"],
+      "keyVerses": [2, 15],
+      "crossReferences": [
+        {"book": "Numbers", "chapter": 18, "label": "Levitical duties"}
+      ]
+    },
+    "45": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Ezekiel", "role": "speaker"}
+      ],
+      "locations": ["Israel", "Jerusalem"],
+      "timePeriod": "25th year of captivity",
+      "era": "exile",
+      "topics": ["land-division", "worship", "justice"],
+      "events": ["Holy district for the Lord", "Prince's portion", "Festival regulations"],
+      "keyVerses": [1, 9],
+      "crossReferences": [
+        {"book": "Leviticus", "chapter": 25, "label": "Land allotment regulations"}
+      ]
+    },
+    "46": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Ezekiel", "role": "speaker"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "25th year of captivity",
+      "era": "exile",
+      "topics": ["worship", "sabbath", "temple"],
+      "events": ["Sabbath and new moon worship regulations", "Prince's offerings and inheritance"],
+      "keyVerses": [1, 16],
+      "crossReferences": [
+        {"book": "Numbers", "chapter": 28, "label": "Festival offerings"}
+      ]
+    },
+    "47": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "Ezekiel", "role": "protagonist"},
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Jerusalem", "Dead Sea", "Jordan"],
+      "timePeriod": "25th year of captivity",
+      "era": "exile",
+      "topics": ["restoration", "healing", "life"],
+      "events": ["River flowing from the temple", "Dead Sea healed", "Boundaries of the land"],
+      "keyVerses": [1, 9, 12],
+      "crossReferences": [
+        {"book": "Revelation", "chapter": 22, "label": "River of water of life"},
+        {"book": "John", "chapter": 7, "label": "Rivers of living water"}
+      ]
+    },
+    "48": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Ezekiel", "role": "speaker"}
+      ],
+      "locations": ["Israel", "Jerusalem"],
+      "timePeriod": "25th year of captivity",
+      "era": "exile",
+      "topics": ["land-division", "restoration", "presence-of-god"],
+      "events": ["Tribal allotments of the land", "City gates named for twelve tribes", "City named The Lord is There"],
+      "keyVerses": [35, 1],
+      "crossReferences": [
+        {"book": "Revelation", "chapter": 21, "label": "New Jerusalem with twelve gates"},
+        {"book": "Joshua", "chapter": 13, "label": "Tribal land allotments"}
+      ]
+    }
+  }
+}

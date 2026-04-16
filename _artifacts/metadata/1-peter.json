@@ -1,0 +1,107 @@
+{
+  "book": "1 Peter",
+  "bookSlug": "60.1-peter",
+  "testament": "2.new-testament",
+  "chapters": {
+    "1": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Peter", "role": "author"},
+        {"name": "Jesus", "role": "protagonist"},
+        {"name": "God", "role": "mentioned"},
+        {"name": "Holy Spirit", "role": "mentioned"}
+      ],
+      "locations": [
+        {"name": "Pontus", "type": "literal"},
+        {"name": "Galatia", "type": "literal"},
+        {"name": "Cappadocia", "type": "literal"},
+        {"name": "Asia", "type": "literal"},
+        {"name": "Bithynia", "type": "literal"}
+      ],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["living-hope", "trials", "holiness", "redemption"],
+      "events": ["Greeting to the scattered believers", "Call to holiness and hope in Christ's redemption"],
+      "keyVerses": [3, 15, 19],
+      "crossReferences": [
+        {"book": "Leviticus", "chapter": 11, "label": "Be ye holy for I am holy"},
+        {"book": "Isaiah", "chapter": 40, "label": "The grass withereth but the word endures"}
+      ]
+    },
+    "2": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Jesus", "role": "protagonist"},
+        {"name": "Peter", "role": "author"}
+      ],
+      "locations": [
+        {"name": "Zion", "type": "symbolic"}
+      ],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["living-stones", "royal-priesthood", "submission", "suffering-of-christ"],
+      "events": ["Believers described as living stones and royal priesthood", "Christ as example in suffering"],
+      "keyVerses": [9, 24, 25],
+      "crossReferences": [
+        {"book": "Isaiah", "chapter": 53, "label": "By his stripes we are healed"},
+        {"book": "Exodus", "chapter": 19, "label": "A kingdom of priests and holy nation"}
+      ]
+    },
+    "3": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Jesus", "role": "protagonist"},
+        {"name": "Sarah", "role": "mentioned"},
+        {"name": "Abraham", "role": "mentioned"},
+        {"name": "Noah", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["marriage", "suffering-for-righteousness", "baptism", "defense-of-faith"],
+      "events": ["Instructions for husbands and wives", "Christ preaching to spirits in prison"],
+      "keyVerses": [15, 18, 21],
+      "crossReferences": [
+        {"book": "Genesis", "chapter": 6, "label": "Noah and the flood"},
+        {"book": "Psalms", "chapter": 34, "label": "Eyes of the Lord on the righteous"}
+      ]
+    },
+    "4": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Jesus", "role": "protagonist"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["suffering", "spiritual-gifts", "judgment", "stewardship"],
+      "events": ["Exhortation to live for God's will", "Teaching on using spiritual gifts", "Warning that judgment begins at God's house"],
+      "keyVerses": [8, 10, 17],
+      "crossReferences": [
+        {"book": "Romans", "chapter": 12, "label": "Spiritual gifts for service"},
+        {"book": "Proverbs", "chapter": 10, "label": "Love covers sins"}
+      ]
+    },
+    "5": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Peter", "role": "author"},
+        {"name": "Silvanus", "role": "mentioned"},
+        {"name": "Mark", "role": "mentioned"}
+      ],
+      "locations": [
+        {"name": "Babylon", "type": "literal"}
+      ],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["shepherding", "humility", "spiritual-warfare", "casting-cares"],
+      "events": ["Exhortation to elders to shepherd the flock", "Warning about the devil as a roaring lion"],
+      "keyVerses": [5, 7, 8],
+      "crossReferences": [
+        {"book": "James", "chapter": 4, "label": "God resists the proud, gives grace to humble"},
+        {"book": "Psalms", "chapter": 55, "label": "Cast thy burden upon the Lord"}
+      ]
+    }
+  }
+}

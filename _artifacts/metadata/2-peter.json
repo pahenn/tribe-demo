@@ -1,0 +1,67 @@
+{
+  "book": "2 Peter",
+  "bookSlug": "61.2-peter",
+  "testament": "2.new-testament",
+  "chapters": {
+    "1": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Peter", "role": "author"},
+        {"name": "Jesus", "role": "protagonist"},
+        {"name": "God", "role": "speaker"},
+        {"name": "Holy Spirit", "role": "mentioned"}
+      ],
+      "locations": [
+        {"name": "Holy Mount", "type": "literal"}
+      ],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["divine-nature", "spiritual-growth", "scripture-inspiration", "eyewitness-testimony"],
+      "events": ["Peter recalls the Transfiguration", "Teaching on adding virtues to faith", "Affirmation of prophetic scripture"],
+      "keyVerses": [4, 19, 21],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 17, "label": "The Transfiguration"},
+        {"book": "2 Timothy", "chapter": 3, "label": "All scripture given by inspiration of God"}
+      ]
+    },
+    "2": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Noah", "role": "mentioned"},
+        {"name": "Lot", "role": "mentioned"},
+        {"name": "Balaam", "role": "mentioned"}
+      ],
+      "locations": [
+        {"name": "Sodom", "type": "historical"},
+        {"name": "Gomorrah", "type": "historical"}
+      ],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["false-teachers", "judgment", "apostasy", "divine-deliverance"],
+      "events": ["Warning against false teachers", "Examples of God's judgment: fallen angels, the flood, Sodom"],
+      "keyVerses": [1, 4, 9],
+      "crossReferences": [
+        {"book": "Jude", "chapter": 1, "label": "Parallel warning against false teachers"},
+        {"book": "Genesis", "chapter": 19, "label": "Destruction of Sodom and Gomorrah"}
+      ]
+    },
+    "3": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Peter", "role": "author"},
+        {"name": "Paul", "role": "mentioned"},
+        {"name": "Jesus", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["day-of-the-lord", "new-heavens-and-earth", "patience", "scoffers"],
+      "events": ["Warning about scoffers denying Christ's return", "Promise of new heavens and new earth"],
+      "keyVerses": [8, 9, 13],
+      "crossReferences": [
+        {"book": "1 Thessalonians", "chapter": 5, "label": "Day of the Lord as a thief in the night"},
+        {"book": "Revelation", "chapter": 21, "label": "New heavens and new earth"}
+      ]
+    }
+  }
+}

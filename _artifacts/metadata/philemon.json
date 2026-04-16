@@ -1,0 +1,33 @@
+{
+  "book": "Philemon",
+  "bookSlug": "57.philemon",
+  "testament": "2.new-testament",
+  "chapters": {
+    "1": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Paul", "role": "author"},
+        {"name": "Timothy", "role": "co-sender"},
+        {"name": "Philemon", "role": "recipient"},
+        {"name": "Apphia", "role": "recipient"},
+        {"name": "Archippus", "role": "recipient"},
+        {"name": "Onesimus", "role": "mentioned"},
+        {"name": "Epaphras", "role": "mentioned"},
+        {"name": "Mark", "role": "mentioned"},
+        {"name": "Aristarchus", "role": "mentioned"},
+        {"name": "Demas", "role": "mentioned"},
+        {"name": "Luke", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["forgiveness", "reconciliation", "brotherhood", "intercession"],
+      "events": ["Paul appeals to Philemon to receive back his runaway slave Onesimus as a brother"],
+      "keyVerses": [10, 16, 17],
+      "crossReferences": [
+        {"book": "Colossians", "chapter": 4, "label": "Onesimus mentioned as a faithful brother from Colossae"},
+        {"book": "Galatians", "chapter": 3, "label": "Neither bond nor free, all one in Christ Jesus"}
+      ]
+    }
+  }
+}

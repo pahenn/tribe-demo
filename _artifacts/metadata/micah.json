@@ -1,0 +1,133 @@
+{
+  "book": "Micah",
+  "bookSlug": "33.micah",
+  "testament": "1.old-testament",
+  "chapters": {
+    "1": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "Micah", "role": "author"},
+        {"name": "God", "role": "speaker"},
+        {"name": "Jotham", "role": "mentioned"},
+        {"name": "Ahaz", "role": "mentioned"},
+        {"name": "Hezekiah", "role": "mentioned"}
+      ],
+      "locations": ["Samaria", "Jerusalem", "Judah", "Gath", "Lachish", "Mareshah", "Adullam"],
+      "timePeriod": "Divided Kingdom",
+      "era": "divided-monarchy",
+      "topics": ["judgment", "idolatry", "lament", "theophany"],
+      "events": ["God comes down to judge Samaria and Jerusalem", "Micah laments the coming destruction"],
+      "keyVerses": [3, 5],
+      "crossReferences": [
+        {"book": "2 Samuel", "chapter": 1, "label": "Tell it not in Gath"},
+        {"book": "Isaiah", "chapter": 1, "label": "Parallel judgment on Judah"}
+      ]
+    },
+    "2": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Micah", "role": "author"}
+      ],
+      "locations": ["Israel", "Bozrah"],
+      "timePeriod": "Divided Kingdom",
+      "era": "divided-monarchy",
+      "topics": ["oppression", "land-theft", "false-prophets", "remnant"],
+      "events": ["Woe against those who seize land and oppress", "Promise to gather the remnant of Israel"],
+      "keyVerses": [1, 12],
+      "crossReferences": [
+        {"book": "Isaiah", "chapter": 5, "label": "Woe to those who add field to field"},
+        {"book": "Jeremiah", "chapter": 23, "label": "False prophets who cry peace"}
+      ]
+    },
+    "3": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "Micah", "role": "protagonist"},
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Zion", "Jerusalem"],
+      "timePeriod": "Divided Kingdom",
+      "era": "divided-monarchy",
+      "topics": ["corrupt-leadership", "false-prophets", "prophetic-authority", "judgment"],
+      "events": ["Indictment of rulers who exploit the people", "Micah declares his own Spirit-empowered calling", "Prophecy that Zion will be plowed as a field"],
+      "keyVerses": [8, 12],
+      "crossReferences": [
+        {"book": "Jeremiah", "chapter": 26, "label": "Jeremiah quotes Micah's prophecy about Jerusalem"},
+        {"book": "Ezekiel", "chapter": 34, "label": "Shepherds who feed themselves instead of the flock"}
+      ]
+    },
+    "4": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Zion", "Jerusalem", "Babylon"],
+      "timePeriod": "Divided Kingdom",
+      "era": "divided-monarchy",
+      "topics": ["messianic-kingdom", "peace", "restoration", "exile-and-return"],
+      "events": ["Vision of the mountain of the Lord exalted in the last days", "Swords beaten into plowshares", "Prophecy of exile to Babylon and deliverance"],
+      "keyVerses": [1, 3, 10],
+      "crossReferences": [
+        {"book": "Isaiah", "chapter": 2, "label": "Parallel vision of the mountain of the Lord"},
+        {"book": "Joel", "chapter": 3, "label": "Contrast: plowshares into swords"}
+      ]
+    },
+    "5": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Bethlehem", "Israel", "Assyria"],
+      "timePeriod": "Divided Kingdom",
+      "era": "divided-monarchy",
+      "topics": ["messianic-prophecy", "bethlehem", "remnant", "purification"],
+      "events": ["Prophecy of a ruler from Bethlehem whose origins are from everlasting", "God will purge idolatry and sorcery from Israel"],
+      "keyVerses": [2, 4],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 2, "label": "Chief priests quote Micah about Bethlehem"},
+        {"book": "John", "chapter": 7, "label": "Christ comes from Bethlehem"}
+      ]
+    },
+    "6": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Moses", "role": "mentioned"},
+        {"name": "Aaron", "role": "mentioned"},
+        {"name": "Miriam", "role": "mentioned"},
+        {"name": "Balak", "role": "mentioned"},
+        {"name": "Balaam", "role": "mentioned"}
+      ],
+      "locations": ["Egypt", "Shittim", "Gilgal"],
+      "timePeriod": "Divided Kingdom",
+      "era": "divided-monarchy",
+      "topics": ["divine-lawsuit", "justice", "mercy", "humility", "dishonest-commerce"],
+      "events": ["God's covenant lawsuit against Israel", "Declaration of what the Lord requires: justice, mercy, humility"],
+      "keyVerses": [3, 8],
+      "crossReferences": [
+        {"book": "Deuteronomy", "chapter": 10, "label": "What does the Lord require of you?"},
+        {"book": "Matthew", "chapter": 23, "label": "Neglect of justice, mercy, and faithfulness"}
+      ]
+    },
+    "7": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "Micah", "role": "protagonist"},
+        {"name": "God", "role": "speaker"},
+        {"name": "Abraham", "role": "mentioned"},
+        {"name": "Jacob", "role": "mentioned"}
+      ],
+      "locations": ["Assyria", "Egypt", "Carmel", "Bashan", "Gilead"],
+      "timePeriod": "Divided Kingdom",
+      "era": "divided-monarchy",
+      "topics": ["lament", "hope", "forgiveness", "divine-compassion", "faithfulness"],
+      "events": ["Micah laments the corruption of society", "Declaration of trust in the Lord", "God pardons iniquity and casts sins into the sea"],
+      "keyVerses": [6, 7, 18],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 10, "label": "A man's enemies will be of his own household"},
+        {"book": "Psalm", "chapter": 103, "label": "God does not retain his anger forever"}
+      ]
+    }
+  }
+}

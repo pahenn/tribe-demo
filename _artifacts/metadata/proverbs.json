@@ -1,0 +1,503 @@
+{
+  "book": "Proverbs",
+  "bookSlug": "20.proverbs",
+  "testament": "1.old-testament",
+  "chapters": {
+    "1": {
+      "genre": ["wisdom", "poetry"],
+      "people": [
+        {"name": "Solomon", "role": "author"},
+        {"name": "David", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["wisdom", "fear-of-the-lord", "instruction"],
+      "events": [],
+      "keyVerses": [7],
+      "crossReferences": [
+        {"book": "Job", "chapter": 28, "label": "Fear of the Lord is wisdom"},
+        {"book": "James", "chapter": 1, "label": "Ask God for wisdom"}
+      ]
+    },
+    "2": {
+      "genre": ["wisdom", "poetry"],
+      "people": [
+        {"name": "Solomon", "role": "author"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["wisdom", "discernment", "protection"],
+      "events": [],
+      "keyVerses": [5, 6],
+      "crossReferences": [
+        {"book": "James", "chapter": 1, "label": "God gives wisdom generously"}
+      ]
+    },
+    "3": {
+      "genre": ["wisdom", "poetry"],
+      "people": [
+        {"name": "Solomon", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["trust", "wisdom", "generosity"],
+      "events": [],
+      "keyVerses": [5, 6, 9],
+      "crossReferences": [
+        {"book": "Hebrews", "chapter": 12, "label": "God disciplines those he loves"},
+        {"book": "Romans", "chapter": 12, "label": "Do not lean on own understanding"}
+      ]
+    },
+    "4": {
+      "genre": ["wisdom", "poetry"],
+      "people": [
+        {"name": "Solomon", "role": "author"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["wisdom", "instruction", "path-of-life"],
+      "events": [],
+      "keyVerses": [7, 23],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 6, "label": "Eye as lamp of the body"}
+      ]
+    },
+    "5": {
+      "genre": ["wisdom", "poetry"],
+      "people": [
+        {"name": "Solomon", "role": "author"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["sexual-purity", "marriage", "temptation"],
+      "events": [],
+      "keyVerses": [15, 18, 19],
+      "crossReferences": [
+        {"book": "Hebrews", "chapter": 13, "label": "Marriage bed undefiled"}
+      ]
+    },
+    "6": {
+      "genre": ["wisdom", "poetry"],
+      "people": [
+        {"name": "Solomon", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["diligence", "seven-deadly-sins", "sexual-purity"],
+      "events": [],
+      "keyVerses": [6, 16, 17],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 6, "label": "Consider the lilies"}
+      ]
+    },
+    "7": {
+      "genre": ["wisdom", "narrative"],
+      "people": [
+        {"name": "Solomon", "role": "author"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["sexual-purity", "temptation", "folly"],
+      "events": [],
+      "keyVerses": [2, 25, 27],
+      "crossReferences": [
+        {"book": "James", "chapter": 1, "label": "Lured by own desires"}
+      ]
+    },
+    "8": {
+      "genre": ["wisdom", "poetry"],
+      "people": [
+        {"name": "Solomon", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["wisdom-personified", "creation", "life"],
+      "events": [],
+      "keyVerses": [11, 22, 35, 36],
+      "crossReferences": [
+        {"book": "John", "chapter": 1, "label": "In the beginning was the Word"},
+        {"book": "Colossians", "chapter": 1, "label": "Christ the wisdom of God"}
+      ]
+    },
+    "9": {
+      "genre": ["wisdom", "poetry"],
+      "people": [
+        {"name": "Solomon", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["wisdom", "folly", "fear-of-the-lord"],
+      "events": [],
+      "keyVerses": [10],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 22, "label": "Wedding feast invitation"}
+      ]
+    },
+    "10": {
+      "genre": ["wisdom", "poetry"],
+      "people": [
+        {"name": "Solomon", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["righteousness", "speech", "diligence"],
+      "events": [],
+      "keyVerses": [1, 12],
+      "crossReferences": [
+        {"book": "1 Peter", "chapter": 4, "label": "Love covers sins"}
+      ]
+    },
+    "11": {
+      "genre": ["wisdom", "poetry"],
+      "people": [
+        {"name": "Solomon", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["honesty", "generosity", "righteousness"],
+      "events": [],
+      "keyVerses": [1, 24, 25, 30],
+      "crossReferences": [
+        {"book": "2 Corinthians", "chapter": 9, "label": "Generous sowing generous reaping"}
+      ]
+    },
+    "12": {
+      "genre": ["wisdom", "poetry"],
+      "people": [
+        {"name": "Solomon", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["speech", "diligence", "integrity"],
+      "events": [],
+      "keyVerses": [4, 22],
+      "crossReferences": [
+        {"book": "Ephesians", "chapter": 4, "label": "Speaking the truth"}
+      ]
+    },
+    "13": {
+      "genre": ["wisdom", "poetry"],
+      "people": [
+        {"name": "Solomon", "role": "author"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["discipline", "speech", "diligence"],
+      "events": [],
+      "keyVerses": [24],
+      "crossReferences": [
+        {"book": "Hebrews", "chapter": 12, "label": "Discipline of children"}
+      ]
+    },
+    "14": {
+      "genre": ["wisdom", "poetry"],
+      "people": [
+        {"name": "Solomon", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["wisdom", "fear-of-the-lord", "justice"],
+      "events": [],
+      "keyVerses": [12, 27, 34],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 7, "label": "Broad way that leads to destruction"}
+      ]
+    },
+    "15": {
+      "genre": ["wisdom", "poetry"],
+      "people": [
+        {"name": "Solomon", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["speech", "prayer", "humility"],
+      "events": [],
+      "keyVerses": [1, 3, 33],
+      "crossReferences": [
+        {"book": "James", "chapter": 1, "label": "Slow to speak, slow to anger"}
+      ]
+    },
+    "16": {
+      "genre": ["wisdom", "poetry"],
+      "people": [
+        {"name": "Solomon", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["sovereignty", "pride", "speech"],
+      "events": [],
+      "keyVerses": [3, 9, 18, 33],
+      "crossReferences": [
+        {"book": "James", "chapter": 4, "label": "God opposes the proud"}
+      ]
+    },
+    "17": {
+      "genre": ["wisdom", "poetry"],
+      "people": [
+        {"name": "Solomon", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["friendship", "speech", "contentment"],
+      "events": [],
+      "keyVerses": [17, 22, 28],
+      "crossReferences": [
+        {"book": "John", "chapter": 15, "label": "Greater love hath no man than this"}
+      ]
+    },
+    "18": {
+      "genre": ["wisdom", "poetry"],
+      "people": [
+        {"name": "Solomon", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["speech", "friendship", "refuge"],
+      "events": [],
+      "keyVerses": [10, 21, 24],
+      "crossReferences": [
+        {"book": "James", "chapter": 3, "label": "Power of the tongue"}
+      ]
+    },
+    "19": {
+      "genre": ["wisdom", "poetry"],
+      "people": [
+        {"name": "Solomon", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["integrity", "generosity", "discipline"],
+      "events": [],
+      "keyVerses": [17, 21],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 25, "label": "Lending to the poor is lending to God"}
+      ]
+    },
+    "20": {
+      "genre": ["wisdom", "poetry"],
+      "people": [
+        {"name": "Solomon", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["temperance", "honesty", "kingship"],
+      "events": [],
+      "keyVerses": [1, 6, 22],
+      "crossReferences": [
+        {"book": "Ephesians", "chapter": 5, "label": "Be not drunk with wine"},
+        {"book": "Romans", "chapter": 12, "label": "Overcome evil with good"}
+      ]
+    },
+    "21": {
+      "genre": ["wisdom", "poetry"],
+      "people": [
+        {"name": "Solomon", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["sovereignty", "justice", "obedience"],
+      "events": [],
+      "keyVerses": [1, 2, 3],
+      "crossReferences": [
+        {"book": "1 Samuel", "chapter": 15, "label": "Obedience better than sacrifice"}
+      ]
+    },
+    "22": {
+      "genre": ["wisdom", "poetry"],
+      "people": [
+        {"name": "Solomon", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["reputation", "child-rearing", "humility"],
+      "events": [],
+      "keyVerses": [1, 6],
+      "crossReferences": [
+        {"book": "Ecclesiastes", "chapter": 7, "label": "A good name"}
+      ]
+    },
+    "23": {
+      "genre": ["wisdom", "poetry"],
+      "people": [
+        {"name": "Solomon", "role": "author"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["temperance", "discipline", "wealth"],
+      "events": [],
+      "keyVerses": [4, 5, 17],
+      "crossReferences": [
+        {"book": "Ephesians", "chapter": 5, "label": "Do not be drunk with wine"}
+      ]
+    },
+    "24": {
+      "genre": ["wisdom", "poetry"],
+      "people": [
+        {"name": "Solomon", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["wisdom", "diligence", "justice"],
+      "events": [],
+      "keyVerses": [3, 16, 29],
+      "crossReferences": [
+        {"book": "Romans", "chapter": 12, "label": "Overcome evil with good"}
+      ]
+    },
+    "25": {
+      "genre": ["wisdom", "poetry"],
+      "people": [
+        {"name": "Solomon", "role": "author"},
+        {"name": "Hezekiah", "role": "mentioned"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Divided monarchy",
+      "era": "divided-monarchy",
+      "topics": ["speech", "self-control", "humility"],
+      "events": [],
+      "keyVerses": [11, 21, 22],
+      "crossReferences": [
+        {"book": "Romans", "chapter": 12, "label": "Heap coals of fire on his head"},
+        {"book": "Luke", "chapter": 14, "label": "Take the lowest seat"}
+      ]
+    },
+    "26": {
+      "genre": ["wisdom", "poetry"],
+      "people": [
+        {"name": "Solomon", "role": "author"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["folly", "laziness", "speech"],
+      "events": [],
+      "keyVerses": [4, 5, 11],
+      "crossReferences": [
+        {"book": "2 Peter", "chapter": 2, "label": "Dog returns to his vomit"}
+      ]
+    },
+    "27": {
+      "genre": ["wisdom", "poetry"],
+      "people": [
+        {"name": "Solomon", "role": "author"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["friendship", "humility", "diligence"],
+      "events": [],
+      "keyVerses": [1, 6, 17],
+      "crossReferences": [
+        {"book": "James", "chapter": 4, "label": "You do not know what tomorrow will bring"}
+      ]
+    },
+    "28": {
+      "genre": ["wisdom", "poetry"],
+      "people": [
+        {"name": "Solomon", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["justice", "integrity", "generosity"],
+      "events": [],
+      "keyVerses": [1, 13],
+      "crossReferences": [
+        {"book": "1 John", "chapter": 1, "label": "Confess sins and be cleansed"}
+      ]
+    },
+    "29": {
+      "genre": ["wisdom", "poetry"],
+      "people": [
+        {"name": "Solomon", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["discipline", "leadership", "fear-of-the-lord"],
+      "events": [],
+      "keyVerses": [2, 18, 25],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 14, "label": "Fear of man brings a snare"}
+      ]
+    },
+    "30": {
+      "genre": ["wisdom", "poetry"],
+      "people": [
+        {"name": "Agur", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["humility", "divine-mystery", "wisdom"],
+      "events": [],
+      "keyVerses": [4, 5, 8, 9],
+      "crossReferences": [
+        {"book": "John", "chapter": 3, "label": "Who has ascended to heaven"},
+        {"book": "Revelation", "chapter": 22, "label": "Do not add to God's words"}
+      ]
+    },
+    "31": {
+      "genre": ["wisdom", "poetry"],
+      "people": [
+        {"name": "Lemuel", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["virtuous-woman", "leadership", "diligence"],
+      "events": [],
+      "keyVerses": [10, 30, 31],
+      "crossReferences": [
+        {"book": "1 Peter", "chapter": 3, "label": "Unfading beauty of gentle spirit"},
+        {"book": "Ruth", "chapter": 3, "label": "Virtuous woman"}
+      ]
+    }
+  }
+}

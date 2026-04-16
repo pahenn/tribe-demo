@@ -1,0 +1,96 @@
+{
+  "book": "2 Timothy",
+  "bookSlug": "55.2-timothy",
+  "testament": "2.new-testament",
+  "chapters": {
+    "1": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Paul", "role": "author"},
+        {"name": "Timothy", "role": "recipient"},
+        {"name": "Lois", "role": "mentioned"},
+        {"name": "Eunice", "role": "mentioned"},
+        {"name": "Onesiphorus", "role": "mentioned"},
+        {"name": "Phygellus", "role": "mentioned"},
+        {"name": "Hermogenes", "role": "mentioned"}
+      ],
+      "locations": ["Rome", "Ephesus", "Asia"],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["courage", "spiritual-gifts", "sound-doctrine", "suffering"],
+      "events": ["Paul commends Timothy's heritage of faith through Lois and Eunice"],
+      "keyVerses": [7, 9, 12],
+      "crossReferences": [
+        {"book": "Acts", "chapter": 16, "label": "Timothy's mother Eunice mentioned"},
+        {"book": "1 Timothy", "chapter": 4, "label": "Neglect not the gift that is in thee"}
+      ]
+    },
+    "2": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Paul", "role": "author"},
+        {"name": "Timothy", "role": "recipient"},
+        {"name": "Jesus Christ", "role": "mentioned"},
+        {"name": "Hymenaeus", "role": "mentioned"},
+        {"name": "Philetus", "role": "mentioned"},
+        {"name": "David", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["endurance", "discipleship", "approved-workman", "vessels-of-honor"],
+      "events": [],
+      "keyVerses": [2, 11, 15],
+      "crossReferences": [
+        {"book": "1 Corinthians", "chapter": 9, "label": "Running the race according to the rules"},
+        {"book": "Romans", "chapter": 6, "label": "If we be dead with him we shall also live with him"}
+      ]
+    },
+    "3": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Paul", "role": "author"},
+        {"name": "Timothy", "role": "recipient"},
+        {"name": "Jannes", "role": "mentioned"},
+        {"name": "Jambres", "role": "mentioned"},
+        {"name": "Moses", "role": "mentioned"}
+      ],
+      "locations": ["Antioch", "Iconium", "Lystra"],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["last-days", "persecution", "scripture", "apostasy"],
+      "events": ["Paul recalls persecutions he endured at Antioch, Iconium, and Lystra"],
+      "keyVerses": [1, 12, 16],
+      "crossReferences": [
+        {"book": "Acts", "chapter": 14, "label": "Paul stoned at Lystra"},
+        {"book": "2 Peter", "chapter": 1, "label": "Holy men of God spoke as moved by the Holy Ghost"}
+      ]
+    },
+    "4": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Paul", "role": "author"},
+        {"name": "Timothy", "role": "recipient"},
+        {"name": "Demas", "role": "mentioned"},
+        {"name": "Luke", "role": "mentioned"},
+        {"name": "Mark", "role": "mentioned"},
+        {"name": "Tychicus", "role": "mentioned"},
+        {"name": "Alexander", "role": "mentioned"},
+        {"name": "Priscilla", "role": "mentioned"},
+        {"name": "Aquila", "role": "mentioned"},
+        {"name": "Trophimus", "role": "mentioned"},
+        {"name": "Erastus", "role": "mentioned"}
+      ],
+      "locations": ["Thessalonica", "Galatia", "Dalmatia", "Ephesus", "Troas", "Corinth", "Miletus"],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["preaching", "faithfulness", "crown-of-righteousness", "farewell"],
+      "events": ["Paul anticipates his death and reflects on his ministry"],
+      "keyVerses": [2, 7, 8],
+      "crossReferences": [
+        {"book": "1 Corinthians", "chapter": 9, "label": "An incorruptible crown"},
+        {"book": "Philippians", "chapter": 1, "label": "The time of my departure is at hand"}
+      ]
+    }
+  }
+}

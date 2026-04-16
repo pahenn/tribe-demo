@@ -1,0 +1,95 @@
+{
+  "book": "James",
+  "bookSlug": "59.james",
+  "testament": "2.new-testament",
+  "chapters": {
+    "1": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "James", "role": "author"},
+        {"name": "Jesus", "role": "mentioned"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["trials", "wisdom", "temptation", "doers-of-the-word"],
+      "events": ["James addresses the twelve tribes scattered abroad", "Teaching on trials and temptation"],
+      "keyVerses": [2, 5, 22],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 7, "label": "Ask and it shall be given"},
+        {"book": "Romans", "chapter": 5, "label": "Tribulation works patience"}
+      ]
+    },
+    "2": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Abraham", "role": "mentioned"},
+        {"name": "Isaac", "role": "mentioned"},
+        {"name": "Rahab", "role": "mentioned"},
+        {"name": "Jesus", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["faith-and-works", "partiality", "royal-law", "mercy"],
+      "events": ["Teaching against favoritism", "Argument that faith without works is dead"],
+      "keyVerses": [8, 17, 26],
+      "crossReferences": [
+        {"book": "Genesis", "chapter": 15, "label": "Abraham believed God"},
+        {"book": "Romans", "chapter": 4, "label": "Justification by faith"}
+      ]
+    },
+    "3": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "James", "role": "author"}
+      ],
+      "locations": [],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["taming-the-tongue", "wisdom", "speech", "peacekeeping"],
+      "events": ["Teaching on the power and danger of the tongue", "Contrast of earthly and heavenly wisdom"],
+      "keyVerses": [5, 8, 17],
+      "crossReferences": [
+        {"book": "Proverbs", "chapter": 18, "label": "Death and life in the power of the tongue"},
+        {"book": "Matthew", "chapter": 12, "label": "By thy words thou shalt be justified"}
+      ]
+    },
+    "4": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "James", "role": "author"}
+      ],
+      "locations": [],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["humility", "worldliness", "submission-to-god", "brevity-of-life"],
+      "events": ["Warning against worldliness", "Call to submit to God and resist the devil"],
+      "keyVerses": [7, 8, 14],
+      "crossReferences": [
+        {"book": "1 Peter", "chapter": 5, "label": "God resists the proud"},
+        {"book": "Proverbs", "chapter": 3, "label": "God gives grace to the humble"}
+      ]
+    },
+    "5": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Job", "role": "mentioned"},
+        {"name": "Elijah", "role": "mentioned"},
+        {"name": "James", "role": "author"}
+      ],
+      "locations": [],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["patience", "prayer", "wealth-warning", "healing"],
+      "events": ["Warning to the rich", "Call to patience for the Lord's coming", "Instructions for prayer and anointing the sick"],
+      "keyVerses": [7, 15, 16],
+      "crossReferences": [
+        {"book": "1 Kings", "chapter": 17, "label": "Elijah's prayer for drought"},
+        {"book": "Job", "chapter": 42, "label": "Patience of Job"}
+      ]
+    }
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "book": "Song of Solomon",
+  "bookSlug": "22.song-of-solomon",
+  "testament": "1.old-testament",
+  "chapters": {
+    "1": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "Solomon", "role": "author"},
+        {"name": "Shulamite", "role": "speaker"}
+      ],
+      "locations": ["Jerusalem", "Kedar", "En Gedi"],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["love", "beauty", "desire"],
+      "events": [],
+      "keyVerses": [2, 15],
+      "crossReferences": [
+        {"book": "Ephesians", "chapter": 5, "label": "Christ and the church"}
+      ]
+    },
+    "2": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "Solomon", "role": "speaker"},
+        {"name": "Shulamite", "role": "speaker"}
+      ],
+      "locations": ["Sharon"],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["love", "springtime", "longing"],
+      "events": [],
+      "keyVerses": [1, 4, 16],
+      "crossReferences": [
+        {"book": "Revelation", "chapter": 3, "label": "Behold I stand at the door and knock"},
+        {"book": "Isaiah", "chapter": 35, "label": "Rose of Sharon"}
+      ]
+    },
+    "3": {
+      "genre": ["poetry", "narrative"],
+      "people": [
+        {"name": "Shulamite", "role": "speaker"},
+        {"name": "Solomon", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem", "Zion", "Lebanon"],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["love", "seeking", "wedding"],
+      "events": ["Solomon's wedding procession"],
+      "keyVerses": [4, 11],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 25, "label": "Bridegroom coming"}
+      ]
+    },
+    "4": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "Solomon", "role": "speaker"},
+        {"name": "Shulamite", "role": "mentioned"}
+      ],
+      "locations": ["Gilead", "Lebanon", "Amana", "Hermon"],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["love", "beauty", "purity"],
+      "events": [],
+      "keyVerses": [7, 12, 16],
+      "crossReferences": [
+        {"book": "Ephesians", "chapter": 5, "label": "Church without spot or blemish"}
+      ]
+    },
+    "5": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "Solomon", "role": "speaker"},
+        {"name": "Shulamite", "role": "speaker"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["love", "separation", "longing"],
+      "events": [],
+      "keyVerses": [2, 10, 16],
+      "crossReferences": [
+        {"book": "Revelation", "chapter": 3, "label": "I stand at the door and knock"}
+      ]
+    },
+    "6": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "Solomon", "role": "speaker"},
+        {"name": "Shulamite", "role": "speaker"}
+      ],
+      "locations": ["Tirzah", "Jerusalem", "Gilead"],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["love", "beauty", "devotion"],
+      "events": [],
+      "keyVerses": [3, 10],
+      "crossReferences": [
+        {"book": "Ephesians", "chapter": 5, "label": "Love between Christ and church"}
+      ]
+    },
+    "7": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "Solomon", "role": "speaker"},
+        {"name": "Shulamite", "role": "speaker"}
+      ],
+      "locations": ["Heshbon", "Lebanon", "Damascus", "Carmel"],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["love", "beauty", "desire"],
+      "events": [],
+      "keyVerses": [10],
+      "crossReferences": [
+        {"book": "Genesis", "chapter": 3, "label": "His desire is toward me"}
+      ]
+    },
+    "8": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "Solomon", "role": "mentioned"},
+        {"name": "Shulamite", "role": "speaker"}
+      ],
+      "locations": ["Baal-hamon"],
+      "timePeriod": "United monarchy",
+      "era": "united-monarchy",
+      "topics": ["love", "commitment", "faithfulness"],
+      "events": [],
+      "keyVerses": [6, 7],
+      "crossReferences": [
+        {"book": "1 Corinthians", "chapter": 13, "label": "Love never fails"},
+        {"book": "Ephesians", "chapter": 5, "label": "Christ's love for the church"}
+      ]
+    }
+  }
+}

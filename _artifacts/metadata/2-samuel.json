@@ -1,0 +1,437 @@
+{
+  "book": "2 Samuel",
+  "bookSlug": "10.2-samuel",
+  "testament": "1.old-testament",
+  "chapters": {
+    "1": {
+      "genre": ["narrative", "poetry"],
+      "people": [
+        {"name": "David", "role": "protagonist"},
+        {"name": "Saul", "role": "mentioned"},
+        {"name": "Jonathan", "role": "mentioned"}
+      ],
+      "locations": ["Ziklag"],
+      "timePeriod": "United Monarchy",
+      "era": "united-monarchy",
+      "topics": ["grief", "lament", "honor", "death"],
+      "events": ["David learns of Saul and Jonathan's deaths", "David's lament over Saul and Jonathan"],
+      "keyVerses": [19, 26, 27],
+      "crossReferences": [
+        {"book": "1 Samuel", "chapter": 31, "label": "Death of Saul and Jonathan at Gilboa"}
+      ]
+    },
+    "2": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "David", "role": "protagonist"},
+        {"name": "Ishbosheth", "role": "antagonist"},
+        {"name": "Abner", "role": "mentioned"},
+        {"name": "Joab", "role": "mentioned"}
+      ],
+      "locations": ["Hebron", "Mahanaim", "Gibeon"],
+      "timePeriod": "United Monarchy",
+      "era": "united-monarchy",
+      "topics": ["kingship", "civil-war", "divine-guidance"],
+      "events": ["David anointed king over Judah at Hebron", "Ishbosheth made king over Israel", "Battle at the pool of Gibeon"],
+      "keyVerses": [1, 4],
+      "crossReferences": [
+        {"book": "1 Chronicles", "chapter": 11, "label": "David becomes king over all Israel"}
+      ]
+    },
+    "3": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "David", "role": "protagonist"},
+        {"name": "Abner", "role": "mentioned"},
+        {"name": "Joab", "role": "antagonist"},
+        {"name": "Ishbosheth", "role": "mentioned"}
+      ],
+      "locations": ["Hebron"],
+      "timePeriod": "United Monarchy",
+      "era": "united-monarchy",
+      "topics": ["politics", "murder", "grief", "power"],
+      "events": ["War between houses of David and Saul", "Abner defects to David", "Joab murders Abner"],
+      "keyVerses": [1, 38],
+      "crossReferences": [
+        {"book": "1 Kings", "chapter": 2, "label": "David charges Solomon regarding Joab"}
+      ]
+    },
+    "4": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "David", "role": "protagonist"},
+        {"name": "Ishbosheth", "role": "mentioned"},
+        {"name": "Rechab", "role": "antagonist"},
+        {"name": "Baanah", "role": "antagonist"},
+        {"name": "Mephibosheth", "role": "mentioned"}
+      ],
+      "locations": ["Hebron"],
+      "timePeriod": "United Monarchy",
+      "era": "united-monarchy",
+      "topics": ["murder", "justice", "treachery"],
+      "events": ["Rechab and Baanah assassinate Ishbosheth", "David executes the assassins"],
+      "keyVerses": [11, 12],
+      "crossReferences": [
+        {"book": "2 Samuel", "chapter": 1, "label": "David's response to the Amalekite who claimed to kill Saul"}
+      ]
+    },
+    "5": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "David", "role": "protagonist"},
+        {"name": "God", "role": "mentioned"},
+        {"name": "Hiram", "role": "mentioned"}
+      ],
+      "locations": ["Hebron", "Jerusalem", "Tyre"],
+      "timePeriod": "United Monarchy",
+      "era": "united-monarchy",
+      "topics": ["kingship", "conquest", "divine-blessing"],
+      "events": ["David anointed king over all Israel", "David captures Jerusalem", "Hiram builds David a palace", "David defeats the Philistines"],
+      "keyVerses": [3, 10, 12],
+      "crossReferences": [
+        {"book": "1 Chronicles", "chapter": 11, "label": "Parallel account of capturing Jerusalem"}
+      ]
+    },
+    "6": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "David", "role": "protagonist"},
+        {"name": "Uzzah", "role": "mentioned"},
+        {"name": "Michal", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem", "Gibeah"],
+      "timePeriod": "United Monarchy",
+      "era": "united-monarchy",
+      "topics": ["worship", "reverence", "ark-of-the-covenant", "celebration"],
+      "events": ["Uzzah struck dead for touching the ark", "Ark brought to Jerusalem", "David dances before the Lord", "Michal despises David"],
+      "keyVerses": [7, 14, 21],
+      "crossReferences": [
+        {"book": "1 Chronicles", "chapter": 13, "label": "Parallel account of ark's journey"},
+        {"book": "Psalms", "chapter": 132, "label": "David's desire to bring the ark to Jerusalem"}
+      ]
+    },
+    "7": {
+      "genre": ["narrative", "prophecy"],
+      "people": [
+        {"name": "David", "role": "protagonist"},
+        {"name": "Nathan", "role": "speaker"},
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "United Monarchy",
+      "era": "united-monarchy",
+      "topics": ["covenant", "dynasty", "temple", "messianic-promise"],
+      "events": ["Davidic covenant established", "God promises David an eternal dynasty", "David's prayer of thanksgiving"],
+      "keyVerses": [12, 13, 16],
+      "crossReferences": [
+        {"book": "1 Chronicles", "chapter": 17, "label": "Parallel Davidic covenant"},
+        {"book": "Luke", "chapter": 1, "label": "Angel declares Jesus will receive David's throne"}
+      ]
+    },
+    "8": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "David", "role": "protagonist"},
+        {"name": "Joab", "role": "mentioned"},
+        {"name": "Hadadezer", "role": "antagonist"}
+      ],
+      "locations": ["Zobah", "Damascus", "Edom", "Moab"],
+      "timePeriod": "United Monarchy",
+      "era": "united-monarchy",
+      "topics": ["conquest", "empire", "divine-blessing"],
+      "events": ["David's victories over Philistines, Moab, Zobah, Syria, and Edom", "David's officials listed"],
+      "keyVerses": [6, 14],
+      "crossReferences": [
+        {"book": "1 Chronicles", "chapter": 18, "label": "Parallel account of David's conquests"}
+      ]
+    },
+    "9": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "David", "role": "protagonist"},
+        {"name": "Mephibosheth", "role": "protagonist"},
+        {"name": "Ziba", "role": "mentioned"},
+        {"name": "Jonathan", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem", "Lodebar"],
+      "timePeriod": "United Monarchy",
+      "era": "united-monarchy",
+      "topics": ["kindness", "covenant-loyalty", "grace", "restoration"],
+      "events": ["David shows kindness to Mephibosheth for Jonathan's sake"],
+      "keyVerses": [1, 7],
+      "crossReferences": [
+        {"book": "1 Samuel", "chapter": 20, "label": "David and Jonathan's covenant"}
+      ]
+    },
+    "10": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "David", "role": "protagonist"},
+        {"name": "Hanun", "role": "antagonist"},
+        {"name": "Joab", "role": "mentioned"}
+      ],
+      "locations": ["Ammon", "Rabbah"],
+      "timePeriod": "United Monarchy",
+      "era": "united-monarchy",
+      "topics": ["diplomacy", "insult", "warfare"],
+      "events": ["Hanun humiliates David's envoys", "Israel defeats Ammon and Syria"],
+      "keyVerses": [4, 12],
+      "crossReferences": [
+        {"book": "1 Chronicles", "chapter": 19, "label": "Parallel account of Ammonite war"}
+      ]
+    },
+    "11": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "David", "role": "protagonist"},
+        {"name": "Bathsheba", "role": "mentioned"},
+        {"name": "Uriah", "role": "mentioned"},
+        {"name": "Joab", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem", "Rabbah"],
+      "timePeriod": "United Monarchy",
+      "era": "united-monarchy",
+      "topics": ["sin", "adultery", "murder", "deception"],
+      "events": ["David commits adultery with Bathsheba", "David arranges Uriah's death"],
+      "keyVerses": [2, 4, 15, 27],
+      "crossReferences": [
+        {"book": "Psalms", "chapter": 51, "label": "David's psalm of repentance"}
+      ]
+    },
+    "12": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "David", "role": "protagonist"},
+        {"name": "Nathan", "role": "protagonist"},
+        {"name": "Bathsheba", "role": "mentioned"},
+        {"name": "Solomon", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem", "Rabbah"],
+      "timePeriod": "United Monarchy",
+      "era": "united-monarchy",
+      "topics": ["confrontation", "repentance", "judgment", "grace"],
+      "events": ["Nathan's parable of the ewe lamb", "David's repentance", "Death of David and Bathsheba's first child", "Birth of Solomon"],
+      "keyVerses": [7, 13, 24],
+      "crossReferences": [
+        {"book": "Psalms", "chapter": 51, "label": "David's psalm of repentance"},
+        {"book": "Matthew", "chapter": 1, "label": "Solomon in the genealogy of Jesus"}
+      ]
+    },
+    "13": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Amnon", "role": "antagonist"},
+        {"name": "Tamar", "role": "protagonist"},
+        {"name": "Absalom", "role": "mentioned"},
+        {"name": "David", "role": "mentioned"},
+        {"name": "Jonadab", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "United Monarchy",
+      "era": "united-monarchy",
+      "topics": ["sin", "violence", "revenge", "family-dysfunction"],
+      "events": ["Amnon rapes Tamar", "Absalom murders Amnon", "Absalom flees to Geshur"],
+      "keyVerses": [14, 28, 29],
+      "crossReferences": [
+        {"book": "2 Samuel", "chapter": 12, "label": "Nathan's prophecy of trouble from David's own house"}
+      ]
+    },
+    "14": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Joab", "role": "protagonist"},
+        {"name": "David", "role": "protagonist"},
+        {"name": "Absalom", "role": "mentioned"},
+        {"name": "Wise woman of Tekoa", "role": "mentioned"}
+      ],
+      "locations": ["Tekoah", "Jerusalem", "Geshur"],
+      "timePeriod": "United Monarchy",
+      "era": "united-monarchy",
+      "topics": ["reconciliation", "wisdom", "manipulation"],
+      "events": ["Wise woman of Tekoa's parable", "David permits Absalom's return", "Absalom sees David's face after two years"],
+      "keyVerses": [14, 25],
+      "crossReferences": [
+        {"book": "2 Samuel", "chapter": 13, "label": "Absalom's exile after killing Amnon"}
+      ]
+    },
+    "15": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Absalom", "role": "antagonist"},
+        {"name": "David", "role": "protagonist"},
+        {"name": "Hushai", "role": "mentioned"},
+        {"name": "Zadok", "role": "mentioned"},
+        {"name": "Abiathar", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem", "Hebron", "Mount of Olives"],
+      "timePeriod": "United Monarchy",
+      "era": "united-monarchy",
+      "topics": ["rebellion", "flight", "loyalty", "betrayal"],
+      "events": ["Absalom's conspiracy", "David flees Jerusalem", "Hushai sent back as David's spy"],
+      "keyVerses": [12, 25, 26],
+      "crossReferences": [
+        {"book": "Psalms", "chapter": 3, "label": "Psalm when David fled from Absalom"}
+      ]
+    },
+    "16": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "David", "role": "protagonist"},
+        {"name": "Ziba", "role": "mentioned"},
+        {"name": "Shimei", "role": "antagonist"},
+        {"name": "Absalom", "role": "antagonist"},
+        {"name": "Ahithophel", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem", "Bahurim"],
+      "timePeriod": "United Monarchy",
+      "era": "united-monarchy",
+      "topics": ["humiliation", "cursing", "rebellion", "treachery"],
+      "events": ["Ziba deceives David about Mephibosheth", "Shimei curses David", "Absalom takes Jerusalem"],
+      "keyVerses": [11, 12],
+      "crossReferences": [
+        {"book": "Psalms", "chapter": 7, "label": "Psalm concerning Shimei's cursing"}
+      ]
+    },
+    "17": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Ahithophel", "role": "mentioned"},
+        {"name": "Hushai", "role": "protagonist"},
+        {"name": "Absalom", "role": "antagonist"},
+        {"name": "David", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem", "Mahanaim"],
+      "timePeriod": "United Monarchy",
+      "era": "united-monarchy",
+      "topics": ["counsel", "espionage", "providence", "suicide"],
+      "events": ["Hushai defeats Ahithophel's counsel", "Ahithophel hangs himself", "David reaches Mahanaim"],
+      "keyVerses": [14, 23],
+      "crossReferences": [
+        {"book": "Psalms", "chapter": 55, "label": "David's lament about a close friend's betrayal"}
+      ]
+    },
+    "18": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "David", "role": "protagonist"},
+        {"name": "Absalom", "role": "antagonist"},
+        {"name": "Joab", "role": "mentioned"}
+      ],
+      "locations": ["Forest of Ephraim", "Mahanaim"],
+      "timePeriod": "United Monarchy",
+      "era": "united-monarchy",
+      "topics": ["battle", "death", "grief", "father-and-son"],
+      "events": ["Battle in the forest of Ephraim", "Absalom caught in a tree and killed by Joab", "David mourns for Absalom"],
+      "keyVerses": [5, 14, 33],
+      "crossReferences": [
+        {"book": "2 Samuel", "chapter": 15, "label": "Absalom's rebellion begins"}
+      ]
+    },
+    "19": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "David", "role": "protagonist"},
+        {"name": "Joab", "role": "mentioned"},
+        {"name": "Shimei", "role": "mentioned"},
+        {"name": "Mephibosheth", "role": "mentioned"},
+        {"name": "Barzillai", "role": "mentioned"}
+      ],
+      "locations": ["Mahanaim", "Jordan", "Gilgal", "Jerusalem"],
+      "timePeriod": "United Monarchy",
+      "era": "united-monarchy",
+      "topics": ["restoration", "forgiveness", "gratitude", "tribal-conflict"],
+      "events": ["Joab rebukes David's mourning", "David returns to Jerusalem", "Judah and Israel quarrel over the king"],
+      "keyVerses": [5, 22],
+      "crossReferences": [
+        {"book": "2 Samuel", "chapter": 16, "label": "Shimei's earlier cursing of David"}
+      ]
+    },
+    "20": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "David", "role": "protagonist"},
+        {"name": "Sheba", "role": "antagonist"},
+        {"name": "Joab", "role": "mentioned"},
+        {"name": "Amasa", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem", "Abel"],
+      "timePeriod": "United Monarchy",
+      "era": "united-monarchy",
+      "topics": ["rebellion", "loyalty", "wisdom", "violence"],
+      "events": ["Sheba's rebellion", "Joab murders Amasa", "Wise woman of Abel saves her city"],
+      "keyVerses": [1, 22],
+      "crossReferences": [
+        {"book": "1 Kings", "chapter": 12, "label": "Northern tribes' secession foreshadowed"}
+      ]
+    },
+    "21": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "David", "role": "protagonist"},
+        {"name": "Rizpah", "role": "mentioned"},
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Gibeon", "Gath"],
+      "timePeriod": "United Monarchy",
+      "era": "united-monarchy",
+      "topics": ["famine", "atonement", "justice", "giant-slaying"],
+      "events": ["Famine due to Saul's sin against Gibeonites", "Seven of Saul's descendants executed", "Rizpah guards the bodies", "Philistine giants killed"],
+      "keyVerses": [1, 10],
+      "crossReferences": [
+        {"book": "Joshua", "chapter": 9, "label": "Original covenant with the Gibeonites"}
+      ]
+    },
+    "22": {
+      "genre": ["poetry"],
+      "people": [
+        {"name": "David", "role": "author"},
+        {"name": "God", "role": "protagonist"}
+      ],
+      "locations": [],
+      "timePeriod": "United Monarchy",
+      "era": "united-monarchy",
+      "topics": ["deliverance", "praise", "sovereignty", "trust"],
+      "events": ["David's song of deliverance"],
+      "keyVerses": [2, 3, 31],
+      "crossReferences": [
+        {"book": "Psalms", "chapter": 18, "label": "Nearly identical psalm of David"}
+      ]
+    },
+    "23": {
+      "genre": ["poetry", "narrative"],
+      "people": [
+        {"name": "David", "role": "author"},
+        {"name": "Joab", "role": "mentioned"}
+      ],
+      "locations": ["Bethlehem"],
+      "timePeriod": "United Monarchy",
+      "era": "united-monarchy",
+      "topics": ["last-words", "mighty-men", "leadership", "valor"],
+      "events": ["David's last words", "Catalog of David's mighty men"],
+      "keyVerses": [1, 2, 3],
+      "crossReferences": [
+        {"book": "1 Chronicles", "chapter": 11, "label": "Parallel list of David's mighty men"}
+      ]
+    },
+    "24": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "David", "role": "protagonist"},
+        {"name": "God", "role": "speaker"},
+        {"name": "Gad", "role": "mentioned"},
+        {"name": "Joab", "role": "mentioned"},
+        {"name": "Araunah", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem", "Dan", "Beersheba"],
+      "timePeriod": "United Monarchy",
+      "era": "united-monarchy",
+      "topics": ["census", "judgment", "repentance", "sacrifice"],
+      "events": ["David's sinful census", "Plague on Israel", "David buys Araunah's threshing floor", "David builds an altar"],
+      "keyVerses": [14, 24, 25],
+      "crossReferences": [
+        {"book": "1 Chronicles", "chapter": 21, "label": "Parallel account of the census"},
+        {"book": "2 Chronicles", "chapter": 3, "label": "Temple built on same site"}
+      ]
+    }
+  }
+}

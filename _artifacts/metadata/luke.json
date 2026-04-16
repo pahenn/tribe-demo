@@ -1,0 +1,452 @@
+{
+  "book": "Luke",
+  "bookSlug": "42.luke",
+  "testament": "2.new-testament",
+  "chapters": {
+    "1": {
+      "genre": ["gospel", "narrative"],
+      "people": [
+        {"name": "Mary", "role": "protagonist"},
+        {"name": "Zacharias", "role": "mentioned"},
+        {"name": "Elisabeth", "role": "mentioned"},
+        {"name": "John the Baptist", "role": "mentioned"},
+        {"name": "Joseph", "role": "mentioned"},
+        {"name": "Gabriel", "role": "mentioned"},
+        {"name": "Jesus", "role": "mentioned"}
+      ],
+      "locations": ["Judaea", "Nazareth", "Galilee"],
+      "timePeriod": "Birth of Christ",
+      "era": "life-of-christ",
+      "topics": ["incarnation", "prophecy", "praise"],
+      "events": ["Announcement of John's birth to Zacharias", "Annunciation to Mary", "Mary visits Elisabeth", "Magnificat", "Birth and naming of John the Baptist", "Benedictus of Zacharias"],
+      "keyVerses": [37, 46, 78],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 1, "label": "Parallel birth announcement"},
+        {"book": "Malachi", "chapter": 4, "label": "Elijah to come before the Lord"}
+      ]
+    },
+    "2": {
+      "genre": ["gospel", "narrative"],
+      "people": [
+        {"name": "Jesus", "role": "protagonist"},
+        {"name": "Mary", "role": "mentioned"},
+        {"name": "Joseph", "role": "mentioned"},
+        {"name": "Simeon", "role": "mentioned"},
+        {"name": "Anna", "role": "mentioned"}
+      ],
+      "locations": ["Bethlehem", "Jerusalem", "Nazareth", "Galilee"],
+      "timePeriod": "Birth of Christ",
+      "era": "life-of-christ",
+      "topics": ["incarnation", "messianic-fulfillment", "worship"],
+      "events": ["Birth of Jesus in Bethlehem", "Shepherds visit the manger", "Presentation at the Temple", "Simeon's prophecy (Nunc Dimittis)", "Anna's prophecy", "Boy Jesus in the Temple"],
+      "keyVerses": [11, 14, 49],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 2, "label": "Parallel birth narrative"},
+        {"book": "Micah", "chapter": 5, "label": "Ruler out of Bethlehem"}
+      ]
+    },
+    "3": {
+      "genre": ["gospel", "genealogy"],
+      "people": [
+        {"name": "Jesus", "role": "protagonist"},
+        {"name": "John the Baptist", "role": "speaker"},
+        {"name": "God", "role": "speaker"},
+        {"name": "Herod", "role": "mentioned"},
+        {"name": "Adam", "role": "mentioned"}
+      ],
+      "locations": ["Jordan", "Judaea"],
+      "timePeriod": "Beginning of Ministry",
+      "era": "life-of-christ",
+      "topics": ["baptism", "repentance", "genealogy"],
+      "events": ["Ministry of John the Baptist", "Baptism of Jesus", "Genealogy of Jesus traced to Adam"],
+      "keyVerses": [16, 22],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 3, "label": "Parallel baptism account"},
+        {"book": "Matthew", "chapter": 1, "label": "Parallel genealogy"}
+      ]
+    },
+    "4": {
+      "genre": ["gospel", "narrative"],
+      "people": [
+        {"name": "Jesus", "role": "protagonist"},
+        {"name": "Peter", "role": "mentioned"},
+        {"name": "Elijah", "role": "mentioned"}
+      ],
+      "locations": ["Judaea", "Galilee", "Nazareth", "Capernaum", "Jerusalem"],
+      "timePeriod": "Beginning of Ministry",
+      "era": "life-of-christ",
+      "topics": ["temptation", "rejection", "miracles"],
+      "events": ["Temptation of Jesus", "Rejection at Nazareth", "Reading from Isaiah in synagogue", "Healing of man with unclean spirit", "Healing of Peter's mother-in-law"],
+      "keyVerses": [4, 18, 43],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 4, "label": "Parallel temptation account"},
+        {"book": "Isaiah", "chapter": 61, "label": "The Spirit of the Lord is upon me"}
+      ]
+    },
+    "5": {
+      "genre": ["gospel", "narrative"],
+      "people": [
+        {"name": "Jesus", "role": "protagonist"},
+        {"name": "Peter", "role": "mentioned"},
+        {"name": "James", "role": "mentioned"},
+        {"name": "John", "role": "mentioned"},
+        {"name": "Levi", "role": "mentioned"}
+      ],
+      "locations": ["Gennesaret", "Galilee"],
+      "timePeriod": "Galilean Ministry",
+      "era": "life-of-christ",
+      "topics": ["calling-of-disciples", "miracles", "forgiveness"],
+      "events": ["Miraculous catch of fish", "Calling of Peter, James, John", "Healing of a leper", "Healing of the paralytic", "Calling of Levi (Matthew)"],
+      "keyVerses": [10, 20, 32],
+      "crossReferences": [
+        {"book": "Mark", "chapter": 2, "label": "Parallel paralytic and Levi's calling"},
+        {"book": "John", "chapter": 21, "label": "Another miraculous catch of fish"}
+      ]
+    },
+    "6": {
+      "genre": ["gospel"],
+      "people": [
+        {"name": "Jesus", "role": "speaker"},
+        {"name": "Peter", "role": "mentioned"},
+        {"name": "Andrew", "role": "mentioned"},
+        {"name": "James", "role": "mentioned"},
+        {"name": "John", "role": "mentioned"},
+        {"name": "Judas Iscariot", "role": "mentioned"}
+      ],
+      "locations": ["Galilee"],
+      "timePeriod": "Galilean Ministry",
+      "era": "life-of-christ",
+      "topics": ["sabbath", "beatitudes", "love-your-enemies"],
+      "events": ["Plucking grain on the Sabbath", "Healing of withered hand", "Choosing of the Twelve", "Sermon on the Plain (Beatitudes and Woes)"],
+      "keyVerses": [20, 27, 38],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 5, "label": "Parallel Beatitudes and Sermon on the Mount"},
+        {"book": "Matthew", "chapter": 12, "label": "Parallel Sabbath controversies"}
+      ]
+    },
+    "7": {
+      "genre": ["gospel", "narrative"],
+      "people": [
+        {"name": "Jesus", "role": "protagonist"},
+        {"name": "John the Baptist", "role": "mentioned"}
+      ],
+      "locations": ["Capernaum", "Nain"],
+      "timePeriod": "Galilean Ministry",
+      "era": "life-of-christ",
+      "topics": ["faith", "miracles", "forgiveness"],
+      "events": ["Healing of centurion's servant", "Raising of widow's son at Nain", "John's disciples question Jesus", "Sinful woman anoints Jesus' feet"],
+      "keyVerses": [9, 14, 47],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 8, "label": "Parallel centurion's servant"},
+        {"book": "Matthew", "chapter": 11, "label": "Parallel John's question from prison"}
+      ]
+    },
+    "8": {
+      "genre": ["gospel", "narrative"],
+      "people": [
+        {"name": "Jesus", "role": "protagonist"},
+        {"name": "Mary Magdalene", "role": "mentioned"},
+        {"name": "Jairus", "role": "mentioned"},
+        {"name": "Peter", "role": "mentioned"},
+        {"name": "James", "role": "mentioned"},
+        {"name": "John", "role": "mentioned"}
+      ],
+      "locations": ["Galilee", "Gadarenes"],
+      "timePeriod": "Galilean Ministry",
+      "era": "life-of-christ",
+      "topics": ["parables", "miracles", "faith"],
+      "events": ["Women who followed Jesus", "Parable of the Sower", "Calming the storm", "Healing of Gadarene demoniac", "Healing of woman with issue of blood", "Raising of Jairus' daughter"],
+      "keyVerses": [15, 25, 48],
+      "crossReferences": [
+        {"book": "Mark", "chapter": 4, "label": "Parallel parable of the Sower and storm"},
+        {"book": "Mark", "chapter": 5, "label": "Parallel demoniac, woman, and Jairus"}
+      ]
+    },
+    "9": {
+      "genre": ["gospel", "narrative"],
+      "people": [
+        {"name": "Jesus", "role": "protagonist"},
+        {"name": "Peter", "role": "speaker"},
+        {"name": "James", "role": "mentioned"},
+        {"name": "John", "role": "mentioned"},
+        {"name": "Moses", "role": "mentioned"},
+        {"name": "Elijah", "role": "mentioned"},
+        {"name": "Herod", "role": "mentioned"},
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Galilee", "Bethsaida", "Jerusalem", "Samaria"],
+      "timePeriod": "Galilean Ministry",
+      "era": "life-of-christ",
+      "topics": ["mission", "transfiguration", "discipleship"],
+      "events": ["Sending out the Twelve", "Feeding of the Five Thousand", "Peter's confession", "Transfiguration", "Healing of epileptic boy", "Journey to Jerusalem begins", "Cost of discipleship"],
+      "keyVerses": [20, 23, 35],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 17, "label": "Parallel transfiguration"},
+        {"book": "Mark", "chapter": 9, "label": "Parallel transfiguration and epileptic boy"}
+      ]
+    },
+    "10": {
+      "genre": ["gospel", "narrative"],
+      "people": [
+        {"name": "Jesus", "role": "speaker"},
+        {"name": "Martha", "role": "mentioned"},
+        {"name": "Mary", "role": "mentioned"}
+      ],
+      "locations": ["Chorazin", "Bethsaida", "Capernaum", "Jerusalem", "Jericho"],
+      "timePeriod": "Journey to Jerusalem",
+      "era": "life-of-christ",
+      "topics": ["mission", "parables", "love-your-neighbor"],
+      "events": ["Sending out the Seventy", "Woes on unrepentant cities", "Parable of the Good Samaritan", "Mary and Martha"],
+      "keyVerses": [27, 33, 42],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 22, "label": "Parallel greatest commandment"},
+        {"book": "Matthew", "chapter": 11, "label": "Parallel woes on cities"}
+      ]
+    },
+    "11": {
+      "genre": ["gospel"],
+      "people": [
+        {"name": "Jesus", "role": "speaker"},
+        {"name": "Solomon", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Journey to Jerusalem",
+      "era": "life-of-christ",
+      "topics": ["prayer", "hypocrisy", "woes"],
+      "events": ["Teaching the Lord's Prayer", "Parable of the persistent friend", "Casting out a demon", "Sign of Jonah", "Woes against Pharisees and lawyers"],
+      "keyVerses": [2, 9, 13],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 6, "label": "Parallel Lord's Prayer"},
+        {"book": "Matthew", "chapter": 23, "label": "Parallel woes against Pharisees"}
+      ]
+    },
+    "12": {
+      "genre": ["gospel"],
+      "people": [
+        {"name": "Jesus", "role": "speaker"},
+        {"name": "Peter", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Journey to Jerusalem",
+      "era": "life-of-christ",
+      "topics": ["trust-in-god", "watchfulness", "stewardship"],
+      "events": ["Parable of the Rich Fool", "Teaching on worry", "Teaching on watchfulness and readiness"],
+      "keyVerses": [15, 31, 48],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 6, "label": "Parallel teaching on worry"},
+        {"book": "Matthew", "chapter": 24, "label": "Parallel teaching on watchfulness"}
+      ]
+    },
+    "13": {
+      "genre": ["gospel", "narrative"],
+      "people": [
+        {"name": "Jesus", "role": "speaker"},
+        {"name": "Abraham", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem", "Galilee"],
+      "timePeriod": "Journey to Jerusalem",
+      "era": "life-of-christ",
+      "topics": ["repentance", "parables", "judgment"],
+      "events": ["Call to repentance", "Parable of the Barren Fig Tree", "Healing of crippled woman on Sabbath", "Parables of Mustard Seed and Leaven", "Lament over Jerusalem"],
+      "keyVerses": [3, 24, 34],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 23, "label": "Parallel lament over Jerusalem"},
+        {"book": "Matthew", "chapter": 13, "label": "Parallel mustard seed and leaven"}
+      ]
+    },
+    "14": {
+      "genre": ["gospel"],
+      "people": [
+        {"name": "Jesus", "role": "speaker"}
+      ],
+      "locations": [],
+      "timePeriod": "Journey to Jerusalem",
+      "era": "life-of-christ",
+      "topics": ["humility", "discipleship", "parables"],
+      "events": ["Healing of man with dropsy on Sabbath", "Parable of the seats at the feast", "Parable of the Great Supper", "Cost of discipleship"],
+      "keyVerses": [11, 26, 27],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 22, "label": "Parallel parable of the wedding feast"},
+        {"book": "Matthew", "chapter": 10, "label": "Parallel cost of discipleship"}
+      ]
+    },
+    "15": {
+      "genre": ["gospel"],
+      "people": [
+        {"name": "Jesus", "role": "speaker"}
+      ],
+      "locations": [],
+      "timePeriod": "Journey to Jerusalem",
+      "era": "life-of-christ",
+      "topics": ["parables", "repentance", "grace"],
+      "events": ["Parable of the Lost Sheep", "Parable of the Lost Coin", "Parable of the Prodigal Son"],
+      "keyVerses": [7, 10, 24],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 18, "label": "Parallel parable of the lost sheep"},
+        {"book": "Ezekiel", "chapter": 34, "label": "God seeks His lost sheep"}
+      ]
+    },
+    "16": {
+      "genre": ["gospel"],
+      "people": [
+        {"name": "Jesus", "role": "speaker"},
+        {"name": "Abraham", "role": "mentioned"},
+        {"name": "Moses", "role": "mentioned"},
+        {"name": "Lazarus", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Journey to Jerusalem",
+      "era": "life-of-christ",
+      "topics": ["stewardship", "wealth", "afterlife"],
+      "events": ["Parable of the Unjust Steward", "Teaching on faithfulness", "Parable of the Rich Man and Lazarus"],
+      "keyVerses": [10, 13, 31],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 6, "label": "Cannot serve God and mammon"},
+        {"book": "Matthew", "chapter": 19, "label": "Difficulty for the rich to enter the kingdom"}
+      ]
+    },
+    "17": {
+      "genre": ["gospel", "narrative"],
+      "people": [
+        {"name": "Jesus", "role": "speaker"}
+      ],
+      "locations": ["Samaria", "Galilee", "Jerusalem"],
+      "timePeriod": "Journey to Jerusalem",
+      "era": "life-of-christ",
+      "topics": ["faith", "gratitude", "second-coming"],
+      "events": ["Teaching on forgiveness and faith", "Healing of ten lepers (one Samaritan returns)", "Teaching on the coming of the Kingdom"],
+      "keyVerses": [6, 17, 21],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 24, "label": "Parallel teaching on second coming"},
+        {"book": "Genesis", "chapter": 19, "label": "Days of Lot reference"}
+      ]
+    },
+    "18": {
+      "genre": ["gospel", "narrative"],
+      "people": [
+        {"name": "Jesus", "role": "protagonist"},
+        {"name": "Peter", "role": "mentioned"}
+      ],
+      "locations": ["Jericho", "Jerusalem"],
+      "timePeriod": "Journey to Jerusalem",
+      "era": "life-of-christ",
+      "topics": ["prayer", "humility", "wealth"],
+      "events": ["Parable of the Persistent Widow", "Parable of the Pharisee and the Tax Collector", "Blessing of children", "Rich ruler", "Healing of blind man near Jericho"],
+      "keyVerses": [1, 14, 27],
+      "crossReferences": [
+        {"book": "Mark", "chapter": 10, "label": "Parallel rich ruler and blind man"},
+        {"book": "Matthew", "chapter": 19, "label": "Parallel children and rich young man"}
+      ]
+    },
+    "19": {
+      "genre": ["gospel", "narrative"],
+      "people": [
+        {"name": "Jesus", "role": "protagonist"},
+        {"name": "Zacchaeus", "role": "mentioned"}
+      ],
+      "locations": ["Jericho", "Jerusalem", "Bethphage", "Bethany", "Mount of Olives"],
+      "timePeriod": "Passion Week",
+      "era": "life-of-christ",
+      "topics": ["salvation", "parables", "triumphal-entry"],
+      "events": ["Conversion of Zacchaeus", "Parable of the Ten Minas", "Triumphal Entry", "Jesus weeps over Jerusalem", "Cleansing of the Temple"],
+      "keyVerses": [10, 38, 46],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 21, "label": "Parallel triumphal entry and temple cleansing"},
+        {"book": "Matthew", "chapter": 25, "label": "Parallel parable of the Talents/Minas"}
+      ]
+    },
+    "20": {
+      "genre": ["gospel", "narrative"],
+      "people": [
+        {"name": "Jesus", "role": "protagonist"},
+        {"name": "David", "role": "mentioned"},
+        {"name": "Moses", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "Passion Week",
+      "era": "life-of-christ",
+      "topics": ["authority", "parables", "resurrection"],
+      "events": ["Question of Jesus' authority", "Parable of the Wicked Tenants", "Render unto Caesar", "Question about the Resurrection", "David's Lord"],
+      "keyVerses": [17, 25, 38],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 22, "label": "Parallel Caesar, resurrection, and David's Lord"},
+        {"book": "Mark", "chapter": 12, "label": "Parallel wicked tenants"}
+      ]
+    },
+    "21": {
+      "genre": ["gospel", "prophecy"],
+      "people": [
+        {"name": "Jesus", "role": "speaker"}
+      ],
+      "locations": ["Jerusalem", "Mount of Olives"],
+      "timePeriod": "Passion Week",
+      "era": "life-of-christ",
+      "topics": ["giving", "eschatology", "watchfulness"],
+      "events": ["Widow's mite", "Olivet Discourse", "Signs of the end"],
+      "keyVerses": [3, 27, 33],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 24, "label": "Parallel Olivet Discourse"},
+        {"book": "Mark", "chapter": 13, "label": "Parallel Olivet Discourse"}
+      ]
+    },
+    "22": {
+      "genre": ["gospel", "narrative"],
+      "people": [
+        {"name": "Jesus", "role": "protagonist"},
+        {"name": "Judas Iscariot", "role": "antagonist"},
+        {"name": "Peter", "role": "mentioned"},
+        {"name": "John", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem", "Mount of Olives"],
+      "timePeriod": "Passion Week",
+      "era": "life-of-christ",
+      "topics": ["betrayal", "last-supper", "prayer"],
+      "events": ["Judas agrees to betray Jesus", "The Last Supper", "Dispute about greatness", "Prediction of Peter's denial", "Prayer on the Mount of Olives", "Arrest of Jesus", "Peter's denial", "Trial before the council"],
+      "keyVerses": [19, 42, 61],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 26, "label": "Parallel passion narrative"},
+        {"book": "Mark", "chapter": 14, "label": "Parallel Last Supper and Gethsemane"}
+      ]
+    },
+    "23": {
+      "genre": ["gospel", "narrative"],
+      "people": [
+        {"name": "Jesus", "role": "protagonist"},
+        {"name": "Pilate", "role": "mentioned"},
+        {"name": "Herod", "role": "mentioned"},
+        {"name": "Barabbas", "role": "mentioned"},
+        {"name": "Simon of Cyrene", "role": "mentioned"},
+        {"name": "Joseph of Arimathea", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem", "Calvary"],
+      "timePeriod": "Passion Week",
+      "era": "life-of-christ",
+      "topics": ["crucifixion", "forgiveness", "atonement"],
+      "events": ["Trial before Pilate", "Jesus sent to Herod", "Release of Barabbas", "Crucifixion", "Repentant thief on the cross", "Death of Jesus", "Burial by Joseph of Arimathea"],
+      "keyVerses": [34, 43, 46],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 27, "label": "Parallel crucifixion account"},
+        {"book": "Isaiah", "chapter": 53, "label": "Numbered with the transgressors"}
+      ]
+    },
+    "24": {
+      "genre": ["gospel", "narrative"],
+      "people": [
+        {"name": "Jesus", "role": "protagonist"},
+        {"name": "Peter", "role": "mentioned"},
+        {"name": "Mary Magdalene", "role": "mentioned"},
+        {"name": "Cleopas", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem", "Emmaus", "Bethany"],
+      "timePeriod": "Resurrection",
+      "era": "life-of-christ",
+      "topics": ["resurrection", "fulfillment-of-scripture", "ascension"],
+      "events": ["Women at the empty tomb", "Road to Emmaus", "Jesus appears to the disciples", "The Ascension"],
+      "keyVerses": [6, 27, 51],
+      "crossReferences": [
+        {"book": "Acts", "chapter": 1, "label": "Parallel ascension account"},
+        {"book": "Mark", "chapter": 16, "label": "Parallel resurrection appearances"}
+      ]
+    }
+  }
+}

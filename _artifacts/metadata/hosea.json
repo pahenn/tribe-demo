@@ -1,0 +1,247 @@
+{
+  "book": "Hosea",
+  "bookSlug": "28.hosea",
+  "testament": "1.old-testament",
+  "chapters": {
+    "1": {
+      "genre": ["prophecy", "narrative"],
+      "people": [
+        {"name": "Hosea", "role": "protagonist"},
+        {"name": "God", "role": "speaker"},
+        {"name": "Gomer", "role": "mentioned"},
+        {"name": "Jezreel", "role": "mentioned"},
+        {"name": "Uzziah", "role": "mentioned"},
+        {"name": "Jotham", "role": "mentioned"},
+        {"name": "Ahaz", "role": "mentioned"},
+        {"name": "Hezekiah", "role": "mentioned"},
+        {"name": "Jeroboam", "role": "mentioned"}
+      ],
+      "locations": ["Israel", "Judah", "Jezreel"],
+      "timePeriod": "Divided Kingdom",
+      "era": "divided-monarchy",
+      "topics": ["marriage-metaphor", "judgment", "symbolic-names", "unfaithfulness"],
+      "events": ["God commands Hosea to marry Gomer", "Birth of Jezreel, Lo-Ruhamah, and Lo-Ammi"],
+      "keyVerses": [2, 10],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 2, "label": "Out of Egypt I called my son"},
+        {"book": "Romans", "chapter": 9, "label": "Not my people called sons of the living God"},
+        {"book": "1 Peter", "chapter": 2, "label": "Once not a people, now the people of God"}
+      ]
+    },
+    "2": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Israel", "Egypt", "Jezreel", "Achor"],
+      "timePeriod": "Divided Kingdom",
+      "era": "divided-monarchy",
+      "topics": ["unfaithfulness", "idolatry", "restoration", "marriage-metaphor", "covenant"],
+      "events": ["God charges Israel with spiritual adultery", "God promises future restoration and betrothal"],
+      "keyVerses": [19, 23],
+      "crossReferences": [
+        {"book": "Romans", "chapter": 9, "label": "I will call them my people who were not my people"},
+        {"book": "Jeremiah", "chapter": 31, "label": "New covenant promises"}
+      ]
+    },
+    "3": {
+      "genre": ["prophecy", "narrative"],
+      "people": [
+        {"name": "Hosea", "role": "protagonist"},
+        {"name": "God", "role": "speaker"},
+        {"name": "David", "role": "mentioned"}
+      ],
+      "locations": ["Israel"],
+      "timePeriod": "Divided Kingdom",
+      "era": "divided-monarchy",
+      "topics": ["redemption", "love", "faithfulness", "restoration"],
+      "events": ["Hosea buys back his adulterous wife"],
+      "keyVerses": [1, 5],
+      "crossReferences": [
+        {"book": "Ephesians", "chapter": 5, "label": "Christ's love for the church as husband to wife"},
+        {"book": "Ezekiel", "chapter": 37, "label": "Israel reunited under one king"}
+      ]
+    },
+    "4": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Hosea", "role": "author"}
+      ],
+      "locations": ["Israel", "Judah", "Gilgal", "Beth-aven"],
+      "timePeriod": "Divided Kingdom",
+      "era": "divided-monarchy",
+      "topics": ["unfaithfulness", "idolatry", "corrupt-priesthood", "judgment"],
+      "events": ["God brings charges against Israel for lack of knowledge and faithfulness"],
+      "keyVerses": [6, 17],
+      "crossReferences": [
+        {"book": "Isaiah", "chapter": 5, "label": "God's controversy with his people"},
+        {"book": "Jeremiah", "chapter": 2, "label": "Israel's spiritual adultery"}
+      ]
+    },
+    "5": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Israel", "Judah", "Mizpah", "Tabor", "Gibeah", "Ramah", "Beth-aven", "Assyria"],
+      "timePeriod": "Divided Kingdom",
+      "era": "divided-monarchy",
+      "topics": ["judgment", "pride", "false-alliances", "divine-withdrawal"],
+      "events": ["God warns priests and leaders of coming judgment", "Ephraim seeks help from Assyria instead of God"],
+      "keyVerses": [4, 15],
+      "crossReferences": [
+        {"book": "Isaiah", "chapter": 7, "label": "Judah and Ephraim in conflict"},
+        {"book": "2 Kings", "chapter": 15, "label": "Israel's alliance with Assyria"}
+      ]
+    },
+    "6": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Ephraim", "Judah", "Gilead"],
+      "timePeriod": "Divided Kingdom",
+      "era": "divided-monarchy",
+      "topics": ["repentance", "mercy", "covenant-loyalty", "superficial-devotion"],
+      "events": ["Call to return to the Lord", "God laments Israel's fleeting faithfulness"],
+      "keyVerses": [1, 6],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 9, "label": "I desire mercy not sacrifice"},
+        {"book": "1 Corinthians", "chapter": 15, "label": "Raised on the third day"}
+      ]
+    },
+    "7": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Israel", "Samaria", "Egypt", "Assyria"],
+      "timePeriod": "Divided Kingdom",
+      "era": "divided-monarchy",
+      "topics": ["corruption", "false-alliances", "hypocrisy", "judgment"],
+      "events": ["Israel's leaders conspire in wickedness", "Ephraim compared to a half-baked cake and a silly dove"],
+      "keyVerses": [8, 11],
+      "crossReferences": [
+        {"book": "Isaiah", "chapter": 31, "label": "Woe to those who go to Egypt for help"},
+        {"book": "Jeremiah", "chapter": 2, "label": "Israel turns to foreign nations instead of God"}
+      ]
+    },
+    "8": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Israel", "Samaria", "Assyria", "Egypt"],
+      "timePeriod": "Divided Kingdom",
+      "era": "divided-monarchy",
+      "topics": ["idolatry", "covenant-breaking", "judgment", "sowing-and-reaping"],
+      "events": ["Israel reaps the whirlwind for sowing the wind", "Condemnation of the golden calf of Samaria"],
+      "keyVerses": [7, 14],
+      "crossReferences": [
+        {"book": "Galatians", "chapter": 6, "label": "Sow to the flesh, reap corruption"},
+        {"book": "1 Kings", "chapter": 12, "label": "Jeroboam sets up golden calves"}
+      ]
+    },
+    "9": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Hosea", "role": "author"}
+      ],
+      "locations": ["Israel", "Egypt", "Memphis", "Gilgal", "Ephraim"],
+      "timePeriod": "Divided Kingdom",
+      "era": "divided-monarchy",
+      "topics": ["exile", "judgment", "barrenness", "idolatry"],
+      "events": ["Prophecy of Israel's exile to Egypt and Assyria", "Reference to the sin at Baal-Peor"],
+      "keyVerses": [7, 17],
+      "crossReferences": [
+        {"book": "Numbers", "chapter": 25, "label": "Israel's sin at Baal-Peor"},
+        {"book": "Judges", "chapter": 19, "label": "Days of Gibeah"}
+      ]
+    },
+    "10": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Israel", "Samaria", "Beth-aven", "Assyria", "Gibeah", "Gilgal", "Bethel"],
+      "timePeriod": "Divided Kingdom",
+      "era": "divided-monarchy",
+      "topics": ["idolatry", "judgment", "sowing-and-reaping", "repentance"],
+      "events": ["Israel's altars and images to be destroyed", "Call to sow righteousness and reap mercy"],
+      "keyVerses": [8, 12],
+      "crossReferences": [
+        {"book": "Luke", "chapter": 23, "label": "Say to the mountains, fall on us"},
+        {"book": "Revelation", "chapter": 6, "label": "Mountains fall on us to hide from wrath"}
+      ]
+    },
+    "11": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Egypt", "Assyria", "Admah", "Zeboiim"],
+      "timePeriod": "Divided Kingdom",
+      "era": "divided-monarchy",
+      "topics": ["divine-love", "parental-imagery", "judgment", "compassion"],
+      "events": ["God recalls Israel as his child called from Egypt", "God's internal struggle over punishing Ephraim"],
+      "keyVerses": [1, 8],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 2, "label": "Out of Egypt I called my son"},
+        {"book": "Jeremiah", "chapter": 31, "label": "God's love for Ephraim as a dear son"}
+      ]
+    },
+    "12": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Jacob", "role": "mentioned"},
+        {"name": "Moses", "role": "mentioned"}
+      ],
+      "locations": ["Assyria", "Egypt", "Bethel", "Gilead", "Gilgal", "Syria"],
+      "timePeriod": "Divided Kingdom",
+      "era": "divided-monarchy",
+      "topics": ["deceit", "false-alliances", "repentance", "historical-warning"],
+      "events": ["Recollection of Jacob wrestling with the angel", "Israel reminded of deliverance through Moses"],
+      "keyVerses": [3, 6],
+      "crossReferences": [
+        {"book": "Genesis", "chapter": 32, "label": "Jacob wrestles with the angel"},
+        {"book": "Genesis", "chapter": 25, "label": "Jacob takes his brother by the heel"}
+      ]
+    },
+    "13": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Israel", "Samaria", "Egypt"],
+      "timePeriod": "Divided Kingdom",
+      "era": "divided-monarchy",
+      "topics": ["idolatry", "judgment", "death", "redemption"],
+      "events": ["God declares himself Israel's only savior", "Promise to ransom from the grave and redeem from death"],
+      "keyVerses": [4, 14],
+      "crossReferences": [
+        {"book": "1 Corinthians", "chapter": 15, "label": "O death, where is thy sting? O grave, where is thy victory?"},
+        {"book": "1 Samuel", "chapter": 8, "label": "Israel demands a king"}
+      ]
+    },
+    "14": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Hosea", "role": "author"}
+      ],
+      "locations": ["Israel"],
+      "timePeriod": "Divided Kingdom",
+      "era": "divided-monarchy",
+      "topics": ["repentance", "restoration", "healing", "divine-love"],
+      "events": ["Call for Israel to return to the Lord", "God promises to heal their backsliding and love them freely"],
+      "keyVerses": [1, 4, 9],
+      "crossReferences": [
+        {"book": "Jeremiah", "chapter": 3, "label": "Return, backsliding Israel"},
+        {"book": "James", "chapter": 5, "label": "The wisdom of the righteous path"}
+      ]
+    }
+  }
+}

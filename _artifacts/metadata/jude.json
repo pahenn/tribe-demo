@@ -1,0 +1,36 @@
+{
+  "book": "Jude",
+  "bookSlug": "65.jude",
+  "testament": "2.new-testament",
+  "chapters": {
+    "1": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Jude", "role": "author"},
+        {"name": "James", "role": "mentioned"},
+        {"name": "Jesus", "role": "mentioned"},
+        {"name": "Michael", "role": "mentioned"},
+        {"name": "Moses", "role": "mentioned"},
+        {"name": "Cain", "role": "mentioned"},
+        {"name": "Balaam", "role": "mentioned"},
+        {"name": "Korah", "role": "mentioned"},
+        {"name": "Enoch", "role": "mentioned"},
+        {"name": "Adam", "role": "mentioned"}
+      ],
+      "locations": [
+        {"name": "Sodom", "type": "historical"},
+        {"name": "Gomorrah", "type": "historical"},
+        {"name": "Egypt", "type": "historical"}
+      ],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["contending-for-the-faith", "false-teachers", "judgment", "apostasy"],
+      "events": ["Warning against ungodly men who pervert grace", "Examples of judgment: Israel, fallen angels, Sodom", "Michael contending with the devil over Moses' body", "Enoch's prophecy of judgment", "Doxology"],
+      "keyVerses": [3, 20, 24],
+      "crossReferences": [
+        {"book": "2 Peter", "chapter": 2, "label": "Parallel warning against false teachers"},
+        {"book": "Genesis", "chapter": 5, "label": "Enoch walked with God"}
+      ]
+    }
+  }
+}

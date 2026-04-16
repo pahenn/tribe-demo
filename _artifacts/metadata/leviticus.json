@@ -1,0 +1,460 @@
+{
+  "book": "Leviticus",
+  "bookSlug": "03.leviticus",
+  "testament": "1.old-testament",
+  "chapters": {
+    "1": {
+      "genre": ["law"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Moses", "role": "recipient"}
+      ],
+      "locations": ["Sinai"],
+      "timePeriod": "At Sinai",
+      "era": "exodus",
+      "topics": ["burnt-offering", "sacrifice", "worship"],
+      "events": ["Laws for the burnt offering: from the herd, flock, and birds"],
+      "keyVerses": [2, 9],
+      "crossReferences": [
+        {"book": "Romans", "chapter": 12, "label": "Present your bodies a living sacrifice"},
+        {"book": "Hebrews", "chapter": 10, "label": "It is not possible that blood of bulls and goats could take away sins"}
+      ]
+    },
+    "2": {
+      "genre": ["law"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Moses", "role": "recipient"}
+      ],
+      "locations": ["Sinai"],
+      "timePeriod": "At Sinai",
+      "era": "exodus",
+      "topics": ["grain-offering", "sacrifice", "worship"],
+      "events": ["Laws for the grain offering"],
+      "keyVerses": [1, 13],
+      "crossReferences": [
+        {"book": "Leviticus", "chapter": 6, "label": "Further regulations for grain offerings"}
+      ]
+    },
+    "3": {
+      "genre": ["law"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Moses", "role": "recipient"}
+      ],
+      "locations": ["Sinai"],
+      "timePeriod": "At Sinai",
+      "era": "exodus",
+      "topics": ["peace-offering", "fellowship", "sacrifice"],
+      "events": ["Laws for the peace offering"],
+      "keyVerses": [1, 17],
+      "crossReferences": [
+        {"book": "Ephesians", "chapter": 2, "label": "He is our peace"}
+      ]
+    },
+    "4": {
+      "genre": ["law"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Moses", "role": "recipient"}
+      ],
+      "locations": ["Sinai"],
+      "timePeriod": "At Sinai",
+      "era": "exodus",
+      "topics": ["sin-offering", "atonement", "forgiveness"],
+      "events": ["Laws for the sin offering: for priests, the congregation, rulers, and common people"],
+      "keyVerses": [2, 20, 26],
+      "crossReferences": [
+        {"book": "Hebrews", "chapter": 9, "label": "Christ offered himself without spot to God"}
+      ]
+    },
+    "5": {
+      "genre": ["law"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Moses", "role": "recipient"}
+      ],
+      "locations": ["Sinai"],
+      "timePeriod": "At Sinai",
+      "era": "exodus",
+      "topics": ["trespass-offering", "guilt", "restitution"],
+      "events": ["Laws for the trespass offering and restitution"],
+      "keyVerses": [5, 16],
+      "crossReferences": [
+        {"book": "1 John", "chapter": 1, "label": "If we confess our sins he is faithful to forgive"}
+      ]
+    },
+    "6": {
+      "genre": ["law"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Moses", "role": "recipient"},
+        {"name": "Aaron", "role": "mentioned"}
+      ],
+      "locations": ["Sinai"],
+      "timePeriod": "At Sinai",
+      "era": "exodus",
+      "topics": ["sacrifice", "priesthood", "restitution"],
+      "events": ["Further regulations for burnt, grain, and sin offerings", "The perpetual fire on the altar"],
+      "keyVerses": [12, 13],
+      "crossReferences": [
+        {"book": "Hebrews", "chapter": 7, "label": "Christ as priest forever"}
+      ]
+    },
+    "7": {
+      "genre": ["law"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Moses", "role": "recipient"},
+        {"name": "Aaron", "role": "mentioned"}
+      ],
+      "locations": ["Sinai"],
+      "timePeriod": "At Sinai",
+      "era": "exodus",
+      "topics": ["trespass-offering", "peace-offering", "sacrifice"],
+      "events": ["Further regulations for trespass and peace offerings", "Prohibition against eating fat and blood"],
+      "keyVerses": [26, 37],
+      "crossReferences": [
+        {"book": "Acts", "chapter": 15, "label": "Abstain from blood"}
+      ]
+    },
+    "8": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Moses", "role": "protagonist"},
+        {"name": "Aaron", "role": "protagonist"}
+      ],
+      "locations": ["Sinai"],
+      "timePeriod": "At Sinai",
+      "era": "exodus",
+      "topics": ["consecration", "priesthood", "obedience"],
+      "events": ["Consecration of Aaron and his sons as priests"],
+      "keyVerses": [12, 36],
+      "crossReferences": [
+        {"book": "Hebrews", "chapter": 5, "label": "No one takes this honor upon himself but is called by God as Aaron was"}
+      ]
+    },
+    "9": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Moses", "role": "protagonist"},
+        {"name": "Aaron", "role": "protagonist"},
+        {"name": "God", "role": "protagonist"}
+      ],
+      "locations": ["Sinai"],
+      "timePeriod": "At Sinai",
+      "era": "exodus",
+      "topics": ["sacrifice", "glory-of-god", "priesthood"],
+      "events": ["Aaron offers first sacrifices", "The glory of the Lord appears", "Fire from the Lord consumes the offering"],
+      "keyVerses": [23, 24],
+      "crossReferences": [
+        {"book": "2 Chronicles", "chapter": 7, "label": "Fire came down from heaven and consumed the burnt offering"}
+      ]
+    },
+    "10": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "God", "role": "protagonist"},
+        {"name": "Aaron", "role": "protagonist"},
+        {"name": "Moses", "role": "protagonist"},
+        {"name": "Nadab", "role": "antagonist"},
+        {"name": "Abihu", "role": "antagonist"}
+      ],
+      "locations": ["Sinai"],
+      "timePeriod": "At Sinai",
+      "era": "exodus",
+      "topics": ["holiness", "judgment", "obedience"],
+      "events": ["Nadab and Abihu offer strange fire and are killed", "Regulations for priestly conduct"],
+      "keyVerses": [1, 2, 3],
+      "crossReferences": [
+        {"book": "Hebrews", "chapter": 12, "label": "Our God is a consuming fire"}
+      ]
+    },
+    "11": {
+      "genre": ["law"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Moses", "role": "recipient"},
+        {"name": "Aaron", "role": "recipient"}
+      ],
+      "locations": ["Sinai"],
+      "timePeriod": "At Sinai",
+      "era": "exodus",
+      "topics": ["clean-and-unclean", "dietary-laws", "holiness"],
+      "events": ["Laws distinguishing clean and unclean animals"],
+      "keyVerses": [44, 45],
+      "crossReferences": [
+        {"book": "Acts", "chapter": 10, "label": "What God has cleansed do not call common"},
+        {"book": "Mark", "chapter": 7, "label": "Jesus declared all foods clean"}
+      ]
+    },
+    "12": {
+      "genre": ["law"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Moses", "role": "recipient"}
+      ],
+      "locations": ["Sinai"],
+      "timePeriod": "At Sinai",
+      "era": "exodus",
+      "topics": ["purification", "childbirth", "sacrifice"],
+      "events": ["Laws of purification after childbirth"],
+      "keyVerses": [6, 8],
+      "crossReferences": [
+        {"book": "Luke", "chapter": 2, "label": "Mary's purification after the birth of Jesus"}
+      ]
+    },
+    "13": {
+      "genre": ["law"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Moses", "role": "recipient"},
+        {"name": "Aaron", "role": "recipient"}
+      ],
+      "locations": ["Sinai"],
+      "timePeriod": "At Sinai",
+      "era": "exodus",
+      "topics": ["leprosy", "clean-and-unclean", "diagnosis"],
+      "events": ["Laws for diagnosing leprosy and skin diseases"],
+      "keyVerses": [2, 46],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 8, "label": "Jesus heals a leper and sends him to the priest"}
+      ]
+    },
+    "14": {
+      "genre": ["law"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Moses", "role": "recipient"}
+      ],
+      "locations": ["Sinai"],
+      "timePeriod": "At Sinai",
+      "era": "exodus",
+      "topics": ["purification", "leprosy", "cleansing"],
+      "events": ["Laws for purification of a leper", "Laws for leprosy in houses"],
+      "keyVerses": [2, 4],
+      "crossReferences": [
+        {"book": "Mark", "chapter": 1, "label": "Go show yourself to the priest and offer for your cleansing"}
+      ]
+    },
+    "15": {
+      "genre": ["law"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Moses", "role": "recipient"},
+        {"name": "Aaron", "role": "recipient"}
+      ],
+      "locations": ["Sinai"],
+      "timePeriod": "At Sinai",
+      "era": "exodus",
+      "topics": ["clean-and-unclean", "purification", "bodily-discharges"],
+      "events": ["Laws concerning bodily discharges and purification"],
+      "keyVerses": [31],
+      "crossReferences": [
+        {"book": "Mark", "chapter": 5, "label": "Woman with the issue of blood"}
+      ]
+    },
+    "16": {
+      "genre": ["law"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Moses", "role": "recipient"},
+        {"name": "Aaron", "role": "protagonist"}
+      ],
+      "locations": ["Sinai"],
+      "timePeriod": "At Sinai",
+      "era": "exodus",
+      "topics": ["atonement", "scapegoat", "holiness", "day-of-atonement"],
+      "events": ["The Day of Atonement: Aaron enters the Most Holy Place", "The scapegoat sent into the wilderness"],
+      "keyVerses": [2, 10, 30, 34],
+      "crossReferences": [
+        {"book": "Hebrews", "chapter": 9, "label": "Christ entered the Most Holy Place once for all"},
+        {"book": "Hebrews", "chapter": 10, "label": "He is the propitiation for our sins"},
+        {"book": "Romans", "chapter": 3, "label": "God set forth Christ as a propitiation"}
+      ]
+    },
+    "17": {
+      "genre": ["law"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Moses", "role": "recipient"}
+      ],
+      "locations": ["Sinai"],
+      "timePeriod": "At Sinai",
+      "era": "exodus",
+      "topics": ["blood", "sacrifice", "life"],
+      "events": ["Laws concerning sacrifice and the sanctity of blood"],
+      "keyVerses": [11],
+      "crossReferences": [
+        {"book": "Hebrews", "chapter": 9, "label": "Without shedding of blood there is no remission"}
+      ]
+    },
+    "18": {
+      "genre": ["law"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Moses", "role": "recipient"}
+      ],
+      "locations": ["Sinai"],
+      "timePeriod": "At Sinai",
+      "era": "exodus",
+      "topics": ["sexual-morality", "holiness", "law"],
+      "events": ["Laws concerning unlawful sexual relations"],
+      "keyVerses": [4, 5],
+      "crossReferences": [
+        {"book": "1 Corinthians", "chapter": 5, "label": "Sexual immorality condemned"},
+        {"book": "Romans", "chapter": 1, "label": "God gave them over to dishonorable passions"}
+      ]
+    },
+    "19": {
+      "genre": ["law"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Moses", "role": "recipient"}
+      ],
+      "locations": ["Sinai"],
+      "timePeriod": "At Sinai",
+      "era": "exodus",
+      "topics": ["holiness", "love", "justice", "ethics"],
+      "events": ["Various laws on holiness: love your neighbor as yourself"],
+      "keyVerses": [2, 18],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 22, "label": "Love your neighbor as yourself"},
+        {"book": "James", "chapter": 2, "label": "If you fulfill the royal law: love your neighbor"},
+        {"book": "Galatians", "chapter": 5, "label": "The whole law is fulfilled in one word: love your neighbor"}
+      ]
+    },
+    "20": {
+      "genre": ["law"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Moses", "role": "recipient"}
+      ],
+      "locations": ["Sinai"],
+      "timePeriod": "At Sinai",
+      "era": "exodus",
+      "topics": ["holiness", "judgment", "separation"],
+      "events": ["Penalties for breaking the laws of chapters 18-19"],
+      "keyVerses": [7, 26],
+      "crossReferences": [
+        {"book": "1 Peter", "chapter": 1, "label": "Be holy for I am holy"}
+      ]
+    },
+    "21": {
+      "genre": ["law"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Moses", "role": "recipient"},
+        {"name": "Aaron", "role": "mentioned"}
+      ],
+      "locations": ["Sinai"],
+      "timePeriod": "At Sinai",
+      "era": "exodus",
+      "topics": ["priesthood", "holiness", "standards"],
+      "events": ["Regulations for priestly holiness and qualifications"],
+      "keyVerses": [6, 8],
+      "crossReferences": [
+        {"book": "Hebrews", "chapter": 7, "label": "A high priest holy, harmless, undefiled, separate from sinners"}
+      ]
+    },
+    "22": {
+      "genre": ["law"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Moses", "role": "recipient"},
+        {"name": "Aaron", "role": "mentioned"}
+      ],
+      "locations": ["Sinai"],
+      "timePeriod": "At Sinai",
+      "era": "exodus",
+      "topics": ["sacrifice", "holiness", "offerings"],
+      "events": ["Regulations for handling holy things and acceptable sacrifices"],
+      "keyVerses": [20, 32],
+      "crossReferences": [
+        {"book": "Malachi", "chapter": 1, "label": "You offer defiled food on my altar"}
+      ]
+    },
+    "23": {
+      "genre": ["law"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Moses", "role": "recipient"}
+      ],
+      "locations": ["Sinai"],
+      "timePeriod": "At Sinai",
+      "era": "exodus",
+      "topics": ["feasts", "sabbath", "worship", "calendar"],
+      "events": ["The appointed feasts: Sabbath, Passover, Firstfruits, Pentecost, Trumpets, Day of Atonement, Tabernacles"],
+      "keyVerses": [2, 5, 34],
+      "crossReferences": [
+        {"book": "Colossians", "chapter": 2, "label": "These are a shadow of things to come"},
+        {"book": "1 Corinthians", "chapter": 15, "label": "Christ the firstfruits"}
+      ]
+    },
+    "24": {
+      "genre": ["law", "narrative"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Moses", "role": "protagonist"}
+      ],
+      "locations": ["Sinai"],
+      "timePeriod": "At Sinai",
+      "era": "exodus",
+      "topics": ["lamp", "showbread", "blasphemy", "justice"],
+      "events": ["Oil for the lamp and showbread", "A blasphemer stoned", "Law of eye for eye"],
+      "keyVerses": [16, 20],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 5, "label": "You have heard it said eye for eye"}
+      ]
+    },
+    "25": {
+      "genre": ["law"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Moses", "role": "recipient"}
+      ],
+      "locations": ["Sinai"],
+      "timePeriod": "At Sinai",
+      "era": "exodus",
+      "topics": ["sabbath-year", "jubilee", "redemption", "rest"],
+      "events": ["The Sabbath year every seven years", "The Year of Jubilee every fifty years"],
+      "keyVerses": [10, 23, 55],
+      "crossReferences": [
+        {"book": "Luke", "chapter": 4, "label": "The acceptable year of the Lord"},
+        {"book": "Isaiah", "chapter": 61, "label": "Liberty to the captives"}
+      ]
+    },
+    "26": {
+      "genre": ["law"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Moses", "role": "recipient"}
+      ],
+      "locations": ["Sinai"],
+      "timePeriod": "At Sinai",
+      "era": "exodus",
+      "topics": ["blessing", "cursing", "obedience", "covenant"],
+      "events": ["Blessings for obedience", "Curses for disobedience", "Promise of restoration upon repentance"],
+      "keyVerses": [3, 12, 40],
+      "crossReferences": [
+        {"book": "Deuteronomy", "chapter": 28, "label": "Blessings and curses expanded"}
+      ]
+    },
+    "27": {
+      "genre": ["law"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Moses", "role": "recipient"}
+      ],
+      "locations": ["Sinai"],
+      "timePeriod": "At Sinai",
+      "era": "exodus",
+      "topics": ["vows", "dedication", "tithing"],
+      "events": ["Laws concerning vows, dedications, and tithes"],
+      "keyVerses": [30, 34],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 23, "label": "You tithe mint and dill and cumin"}
+      ]
+    }
+  }
+}

@@ -1,0 +1,902 @@
+{
+  "book": "Jeremiah",
+  "bookSlug": "24.jeremiah",
+  "testament": "1.old-testament",
+  "chapters": {
+    "1": {
+      "genre": ["prophecy", "narrative"],
+      "people": [
+        {"name": "Jeremiah", "role": "protagonist"},
+        {"name": "God", "role": "speaker"},
+        {"name": "Josiah", "role": "mentioned"},
+        {"name": "Hilkiah", "role": "mentioned"}
+      ],
+      "locations": ["Anathoth", "Benjamin", "Judah"],
+      "timePeriod": "13th year of Josiah (~627 BC)",
+      "era": "divided-monarchy",
+      "topics": ["calling", "prophecy", "judgment"],
+      "events": ["Jeremiah's call and commission", "Vision of the almond rod", "Vision of the boiling pot from the north"],
+      "keyVerses": [5, 9],
+      "crossReferences": [
+        {"book": "Psalm", "chapter": 139, "label": "Known before birth"},
+        {"book": "Galatians", "chapter": 1, "label": "Set apart from the womb"}
+      ]
+    },
+    "2": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "Jeremiah", "role": "speaker"},
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Jerusalem", "Egypt", "Assyria"],
+      "timePeriod": "Reign of Josiah",
+      "era": "divided-monarchy",
+      "topics": ["idolatry", "unfaithfulness", "judgment"],
+      "events": ["God's indictment of Israel's unfaithfulness", "Broken cisterns metaphor"],
+      "keyVerses": [13, 2],
+      "crossReferences": [
+        {"book": "Hosea", "chapter": 2, "label": "Israel's unfaithfulness as adultery"}
+      ]
+    },
+    "3": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Jeremiah", "role": "speaker"}
+      ],
+      "locations": ["Judah", "Israel"],
+      "timePeriod": "Reign of Josiah",
+      "era": "divided-monarchy",
+      "topics": ["unfaithfulness", "repentance", "restoration"],
+      "events": ["Backsliding Israel vs treacherous Judah", "Call to return"],
+      "keyVerses": [12, 22],
+      "crossReferences": [
+        {"book": "Hosea", "chapter": 14, "label": "Return to the Lord"}
+      ]
+    },
+    "4": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Jeremiah", "role": "speaker"}
+      ],
+      "locations": ["Judah", "Jerusalem", "Zion"],
+      "timePeriod": "Reign of Josiah",
+      "era": "divided-monarchy",
+      "topics": ["repentance", "judgment", "invasion"],
+      "events": ["Call to circumcise the heart", "Vision of coming invasion from the north"],
+      "keyVerses": [4, 23],
+      "crossReferences": [
+        {"book": "Deuteronomy", "chapter": 30, "label": "Circumcise your heart"},
+        {"book": "Romans", "chapter": 2, "label": "Circumcision of the heart"}
+      ]
+    },
+    "5": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Jeremiah", "role": "speaker"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "Reign of Josiah to Jehoiakim",
+      "era": "divided-monarchy",
+      "topics": ["judgment", "injustice", "unfaithfulness"],
+      "events": ["Search for one righteous person in Jerusalem", "Coming nation from afar"],
+      "keyVerses": [1, 21],
+      "crossReferences": [
+        {"book": "Genesis", "chapter": 18, "label": "Search for the righteous in Sodom"}
+      ]
+    },
+    "6": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Jeremiah", "role": "speaker"}
+      ],
+      "locations": ["Jerusalem", "Zion", "Benjamin", "Tekoa"],
+      "timePeriod": "Reign of Josiah to Jehoiakim",
+      "era": "divided-monarchy",
+      "topics": ["judgment", "invasion", "repentance"],
+      "events": ["Warning to flee Jerusalem", "Rejection of God's word"],
+      "keyVerses": [16, 14],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 11, "label": "Find rest for your souls"}
+      ]
+    },
+    "7": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "Jeremiah", "role": "speaker"},
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Jerusalem", "Shiloh"],
+      "timePeriod": "Beginning of Jehoiakim's reign",
+      "era": "divided-monarchy",
+      "topics": ["hypocrisy", "judgment", "false-security"],
+      "events": ["Temple sermon", "Den of robbers", "Warning from Shiloh's destruction"],
+      "keyVerses": [11, 23],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 21, "label": "Den of thieves"},
+        {"book": "Mark", "chapter": 11, "label": "House of prayer or den of robbers"}
+      ]
+    },
+    "8": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Jeremiah", "role": "speaker"}
+      ],
+      "locations": ["Jerusalem", "Judah", "Gilead"],
+      "timePeriod": "Reign of Jehoiakim",
+      "era": "divided-monarchy",
+      "topics": ["judgment", "stubbornness", "lamentation"],
+      "events": ["Harvest is past, summer ended", "Is there no balm in Gilead?"],
+      "keyVerses": [20, 22],
+      "crossReferences": [
+        {"book": "Genesis", "chapter": 37, "label": "Balm from Gilead"}
+      ]
+    },
+    "9": {
+      "genre": ["prophecy", "poetry"],
+      "people": [
+        {"name": "Jeremiah", "role": "speaker"},
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Judah", "Jerusalem"],
+      "timePeriod": "Reign of Jehoiakim",
+      "era": "divided-monarchy",
+      "topics": ["lamentation", "judgment", "boasting"],
+      "events": ["Jeremiah weeps for his people", "Glory only in knowing the Lord"],
+      "keyVerses": [1, 23, 24],
+      "crossReferences": [
+        {"book": "1 Corinthians", "chapter": 1, "label": "Let him who boasts boast in the Lord"}
+      ]
+    },
+    "10": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Jeremiah", "role": "speaker"}
+      ],
+      "locations": ["Israel"],
+      "timePeriod": "Reign of Jehoiakim",
+      "era": "divided-monarchy",
+      "topics": ["idolatry", "sovereignty", "judgment"],
+      "events": ["Futility of idols contrasted with the living God", "Coming scattering"],
+      "keyVerses": [10, 23],
+      "crossReferences": [
+        {"book": "Isaiah", "chapter": 44, "label": "Satire on idol-making"},
+        {"book": "Proverbs", "chapter": 16, "label": "Man's steps directed by the Lord"}
+      ]
+    },
+    "11": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "Jeremiah", "role": "protagonist"},
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Jerusalem", "Judah", "Anathoth"],
+      "timePeriod": "Reign of Josiah or Jehoiakim",
+      "era": "divided-monarchy",
+      "topics": ["covenant", "judgment", "persecution"],
+      "events": ["Broken covenant", "Plot against Jeremiah at Anathoth"],
+      "keyVerses": [3, 20],
+      "crossReferences": [
+        {"book": "Deuteronomy", "chapter": 27, "label": "Cursed who does not keep the law"}
+      ]
+    },
+    "12": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "Jeremiah", "role": "speaker"},
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Judah", "Jordan"],
+      "timePeriod": "Reign of Jehoiakim",
+      "era": "divided-monarchy",
+      "topics": ["justice", "suffering", "sovereignty"],
+      "events": ["Jeremiah questions why the wicked prosper", "God's response about greater trials"],
+      "keyVerses": [1, 5],
+      "crossReferences": [
+        {"book": "Psalm", "chapter": 73, "label": "Why do the wicked prosper"},
+        {"book": "Habakkuk", "chapter": 1, "label": "Questioning God's justice"}
+      ]
+    },
+    "13": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "Jeremiah", "role": "protagonist"},
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Euphrates", "Jerusalem", "Judah"],
+      "timePeriod": "Reign of Jehoiakim",
+      "era": "divided-monarchy",
+      "topics": ["pride", "judgment", "prophetic-sign"],
+      "events": ["Sign of the linen girdle", "Warning of exile"],
+      "keyVerses": [23, 11],
+      "crossReferences": [
+        {"book": "Ezekiel", "chapter": 4, "label": "Prophetic sign acts"}
+      ]
+    },
+    "14": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "Jeremiah", "role": "speaker"},
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Judah", "Jerusalem"],
+      "timePeriod": "Reign of Jehoiakim",
+      "era": "divided-monarchy",
+      "topics": ["drought", "false-prophets", "intercession"],
+      "events": ["Great drought", "God forbids Jeremiah to intercede", "False prophets condemned"],
+      "keyVerses": [9, 11],
+      "crossReferences": [
+        {"book": "Ezekiel", "chapter": 14, "label": "Even Noah, Daniel, Job could not save"}
+      ]
+    },
+    "15": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Jeremiah", "role": "speaker"},
+        {"name": "Moses", "role": "mentioned"},
+        {"name": "Samuel", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem", "Judah"],
+      "timePeriod": "Reign of Jehoiakim",
+      "era": "divided-monarchy",
+      "topics": ["judgment", "suffering", "calling"],
+      "events": ["Even Moses and Samuel cannot intercede", "Jeremiah's complaint and God's reassurance"],
+      "keyVerses": [16, 19],
+      "crossReferences": [
+        {"book": "Psalm", "chapter": 119, "label": "Thy words were found and I ate them"}
+      ]
+    },
+    "16": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "Jeremiah", "role": "protagonist"},
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Judah"],
+      "timePeriod": "Reign of Jehoiakim",
+      "era": "divided-monarchy",
+      "topics": ["judgment", "isolation", "restoration"],
+      "events": ["Jeremiah forbidden to marry", "Forbidden to mourn or feast", "Promise of future restoration"],
+      "keyVerses": [2, 14],
+      "crossReferences": [
+        {"book": "1 Corinthians", "chapter": 7, "label": "Called to singleness in crisis"}
+      ]
+    },
+    "17": {
+      "genre": ["prophecy", "poetry"],
+      "people": [
+        {"name": "Jeremiah", "role": "speaker"},
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Judah", "Jerusalem"],
+      "timePeriod": "Reign of Jehoiakim",
+      "era": "divided-monarchy",
+      "topics": ["sin", "trust", "sabbath"],
+      "events": ["Deceitful heart", "Blessed is the man who trusts the Lord", "Sabbath observance commanded"],
+      "keyVerses": [7, 9, 10],
+      "crossReferences": [
+        {"book": "Psalm", "chapter": 1, "label": "Tree planted by waters"},
+        {"book": "Hebrews", "chapter": 4, "label": "Word discerns thoughts and intents"}
+      ]
+    },
+    "18": {
+      "genre": ["prophecy", "narrative"],
+      "people": [
+        {"name": "Jeremiah", "role": "protagonist"},
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "Reign of Jehoiakim",
+      "era": "divided-monarchy",
+      "topics": ["sovereignty", "repentance", "persecution"],
+      "events": ["Potter and clay parable", "Plot against Jeremiah"],
+      "keyVerses": [6, 4],
+      "crossReferences": [
+        {"book": "Romans", "chapter": 9, "label": "Potter and clay"},
+        {"book": "Isaiah", "chapter": 64, "label": "We are the clay"}
+      ]
+    },
+    "19": {
+      "genre": ["prophecy", "narrative"],
+      "people": [
+        {"name": "Jeremiah", "role": "protagonist"},
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Jerusalem", "Hinnom"],
+      "timePeriod": "Reign of Jehoiakim",
+      "era": "divided-monarchy",
+      "topics": ["judgment", "prophetic-sign", "idolatry"],
+      "events": ["Breaking the potter's vessel", "Judgment on Topheth and Hinnom"],
+      "keyVerses": [10, 11],
+      "crossReferences": [
+        {"book": "2 Kings", "chapter": 23, "label": "Josiah defiles Topheth"}
+      ]
+    },
+    "20": {
+      "genre": ["prophecy", "narrative"],
+      "people": [
+        {"name": "Jeremiah", "role": "protagonist"},
+        {"name": "Pashur", "role": "antagonist"},
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "Reign of Jehoiakim",
+      "era": "divided-monarchy",
+      "topics": ["persecution", "suffering", "lament"],
+      "events": ["Pashur strikes Jeremiah", "Jeremiah's lament and despair"],
+      "keyVerses": [9, 11],
+      "crossReferences": [
+        {"book": "Job", "chapter": 3, "label": "Cursing the day of birth"}
+      ]
+    },
+    "21": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "Jeremiah", "role": "speaker"},
+        {"name": "Zedekiah", "role": "protagonist"},
+        {"name": "God", "role": "speaker"},
+        {"name": "Nebuchadnezzar", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem", "Judah"],
+      "timePeriod": "Reign of Zedekiah (~588 BC)",
+      "era": "divided-monarchy",
+      "topics": ["judgment", "siege", "surrender"],
+      "events": ["Zedekiah inquires of Jeremiah", "God fights against Jerusalem"],
+      "keyVerses": [8, 10],
+      "crossReferences": [
+        {"book": "Deuteronomy", "chapter": 30, "label": "Life and death set before you"}
+      ]
+    },
+    "22": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "Jeremiah", "role": "speaker"},
+        {"name": "God", "role": "speaker"},
+        {"name": "Josiah", "role": "mentioned"},
+        {"name": "Jehoahaz", "role": "mentioned"},
+        {"name": "Jehoiakim", "role": "mentioned"},
+        {"name": "Coniah", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem", "Judah"],
+      "timePeriod": "Reign of Jehoiakim to Zedekiah",
+      "era": "divided-monarchy",
+      "topics": ["justice", "judgment", "kingship"],
+      "events": ["Judgment on the house of David", "Woe to Jehoiakim", "Rejection of Coniah"],
+      "keyVerses": [3, 29],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 1, "label": "Curse on Coniah's line"}
+      ]
+    },
+    "23": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Jeremiah", "role": "speaker"}
+      ],
+      "locations": ["Judah", "Jerusalem"],
+      "timePeriod": "Reign of Zedekiah",
+      "era": "divided-monarchy",
+      "topics": ["false-prophets", "messianic-prophecy", "leadership"],
+      "events": ["Woe to false shepherds", "The Righteous Branch", "False prophets condemned"],
+      "keyVerses": [5, 6, 29],
+      "crossReferences": [
+        {"book": "Isaiah", "chapter": 4, "label": "The Branch of the Lord"},
+        {"book": "John", "chapter": 10, "label": "The Good Shepherd"}
+      ]
+    },
+    "24": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "Jeremiah", "role": "protagonist"},
+        {"name": "God", "role": "speaker"},
+        {"name": "Jeconiah", "role": "mentioned"},
+        {"name": "Nebuchadnezzar", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem", "Babylon"],
+      "timePeriod": "After first deportation (~597 BC)",
+      "era": "divided-monarchy",
+      "topics": ["judgment", "exile", "restoration"],
+      "events": ["Vision of two baskets of figs"],
+      "keyVerses": [7, 5],
+      "crossReferences": [
+        {"book": "Ezekiel", "chapter": 11, "label": "New heart for the exiles"}
+      ]
+    },
+    "25": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "Jeremiah", "role": "speaker"},
+        {"name": "God", "role": "speaker"},
+        {"name": "Nebuchadnezzar", "role": "mentioned"}
+      ],
+      "locations": ["Judah", "Jerusalem", "Babylon"],
+      "timePeriod": "4th year of Jehoiakim (~605 BC)",
+      "era": "divided-monarchy",
+      "topics": ["judgment", "exile", "nations"],
+      "events": ["Seventy years captivity foretold", "Cup of God's wrath to the nations"],
+      "keyVerses": [11, 15],
+      "crossReferences": [
+        {"book": "Daniel", "chapter": 9, "label": "Seventy years prophecy"},
+        {"book": "Revelation", "chapter": 14, "label": "Cup of wrath"}
+      ]
+    },
+    "26": {
+      "genre": ["narrative", "prophecy"],
+      "people": [
+        {"name": "Jeremiah", "role": "protagonist"},
+        {"name": "God", "role": "speaker"},
+        {"name": "Jehoiakim", "role": "mentioned"},
+        {"name": "Micah", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "Beginning of Jehoiakim's reign",
+      "era": "divided-monarchy",
+      "topics": ["persecution", "courage", "repentance"],
+      "events": ["Jeremiah's temple sermon and trial", "Officials defend Jeremiah"],
+      "keyVerses": [2, 13],
+      "crossReferences": [
+        {"book": "Acts", "chapter": 5, "label": "Apostles tried before the Sanhedrin"}
+      ]
+    },
+    "27": {
+      "genre": ["prophecy", "narrative"],
+      "people": [
+        {"name": "Jeremiah", "role": "protagonist"},
+        {"name": "God", "role": "speaker"},
+        {"name": "Nebuchadnezzar", "role": "mentioned"},
+        {"name": "Zedekiah", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem", "Edom", "Moab", "Ammon", "Tyre", "Sidon", "Babylon"],
+      "timePeriod": "Reign of Zedekiah",
+      "era": "divided-monarchy",
+      "topics": ["sovereignty", "submission", "false-prophets"],
+      "events": ["Yoke bonds as prophetic sign", "Submit to Babylon or perish"],
+      "keyVerses": [5, 6],
+      "crossReferences": [
+        {"book": "Daniel", "chapter": 2, "label": "God gives kingdoms to whom He wills"}
+      ]
+    },
+    "28": {
+      "genre": ["narrative", "prophecy"],
+      "people": [
+        {"name": "Jeremiah", "role": "protagonist"},
+        {"name": "Hananiah", "role": "antagonist"},
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Jerusalem", "Gibeon"],
+      "timePeriod": "4th year of Zedekiah",
+      "era": "divided-monarchy",
+      "topics": ["false-prophets", "judgment", "truth"],
+      "events": ["Hananiah breaks Jeremiah's yoke", "Hananiah's death foretold"],
+      "keyVerses": [9, 15],
+      "crossReferences": [
+        {"book": "Deuteronomy", "chapter": 18, "label": "Test of a true prophet"}
+      ]
+    },
+    "29": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "Jeremiah", "role": "author"},
+        {"name": "God", "role": "speaker"},
+        {"name": "Nebuchadnezzar", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem", "Babylon"],
+      "timePeriod": "After first deportation (~597 BC)",
+      "era": "exile",
+      "topics": ["exile", "hope", "restoration"],
+      "events": ["Letter to the exiles in Babylon", "Plans to prosper you"],
+      "keyVerses": [11, 13],
+      "crossReferences": [
+        {"book": "Ezra", "chapter": 1, "label": "End of seventy years"},
+        {"book": "Romans", "chapter": 8, "label": "God's plans for good"}
+      ]
+    },
+    "30": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Jeremiah", "role": "author"}
+      ],
+      "locations": ["Israel", "Judah"],
+      "timePeriod": "Reign of Zedekiah",
+      "era": "divided-monarchy",
+      "topics": ["restoration", "new-covenant", "salvation"],
+      "events": ["Book of consolation begins", "Promise of return from captivity", "David's king raised up"],
+      "keyVerses": [9, 17],
+      "crossReferences": [
+        {"book": "Hosea", "chapter": 3, "label": "David their king in latter days"}
+      ]
+    },
+    "31": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Jeremiah", "role": "author"},
+        {"name": "Rachel", "role": "mentioned"}
+      ],
+      "locations": ["Israel", "Judah", "Ramah", "Zion"],
+      "timePeriod": "Reign of Zedekiah",
+      "era": "divided-monarchy",
+      "topics": ["new-covenant", "restoration", "love"],
+      "events": ["Everlasting love", "Rachel weeping for her children", "New covenant prophecy"],
+      "keyVerses": [3, 31, 33],
+      "crossReferences": [
+        {"book": "Hebrews", "chapter": 8, "label": "New covenant"},
+        {"book": "Matthew", "chapter": 2, "label": "Rachel weeping fulfilled"},
+        {"book": "Luke", "chapter": 22, "label": "New covenant in my blood"}
+      ]
+    },
+    "32": {
+      "genre": ["narrative", "prophecy"],
+      "people": [
+        {"name": "Jeremiah", "role": "protagonist"},
+        {"name": "God", "role": "speaker"},
+        {"name": "Zedekiah", "role": "mentioned"},
+        {"name": "Baruch", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem", "Anathoth"],
+      "timePeriod": "10th year of Zedekiah (~587 BC)",
+      "era": "divided-monarchy",
+      "topics": ["faith", "restoration", "sovereignty"],
+      "events": ["Jeremiah buys a field during the siege", "Nothing too hard for God"],
+      "keyVerses": [17, 27],
+      "crossReferences": [
+        {"book": "Luke", "chapter": 1, "label": "Nothing is impossible with God"}
+      ]
+    },
+    "33": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "Jeremiah", "role": "protagonist"},
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Jerusalem", "Judah"],
+      "timePeriod": "During siege of Jerusalem",
+      "era": "divided-monarchy",
+      "topics": ["restoration", "messianic-prophecy", "faithfulness"],
+      "events": ["Call to me and I will answer", "Branch of righteousness", "Davidic covenant reaffirmed"],
+      "keyVerses": [3, 15],
+      "crossReferences": [
+        {"book": "Luke", "chapter": 1, "label": "Horn of salvation from David"},
+        {"book": "Isaiah", "chapter": 11, "label": "Branch of righteousness"}
+      ]
+    },
+    "34": {
+      "genre": ["narrative", "prophecy"],
+      "people": [
+        {"name": "Jeremiah", "role": "speaker"},
+        {"name": "Zedekiah", "role": "protagonist"},
+        {"name": "God", "role": "speaker"},
+        {"name": "Nebuchadnezzar", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "During siege of Jerusalem",
+      "era": "divided-monarchy",
+      "topics": ["covenant", "justice", "judgment"],
+      "events": ["Warning to Zedekiah", "Broken covenant of slave release"],
+      "keyVerses": [17, 2],
+      "crossReferences": [
+        {"book": "Exodus", "chapter": 21, "label": "Laws on Hebrew servants"}
+      ]
+    },
+    "35": {
+      "genre": ["narrative", "prophecy"],
+      "people": [
+        {"name": "Jeremiah", "role": "protagonist"},
+        {"name": "God", "role": "speaker"},
+        {"name": "Jaazaniah", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "Reign of Jehoiakim",
+      "era": "divided-monarchy",
+      "topics": ["obedience", "faithfulness", "contrast"],
+      "events": ["Rechabites' obedience contrasted with Judah's disobedience"],
+      "keyVerses": [13, 19],
+      "crossReferences": [
+        {"book": "2 Kings", "chapter": 10, "label": "Jehonadab the Rechabite"}
+      ]
+    },
+    "36": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Jeremiah", "role": "protagonist"},
+        {"name": "Baruch", "role": "protagonist"},
+        {"name": "Jehoiakim", "role": "antagonist"},
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "4th year of Jehoiakim (~605 BC)",
+      "era": "divided-monarchy",
+      "topics": ["word-of-god", "rejection", "courage"],
+      "events": ["Scroll dictated to Baruch", "Jehoiakim burns the scroll", "Scroll rewritten"],
+      "keyVerses": [23, 32],
+      "crossReferences": [
+        {"book": "2 Timothy", "chapter": 3, "label": "Scripture is inspired and endures"}
+      ]
+    },
+    "37": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Jeremiah", "role": "protagonist"},
+        {"name": "Zedekiah", "role": "protagonist"},
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "Reign of Zedekiah",
+      "era": "divided-monarchy",
+      "topics": ["persecution", "faith", "siege"],
+      "events": ["Jeremiah imprisoned as traitor", "Zedekiah secretly consults Jeremiah"],
+      "keyVerses": [17, 3],
+      "crossReferences": [
+        {"book": "Acts", "chapter": 16, "label": "Imprisonment for faithfulness"}
+      ]
+    },
+    "38": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Jeremiah", "role": "protagonist"},
+        {"name": "Zedekiah", "role": "protagonist"},
+        {"name": "Ebedmelech", "role": "protagonist"},
+        {"name": "Shephatiah", "role": "antagonist"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "Reign of Zedekiah during siege",
+      "era": "divided-monarchy",
+      "topics": ["persecution", "rescue", "courage"],
+      "events": ["Jeremiah thrown into the cistern", "Ebedmelech rescues Jeremiah", "Zedekiah's secret interview"],
+      "keyVerses": [6, 17],
+      "crossReferences": [
+        {"book": "Psalm", "chapter": 69, "label": "Mire where there is no standing"}
+      ]
+    },
+    "39": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Zedekiah", "role": "protagonist"},
+        {"name": "Nebuchadnezzar", "role": "antagonist"},
+        {"name": "Jeremiah", "role": "mentioned"},
+        {"name": "Ebedmelech", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem", "Babylon", "Riblah"],
+      "timePeriod": "Fall of Jerusalem (586 BC)",
+      "era": "exile",
+      "topics": ["judgment", "fall-of-jerusalem", "mercy"],
+      "events": ["Fall of Jerusalem", "Zedekiah captured and blinded", "Jeremiah released"],
+      "keyVerses": [2, 18],
+      "crossReferences": [
+        {"book": "2 Kings", "chapter": 25, "label": "Parallel account of Jerusalem's fall"},
+        {"book": "Lamentations", "chapter": 1, "label": "Mourning over Jerusalem's fall"}
+      ]
+    },
+    "40": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Jeremiah", "role": "protagonist"},
+        {"name": "Gedaliah", "role": "protagonist"},
+        {"name": "Nebuzaradan", "role": "mentioned"},
+        {"name": "Ishmael", "role": "mentioned"}
+      ],
+      "locations": ["Ramah", "Mizpah", "Judah"],
+      "timePeriod": "After fall of Jerusalem (586 BC)",
+      "era": "exile",
+      "topics": ["aftermath", "governance", "warning"],
+      "events": ["Jeremiah freed by Nebuzaradan", "Gedaliah appointed governor", "Warning of assassination plot"],
+      "keyVerses": [4, 9],
+      "crossReferences": [
+        {"book": "2 Kings", "chapter": 25, "label": "Gedaliah appointed governor"}
+      ]
+    },
+    "41": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Ishmael", "role": "antagonist"},
+        {"name": "Gedaliah", "role": "protagonist"},
+        {"name": "Johanan", "role": "protagonist"}
+      ],
+      "locations": ["Mizpah", "Gibeon"],
+      "timePeriod": "After fall of Jerusalem (586 BC)",
+      "era": "exile",
+      "topics": ["murder", "treachery", "chaos"],
+      "events": ["Assassination of Gedaliah", "Ishmael's massacre", "Johanan rescues captives"],
+      "keyVerses": [2, 10],
+      "crossReferences": [
+        {"book": "2 Kings", "chapter": 25, "label": "Murder of Gedaliah"}
+      ]
+    },
+    "42": {
+      "genre": ["narrative", "prophecy"],
+      "people": [
+        {"name": "Jeremiah", "role": "speaker"},
+        {"name": "Johanan", "role": "protagonist"},
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Judah", "Egypt"],
+      "timePeriod": "After Gedaliah's assassination",
+      "era": "exile",
+      "topics": ["obedience", "guidance", "fear"],
+      "events": ["Remnant asks Jeremiah to pray", "God warns not to go to Egypt"],
+      "keyVerses": [10, 6],
+      "crossReferences": [
+        {"book": "Proverbs", "chapter": 3, "label": "Trust in the Lord with all your heart"}
+      ]
+    },
+    "43": {
+      "genre": ["narrative", "prophecy"],
+      "people": [
+        {"name": "Jeremiah", "role": "protagonist"},
+        {"name": "Johanan", "role": "protagonist"},
+        {"name": "Baruch", "role": "mentioned"},
+        {"name": "Azariah", "role": "antagonist"}
+      ],
+      "locations": ["Egypt", "Tahpanhes"],
+      "timePeriod": "After Gedaliah's assassination",
+      "era": "exile",
+      "topics": ["disobedience", "judgment", "rebellion"],
+      "events": ["Remnant flees to Egypt against God's command", "Jeremiah's stones prophecy at Tahpanhes"],
+      "keyVerses": [2, 10],
+      "crossReferences": [
+        {"book": "Deuteronomy", "chapter": 17, "label": "Do not return to Egypt"}
+      ]
+    },
+    "44": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "Jeremiah", "role": "speaker"},
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Egypt", "Migdol", "Tahpanhes", "Noph", "Pathros"],
+      "timePeriod": "In Egypt after the fall",
+      "era": "exile",
+      "topics": ["idolatry", "judgment", "stubbornness"],
+      "events": ["Jews in Egypt worship Queen of Heaven", "Final warning and judgment"],
+      "keyVerses": [17, 26],
+      "crossReferences": [
+        {"book": "Jeremiah", "chapter": 7, "label": "Queen of heaven worship condemned"}
+      ]
+    },
+    "45": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "Jeremiah", "role": "speaker"},
+        {"name": "Baruch", "role": "recipient"},
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "4th year of Jehoiakim",
+      "era": "divided-monarchy",
+      "topics": ["encouragement", "suffering", "faithfulness"],
+      "events": ["Message of comfort to Baruch"],
+      "keyVerses": [5],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 16, "label": "Seek not great things for yourself"}
+      ]
+    },
+    "46": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "Jeremiah", "role": "author"},
+        {"name": "God", "role": "speaker"},
+        {"name": "Pharaoh Necho", "role": "mentioned"},
+        {"name": "Nebuchadnezzar", "role": "mentioned"}
+      ],
+      "locations": ["Egypt", "Carchemish", "Euphrates"],
+      "timePeriod": "4th year of Jehoiakim (~605 BC)",
+      "era": "divided-monarchy",
+      "topics": ["judgment", "nations"],
+      "events": ["Prophecy against Egypt", "Battle of Carchemish foretold"],
+      "keyVerses": [10, 27],
+      "crossReferences": [
+        {"book": "Isaiah", "chapter": 19, "label": "Burden against Egypt"},
+        {"book": "Ezekiel", "chapter": 29, "label": "Prophecy against Egypt"}
+      ]
+    },
+    "47": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Jeremiah", "role": "author"}
+      ],
+      "locations": ["Philistia", "Gaza", "Tyre", "Sidon"],
+      "timePeriod": "Before Pharaoh struck Gaza",
+      "era": "divided-monarchy",
+      "topics": ["judgment", "nations"],
+      "events": ["Prophecy against the Philistines"],
+      "keyVerses": [2, 4],
+      "crossReferences": [
+        {"book": "Ezekiel", "chapter": 25, "label": "Judgment on the Philistines"}
+      ]
+    },
+    "48": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Jeremiah", "role": "author"}
+      ],
+      "locations": ["Moab", "Nebo", "Heshbon", "Horonaim", "Dibon"],
+      "timePeriod": "Reign of Jehoiakim to Zedekiah",
+      "era": "divided-monarchy",
+      "topics": ["judgment", "pride", "nations"],
+      "events": ["Extensive prophecy against Moab"],
+      "keyVerses": [10, 29],
+      "crossReferences": [
+        {"book": "Isaiah", "chapter": 15, "label": "Burden against Moab"}
+      ]
+    },
+    "49": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Jeremiah", "role": "author"}
+      ],
+      "locations": ["Ammon", "Rabbah", "Edom", "Bozrah", "Damascus", "Kedar", "Hazor", "Elam"],
+      "timePeriod": "Reign of Jehoiakim to Zedekiah",
+      "era": "divided-monarchy",
+      "topics": ["judgment", "nations"],
+      "events": ["Prophecies against Ammon, Edom, Damascus, Kedar, Hazor, and Elam"],
+      "keyVerses": [11, 16],
+      "crossReferences": [
+        {"book": "Obadiah", "chapter": 1, "label": "Judgment on Edom"},
+        {"book": "Amos", "chapter": 1, "label": "Judgment on the nations"}
+      ]
+    },
+    "50": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Jeremiah", "role": "author"}
+      ],
+      "locations": ["Babylon"],
+      "timePeriod": "Reign of Zedekiah",
+      "era": "divided-monarchy",
+      "topics": ["judgment", "restoration", "nations"],
+      "events": ["Fall of Babylon prophesied", "Bel and Merodach broken", "Israel's return"],
+      "keyVerses": [2, 20],
+      "crossReferences": [
+        {"book": "Revelation", "chapter": 18, "label": "Fall of Babylon"},
+        {"book": "Isaiah", "chapter": 13, "label": "Burden against Babylon"}
+      ]
+    },
+    "51": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Jeremiah", "role": "author"},
+        {"name": "Seraiah", "role": "mentioned"}
+      ],
+      "locations": ["Babylon", "Zion", "Israel"],
+      "timePeriod": "Reign of Zedekiah",
+      "era": "divided-monarchy",
+      "topics": ["judgment", "vengeance", "nations"],
+      "events": ["Continued prophecy against Babylon", "Scroll thrown into Euphrates"],
+      "keyVerses": [6, 15, 45],
+      "crossReferences": [
+        {"book": "Revelation", "chapter": 18, "label": "Millstone cast into the sea"}
+      ]
+    },
+    "52": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Zedekiah", "role": "protagonist"},
+        {"name": "Nebuchadnezzar", "role": "antagonist"},
+        {"name": "Nebuzaradan", "role": "mentioned"},
+        {"name": "Jehoiachin", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem", "Babylon", "Riblah"],
+      "timePeriod": "Fall of Jerusalem (586 BC) to exile",
+      "era": "exile",
+      "topics": ["fall-of-jerusalem", "exile", "judgment"],
+      "events": ["Fall and destruction of Jerusalem", "Temple destroyed", "Jehoiachin released from prison"],
+      "keyVerses": [12, 31],
+      "crossReferences": [
+        {"book": "2 Kings", "chapter": 25, "label": "Parallel account of Jerusalem's fall"},
+        {"book": "Lamentations", "chapter": 2, "label": "Destruction of the temple"}
+      ]
+    }
+  }
+}

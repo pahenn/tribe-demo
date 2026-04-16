@@ -1,0 +1,60 @@
+{
+  "book": "2 Thessalonians",
+  "bookSlug": "53.2-thessalonians",
+  "testament": "2.new-testament",
+  "chapters": {
+    "1": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Paul", "role": "author"},
+        {"name": "Silvanus", "role": "co-sender"},
+        {"name": "Timothy", "role": "co-sender"},
+        {"name": "Jesus Christ", "role": "mentioned"}
+      ],
+      "locations": ["Thessalonica"],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["persecution", "judgment", "second-coming", "faith"],
+      "events": [],
+      "keyVerses": [7, 9, 10],
+      "crossReferences": [
+        {"book": "1 Thessalonians", "chapter": 1, "label": "Commendation of the Thessalonians' faith"},
+        {"book": "Matthew", "chapter": 25, "label": "The Lord revealed from heaven in judgment"}
+      ]
+    },
+    "2": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Paul", "role": "author"},
+        {"name": "Jesus Christ", "role": "mentioned"},
+        {"name": "Satan", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["man-of-sin", "apostasy", "day-of-the-lord", "election"],
+      "events": ["Paul describes the man of sin who must be revealed before Christ's return"],
+      "keyVerses": [3, 4, 15],
+      "crossReferences": [
+        {"book": "Daniel", "chapter": 11, "label": "The king who exalts himself above every god"},
+        {"book": "1 John", "chapter": 2, "label": "The spirit of antichrist"}
+      ]
+    },
+    "3": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Paul", "role": "author"}
+      ],
+      "locations": ["Thessalonica"],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["work-ethic", "discipline", "prayer", "idleness"],
+      "events": [],
+      "keyVerses": [3, 10, 13],
+      "crossReferences": [
+        {"book": "1 Thessalonians", "chapter": 4, "label": "Work with your own hands"},
+        {"book": "Galatians", "chapter": 6, "label": "Be not weary in well doing"}
+      ]
+    }
+  }
+}

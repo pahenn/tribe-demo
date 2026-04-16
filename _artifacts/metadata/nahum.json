@@ -1,0 +1,56 @@
+{
+  "book": "Nahum",
+  "bookSlug": "34.nahum",
+  "testament": "1.old-testament",
+  "chapters": {
+    "1": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "Nahum", "role": "author"},
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Nineveh", "Bashan", "Carmel", "Lebanon", "Judah"],
+      "timePeriod": "Divided Kingdom",
+      "era": "divided-monarchy",
+      "topics": ["divine-vengeance", "sovereignty", "judgment", "good-tidings"],
+      "events": ["Declaration of God's jealousy and vengeance against Nineveh", "Promise of deliverance for Judah"],
+      "keyVerses": [3, 7, 15],
+      "crossReferences": [
+        {"book": "Isaiah", "chapter": 52, "label": "Beautiful feet of him who brings good tidings"},
+        {"book": "Romans", "chapter": 10, "label": "How beautiful the feet of those who preach good news"}
+      ]
+    },
+    "2": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Nineveh"],
+      "timePeriod": "Divided Kingdom",
+      "era": "divided-monarchy",
+      "topics": ["siege", "destruction", "divine-judgment", "military-defeat"],
+      "events": ["Vivid description of the siege and fall of Nineveh", "Nineveh's wealth plundered"],
+      "keyVerses": [8, 13],
+      "crossReferences": [
+        {"book": "Zephaniah", "chapter": 2, "label": "Nineveh will be made desolate"},
+        {"book": "Jonah", "chapter": 3, "label": "Nineveh's earlier repentance contrasted"}
+      ]
+    },
+    "3": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Nineveh", "No-Amon (Thebes)", "Egypt", "Ethiopia", "Assyria"],
+      "timePeriod": "Divided Kingdom",
+      "era": "divided-monarchy",
+      "topics": ["woe", "bloodshed", "irreversible-judgment", "cruelty"],
+      "events": ["Woe pronounced on the bloody city", "Comparison to the fall of Thebes", "Nineveh's wound declared incurable"],
+      "keyVerses": [1, 5, 19],
+      "crossReferences": [
+        {"book": "Revelation", "chapter": 18, "label": "Fall of Babylon the great parallels Nineveh"},
+        {"book": "Isaiah", "chapter": 10, "label": "Woe to Assyria, the rod of God's anger"}
+      ]
+    }
+  }
+}

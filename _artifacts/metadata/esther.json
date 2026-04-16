@@ -1,0 +1,173 @@
+{
+  "book": "Esther",
+  "bookSlug": "17.esther",
+  "testament": "1.old-testament",
+  "chapters": {
+    "1": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Ahasuerus", "role": "protagonist"},
+        {"name": "Vashti", "role": "mentioned"}
+      ],
+      "locations": ["Shushan"],
+      "timePeriod": "Persian Period",
+      "era": "post-exile",
+      "topics": ["royalty", "banquet", "pride", "defiance"],
+      "events": ["King Ahasuerus holds grand feast", "Queen Vashti refuses to appear", "Vashti deposed"],
+      "keyVerses": [12, 19],
+      "crossReferences": [
+        {"book": "Ezra", "chapter": 4, "label": "Ahasuerus (Xerxes) also mentioned in Ezra"}
+      ]
+    },
+    "2": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Esther", "role": "protagonist"},
+        {"name": "Mordecai", "role": "protagonist"},
+        {"name": "Ahasuerus", "role": "mentioned"}
+      ],
+      "locations": ["Shushan"],
+      "timePeriod": "Persian Period",
+      "era": "post-exile",
+      "topics": ["providence", "beauty", "secrecy", "loyalty"],
+      "events": ["Search for a new queen", "Esther chosen as queen", "Mordecai uncovers assassination plot"],
+      "keyVerses": [17, 22],
+      "crossReferences": [
+        {"book": "Genesis", "chapter": 50, "label": "God uses hidden providence for deliverance"}
+      ]
+    },
+    "3": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Haman", "role": "antagonist"},
+        {"name": "Mordecai", "role": "protagonist"},
+        {"name": "Ahasuerus", "role": "mentioned"}
+      ],
+      "locations": ["Shushan"],
+      "timePeriod": "Persian Period",
+      "era": "post-exile",
+      "topics": ["pride", "hatred", "genocide", "evil"],
+      "events": ["Haman promoted", "Mordecai refuses to bow", "Haman plots to destroy all Jews", "Decree to annihilate the Jews issued"],
+      "keyVerses": [2, 6, 13],
+      "crossReferences": [
+        {"book": "1 Samuel", "chapter": 15, "label": "Haman the Agagite connects to Saul's enemy Agag"}
+      ]
+    },
+    "4": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Mordecai", "role": "protagonist"},
+        {"name": "Esther", "role": "protagonist"}
+      ],
+      "locations": ["Shushan"],
+      "timePeriod": "Persian Period",
+      "era": "post-exile",
+      "topics": ["courage", "purpose", "fasting", "destiny"],
+      "events": ["Mordecai mourns and urges Esther to act", "Esther resolves to approach the king uninvited"],
+      "keyVerses": [14, 16],
+      "crossReferences": [
+        {"book": "Psalms", "chapter": 46, "label": "God is a refuge in times of trouble"}
+      ]
+    },
+    "5": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Esther", "role": "protagonist"},
+        {"name": "Ahasuerus", "role": "mentioned"},
+        {"name": "Haman", "role": "antagonist"}
+      ],
+      "locations": ["Shushan"],
+      "timePeriod": "Persian Period",
+      "era": "post-exile",
+      "topics": ["courage", "patience", "strategy", "pride"],
+      "events": ["Esther approaches the king and is received", "Esther's first banquet", "Haman builds gallows for Mordecai"],
+      "keyVerses": [2, 8, 14],
+      "crossReferences": [
+        {"book": "Proverbs", "chapter": 16, "label": "Pride goes before destruction"}
+      ]
+    },
+    "6": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Ahasuerus", "role": "protagonist"},
+        {"name": "Mordecai", "role": "mentioned"},
+        {"name": "Haman", "role": "antagonist"}
+      ],
+      "locations": ["Shushan"],
+      "timePeriod": "Persian Period",
+      "era": "post-exile",
+      "topics": ["providence", "irony", "honor", "humiliation"],
+      "events": ["King's sleepless night leads to reading of Mordecai's deed", "Haman forced to honor Mordecai publicly"],
+      "keyVerses": [1, 6, 11],
+      "crossReferences": [
+        {"book": "Proverbs", "chapter": 21, "label": "The king's heart is in the hand of the Lord"}
+      ]
+    },
+    "7": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Esther", "role": "protagonist"},
+        {"name": "Ahasuerus", "role": "mentioned"},
+        {"name": "Haman", "role": "antagonist"}
+      ],
+      "locations": ["Shushan"],
+      "timePeriod": "Persian Period",
+      "era": "post-exile",
+      "topics": ["justice", "reversal", "courage", "judgment"],
+      "events": ["Esther reveals Haman's plot", "Haman hanged on his own gallows"],
+      "keyVerses": [3, 6, 10],
+      "crossReferences": [
+        {"book": "Psalms", "chapter": 7, "label": "The wicked fall into their own pit"}
+      ]
+    },
+    "8": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Esther", "role": "protagonist"},
+        {"name": "Mordecai", "role": "protagonist"},
+        {"name": "Ahasuerus", "role": "mentioned"}
+      ],
+      "locations": ["Shushan"],
+      "timePeriod": "Persian Period",
+      "era": "post-exile",
+      "topics": ["reversal", "authority", "deliverance", "joy"],
+      "events": ["Mordecai given Haman's position", "New decree allowing Jews to defend themselves", "Jews rejoice"],
+      "keyVerses": [2, 11, 17],
+      "crossReferences": [
+        {"book": "Genesis", "chapter": 41, "label": "Joseph elevated in a foreign court parallel"}
+      ]
+    },
+    "9": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Esther", "role": "protagonist"},
+        {"name": "Mordecai", "role": "protagonist"}
+      ],
+      "locations": ["Shushan", "Persian provinces"],
+      "timePeriod": "Persian Period",
+      "era": "post-exile",
+      "topics": ["victory", "reversal", "celebration", "purim"],
+      "events": ["Jews defeat their enemies", "Feast of Purim established"],
+      "keyVerses": [1, 22, 28],
+      "crossReferences": [
+        {"book": "Exodus", "chapter": 17, "label": "Ongoing conflict with Amalek"}
+      ]
+    },
+    "10": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Ahasuerus", "role": "mentioned"},
+        {"name": "Mordecai", "role": "protagonist"}
+      ],
+      "locations": ["Shushan"],
+      "timePeriod": "Persian Period",
+      "era": "post-exile",
+      "topics": ["exaltation", "legacy", "providence"],
+      "events": ["Mordecai's greatness and service to his people"],
+      "keyVerses": [3],
+      "crossReferences": [
+        {"book": "Genesis", "chapter": 41, "label": "Joseph's similar exaltation in a foreign kingdom"}
+      ]
+    }
+  }
+}

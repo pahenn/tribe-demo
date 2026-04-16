@@ -1,0 +1,82 @@
+{
+  "book": "Ruth",
+  "bookSlug": "08.ruth",
+  "testament": "1.old-testament",
+  "chapters": {
+    "1": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Naomi", "role": "protagonist"},
+        {"name": "Ruth", "role": "protagonist"},
+        {"name": "Orpah", "role": "mentioned"},
+        {"name": "Elimelech", "role": "mentioned"},
+        {"name": "Mahlon", "role": "mentioned"},
+        {"name": "Chilion", "role": "mentioned"}
+      ],
+      "locations": ["Bethlehem", "Moab"],
+      "timePeriod": "Period of the Judges",
+      "era": "judges",
+      "topics": ["loyalty", "grief", "faithfulness", "providence"],
+      "events": ["Elimelech's family moves to Moab", "Deaths of Elimelech, Mahlon, and Chilion", "Ruth's pledge to Naomi", "Return to Bethlehem"],
+      "keyVerses": [16, 17],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 1, "label": "Ruth in the genealogy of Jesus"}
+      ]
+    },
+    "2": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Ruth", "role": "protagonist"},
+        {"name": "Boaz", "role": "protagonist"},
+        {"name": "Naomi", "role": "mentioned"}
+      ],
+      "locations": ["Bethlehem"],
+      "timePeriod": "Period of the Judges",
+      "era": "judges",
+      "topics": ["providence", "kindness", "gleaning", "grace"],
+      "events": ["Ruth gleans in Boaz's field", "Boaz shows favor to Ruth", "Naomi recognizes Boaz as kinsman-redeemer"],
+      "keyVerses": [12, 20],
+      "crossReferences": [
+        {"book": "Leviticus", "chapter": 19, "label": "Gleaning laws for the poor"},
+        {"book": "Deuteronomy", "chapter": 24, "label": "Provision for foreigners and widows"}
+      ]
+    },
+    "3": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Ruth", "role": "protagonist"},
+        {"name": "Boaz", "role": "protagonist"},
+        {"name": "Naomi", "role": "mentioned"}
+      ],
+      "locations": ["Bethlehem"],
+      "timePeriod": "Period of the Judges",
+      "era": "judges",
+      "topics": ["kinsman-redeemer", "virtue", "initiative", "trust"],
+      "events": ["Ruth goes to the threshing floor", "Ruth asks Boaz to redeem her", "Boaz agrees to act as kinsman-redeemer"],
+      "keyVerses": [9, 11],
+      "crossReferences": [
+        {"book": "Deuteronomy", "chapter": 25, "label": "Levirate marriage law"}
+      ]
+    },
+    "4": {
+      "genre": ["narrative", "genealogy"],
+      "people": [
+        {"name": "Boaz", "role": "protagonist"},
+        {"name": "Ruth", "role": "protagonist"},
+        {"name": "Naomi", "role": "mentioned"},
+        {"name": "Obed", "role": "mentioned"},
+        {"name": "David", "role": "mentioned"}
+      ],
+      "locations": ["Bethlehem"],
+      "timePeriod": "Period of the Judges",
+      "era": "judges",
+      "topics": ["redemption", "marriage", "lineage", "restoration"],
+      "events": ["Boaz redeems Ruth at the city gate", "Marriage of Boaz and Ruth", "Birth of Obed", "Genealogy from Perez to David"],
+      "keyVerses": [14, 17],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 1, "label": "Boaz, Obed, Jesse, David in Jesus' genealogy"},
+        {"book": "Genesis", "chapter": 38, "label": "Perez born to Tamar and Judah"}
+      ]
+    }
+  }
+}

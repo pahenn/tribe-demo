@@ -1,0 +1,222 @@
+{
+  "book": "Nehemiah",
+  "bookSlug": "16.nehemiah",
+  "testament": "1.old-testament",
+  "chapters": {
+    "1": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Nehemiah", "role": "protagonist"},
+        {"name": "Hanani", "role": "mentioned"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": ["Shushan", "Jerusalem"],
+      "timePeriod": "Post-Exile",
+      "era": "post-exile",
+      "topics": ["prayer", "grief", "confession", "burden"],
+      "events": ["Nehemiah hears of Jerusalem's condition", "Nehemiah's prayer of confession and petition"],
+      "keyVerses": [3, 4, 11],
+      "crossReferences": [
+        {"book": "Daniel", "chapter": 9, "label": "Daniel's similar prayer of confession for Israel"}
+      ]
+    },
+    "2": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Nehemiah", "role": "protagonist"},
+        {"name": "Artaxerxes", "role": "mentioned"},
+        {"name": "Sanballat", "role": "antagonist"},
+        {"name": "Tobiah", "role": "antagonist"}
+      ],
+      "locations": ["Shushan", "Jerusalem"],
+      "timePeriod": "Post-Exile",
+      "era": "post-exile",
+      "topics": ["courage", "commission", "inspection", "opposition"],
+      "events": ["Nehemiah requests leave from the king", "Night inspection of Jerusalem's walls", "Opposition from Sanballat and Tobiah"],
+      "keyVerses": [4, 17, 20],
+      "crossReferences": [
+        {"book": "Ezra", "chapter": 7, "label": "Artaxerxes' earlier commission of Ezra"}
+      ]
+    },
+    "3": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Eliashib", "role": "mentioned"},
+        {"name": "Nehemiah", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "Post-Exile",
+      "era": "post-exile",
+      "topics": ["rebuilding", "teamwork", "dedication", "community"],
+      "events": ["Wall builders and their sections listed"],
+      "keyVerses": [1, 5],
+      "crossReferences": [
+        {"book": "Nehemiah", "chapter": 12, "label": "Wall dedication"}
+      ]
+    },
+    "4": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Nehemiah", "role": "protagonist"},
+        {"name": "Sanballat", "role": "antagonist"},
+        {"name": "Tobiah", "role": "antagonist"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "Post-Exile",
+      "era": "post-exile",
+      "topics": ["opposition", "prayer", "perseverance", "defense"],
+      "events": ["Enemies mock the builders", "Nehemiah arms the workers", "Work continues with sword and trowel"],
+      "keyVerses": [6, 9, 14],
+      "crossReferences": [
+        {"book": "Ezra", "chapter": 4, "label": "Earlier opposition to rebuilding"}
+      ]
+    },
+    "5": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Nehemiah", "role": "protagonist"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "Post-Exile",
+      "era": "post-exile",
+      "topics": ["justice", "exploitation", "reform", "generosity"],
+      "events": ["Nehemiah rebukes nobles for charging usury", "Nehemiah's personal example of generosity as governor"],
+      "keyVerses": [7, 14, 19],
+      "crossReferences": [
+        {"book": "Leviticus", "chapter": 25, "label": "Laws against usury among Israelites"}
+      ]
+    },
+    "6": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Nehemiah", "role": "protagonist"},
+        {"name": "Sanballat", "role": "antagonist"},
+        {"name": "Tobiah", "role": "antagonist"},
+        {"name": "Shemaiah", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem", "Ono"],
+      "timePeriod": "Post-Exile",
+      "era": "post-exile",
+      "topics": ["opposition", "intimidation", "discernment", "completion"],
+      "events": ["Sanballat's schemes to lure Nehemiah", "False prophet hired to frighten Nehemiah", "Wall completed in 52 days"],
+      "keyVerses": [3, 9, 15],
+      "crossReferences": [
+        {"book": "Nehemiah", "chapter": 4, "label": "Earlier opposition to the work"}
+      ]
+    },
+    "7": {
+      "genre": ["narrative", "genealogy"],
+      "people": [
+        {"name": "Nehemiah", "role": "protagonist"},
+        {"name": "Hanani", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "Post-Exile",
+      "era": "post-exile",
+      "topics": ["security", "census", "genealogy", "organization"],
+      "events": ["Gatekeepers appointed", "Census of returned exiles"],
+      "keyVerses": [1, 2, 5],
+      "crossReferences": [
+        {"book": "Ezra", "chapter": 2, "label": "Parallel list of returnees"}
+      ]
+    },
+    "8": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Ezra", "role": "protagonist"},
+        {"name": "Nehemiah", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "Post-Exile",
+      "era": "post-exile",
+      "topics": ["law", "reading-scripture", "understanding", "feast-of-tabernacles"],
+      "events": ["Ezra reads the law publicly", "People weep but told to rejoice", "Feast of Tabernacles celebrated"],
+      "keyVerses": [8, 10, 17],
+      "crossReferences": [
+        {"book": "Deuteronomy", "chapter": 31, "label": "Command to read the law every seven years"},
+        {"book": "Leviticus", "chapter": 23, "label": "Feast of Tabernacles commanded"}
+      ]
+    },
+    "9": {
+      "genre": ["narrative", "poetry"],
+      "people": [
+        {"name": "God", "role": "mentioned"},
+        {"name": "Abraham", "role": "mentioned"},
+        {"name": "Moses", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "Post-Exile",
+      "era": "post-exile",
+      "topics": ["confession", "history", "mercy", "covenant"],
+      "events": ["National day of confession", "Levites' prayer recounting Israel's history"],
+      "keyVerses": [6, 17, 31],
+      "crossReferences": [
+        {"book": "Psalms", "chapter": 106, "label": "Similar historical review of God's patience"}
+      ]
+    },
+    "10": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Nehemiah", "role": "protagonist"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "Post-Exile",
+      "era": "post-exile",
+      "topics": ["covenant-renewal", "commitment", "sabbath", "tithing"],
+      "events": ["Sealed covenant document", "Commitments: no intermarriage, Sabbath observance, temple support"],
+      "keyVerses": [29, 32, 39],
+      "crossReferences": [
+        {"book": "Ezra", "chapter": 10, "label": "Earlier covenant to put away foreign wives"}
+      ]
+    },
+    "11": {
+      "genre": ["narrative", "genealogy"],
+      "people": [
+        {"name": "Nehemiah", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "Post-Exile",
+      "era": "post-exile",
+      "topics": ["settlement", "population", "sacrifice", "community"],
+      "events": ["Lots cast to repopulate Jerusalem", "Lists of Jerusalem's residents"],
+      "keyVerses": [1, 2],
+      "crossReferences": [
+        {"book": "1 Chronicles", "chapter": 9, "label": "Similar list of Jerusalem residents"}
+      ]
+    },
+    "12": {
+      "genre": ["narrative", "genealogy"],
+      "people": [
+        {"name": "Nehemiah", "role": "protagonist"},
+        {"name": "Ezra", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "Post-Exile",
+      "era": "post-exile",
+      "topics": ["dedication", "worship", "joy", "priestly-records"],
+      "events": ["Priests and Levites listed", "Dedication of the wall with two processions", "Great celebration"],
+      "keyVerses": [27, 43],
+      "crossReferences": [
+        {"book": "Nehemiah", "chapter": 3, "label": "Wall building that preceded this dedication"}
+      ]
+    },
+    "13": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Nehemiah", "role": "protagonist"},
+        {"name": "Tobiah", "role": "antagonist"},
+        {"name": "Eliashib", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "Post-Exile",
+      "era": "post-exile",
+      "topics": ["reform", "sabbath", "intermarriage", "zeal"],
+      "events": ["Nehemiah ejects Tobiah from the temple", "Nehemiah restores Levitical support", "Nehemiah enforces Sabbath", "Nehemiah confronts intermarriage"],
+      "keyVerses": [8, 22, 25, 31],
+      "crossReferences": [
+        {"book": "Ezra", "chapter": 9, "label": "Ezra's earlier confrontation of intermarriage"},
+        {"book": "Malachi", "chapter": 2, "label": "God's opposition to faithless marriage"}
+      ]
+    }
+  }
+}

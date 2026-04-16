@@ -1,0 +1,81 @@
+{
+  "book": "Philippians",
+  "bookSlug": "50.philippians",
+  "testament": "2.new-testament",
+  "chapters": {
+    "1": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Paul", "role": "author"},
+        {"name": "Timothy", "role": "co-sender"},
+        {"name": "Jesus Christ", "role": "mentioned"}
+      ],
+      "locations": ["Philippi"],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["joy", "gospel", "imprisonment", "to-live-is-christ"],
+      "events": ["Paul writes from prison about the advancement of the gospel"],
+      "keyVerses": [6, 21, 23],
+      "crossReferences": [
+        {"book": "2 Corinthians", "chapter": 5, "label": "To be absent from the body is to be present with the Lord"},
+        {"book": "Acts", "chapter": 16, "label": "Paul's founding of the Philippian church"}
+      ]
+    },
+    "2": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Paul", "role": "author"},
+        {"name": "Jesus Christ", "role": "mentioned"},
+        {"name": "Timothy", "role": "mentioned"},
+        {"name": "Epaphroditus", "role": "mentioned"}
+      ],
+      "locations": ["Philippi"],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["humility", "incarnation", "exaltation", "obedience"],
+      "events": ["Christ's self-emptying and exaltation hymn", "Epaphroditus nearly dies from illness"],
+      "keyVerses": [5, 10, 12],
+      "crossReferences": [
+        {"book": "Isaiah", "chapter": 45, "label": "Every knee shall bow and every tongue confess"},
+        {"book": "John", "chapter": 1, "label": "The Word was made flesh"}
+      ]
+    },
+    "3": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Paul", "role": "author"},
+        {"name": "Jesus Christ", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["righteousness-by-faith", "pressing-on", "heavenly-citizenship", "resurrection"],
+      "events": ["Paul recounts his former credentials as a Pharisee"],
+      "keyVerses": [8, 10, 14],
+      "crossReferences": [
+        {"book": "Romans", "chapter": 10, "label": "The righteousness of God by faith"},
+        {"book": "1 Corinthians", "chapter": 9, "label": "Running the race to win the prize"}
+      ]
+    },
+    "4": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Paul", "role": "author"},
+        {"name": "Euodia", "role": "mentioned"},
+        {"name": "Syntyche", "role": "mentioned"},
+        {"name": "Clement", "role": "mentioned"},
+        {"name": "Epaphroditus", "role": "mentioned"}
+      ],
+      "locations": ["Philippi", "Thessalonica", "Macedonia"],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["joy", "peace", "contentment", "generosity"],
+      "events": ["Paul thanks the Philippians for their financial support"],
+      "keyVerses": [4, 7, 13],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 6, "label": "Be anxious for nothing"},
+        {"book": "1 Timothy", "chapter": 6, "label": "Godliness with contentment is great gain"}
+      ]
+    }
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "book": "Daniel",
+  "bookSlug": "27.daniel",
+  "testament": "1.old-testament",
+  "chapters": {
+    "1": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Daniel", "role": "protagonist"},
+        {"name": "Nebuchadnezzar", "role": "mentioned"},
+        {"name": "Hananiah", "role": "protagonist"},
+        {"name": "Mishael", "role": "protagonist"},
+        {"name": "Azariah", "role": "protagonist"},
+        {"name": "Ashpenaz", "role": "mentioned"},
+        {"name": "Jehoiakim", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem", "Babylon", "Shinar"],
+      "timePeriod": "3rd year of Jehoiakim (~605 BC)",
+      "era": "exile",
+      "topics": ["faithfulness", "exile", "wisdom"],
+      "events": ["Captives taken to Babylon", "Daniel refuses king's food", "God gives them wisdom"],
+      "keyVerses": [8, 17, 20],
+      "crossReferences": [
+        {"book": "2 Kings", "chapter": 24, "label": "Deportation to Babylon"},
+        {"book": "Isaiah", "chapter": 39, "label": "Prophecy of exile to Babylon"}
+      ]
+    },
+    "2": {
+      "genre": ["narrative", "apocalyptic"],
+      "people": [
+        {"name": "Daniel", "role": "protagonist"},
+        {"name": "Nebuchadnezzar", "role": "protagonist"},
+        {"name": "God", "role": "speaker"},
+        {"name": "Hananiah", "role": "mentioned"},
+        {"name": "Mishael", "role": "mentioned"},
+        {"name": "Azariah", "role": "mentioned"}
+      ],
+      "locations": ["Babylon"],
+      "timePeriod": "2nd year of Nebuchadnezzar (~603 BC)",
+      "era": "exile",
+      "topics": ["sovereignty", "prophecy", "kingdoms"],
+      "events": ["Nebuchadnezzar's dream of the great image", "Daniel interprets the dream", "Stone cut without hands"],
+      "keyVerses": [44, 28, 21],
+      "crossReferences": [
+        {"book": "Revelation", "chapter": 17, "label": "Succession of world kingdoms"},
+        {"book": "Matthew", "chapter": 21, "label": "The stone the builders rejected"}
+      ]
+    },
+    "3": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Nebuchadnezzar", "role": "antagonist"},
+        {"name": "Shadrach", "role": "protagonist"},
+        {"name": "Meshach", "role": "protagonist"},
+        {"name": "Abednego", "role": "protagonist"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": ["Babylon", "Dura"],
+      "timePeriod": "Reign of Nebuchadnezzar",
+      "era": "exile",
+      "topics": ["faithfulness", "idolatry", "deliverance"],
+      "events": ["Golden image set up", "Three Hebrews refuse to worship", "Fiery furnace deliverance", "Fourth figure like the Son of God"],
+      "keyVerses": [17, 18, 25],
+      "crossReferences": [
+        {"book": "Isaiah", "chapter": 43, "label": "When you walk through fire"},
+        {"book": "Hebrews", "chapter": 11, "label": "Faith quenched the violence of fire"}
+      ]
+    },
+    "4": {
+      "genre": ["narrative", "prophecy"],
+      "people": [
+        {"name": "Nebuchadnezzar", "role": "protagonist"},
+        {"name": "Daniel", "role": "protagonist"},
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Babylon"],
+      "timePeriod": "Reign of Nebuchadnezzar",
+      "era": "exile",
+      "topics": ["pride", "sovereignty", "humility"],
+      "events": ["Dream of the great tree", "Nebuchadnezzar's madness", "Nebuchadnezzar's restoration and praise"],
+      "keyVerses": [17, 34, 37],
+      "crossReferences": [
+        {"book": "Proverbs", "chapter": 16, "label": "Pride goes before destruction"},
+        {"book": "James", "chapter": 4, "label": "God resists the proud"}
+      ]
+    },
+    "5": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Belshazzar", "role": "protagonist"},
+        {"name": "Daniel", "role": "protagonist"},
+        {"name": "God", "role": "speaker"},
+        {"name": "Darius", "role": "mentioned"}
+      ],
+      "locations": ["Babylon"],
+      "timePeriod": "Fall of Babylon (539 BC)",
+      "era": "exile",
+      "topics": ["judgment", "pride", "sacrilege"],
+      "events": ["Belshazzar's feast", "Writing on the wall", "Mene Mene Tekel Upharsin", "Fall of Babylon to Medes and Persians"],
+      "keyVerses": [25, 27, 30],
+      "crossReferences": [
+        {"book": "Jeremiah", "chapter": 51, "label": "Fall of Babylon prophesied"},
+        {"book": "Isaiah", "chapter": 21, "label": "Babylon is fallen"}
+      ]
+    },
+    "6": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Daniel", "role": "protagonist"},
+        {"name": "Darius", "role": "protagonist"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": ["Babylon"],
+      "timePeriod": "Reign of Darius the Mede (~539 BC)",
+      "era": "exile",
+      "topics": ["faithfulness", "prayer", "deliverance"],
+      "events": ["Plot against Daniel", "Daniel in the lions' den", "God shuts the lions' mouths", "Darius' decree honoring God"],
+      "keyVerses": [10, 22, 26],
+      "crossReferences": [
+        {"book": "Hebrews", "chapter": 11, "label": "Stopped the mouths of lions"},
+        {"book": "1 Peter", "chapter": 5, "label": "Lion seeking to devour"}
+      ]
+    },
+    "7": {
+      "genre": ["apocalyptic", "prophecy"],
+      "people": [
+        {"name": "Daniel", "role": "protagonist"},
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Babylon"],
+      "timePeriod": "1st year of Belshazzar",
+      "era": "exile",
+      "topics": ["end-times", "kingdoms", "messianic-prophecy", "sovereignty"],
+      "events": ["Vision of four beasts", "Ancient of Days", "Son of Man receives the kingdom", "Little horn"],
+      "keyVerses": [9, 13, 14],
+      "crossReferences": [
+        {"book": "Revelation", "chapter": 13, "label": "Beast from the sea"},
+        {"book": "Matthew", "chapter": 26, "label": "Son of Man coming on clouds"},
+        {"book": "Revelation", "chapter": 1, "label": "Ancient of Days description"}
+      ]
+    },
+    "8": {
+      "genre": ["apocalyptic", "prophecy"],
+      "people": [
+        {"name": "Daniel", "role": "protagonist"},
+        {"name": "Gabriel", "role": "speaker"}
+      ],
+      "locations": ["Shushan", "Elam"],
+      "timePeriod": "3rd year of Belshazzar",
+      "era": "exile",
+      "topics": ["end-times", "kingdoms", "persecution"],
+      "events": ["Vision of the ram and goat", "Little horn desecrates the sanctuary", "Gabriel interprets: Media-Persia and Greece"],
+      "keyVerses": [14, 20, 25],
+      "crossReferences": [
+        {"book": "Daniel", "chapter": 11, "label": "Detailed fulfillment of this vision"},
+        {"book": "1 Maccabees", "chapter": 1, "label": "Antiochus Epiphanes"}
+      ]
+    },
+    "9": {
+      "genre": ["prophecy", "narrative"],
+      "people": [
+        {"name": "Daniel", "role": "protagonist"},
+        {"name": "Gabriel", "role": "speaker"},
+        {"name": "God", "role": "mentioned"},
+        {"name": "Jeremiah", "role": "mentioned"},
+        {"name": "Darius", "role": "mentioned"}
+      ],
+      "locations": ["Babylon", "Jerusalem"],
+      "timePeriod": "1st year of Darius (~539 BC)",
+      "era": "exile",
+      "topics": ["prayer", "repentance", "messianic-prophecy", "end-times"],
+      "events": ["Daniel's prayer of confession", "Seventy weeks prophecy", "Messiah cut off"],
+      "keyVerses": [24, 25, 26],
+      "crossReferences": [
+        {"book": "Jeremiah", "chapter": 25, "label": "Seventy years of desolation"},
+        {"book": "Matthew", "chapter": 24, "label": "Abomination of desolation"},
+        {"book": "Luke", "chapter": 19, "label": "Messiah comes to Jerusalem"}
+      ]
+    },
+    "10": {
+      "genre": ["apocalyptic", "narrative"],
+      "people": [
+        {"name": "Daniel", "role": "protagonist"},
+        {"name": "Michael", "role": "mentioned"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": ["Tigris River", "Persia"],
+      "timePeriod": "3rd year of Cyrus (~536 BC)",
+      "era": "post-exile",
+      "topics": ["spiritual-warfare", "prayer", "angels"],
+      "events": ["Daniel's three-week fast", "Vision of heavenly messenger", "Prince of Persia opposes the angel", "Michael intervenes"],
+      "keyVerses": [12, 13],
+      "crossReferences": [
+        {"book": "Ephesians", "chapter": 6, "label": "Spiritual warfare"},
+        {"book": "Revelation", "chapter": 1, "label": "Description of the glorified Christ"}
+      ]
+    },
+    "11": {
+      "genre": ["prophecy", "apocalyptic"],
+      "people": [
+        {"name": "Daniel", "role": "protagonist"},
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Persia", "Greece", "Israel", "Egypt"],
+      "timePeriod": "Prophetic future from Persian to Greek period",
+      "era": "post-exile",
+      "topics": ["kingdoms", "end-times", "persecution"],
+      "events": ["Kings of north and south", "Abomination of desolation", "Rise of Antiochus-type figure", "End-time king"],
+      "keyVerses": [31, 32, 35],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 24, "label": "Abomination of desolation"},
+        {"book": "2 Thessalonians", "chapter": 2, "label": "Man of lawlessness"}
+      ]
+    },
+    "12": {
+      "genre": ["apocalyptic", "prophecy"],
+      "people": [
+        {"name": "Daniel", "role": "protagonist"},
+        {"name": "Michael", "role": "mentioned"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Eschatological",
+      "era": "post-exile",
+      "topics": ["resurrection", "end-times", "perseverance"],
+      "events": ["Time of trouble", "Resurrection of the dead", "Wise shall shine like stars", "Book sealed until the end"],
+      "keyVerses": [1, 2, 3],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 13, "label": "Righteous shine like the sun"},
+        {"book": "Revelation", "chapter": 20, "label": "Resurrection and judgment"},
+        {"book": "John", "chapter": 5, "label": "Resurrection of life and judgment"}
+      ]
+    }
+  }
+}

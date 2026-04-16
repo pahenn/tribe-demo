@@ -1,0 +1,113 @@
+{
+  "book": "Ephesians",
+  "bookSlug": "49.ephesians",
+  "testament": "2.new-testament",
+  "chapters": {
+    "1": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Paul", "role": "author"},
+        {"name": "Jesus Christ", "role": "mentioned"},
+        {"name": "Holy Spirit", "role": "mentioned"}
+      ],
+      "locations": ["Ephesus"],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["election", "predestination", "redemption", "inheritance"],
+      "events": [],
+      "keyVerses": [3, 7, 13],
+      "crossReferences": [
+        {"book": "Romans", "chapter": 8, "label": "Predestined to be conformed to the image of his Son"},
+        {"book": "Colossians", "chapter": 1, "label": "Redemption through his blood"}
+      ]
+    },
+    "2": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Paul", "role": "author"},
+        {"name": "Jesus Christ", "role": "mentioned"}
+      ],
+      "locations": ["Ephesus"],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["grace", "salvation-by-faith", "unity", "reconciliation"],
+      "events": [],
+      "keyVerses": [8, 9, 10],
+      "crossReferences": [
+        {"book": "Romans", "chapter": 3, "label": "Justified by grace as a gift"},
+        {"book": "Isaiah", "chapter": 28, "label": "A precious cornerstone laid in Zion"}
+      ]
+    },
+    "3": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Paul", "role": "author"},
+        {"name": "Jesus Christ", "role": "mentioned"},
+        {"name": "Holy Spirit", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["mystery", "gentile-inclusion", "prayer", "love-of-christ"],
+      "events": ["Paul prays for the Ephesians to know the love of Christ"],
+      "keyVerses": [17, 19, 20],
+      "crossReferences": [
+        {"book": "Colossians", "chapter": 1, "label": "The mystery hidden for ages now revealed"},
+        {"book": "Romans", "chapter": 16, "label": "The mystery kept secret since the world began"}
+      ]
+    },
+    "4": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Paul", "role": "author"},
+        {"name": "Jesus Christ", "role": "mentioned"},
+        {"name": "Holy Spirit", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["unity", "spiritual-gifts", "new-man", "holy-living"],
+      "events": [],
+      "keyVerses": [4, 11, 32],
+      "crossReferences": [
+        {"book": "Psalms", "chapter": 68, "label": "He ascended on high and gave gifts to men"},
+        {"book": "1 Corinthians", "chapter": 12, "label": "Different gifts but one body"},
+        {"book": "Colossians", "chapter": 3, "label": "Put off the old man, put on the new"}
+      ]
+    },
+    "5": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Paul", "role": "author"},
+        {"name": "Jesus Christ", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["marriage", "christ-and-church", "light-vs-darkness", "worship"],
+      "events": [],
+      "keyVerses": [2, 18, 25],
+      "crossReferences": [
+        {"book": "Genesis", "chapter": 2, "label": "A man shall leave his father and mother and cleave to his wife"},
+        {"book": "Colossians", "chapter": 3, "label": "Singing psalms and hymns and spiritual songs"}
+      ]
+    },
+    "6": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Paul", "role": "author"},
+        {"name": "Tychicus", "role": "mentioned"}
+      ],
+      "locations": ["Ephesus"],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["armor-of-god", "spiritual-warfare", "family", "obedience"],
+      "events": [],
+      "keyVerses": [11, 12, 17],
+      "crossReferences": [
+        {"book": "Isaiah", "chapter": 59, "label": "The breastplate of righteousness and helmet of salvation"},
+        {"book": "Exodus", "chapter": 20, "label": "Honour thy father and mother"}
+      ]
+    }
+  }
+}

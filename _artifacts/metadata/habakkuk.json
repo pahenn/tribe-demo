@@ -1,0 +1,59 @@
+{
+  "book": "Habakkuk",
+  "bookSlug": "35.habakkuk",
+  "testament": "1.old-testament",
+  "chapters": {
+    "1": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "Habakkuk", "role": "protagonist"},
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Judah"],
+      "timePeriod": "Late Kingdom of Judah",
+      "era": "divided-monarchy",
+      "topics": ["theodicy", "divine-justice", "violence", "complaint"],
+      "events": ["Habakkuk questions God about unanswered injustice", "God reveals he is raising up the Chaldeans as judgment", "Habakkuk questions how God can use a more wicked nation"],
+      "keyVerses": [2, 5, 13],
+      "crossReferences": [
+        {"book": "Acts", "chapter": 13, "label": "Paul quotes Habakkuk's warning about unbelief"},
+        {"book": "Jeremiah", "chapter": 25, "label": "God uses Babylon as instrument of judgment"}
+      ]
+    },
+    "2": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "Habakkuk", "role": "protagonist"},
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Lebanon"],
+      "timePeriod": "Late Kingdom of Judah",
+      "era": "divided-monarchy",
+      "topics": ["faith", "woe-oracles", "idolatry", "divine-sovereignty"],
+      "events": ["Habakkuk stands on his watchtower awaiting God's answer", "God declares the just shall live by faith", "Five woe oracles against the oppressor"],
+      "keyVerses": [2, 4, 14, 20],
+      "crossReferences": [
+        {"book": "Romans", "chapter": 1, "label": "The just shall live by faith"},
+        {"book": "Galatians", "chapter": 3, "label": "The just shall live by faith"},
+        {"book": "Hebrews", "chapter": 10, "label": "The just shall live by faith"}
+      ]
+    },
+    "3": {
+      "genre": ["prophecy", "poetry"],
+      "people": [
+        {"name": "Habakkuk", "role": "protagonist"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": ["Teman", "Paran", "Cushan", "Midian"],
+      "timePeriod": "Late Kingdom of Judah",
+      "era": "divided-monarchy",
+      "topics": ["theophany", "prayer", "faith-in-suffering", "joy"],
+      "events": ["Habakkuk's prayer recounting God's mighty acts", "Declaration of faith despite total loss"],
+      "keyVerses": [2, 17, 18],
+      "crossReferences": [
+        {"book": "Psalm", "chapter": 18, "label": "God makes feet like hinds' feet"},
+        {"book": "2 Samuel", "chapter": 22, "label": "He makes my feet like the feet of a deer"}
+      ]
+    }
+  }
+}

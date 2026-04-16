@@ -1,0 +1,46 @@
+{
+  "book": "Haggai",
+  "bookSlug": "37.haggai",
+  "testament": "1.old-testament",
+  "chapters": {
+    "1": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "Haggai", "role": "protagonist"},
+        {"name": "God", "role": "speaker"},
+        {"name": "Zerubbabel", "role": "recipient"},
+        {"name": "Joshua", "role": "recipient"},
+        {"name": "Darius", "role": "mentioned"}
+      ],
+      "locations": ["Judah", "Jerusalem"],
+      "timePeriod": "Post-Exile",
+      "era": "post-exile",
+      "topics": ["temple-rebuilding", "priorities", "obedience", "divine-discipline"],
+      "events": ["God rebukes the people for neglecting the temple while living in luxury", "People obey and begin rebuilding the temple"],
+      "keyVerses": [4, 6, 8],
+      "crossReferences": [
+        {"book": "Ezra", "chapter": 5, "label": "Haggai and Zechariah spur temple rebuilding"},
+        {"book": "Matthew", "chapter": 6, "label": "Seek first the kingdom of God"}
+      ]
+    },
+    "2": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "Haggai", "role": "protagonist"},
+        {"name": "God", "role": "speaker"},
+        {"name": "Zerubbabel", "role": "recipient"},
+        {"name": "Joshua", "role": "recipient"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "Post-Exile",
+      "era": "post-exile",
+      "topics": ["glory-of-the-temple", "holiness", "messianic-hope", "blessing"],
+      "events": ["God promises the latter temple's glory will exceed the former", "Lesson on holiness and defilement from the priests", "Zerubbabel chosen as God's signet ring"],
+      "keyVerses": [6, 9, 23],
+      "crossReferences": [
+        {"book": "Hebrews", "chapter": 12, "label": "Yet once more I will shake the heavens and earth"},
+        {"book": "Jeremiah", "chapter": 22, "label": "Signet ring imagery reversed for Zerubbabel"}
+      ]
+    }
+  }
+}

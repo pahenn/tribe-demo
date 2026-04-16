@@ -1,0 +1,391 @@
+{
+  "book": "1 Kings",
+  "bookSlug": "11.1-kings",
+  "testament": "1.old-testament",
+  "chapters": {
+    "1": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "David", "role": "mentioned"},
+        {"name": "Solomon", "role": "protagonist"},
+        {"name": "Adonijah", "role": "antagonist"},
+        {"name": "Nathan", "role": "mentioned"},
+        {"name": "Bathsheba", "role": "mentioned"},
+        {"name": "Zadok", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "United Monarchy",
+      "era": "united-monarchy",
+      "topics": ["succession", "kingship", "ambition", "anointing"],
+      "events": ["Adonijah attempts to seize the throne", "Solomon anointed king"],
+      "keyVerses": [30, 39],
+      "crossReferences": [
+        {"book": "2 Samuel", "chapter": 7, "label": "Davidic covenant succession"}
+      ]
+    },
+    "2": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "David", "role": "protagonist"},
+        {"name": "Solomon", "role": "protagonist"},
+        {"name": "Joab", "role": "mentioned"},
+        {"name": "Shimei", "role": "mentioned"},
+        {"name": "Adonijah", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "United Monarchy",
+      "era": "united-monarchy",
+      "topics": ["death", "succession", "justice", "obedience"],
+      "events": ["David's final charge to Solomon", "Death of David", "Solomon consolidates his kingdom"],
+      "keyVerses": [2, 3, 12],
+      "crossReferences": [
+        {"book": "1 Chronicles", "chapter": 29, "label": "David's final days and charge"}
+      ]
+    },
+    "3": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Solomon", "role": "protagonist"},
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Gibeon", "Jerusalem"],
+      "timePeriod": "United Monarchy",
+      "era": "united-monarchy",
+      "topics": ["wisdom", "prayer", "discernment", "justice"],
+      "events": ["Solomon asks God for wisdom", "Solomon's wise judgment between two mothers"],
+      "keyVerses": [9, 12, 28],
+      "crossReferences": [
+        {"book": "2 Chronicles", "chapter": 1, "label": "Parallel account of Solomon's request for wisdom"},
+        {"book": "James", "chapter": 1, "label": "Ask God for wisdom"}
+      ]
+    },
+    "4": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Solomon", "role": "protagonist"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "United Monarchy",
+      "era": "united-monarchy",
+      "topics": ["administration", "prosperity", "wisdom", "peace"],
+      "events": ["Solomon's officials listed", "Solomon's wealth and wisdom described"],
+      "keyVerses": [29, 30, 34],
+      "crossReferences": [
+        {"book": "1 Kings", "chapter": 10, "label": "Queen of Sheba witnesses Solomon's wisdom"}
+      ]
+    },
+    "5": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Solomon", "role": "protagonist"},
+        {"name": "Hiram", "role": "mentioned"}
+      ],
+      "locations": ["Tyre", "Lebanon", "Jerusalem"],
+      "timePeriod": "United Monarchy",
+      "era": "united-monarchy",
+      "topics": ["temple-building", "alliance", "labor", "preparation"],
+      "events": ["Solomon's treaty with Hiram of Tyre", "Preparations for building the temple"],
+      "keyVerses": [5, 12],
+      "crossReferences": [
+        {"book": "2 Chronicles", "chapter": 2, "label": "Parallel account of temple preparations"}
+      ]
+    },
+    "6": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Solomon", "role": "protagonist"},
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "United Monarchy",
+      "era": "united-monarchy",
+      "topics": ["temple", "worship", "obedience", "holiness"],
+      "events": ["Construction of Solomon's temple described"],
+      "keyVerses": [1, 12, 13],
+      "crossReferences": [
+        {"book": "2 Chronicles", "chapter": 3, "label": "Parallel account of temple construction"}
+      ]
+    },
+    "7": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Solomon", "role": "protagonist"},
+        {"name": "Hiram", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "United Monarchy",
+      "era": "united-monarchy",
+      "topics": ["temple", "craftsmanship", "palace"],
+      "events": ["Solomon's palace built", "Temple furnishings crafted by Hiram"],
+      "keyVerses": [1, 51],
+      "crossReferences": [
+        {"book": "2 Chronicles", "chapter": 4, "label": "Parallel account of temple furnishings"}
+      ]
+    },
+    "8": {
+      "genre": ["narrative", "poetry"],
+      "people": [
+        {"name": "Solomon", "role": "protagonist"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "United Monarchy",
+      "era": "united-monarchy",
+      "topics": ["dedication", "prayer", "forgiveness", "temple"],
+      "events": ["Ark brought into the temple", "Solomon's dedication prayer", "God's glory fills the temple"],
+      "keyVerses": [27, 29, 56],
+      "crossReferences": [
+        {"book": "2 Chronicles", "chapter": 6, "label": "Parallel dedication prayer"},
+        {"book": "Isaiah", "chapter": 56, "label": "House of prayer for all nations"}
+      ]
+    },
+    "9": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Solomon", "role": "protagonist"},
+        {"name": "God", "role": "speaker"},
+        {"name": "Hiram", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem", "Gibeon"],
+      "timePeriod": "United Monarchy",
+      "era": "united-monarchy",
+      "topics": ["covenant", "warning", "obedience", "building"],
+      "events": ["God appears to Solomon a second time", "God's conditional promise regarding the temple"],
+      "keyVerses": [3, 6, 7],
+      "crossReferences": [
+        {"book": "2 Chronicles", "chapter": 7, "label": "If my people humble themselves"}
+      ]
+    },
+    "10": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Solomon", "role": "protagonist"},
+        {"name": "Queen of Sheba", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem", "Sheba"],
+      "timePeriod": "United Monarchy",
+      "era": "united-monarchy",
+      "topics": ["wisdom", "wealth", "fame", "international-relations"],
+      "events": ["Queen of Sheba visits Solomon", "Solomon's wealth described"],
+      "keyVerses": [1, 7, 23],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 12, "label": "Jesus references the Queen of the South"}
+      ]
+    },
+    "11": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Solomon", "role": "protagonist"},
+        {"name": "God", "role": "speaker"},
+        {"name": "Jeroboam", "role": "mentioned"},
+        {"name": "Ahijah", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "United Monarchy",
+      "era": "united-monarchy",
+      "topics": ["idolatry", "judgment", "disobedience", "division"],
+      "events": ["Solomon's foreign wives turn his heart", "God raises adversaries against Solomon", "Ahijah prophesies kingdom torn from Solomon", "Death of Solomon"],
+      "keyVerses": [4, 11, 13],
+      "crossReferences": [
+        {"book": "Nehemiah", "chapter": 13, "label": "Nehemiah references Solomon's sin with foreign wives"}
+      ]
+    },
+    "12": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Rehoboam", "role": "protagonist"},
+        {"name": "Jeroboam", "role": "protagonist"}
+      ],
+      "locations": ["Shechem", "Jerusalem", "Bethel", "Dan"],
+      "timePeriod": "Divided Monarchy",
+      "era": "divided-monarchy",
+      "topics": ["division", "foolishness", "idolatry", "rebellion"],
+      "events": ["Rehoboam rejects wise counsel", "Kingdom divided", "Jeroboam sets up golden calves at Bethel and Dan"],
+      "keyVerses": [16, 28],
+      "crossReferences": [
+        {"book": "2 Chronicles", "chapter": 10, "label": "Parallel account of the kingdom's division"}
+      ]
+    },
+    "13": {
+      "genre": ["narrative", "prophecy"],
+      "people": [
+        {"name": "Man of God from Judah", "role": "protagonist"},
+        {"name": "Jeroboam", "role": "antagonist"},
+        {"name": "Old prophet of Bethel", "role": "mentioned"}
+      ],
+      "locations": ["Bethel"],
+      "timePeriod": "Divided Monarchy",
+      "era": "divided-monarchy",
+      "topics": ["prophecy", "obedience", "deception", "judgment"],
+      "events": ["Man of God prophesies against Jeroboam's altar", "Man of God deceived by old prophet and killed by a lion"],
+      "keyVerses": [2, 21],
+      "crossReferences": [
+        {"book": "2 Kings", "chapter": 23, "label": "Josiah fulfills the prophecy against the altar"}
+      ]
+    },
+    "14": {
+      "genre": ["narrative", "prophecy"],
+      "people": [
+        {"name": "Jeroboam", "role": "mentioned"},
+        {"name": "Ahijah", "role": "speaker"},
+        {"name": "Rehoboam", "role": "mentioned"}
+      ],
+      "locations": ["Shiloh", "Jerusalem"],
+      "timePeriod": "Divided Monarchy",
+      "era": "divided-monarchy",
+      "topics": ["judgment", "idolatry", "prophecy", "decline"],
+      "events": ["Ahijah prophesies doom on Jeroboam's house", "Jeroboam's son dies", "Rehoboam's reign summarized", "Shishak invades Jerusalem"],
+      "keyVerses": [9, 15],
+      "crossReferences": [
+        {"book": "2 Chronicles", "chapter": 12, "label": "Shishak's invasion of Judah"}
+      ]
+    },
+    "15": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Abijam", "role": "mentioned"},
+        {"name": "Asa", "role": "protagonist"},
+        {"name": "Nadab", "role": "mentioned"},
+        {"name": "Baasha", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "Divided Monarchy",
+      "era": "divided-monarchy",
+      "topics": ["reform", "faithfulness", "kingship", "warfare"],
+      "events": ["Reigns of Abijam and Asa in Judah", "Asa's reforms", "Reigns of Nadab and Baasha in Israel"],
+      "keyVerses": [11, 14],
+      "crossReferences": [
+        {"book": "2 Chronicles", "chapter": 14, "label": "Asa's reign in detail"}
+      ]
+    },
+    "16": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Baasha", "role": "mentioned"},
+        {"name": "Zimri", "role": "mentioned"},
+        {"name": "Omri", "role": "mentioned"},
+        {"name": "Ahab", "role": "antagonist"},
+        {"name": "Jezebel", "role": "mentioned"}
+      ],
+      "locations": ["Tirzah", "Samaria"],
+      "timePeriod": "Divided Monarchy",
+      "era": "divided-monarchy",
+      "topics": ["judgment", "evil", "idolatry", "dynasty"],
+      "events": ["Reigns of Baasha, Elah, Zimri, Omri, and Ahab", "Ahab marries Jezebel and introduces Baal worship"],
+      "keyVerses": [30, 33],
+      "crossReferences": [
+        {"book": "Micah", "chapter": 6, "label": "Statutes of Omri condemned"}
+      ]
+    },
+    "17": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Elijah", "role": "protagonist"},
+        {"name": "God", "role": "speaker"},
+        {"name": "Ahab", "role": "mentioned"},
+        {"name": "Widow of Zarephath", "role": "mentioned"}
+      ],
+      "locations": ["Gilead", "Cherith", "Zarephath"],
+      "timePeriod": "Divided Monarchy",
+      "era": "divided-monarchy",
+      "topics": ["faith", "provision", "drought", "miracles"],
+      "events": ["Elijah prophesies drought", "Ravens feed Elijah at Cherith", "Widow's flour and oil multiplied", "Elijah raises the widow's son"],
+      "keyVerses": [1, 16, 24],
+      "crossReferences": [
+        {"book": "Luke", "chapter": 4, "label": "Jesus references Elijah and the widow of Zarephath"},
+        {"book": "James", "chapter": 5, "label": "Elijah's prayer stopped rain"}
+      ]
+    },
+    "18": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Elijah", "role": "protagonist"},
+        {"name": "Ahab", "role": "antagonist"},
+        {"name": "Obadiah", "role": "mentioned"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": ["Mount Carmel", "Samaria", "Jezreel"],
+      "timePeriod": "Divided Monarchy",
+      "era": "divided-monarchy",
+      "topics": ["confrontation", "true-worship", "prayer", "idolatry"],
+      "events": ["Elijah confronts prophets of Baal on Mount Carmel", "Fire falls from heaven", "Prophets of Baal slain", "Rain returns"],
+      "keyVerses": [21, 38, 39],
+      "crossReferences": [
+        {"book": "James", "chapter": 5, "label": "Elijah's fervent prayer"},
+        {"book": "Romans", "chapter": 11, "label": "God preserved 7000 who did not bow to Baal"}
+      ]
+    },
+    "19": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Elijah", "role": "protagonist"},
+        {"name": "God", "role": "speaker"},
+        {"name": "Jezebel", "role": "antagonist"},
+        {"name": "Elisha", "role": "mentioned"}
+      ],
+      "locations": ["Beersheba", "Horeb"],
+      "timePeriod": "Divided Monarchy",
+      "era": "divided-monarchy",
+      "topics": ["depression", "divine-encounter", "still-small-voice", "calling"],
+      "events": ["Elijah flees from Jezebel", "Angel feeds Elijah in the wilderness", "God speaks in the still small voice at Horeb", "Call of Elisha"],
+      "keyVerses": [11, 12, 18],
+      "crossReferences": [
+        {"book": "Exodus", "chapter": 33, "label": "Moses at Horeb/Sinai parallel"},
+        {"book": "Romans", "chapter": 11, "label": "Seven thousand who have not bowed to Baal"}
+      ]
+    },
+    "20": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Ahab", "role": "protagonist"},
+        {"name": "Benhadad", "role": "antagonist"},
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Samaria", "Aphek"],
+      "timePeriod": "Divided Monarchy",
+      "era": "divided-monarchy",
+      "topics": ["warfare", "divine-deliverance", "disobedience", "mercy"],
+      "events": ["Ben-hadad besieges Samaria", "God gives Israel two victories over Syria", "Ahab spares Ben-hadad", "Prophet condemns Ahab for sparing Ben-hadad"],
+      "keyVerses": [13, 42],
+      "crossReferences": [
+        {"book": "1 Kings", "chapter": 22, "label": "Ahab's death in battle against Syria"}
+      ]
+    },
+    "21": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Ahab", "role": "antagonist"},
+        {"name": "Jezebel", "role": "antagonist"},
+        {"name": "Naboth", "role": "protagonist"},
+        {"name": "Elijah", "role": "speaker"}
+      ],
+      "locations": ["Jezreel"],
+      "timePeriod": "Divided Monarchy",
+      "era": "divided-monarchy",
+      "topics": ["injustice", "greed", "murder", "judgment"],
+      "events": ["Naboth refuses to sell his vineyard", "Jezebel has Naboth killed", "Elijah pronounces judgment on Ahab and Jezebel"],
+      "keyVerses": [19, 20, 25],
+      "crossReferences": [
+        {"book": "2 Kings", "chapter": 9, "label": "Judgment on Jezebel fulfilled"}
+      ]
+    },
+    "22": {
+      "genre": ["narrative", "prophecy"],
+      "people": [
+        {"name": "Ahab", "role": "protagonist"},
+        {"name": "Jehoshaphat", "role": "mentioned"},
+        {"name": "Micaiah", "role": "protagonist"}
+      ],
+      "locations": ["Samaria", "Ramothgilead"],
+      "timePeriod": "Divided Monarchy",
+      "era": "divided-monarchy",
+      "topics": ["false-prophecy", "truth", "judgment", "death"],
+      "events": ["Micaiah prophesies Ahab's defeat", "Ahab killed in battle at Ramoth-gilead", "Jehoshaphat's reign summarized"],
+      "keyVerses": [17, 34, 38],
+      "crossReferences": [
+        {"book": "2 Chronicles", "chapter": 18, "label": "Parallel account of Ahab's death"},
+        {"book": "1 Kings", "chapter": 21, "label": "Fulfillment of Elijah's judgment on Ahab"}
+      ]
+    }
+  }
+}

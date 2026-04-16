@@ -1,0 +1,446 @@
+{
+  "book": "Revelation",
+  "bookSlug": "66.revelation",
+  "testament": "2.new-testament",
+  "chapters": {
+    "1": {
+      "genre": ["apocalyptic", "prophecy"],
+      "people": [
+        {"name": "Jesus", "role": "protagonist"},
+        {"name": "John", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [
+        {"name": "Patmos", "type": "literal"},
+        {"name": "Ephesus", "type": "literal"},
+        {"name": "Smyrna", "type": "literal"},
+        {"name": "Pergamos", "type": "literal"},
+        {"name": "Thyatira", "type": "literal"},
+        {"name": "Sardis", "type": "literal"},
+        {"name": "Philadelphia", "type": "literal"},
+        {"name": "Laodicea", "type": "literal"}
+      ],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["vision-of-christ", "seven-churches", "alpha-and-omega"],
+      "events": ["John's vision of the glorified Christ among the seven candlesticks"],
+      "keyVerses": [7, 8, 17],
+      "crossReferences": [
+        {"book": "Daniel", "chapter": 7, "label": "One like the Son of man"},
+        {"book": "Daniel", "chapter": 10, "label": "Vision of the glorious man"}
+      ]
+    },
+    "2": {
+      "genre": ["apocalyptic", "prophecy"],
+      "people": [
+        {"name": "Jesus", "role": "speaker"},
+        {"name": "Antipas", "role": "mentioned"},
+        {"name": "Jezebel", "role": "antagonist"},
+        {"name": "Balaam", "role": "mentioned"}
+      ],
+      "locations": [
+        {"name": "Ephesus", "type": "literal"},
+        {"name": "Smyrna", "type": "literal"},
+        {"name": "Pergamos", "type": "literal"},
+        {"name": "Thyatira", "type": "literal"}
+      ],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["seven-churches", "repentance", "perseverance", "false-teaching"],
+      "events": ["Letters to Ephesus, Smyrna, Pergamos, and Thyatira"],
+      "keyVerses": [4, 10, 26],
+      "crossReferences": [
+        {"book": "Numbers", "chapter": 25, "label": "Balaam's teaching"},
+        {"book": "1 Kings", "chapter": 16, "label": "Jezebel's idolatry"}
+      ]
+    },
+    "3": {
+      "genre": ["apocalyptic", "prophecy"],
+      "people": [
+        {"name": "Jesus", "role": "speaker"}
+      ],
+      "locations": [
+        {"name": "Sardis", "type": "literal"},
+        {"name": "Philadelphia", "type": "literal"},
+        {"name": "Laodicea", "type": "literal"},
+        {"name": "New Jerusalem", "type": "symbolic"}
+      ],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["seven-churches", "repentance", "lukewarmness", "overcoming"],
+      "events": ["Letters to Sardis, Philadelphia, and Laodicea"],
+      "keyVerses": [15, 16, 20],
+      "crossReferences": [
+        {"book": "Isaiah", "chapter": 22, "label": "Key of David"},
+        {"book": "Song of Solomon", "chapter": 5, "label": "Open the door beloved"}
+      ]
+    },
+    "4": {
+      "genre": ["apocalyptic", "prophecy"],
+      "people": [
+        {"name": "God", "role": "protagonist"},
+        {"name": "John", "role": "author"}
+      ],
+      "locations": [
+        {"name": "Heaven", "type": "symbolic"}
+      ],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["worship", "throne-of-god", "creation", "holiness"],
+      "events": ["Vision of the throne room in heaven", "Twenty-four elders and four living creatures worship God"],
+      "keyVerses": [8, 11],
+      "crossReferences": [
+        {"book": "Isaiah", "chapter": 6, "label": "Holy holy holy"},
+        {"book": "Ezekiel", "chapter": 1, "label": "Four living creatures"}
+      ]
+    },
+    "5": {
+      "genre": ["apocalyptic", "prophecy"],
+      "people": [
+        {"name": "Jesus", "role": "protagonist"},
+        {"name": "God", "role": "mentioned"},
+        {"name": "John", "role": "author"}
+      ],
+      "locations": [
+        {"name": "Heaven", "type": "symbolic"}
+      ],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["worship", "the-lamb", "seven-seals", "redemption"],
+      "events": ["The Lamb found worthy to open the sealed scroll", "Heavenly worship of the Lamb"],
+      "keyVerses": [5, 9, 12],
+      "crossReferences": [
+        {"book": "Genesis", "chapter": 49, "label": "Lion of the tribe of Judah"},
+        {"book": "Isaiah", "chapter": 53, "label": "The suffering Lamb"}
+      ]
+    },
+    "6": {
+      "genre": ["apocalyptic", "prophecy"],
+      "people": [
+        {"name": "Jesus", "role": "protagonist"},
+        {"name": "Death", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["seven-seals", "judgment", "four-horsemen", "end-times"],
+      "events": ["Opening of the first six seals", "Four horsemen of the apocalypse", "Martyrs cry out under the altar", "Cosmic upheaval at the sixth seal"],
+      "keyVerses": [2, 10, 17],
+      "crossReferences": [
+        {"book": "Zechariah", "chapter": 6, "label": "Four chariots/horses"},
+        {"book": "Joel", "chapter": 2, "label": "Sun turned to darkness, moon to blood"}
+      ]
+    },
+    "7": {
+      "genre": ["apocalyptic", "prophecy"],
+      "people": [
+        {"name": "God", "role": "mentioned"},
+        {"name": "Jesus", "role": "protagonist"}
+      ],
+      "locations": [],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["sealing", "144000", "great-multitude", "worship"],
+      "events": ["Sealing of the 144,000 from the tribes of Israel", "Vision of the great multitude in white robes"],
+      "keyVerses": [4, 14, 17],
+      "crossReferences": [
+        {"book": "Ezekiel", "chapter": 9, "label": "Marking the foreheads of the faithful"},
+        {"book": "Isaiah", "chapter": 25, "label": "God shall wipe away all tears"}
+      ]
+    },
+    "8": {
+      "genre": ["apocalyptic", "prophecy"],
+      "people": [
+        {"name": "God", "role": "mentioned"},
+        {"name": "John", "role": "author"}
+      ],
+      "locations": [],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["seven-trumpets", "judgment", "prayer", "wrath"],
+      "events": ["Opening of the seventh seal", "First four trumpet judgments", "Silence in heaven"],
+      "keyVerses": [1, 7, 13],
+      "crossReferences": [
+        {"book": "Exodus", "chapter": 9, "label": "Plague of hail and fire"},
+        {"book": "Joshua", "chapter": 6, "label": "Trumpets at Jericho"}
+      ]
+    },
+    "9": {
+      "genre": ["apocalyptic", "prophecy"],
+      "people": [
+        {"name": "Abaddon", "role": "antagonist"}
+      ],
+      "locations": [
+        {"name": "Euphrates", "type": "literal"}
+      ],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["seven-trumpets", "judgment", "demons", "unrepentance"],
+      "events": ["Fifth trumpet: locusts from the bottomless pit", "Sixth trumpet: four angels loosed from the Euphrates", "Mankind refuses to repent"],
+      "keyVerses": [1, 11, 20],
+      "crossReferences": [
+        {"book": "Joel", "chapter": 1, "label": "Plague of locusts"},
+        {"book": "Exodus", "chapter": 10, "label": "Plague of locusts in Egypt"}
+      ]
+    },
+    "10": {
+      "genre": ["apocalyptic", "prophecy"],
+      "people": [
+        {"name": "John", "role": "author"}
+      ],
+      "locations": [],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["mystery-of-god", "prophecy", "seven-thunders", "little-book"],
+      "events": ["Mighty angel with the little book", "Seven thunders sealed", "John eats the little book"],
+      "keyVerses": [6, 7, 9],
+      "crossReferences": [
+        {"book": "Ezekiel", "chapter": 3, "label": "Eating the scroll"},
+        {"book": "Daniel", "chapter": 12, "label": "Seal up the words"}
+      ]
+    },
+    "11": {
+      "genre": ["apocalyptic", "prophecy"],
+      "people": [
+        {"name": "God", "role": "mentioned"},
+        {"name": "Jesus", "role": "mentioned"},
+        {"name": "The Two Witnesses", "role": "protagonist"}
+      ],
+      "locations": [
+        {"name": "Jerusalem", "type": "literal"}
+      ],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["two-witnesses", "seven-trumpets", "judgment", "kingdom-of-god"],
+      "events": ["Ministry and death of the two witnesses", "Their resurrection and ascension", "Seventh trumpet: God's kingdom proclaimed"],
+      "keyVerses": [3, 15, 19],
+      "crossReferences": [
+        {"book": "Zechariah", "chapter": 4, "label": "Two olive trees and candlesticks"},
+        {"book": "1 Kings", "chapter": 17, "label": "Elijah shuts up heaven"}
+      ]
+    },
+    "12": {
+      "genre": ["apocalyptic", "prophecy"],
+      "people": [
+        {"name": "Jesus", "role": "protagonist"},
+        {"name": "Satan", "role": "antagonist"},
+        {"name": "Michael", "role": "mentioned"},
+        {"name": "The Woman", "role": "mentioned"}
+      ],
+      "locations": [
+        {"name": "Heaven", "type": "symbolic"},
+        {"name": "Wilderness", "type": "symbolic"}
+      ],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["spiritual-warfare", "satan", "persecution", "overcoming"],
+      "events": ["The woman clothed with the sun", "The great red dragon", "War in heaven: Michael defeats Satan", "Dragon persecutes the woman"],
+      "keyVerses": [7, 9, 11],
+      "crossReferences": [
+        {"book": "Genesis", "chapter": 3, "label": "Enmity between serpent and the woman's seed"},
+        {"book": "Isaiah", "chapter": 14, "label": "Fall of Lucifer"}
+      ]
+    },
+    "13": {
+      "genre": ["apocalyptic", "prophecy"],
+      "people": [
+        {"name": "The Beast", "role": "antagonist"},
+        {"name": "The False Prophet", "role": "antagonist"},
+        {"name": "Satan", "role": "antagonist"}
+      ],
+      "locations": [],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["beast", "mark-of-the-beast", "false-prophet", "end-times"],
+      "events": ["Beast rising from the sea", "Second beast (false prophet) rising from the earth", "The mark of the beast: 666"],
+      "keyVerses": [8, 16, 18],
+      "crossReferences": [
+        {"book": "Daniel", "chapter": 7, "label": "Four beasts from the sea"},
+        {"book": "2 Thessalonians", "chapter": 2, "label": "Man of lawlessness"}
+      ]
+    },
+    "14": {
+      "genre": ["apocalyptic", "prophecy"],
+      "people": [
+        {"name": "Jesus", "role": "protagonist"}
+      ],
+      "locations": [
+        {"name": "Mount Zion", "type": "symbolic"}
+      ],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["144000", "judgment", "harvest", "everlasting-gospel"],
+      "events": ["The Lamb and the 144,000 on Mount Zion", "Three angels' messages", "Harvest of the earth"],
+      "keyVerses": [7, 12, 13],
+      "crossReferences": [
+        {"book": "Joel", "chapter": 3, "label": "Harvest and winepress of God's wrath"},
+        {"book": "Matthew", "chapter": 13, "label": "Parable of the harvest"}
+      ]
+    },
+    "15": {
+      "genre": ["apocalyptic", "prophecy"],
+      "people": [
+        {"name": "God", "role": "protagonist"},
+        {"name": "Moses", "role": "mentioned"},
+        {"name": "Jesus", "role": "mentioned"}
+      ],
+      "locations": [
+        {"name": "Heaven", "type": "symbolic"}
+      ],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["seven-bowls", "worship", "wrath-of-god", "song-of-moses"],
+      "events": ["Victorious saints sing the song of Moses and the Lamb", "Seven angels receive the seven bowls of wrath"],
+      "keyVerses": [1, 3, 4],
+      "crossReferences": [
+        {"book": "Exodus", "chapter": 15, "label": "Song of Moses"},
+        {"book": "Exodus", "chapter": 40, "label": "Glory of God fills the tabernacle"}
+      ]
+    },
+    "16": {
+      "genre": ["apocalyptic", "prophecy"],
+      "people": [
+        {"name": "God", "role": "protagonist"},
+        {"name": "The Beast", "role": "antagonist"},
+        {"name": "The False Prophet", "role": "antagonist"},
+        {"name": "Satan", "role": "antagonist"}
+      ],
+      "locations": [
+        {"name": "Euphrates", "type": "literal"},
+        {"name": "Armageddon", "type": "symbolic"},
+        {"name": "Babylon", "type": "symbolic"}
+      ],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["seven-bowls", "judgment", "armageddon", "wrath-of-god"],
+      "events": ["Pouring out of the seven bowls of wrath", "Battle of Armageddon gathered", "Great earthquake destroys Babylon"],
+      "keyVerses": [15, 16, 17],
+      "crossReferences": [
+        {"book": "Exodus", "chapter": 7, "label": "Water turned to blood"},
+        {"book": "Exodus", "chapter": 9, "label": "Plague of boils"}
+      ]
+    },
+    "17": {
+      "genre": ["apocalyptic", "prophecy"],
+      "people": [
+        {"name": "Jesus", "role": "mentioned"},
+        {"name": "The Great Harlot", "role": "antagonist"},
+        {"name": "The Beast", "role": "antagonist"},
+        {"name": "John", "role": "author"}
+      ],
+      "locations": [
+        {"name": "Babylon", "type": "symbolic"}
+      ],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["babylon", "judgment", "beast", "mystery"],
+      "events": ["Vision of the great harlot on the scarlet beast", "Mystery of Babylon explained", "The Lamb overcomes the kings"],
+      "keyVerses": [5, 14, 18],
+      "crossReferences": [
+        {"book": "Jeremiah", "chapter": 51, "label": "Fall of Babylon"},
+        {"book": "Daniel", "chapter": 2, "label": "Kingdoms of the world"}
+      ]
+    },
+    "18": {
+      "genre": ["apocalyptic", "prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": [
+        {"name": "Babylon", "type": "symbolic"}
+      ],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["babylon", "judgment", "materialism", "lament"],
+      "events": ["Fall of Babylon the great", "Lament of kings, merchants, and sailors", "Call to come out of Babylon"],
+      "keyVerses": [2, 4, 20],
+      "crossReferences": [
+        {"book": "Isaiah", "chapter": 13, "label": "Oracle against Babylon"},
+        {"book": "Jeremiah", "chapter": 50, "label": "Fall of Babylon"}
+      ]
+    },
+    "19": {
+      "genre": ["apocalyptic", "prophecy"],
+      "people": [
+        {"name": "Jesus", "role": "protagonist"},
+        {"name": "God", "role": "mentioned"},
+        {"name": "The Beast", "role": "antagonist"},
+        {"name": "The False Prophet", "role": "antagonist"},
+        {"name": "John", "role": "author"}
+      ],
+      "locations": [
+        {"name": "Heaven", "type": "symbolic"}
+      ],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["marriage-supper-of-the-lamb", "second-coming", "judgment", "king-of-kings"],
+      "events": ["Heavenly hallelujah chorus", "Marriage supper of the Lamb", "Christ returns on a white horse", "Beast and false prophet cast into lake of fire"],
+      "keyVerses": [7, 11, 16],
+      "crossReferences": [
+        {"book": "Psalms", "chapter": 2, "label": "Rule them with a rod of iron"},
+        {"book": "Isaiah", "chapter": 63, "label": "Treading the winepress"}
+      ]
+    },
+    "20": {
+      "genre": ["apocalyptic", "prophecy"],
+      "people": [
+        {"name": "Satan", "role": "antagonist"},
+        {"name": "Jesus", "role": "protagonist"},
+        {"name": "God", "role": "protagonist"}
+      ],
+      "locations": [
+        {"name": "Gog and Magog", "type": "symbolic"}
+      ],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["millennium", "judgment", "lake-of-fire", "resurrection"],
+      "events": ["Satan bound for a thousand years", "First resurrection and millennial reign", "Satan's final rebellion", "Great white throne judgment"],
+      "keyVerses": [4, 11, 12],
+      "crossReferences": [
+        {"book": "Ezekiel", "chapter": 38, "label": "Gog and Magog"},
+        {"book": "Daniel", "chapter": 12, "label": "Resurrection and judgment"}
+      ]
+    },
+    "21": {
+      "genre": ["apocalyptic", "prophecy"],
+      "people": [
+        {"name": "God", "role": "protagonist"},
+        {"name": "Jesus", "role": "protagonist"},
+        {"name": "John", "role": "author"}
+      ],
+      "locations": [
+        {"name": "New Jerusalem", "type": "symbolic"},
+        {"name": "New Heaven and New Earth", "type": "symbolic"}
+      ],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["new-creation", "new-jerusalem", "eternal-life", "no-more-tears"],
+      "events": ["Vision of the new heaven and new earth", "New Jerusalem descends from heaven", "Description of the holy city"],
+      "keyVerses": [1, 4, 5],
+      "crossReferences": [
+        {"book": "Isaiah", "chapter": 65, "label": "New heavens and new earth"},
+        {"book": "Isaiah", "chapter": 25, "label": "God will wipe away all tears"}
+      ]
+    },
+    "22": {
+      "genre": ["apocalyptic", "prophecy"],
+      "people": [
+        {"name": "Jesus", "role": "protagonist"},
+        {"name": "John", "role": "author"},
+        {"name": "Holy Spirit", "role": "mentioned"}
+      ],
+      "locations": [
+        {"name": "New Jerusalem", "type": "symbolic"}
+      ],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["tree-of-life", "second-coming", "invitation", "alpha-and-omega"],
+      "events": ["River of life and tree of life", "Jesus declares his imminent return", "Final invitation and warning"],
+      "keyVerses": [12, 17, 20],
+      "crossReferences": [
+        {"book": "Genesis", "chapter": 2, "label": "Tree of life in the garden"},
+        {"book": "Ezekiel", "chapter": 47, "label": "River flowing from the temple"}
+      ]
+    }
+  }
+}

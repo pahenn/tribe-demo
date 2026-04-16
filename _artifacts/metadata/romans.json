@@ -1,0 +1,298 @@
+{
+  "book": "Romans",
+  "bookSlug": "45.romans",
+  "testament": "2.new-testament",
+  "chapters": {
+    "1": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Paul", "role": "author"},
+        {"name": "Jesus Christ", "role": "mentioned"},
+        {"name": "David", "role": "mentioned"}
+      ],
+      "locations": ["Rome"],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["gospel", "righteousness", "wrath-of-god", "idolatry"],
+      "events": ["Paul introduces himself and his mission to the Roman believers"],
+      "keyVerses": [16, 17],
+      "crossReferences": [
+        {"book": "Habakkuk", "chapter": 2, "label": "The just shall live by faith"}
+      ]
+    },
+    "2": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Paul", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["judgment", "hypocrisy", "circumcision", "law"],
+      "events": [],
+      "keyVerses": [1, 11, 29],
+      "crossReferences": [
+        {"book": "Deuteronomy", "chapter": 10, "label": "Circumcision of the heart"}
+      ]
+    },
+    "3": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Paul", "role": "author"},
+        {"name": "Jesus Christ", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["sin", "justification", "faith", "righteousness"],
+      "events": [],
+      "keyVerses": [10, 23, 28],
+      "crossReferences": [
+        {"book": "Psalms", "chapter": 14, "label": "There is none righteous, no not one"},
+        {"book": "Genesis", "chapter": 15, "label": "Righteousness by faith"}
+      ]
+    },
+    "4": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Paul", "role": "author"},
+        {"name": "Abraham", "role": "mentioned"},
+        {"name": "David", "role": "mentioned"},
+        {"name": "Sarah", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["faith", "justification", "grace", "imputation"],
+      "events": ["Abraham's faith counted as righteousness"],
+      "keyVerses": [3, 5, 25],
+      "crossReferences": [
+        {"book": "Genesis", "chapter": 15, "label": "Abraham believed God and it was counted to him for righteousness"},
+        {"book": "Psalms", "chapter": 32, "label": "Blessed is he whose transgression is forgiven"}
+      ]
+    },
+    "5": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Paul", "role": "author"},
+        {"name": "Jesus Christ", "role": "mentioned"},
+        {"name": "Adam", "role": "mentioned"},
+        {"name": "Moses", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["justification", "grace", "reconciliation", "original-sin"],
+      "events": ["Comparison of Adam and Christ"],
+      "keyVerses": [1, 8, 12],
+      "crossReferences": [
+        {"book": "Genesis", "chapter": 3, "label": "Sin entered the world through one man"},
+        {"book": "1 Corinthians", "chapter": 15, "label": "In Adam all die, in Christ all made alive"}
+      ]
+    },
+    "6": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Paul", "role": "author"},
+        {"name": "Jesus Christ", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["baptism", "sanctification", "freedom-from-sin", "grace"],
+      "events": [],
+      "keyVerses": [4, 14, 23],
+      "crossReferences": [
+        {"book": "Galatians", "chapter": 3, "label": "Baptized into Christ"}
+      ]
+    },
+    "7": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Paul", "role": "author"},
+        {"name": "Jesus Christ", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["law", "sin", "inner-conflict", "flesh"],
+      "events": ["Paul describes the struggle between flesh and spirit"],
+      "keyVerses": [15, 19, 24],
+      "crossReferences": [
+        {"book": "Galatians", "chapter": 5, "label": "The flesh lusts against the Spirit"}
+      ]
+    },
+    "8": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Paul", "role": "author"},
+        {"name": "Jesus Christ", "role": "mentioned"},
+        {"name": "Holy Spirit", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["holy-spirit", "adoption", "predestination", "perseverance"],
+      "events": [],
+      "keyVerses": [1, 28, 38],
+      "crossReferences": [
+        {"book": "Galatians", "chapter": 4, "label": "Spirit of adoption crying Abba Father"},
+        {"book": "Ephesians", "chapter": 1, "label": "Predestined according to his purpose"}
+      ]
+    },
+    "9": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Paul", "role": "author"},
+        {"name": "Abraham", "role": "mentioned"},
+        {"name": "Isaac", "role": "mentioned"},
+        {"name": "Jacob", "role": "mentioned"},
+        {"name": "Esau", "role": "mentioned"},
+        {"name": "Rebecca", "role": "mentioned"},
+        {"name": "Moses", "role": "mentioned"},
+        {"name": "Pharaoh", "role": "mentioned"},
+        {"name": "Sarah", "role": "mentioned"}
+      ],
+      "locations": ["Israel"],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["election", "sovereignty-of-god", "israel", "mercy"],
+      "events": ["Paul grieves over Israel's unbelief"],
+      "keyVerses": [15, 16, 20],
+      "crossReferences": [
+        {"book": "Malachi", "chapter": 1, "label": "Jacob have I loved, Esau have I hated"},
+        {"book": "Exodus", "chapter": 33, "label": "I will have mercy on whom I will have mercy"}
+      ]
+    },
+    "10": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Paul", "role": "author"},
+        {"name": "Moses", "role": "mentioned"},
+        {"name": "Isaiah", "role": "mentioned"}
+      ],
+      "locations": ["Israel"],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["salvation", "faith", "confession", "preaching"],
+      "events": [],
+      "keyVerses": [9, 13, 17],
+      "crossReferences": [
+        {"book": "Joel", "chapter": 2, "label": "Whosoever shall call upon the name of the Lord shall be saved"},
+        {"book": "Isaiah", "chapter": 52, "label": "How beautiful are the feet of them that preach the gospel"}
+      ]
+    },
+    "11": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Paul", "role": "author"},
+        {"name": "Elijah", "role": "mentioned"},
+        {"name": "David", "role": "mentioned"}
+      ],
+      "locations": ["Israel"],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["israel", "remnant", "gentile-inclusion", "olive-tree"],
+      "events": ["Paul uses the olive tree metaphor for Israel and the Gentiles"],
+      "keyVerses": [26, 33, 36],
+      "crossReferences": [
+        {"book": "1 Kings", "chapter": 19, "label": "Seven thousand who have not bowed to Baal"},
+        {"book": "Isaiah", "chapter": 59, "label": "The Deliverer shall come out of Zion"}
+      ]
+    },
+    "12": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Paul", "role": "author"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["spiritual-gifts", "transformation", "love", "humility"],
+      "events": [],
+      "keyVerses": [1, 2, 21],
+      "crossReferences": [
+        {"book": "1 Corinthians", "chapter": 12, "label": "Many members, one body"},
+        {"book": "Proverbs", "chapter": 25, "label": "Heap coals of fire on his head"}
+      ]
+    },
+    "13": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Paul", "role": "author"},
+        {"name": "Jesus Christ", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["civil-authority", "love", "law-fulfillment", "righteousness"],
+      "events": [],
+      "keyVerses": [1, 10, 14],
+      "crossReferences": [
+        {"book": "Leviticus", "chapter": 19, "label": "Love thy neighbour as thyself"},
+        {"book": "1 Peter", "chapter": 2, "label": "Submit yourselves to every ordinance of man"}
+      ]
+    },
+    "14": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Paul", "role": "author"},
+        {"name": "Jesus Christ", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["christian-liberty", "conscience", "judgment", "stumbling-block"],
+      "events": [],
+      "keyVerses": [8, 13, 17],
+      "crossReferences": [
+        {"book": "1 Corinthians", "chapter": 8, "label": "Food offered to idols and the weaker brother"},
+        {"book": "Colossians", "chapter": 2, "label": "Let no man judge you in food or drink"}
+      ]
+    },
+    "15": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Paul", "role": "author"},
+        {"name": "Jesus Christ", "role": "mentioned"},
+        {"name": "Isaiah", "role": "mentioned"},
+        {"name": "Jesse", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem", "Spain", "Illyricum", "Macedonia", "Achaia"],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["unity", "gentile-mission", "travel-plans", "generosity"],
+      "events": ["Paul announces his plan to visit Rome on the way to Spain"],
+      "keyVerses": [1, 13, 20],
+      "crossReferences": [
+        {"book": "Isaiah", "chapter": 11, "label": "Root of Jesse shall stand as an ensign"},
+        {"book": "Isaiah", "chapter": 52, "label": "They that have not heard shall understand"}
+      ]
+    },
+    "16": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Paul", "role": "author"},
+        {"name": "Phoebe", "role": "mentioned"},
+        {"name": "Priscilla", "role": "mentioned"},
+        {"name": "Aquila", "role": "mentioned"},
+        {"name": "Tertius", "role": "scribe"},
+        {"name": "Timothy", "role": "mentioned"},
+        {"name": "Gaius", "role": "mentioned"},
+        {"name": "Erastus", "role": "mentioned"}
+      ],
+      "locations": ["Cenchrea", "Rome"],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["greetings", "fellowship", "false-teachers", "doxology"],
+      "events": ["Paul sends personal greetings to many believers in Rome"],
+      "keyVerses": [17, 20, 27],
+      "crossReferences": [
+        {"book": "Acts", "chapter": 18, "label": "Priscilla and Aquila as co-workers with Paul"},
+        {"book": "Genesis", "chapter": 3, "label": "God shall bruise Satan under your feet"}
+      ]
+    }
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "book": "Ezra",
+  "bookSlug": "15.ezra",
+  "testament": "1.old-testament",
+  "chapters": {
+    "1": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Cyrus", "role": "protagonist"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": ["Babylon", "Jerusalem", "Persia"],
+      "timePeriod": "Return from Exile",
+      "era": "post-exile",
+      "topics": ["restoration", "decree", "return", "temple-rebuilding"],
+      "events": ["Cyrus's decree to rebuild the temple", "Temple vessels returned"],
+      "keyVerses": [1, 2, 3],
+      "crossReferences": [
+        {"book": "2 Chronicles", "chapter": 36, "label": "Cyrus's decree concludes 2 Chronicles"},
+        {"book": "Jeremiah", "chapter": 25, "label": "Seventy years of exile fulfilled"},
+        {"book": "Isaiah", "chapter": 44, "label": "Cyrus named by God as shepherd"}
+      ]
+    },
+    "2": {
+      "genre": ["narrative", "genealogy"],
+      "people": [
+        {"name": "Zerubbabel", "role": "mentioned"},
+        {"name": "Jeshua", "role": "mentioned"}
+      ],
+      "locations": ["Babylon", "Jerusalem"],
+      "timePeriod": "Return from Exile",
+      "era": "post-exile",
+      "topics": ["census", "return", "genealogy", "identity"],
+      "events": ["List of exiles who returned to Jerusalem"],
+      "keyVerses": [1, 64],
+      "crossReferences": [
+        {"book": "Nehemiah", "chapter": 7, "label": "Parallel list of returnees"}
+      ]
+    },
+    "3": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Zerubbabel", "role": "protagonist"},
+        {"name": "Jeshua", "role": "protagonist"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "Return from Exile",
+      "era": "post-exile",
+      "topics": ["altar", "worship", "foundation", "temple-rebuilding"],
+      "events": ["Altar rebuilt and sacrifices resumed", "Temple foundation laid", "Weeping and joy at the foundation"],
+      "keyVerses": [2, 11, 12],
+      "crossReferences": [
+        {"book": "Haggai", "chapter": 2, "label": "Encouragement about the second temple's glory"}
+      ]
+    },
+    "4": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Zerubbabel", "role": "mentioned"},
+        {"name": "Artaxerxes", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem", "Samaria"],
+      "timePeriod": "Return from Exile",
+      "era": "post-exile",
+      "topics": ["opposition", "accusation", "delay", "politics"],
+      "events": ["Adversaries oppose temple rebuilding", "Work on the temple halted by royal decree"],
+      "keyVerses": [4, 21, 24],
+      "crossReferences": [
+        {"book": "Nehemiah", "chapter": 4, "label": "Similar opposition to wall rebuilding"}
+      ]
+    },
+    "5": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Zerubbabel", "role": "mentioned"},
+        {"name": "Jeshua", "role": "mentioned"},
+        {"name": "Haggai", "role": "mentioned"},
+        {"name": "Zechariah", "role": "mentioned"},
+        {"name": "Tattenai", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "Return from Exile",
+      "era": "post-exile",
+      "topics": ["prophecy", "rebuilding", "investigation", "courage"],
+      "events": ["Haggai and Zechariah encourage rebuilding", "Building resumes", "Tattenai investigates and reports to Darius"],
+      "keyVerses": [1, 2, 5],
+      "crossReferences": [
+        {"book": "Haggai", "chapter": 1, "label": "Haggai urges temple rebuilding"}
+      ]
+    },
+    "6": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Darius", "role": "protagonist"},
+        {"name": "Zerubbabel", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem", "Babylon"],
+      "timePeriod": "Return from Exile",
+      "era": "post-exile",
+      "topics": ["decree", "completion", "dedication", "passover"],
+      "events": ["Darius confirms Cyrus's decree", "Temple completed and dedicated", "Passover celebrated"],
+      "keyVerses": [14, 15, 22],
+      "crossReferences": [
+        {"book": "Haggai", "chapter": 2, "label": "Promise about the latter glory of this temple"}
+      ]
+    },
+    "7": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Ezra", "role": "protagonist"},
+        {"name": "Artaxerxes", "role": "mentioned"}
+      ],
+      "locations": ["Babylon", "Jerusalem"],
+      "timePeriod": "Return from Exile",
+      "era": "post-exile",
+      "topics": ["law", "teaching", "commission", "divine-favor"],
+      "events": ["Ezra introduced as a skilled scribe", "Artaxerxes commissions Ezra", "Ezra's journey to Jerusalem"],
+      "keyVerses": [6, 10, 27],
+      "crossReferences": [
+        {"book": "Nehemiah", "chapter": 8, "label": "Ezra reads the law to the people"}
+      ]
+    },
+    "8": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Ezra", "role": "protagonist"}
+      ],
+      "locations": ["Babylon", "Ahava", "Jerusalem"],
+      "timePeriod": "Return from Exile",
+      "era": "post-exile",
+      "topics": ["fasting", "prayer", "protection", "stewardship"],
+      "events": ["List of those returning with Ezra", "Fasting and prayer for safe journey", "Arrival in Jerusalem with temple treasures"],
+      "keyVerses": [21, 22, 23],
+      "crossReferences": [
+        {"book": "Nehemiah", "chapter": 2, "label": "Nehemiah's similar journey with different approach"}
+      ]
+    },
+    "9": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Ezra", "role": "protagonist"},
+        {"name": "God", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "Return from Exile",
+      "era": "post-exile",
+      "topics": ["intermarriage", "confession", "grief", "holiness"],
+      "events": ["Ezra learns of intermarriage with pagans", "Ezra's prayer of confession and grief"],
+      "keyVerses": [1, 2, 6],
+      "crossReferences": [
+        {"book": "Nehemiah", "chapter": 13, "label": "Nehemiah deals with same intermarriage issue"},
+        {"book": "Deuteronomy", "chapter": 7, "label": "Prohibition against intermarriage with pagans"}
+      ]
+    },
+    "10": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Ezra", "role": "protagonist"},
+        {"name": "Shechaniah", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "Return from Exile",
+      "era": "post-exile",
+      "topics": ["repentance", "covenant-renewal", "separation", "obedience"],
+      "events": ["People confess and covenant to put away foreign wives", "List of those who had married foreign women"],
+      "keyVerses": [1, 3, 11],
+      "crossReferences": [
+        {"book": "Malachi", "chapter": 2, "label": "God condemns faithless divorce and intermarriage"}
+      ]
+    }
+  }
+}

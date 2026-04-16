@@ -1,0 +1,621 @@
+{
+  "book": "Numbers",
+  "bookSlug": "04.numbers",
+  "testament": "1.old-testament",
+  "chapters": {
+    "1": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Moses", "role": "protagonist"},
+        {"name": "Aaron", "role": "mentioned"}
+      ],
+      "locations": ["Sinai"],
+      "timePeriod": "At Sinai",
+      "era": "exodus",
+      "topics": ["census", "organization", "tribes"],
+      "events": ["First census of Israel's fighting men by tribe"],
+      "keyVerses": [2, 3, 46],
+      "crossReferences": [
+        {"book": "Numbers", "chapter": 26, "label": "Second census taken before entering Canaan"}
+      ]
+    },
+    "2": {
+      "genre": ["law"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Moses", "role": "recipient"},
+        {"name": "Aaron", "role": "mentioned"}
+      ],
+      "locations": ["Sinai"],
+      "timePeriod": "At Sinai",
+      "era": "exodus",
+      "topics": ["order", "camp-arrangement", "tribes"],
+      "events": ["Arrangement of the camp around the tabernacle by tribal divisions"],
+      "keyVerses": [2, 34],
+      "crossReferences": [
+        {"book": "1 Corinthians", "chapter": 14, "label": "Let all things be done decently and in order"}
+      ]
+    },
+    "3": {
+      "genre": ["narrative", "genealogy"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Moses", "role": "protagonist"},
+        {"name": "Aaron", "role": "mentioned"},
+        {"name": "Nadab", "role": "mentioned"},
+        {"name": "Abihu", "role": "mentioned"}
+      ],
+      "locations": ["Sinai"],
+      "timePeriod": "At Sinai",
+      "era": "exodus",
+      "topics": ["levites", "service", "firstborn"],
+      "events": ["Census of the Levites", "Levites substituted for the firstborn of Israel"],
+      "keyVerses": [12, 13],
+      "crossReferences": [
+        {"book": "Exodus", "chapter": 13, "label": "Consecration of the firstborn"}
+      ]
+    },
+    "4": {
+      "genre": ["law"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Moses", "role": "recipient"},
+        {"name": "Aaron", "role": "mentioned"}
+      ],
+      "locations": ["Sinai"],
+      "timePeriod": "At Sinai",
+      "era": "exodus",
+      "topics": ["levites", "service", "tabernacle"],
+      "events": ["Duties of the Levite clans: Kohathites, Gershonites, Merarites"],
+      "keyVerses": [15, 19, 20],
+      "crossReferences": [
+        {"book": "1 Chronicles", "chapter": 23, "label": "David organizes the Levites for service"}
+      ]
+    },
+    "5": {
+      "genre": ["law"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Moses", "role": "recipient"}
+      ],
+      "locations": ["Sinai"],
+      "timePeriod": "At Sinai",
+      "era": "exodus",
+      "topics": ["purity", "jealousy", "restitution"],
+      "events": ["Laws for putting the unclean out of the camp", "Law of restitution", "Test for an unfaithful wife"],
+      "keyVerses": [6, 7],
+      "crossReferences": [
+        {"book": "2 Corinthians", "chapter": 7, "label": "Let us cleanse ourselves from all defilement"}
+      ]
+    },
+    "6": {
+      "genre": ["law"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Moses", "role": "recipient"},
+        {"name": "Aaron", "role": "mentioned"}
+      ],
+      "locations": ["Sinai"],
+      "timePeriod": "At Sinai",
+      "era": "exodus",
+      "topics": ["nazirite-vow", "blessing", "consecration"],
+      "events": ["The Nazirite vow", "The Aaronic blessing"],
+      "keyVerses": [2, 24, 25, 26],
+      "crossReferences": [
+        {"book": "Judges", "chapter": 13, "label": "Samson as a Nazirite from birth"},
+        {"book": "Luke", "chapter": 1, "label": "John the Baptist shall drink no wine"}
+      ]
+    },
+    "7": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Moses", "role": "protagonist"}
+      ],
+      "locations": ["Sinai"],
+      "timePeriod": "At Sinai",
+      "era": "exodus",
+      "topics": ["offering", "dedication", "worship"],
+      "events": ["Offerings of the tribal leaders for the tabernacle dedication"],
+      "keyVerses": [1, 89],
+      "crossReferences": [
+        {"book": "Ezra", "chapter": 6, "label": "Dedication of the temple"}
+      ]
+    },
+    "8": {
+      "genre": ["law", "narrative"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Moses", "role": "protagonist"},
+        {"name": "Aaron", "role": "protagonist"}
+      ],
+      "locations": ["Sinai"],
+      "timePeriod": "At Sinai",
+      "era": "exodus",
+      "topics": ["levites", "consecration", "lampstand"],
+      "events": ["Setting up the lampstand", "Purification and dedication of the Levites"],
+      "keyVerses": [14, 19],
+      "crossReferences": [
+        {"book": "Hebrews", "chapter": 9, "label": "The lampstand in the tabernacle"}
+      ]
+    },
+    "9": {
+      "genre": ["narrative", "law"],
+      "people": [
+        {"name": "God", "role": "protagonist"},
+        {"name": "Moses", "role": "protagonist"}
+      ],
+      "locations": ["Sinai"],
+      "timePeriod": "At Sinai",
+      "era": "exodus",
+      "topics": ["passover", "guidance", "cloud"],
+      "events": ["Second Passover observed", "Provision for delayed Passover", "The cloud guides Israel's journeys"],
+      "keyVerses": [15, 17, 23],
+      "crossReferences": [
+        {"book": "Exodus", "chapter": 13, "label": "The pillar of cloud and fire"}
+      ]
+    },
+    "10": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "God", "role": "protagonist"},
+        {"name": "Moses", "role": "protagonist"},
+        {"name": "Hobab", "role": "mentioned"}
+      ],
+      "locations": ["Sinai", "Paran"],
+      "timePeriod": "Departure from Sinai",
+      "era": "exodus",
+      "topics": ["guidance", "departure", "trumpets"],
+      "events": ["Silver trumpets made for assembly and signals", "Israel departs from Sinai"],
+      "keyVerses": [35, 36],
+      "crossReferences": [
+        {"book": "Psalms", "chapter": 68, "label": "Let God arise, let his enemies be scattered"}
+      ]
+    },
+    "11": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "God", "role": "protagonist"},
+        {"name": "Moses", "role": "protagonist"}
+      ],
+      "locations": ["Taberah", "Kibrothhattaavah"],
+      "timePeriod": "Wilderness wandering",
+      "era": "exodus",
+      "topics": ["complaining", "judgment", "spirit-of-god"],
+      "events": ["Fire of the Lord burns at Taberah", "People crave meat and God sends quail", "Seventy elders receive the Spirit"],
+      "keyVerses": [1, 17, 29],
+      "crossReferences": [
+        {"book": "1 Corinthians", "chapter": 10, "label": "Do not crave evil things as they did"},
+        {"book": "Psalms", "chapter": 78, "label": "They tested God and provoked the Holy One"}
+      ]
+    },
+    "12": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "God", "role": "protagonist"},
+        {"name": "Moses", "role": "protagonist"},
+        {"name": "Miriam", "role": "protagonist"},
+        {"name": "Aaron", "role": "protagonist"}
+      ],
+      "locations": ["Hazeroth"],
+      "timePeriod": "Wilderness wandering",
+      "era": "exodus",
+      "topics": ["jealousy", "humility", "judgment"],
+      "events": ["Miriam and Aaron challenge Moses' authority", "Miriam struck with leprosy", "Moses intercedes for Miriam"],
+      "keyVerses": [3, 6, 8],
+      "crossReferences": [
+        {"book": "Deuteronomy", "chapter": 24, "label": "Remember what the Lord did to Miriam"}
+      ]
+    },
+    "13": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "God", "role": "mentioned"},
+        {"name": "Moses", "role": "protagonist"},
+        {"name": "Caleb", "role": "protagonist"},
+        {"name": "Joshua", "role": "protagonist"}
+      ],
+      "locations": ["Paran", "Canaan", "Hebron", "Eshcol"],
+      "timePeriod": "Spying out Canaan",
+      "era": "exodus",
+      "topics": ["faith", "fear", "promised-land"],
+      "events": ["Twelve spies sent into Canaan", "Spies return with the report of a land of giants", "Caleb urges faith"],
+      "keyVerses": [27, 30, 33],
+      "crossReferences": [
+        {"book": "Hebrews", "chapter": 3, "label": "Do not harden your hearts as in the rebellion"}
+      ]
+    },
+    "14": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "God", "role": "protagonist"},
+        {"name": "Moses", "role": "protagonist"},
+        {"name": "Caleb", "role": "mentioned"},
+        {"name": "Joshua", "role": "mentioned"}
+      ],
+      "locations": ["Paran"],
+      "timePeriod": "Rebellion at Kadesh",
+      "era": "exodus",
+      "topics": ["unbelief", "judgment", "intercession"],
+      "events": ["Israel rebels and refuses to enter the land", "Moses intercedes", "God condemns that generation to wander forty years"],
+      "keyVerses": [18, 22, 23, 30],
+      "crossReferences": [
+        {"book": "Hebrews", "chapter": 3, "label": "They could not enter in because of unbelief"},
+        {"book": "1 Corinthians", "chapter": 10, "label": "Their bodies were scattered in the wilderness"}
+      ]
+    },
+    "15": {
+      "genre": ["law"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Moses", "role": "recipient"}
+      ],
+      "locations": ["Wilderness"],
+      "timePeriod": "Wilderness wandering",
+      "era": "exodus",
+      "topics": ["offerings", "sabbath", "tassels"],
+      "events": ["Supplementary laws for offerings", "A Sabbath-breaker stoned", "Law of tassels on garments"],
+      "keyVerses": [38, 39, 40],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 23, "label": "They enlarge the borders of their garments"}
+      ]
+    },
+    "16": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "God", "role": "protagonist"},
+        {"name": "Moses", "role": "protagonist"},
+        {"name": "Aaron", "role": "protagonist"},
+        {"name": "Korah", "role": "antagonist"},
+        {"name": "Dathan", "role": "antagonist"},
+        {"name": "Abiram", "role": "antagonist"}
+      ],
+      "locations": ["Wilderness"],
+      "timePeriod": "Wilderness wandering",
+      "era": "exodus",
+      "topics": ["rebellion", "judgment", "authority"],
+      "events": ["Korah's rebellion against Moses and Aaron", "The earth swallows Korah, Dathan, and Abiram", "Plague upon the congregation"],
+      "keyVerses": [3, 32, 33],
+      "crossReferences": [
+        {"book": "Jude", "chapter": 1, "label": "They perished in the rebellion of Korah"},
+        {"book": "2 Timothy", "chapter": 2, "label": "The Lord knows those who are his"}
+      ]
+    },
+    "17": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "God", "role": "protagonist"},
+        {"name": "Moses", "role": "protagonist"},
+        {"name": "Aaron", "role": "protagonist"}
+      ],
+      "locations": ["Wilderness"],
+      "timePeriod": "Wilderness wandering",
+      "era": "exodus",
+      "topics": ["priesthood", "authority", "confirmation"],
+      "events": ["Aaron's rod buds, blossoms, and produces almonds"],
+      "keyVerses": [5, 8],
+      "crossReferences": [
+        {"book": "Hebrews", "chapter": 9, "label": "The ark contained Aaron's rod that budded"}
+      ]
+    },
+    "18": {
+      "genre": ["law"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Aaron", "role": "recipient"}
+      ],
+      "locations": ["Wilderness"],
+      "timePeriod": "Wilderness wandering",
+      "era": "exodus",
+      "topics": ["priesthood", "levites", "tithing"],
+      "events": ["Duties and provisions for priests and Levites", "The tithe for the Levites"],
+      "keyVerses": [20, 21],
+      "crossReferences": [
+        {"book": "Hebrews", "chapter": 7, "label": "Levi paid tithes through Abraham"}
+      ]
+    },
+    "19": {
+      "genre": ["law"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Moses", "role": "recipient"},
+        {"name": "Aaron", "role": "recipient"}
+      ],
+      "locations": ["Wilderness"],
+      "timePeriod": "Wilderness wandering",
+      "era": "exodus",
+      "topics": ["purification", "red-heifer", "death"],
+      "events": ["The red heifer for water of purification from defilement by death"],
+      "keyVerses": [2, 9],
+      "crossReferences": [
+        {"book": "Hebrews", "chapter": 9, "label": "The ashes of a heifer sprinkling the unclean sanctifies the flesh"}
+      ]
+    },
+    "20": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "God", "role": "protagonist"},
+        {"name": "Moses", "role": "protagonist"},
+        {"name": "Aaron", "role": "protagonist"},
+        {"name": "Miriam", "role": "mentioned"}
+      ],
+      "locations": ["Kadesh", "Meribah", "Mount Hor", "Edom"],
+      "timePeriod": "End of wandering",
+      "era": "exodus",
+      "topics": ["disobedience", "death", "water"],
+      "events": ["Death of Miriam", "Moses strikes the rock at Meribah", "Edom refuses passage", "Death of Aaron on Mount Hor"],
+      "keyVerses": [8, 11, 12],
+      "crossReferences": [
+        {"book": "Psalms", "chapter": 106, "label": "It went ill with Moses on their account"},
+        {"book": "Deuteronomy", "chapter": 32, "label": "You did not sanctify me at the waters of Meribah"}
+      ]
+    },
+    "21": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "God", "role": "protagonist"},
+        {"name": "Moses", "role": "protagonist"}
+      ],
+      "locations": ["Mount Hor", "Hormah"],
+      "timePeriod": "Journey to Canaan",
+      "era": "exodus",
+      "topics": ["faith", "judgment", "healing"],
+      "events": ["Victory over the king of Arad", "The bronze serpent", "Victories over Sihon and Og"],
+      "keyVerses": [8, 9],
+      "crossReferences": [
+        {"book": "John", "chapter": 3, "label": "As Moses lifted up the serpent in the wilderness"},
+        {"book": "2 Kings", "chapter": 18, "label": "Hezekiah destroyed the bronze serpent"}
+      ]
+    },
+    "22": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "God", "role": "protagonist"},
+        {"name": "Balaam", "role": "protagonist"},
+        {"name": "Balak", "role": "antagonist"}
+      ],
+      "locations": ["Moab", "Pethor"],
+      "timePeriod": "Plains of Moab",
+      "era": "exodus",
+      "topics": ["prophecy", "obedience", "sovereignty"],
+      "events": ["Balak summons Balaam to curse Israel", "Balaam's donkey speaks", "Angel of the Lord confronts Balaam"],
+      "keyVerses": [12, 28, 38],
+      "crossReferences": [
+        {"book": "2 Peter", "chapter": 2, "label": "Balaam loved the wages of unrighteousness"},
+        {"book": "Jude", "chapter": 1, "label": "The error of Balaam"},
+        {"book": "Revelation", "chapter": 2, "label": "The teaching of Balaam"}
+      ]
+    },
+    "23": {
+      "genre": ["narrative", "prophecy"],
+      "people": [
+        {"name": "God", "role": "protagonist"},
+        {"name": "Balaam", "role": "speaker"},
+        {"name": "Balak", "role": "protagonist"}
+      ],
+      "locations": ["Moab"],
+      "timePeriod": "Plains of Moab",
+      "era": "exodus",
+      "topics": ["blessing", "prophecy", "sovereignty"],
+      "events": ["Balaam's first and second oracles blessing Israel"],
+      "keyVerses": [19, 23],
+      "crossReferences": [
+        {"book": "Romans", "chapter": 11, "label": "The gifts and calling of God are irrevocable"}
+      ]
+    },
+    "24": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "protagonist"},
+        {"name": "Balaam", "role": "speaker"},
+        {"name": "Balak", "role": "mentioned"}
+      ],
+      "locations": ["Moab"],
+      "timePeriod": "Plains of Moab",
+      "era": "exodus",
+      "topics": ["prophecy", "messiah", "blessing"],
+      "events": ["Balaam's third and fourth oracles", "Prophecy of the Star out of Jacob"],
+      "keyVerses": [5, 17],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 2, "label": "The star of Bethlehem"},
+        {"book": "Revelation", "chapter": 22, "label": "I am the bright and morning star"}
+      ]
+    },
+    "25": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "God", "role": "protagonist"},
+        {"name": "Moses", "role": "protagonist"},
+        {"name": "Phinehas", "role": "protagonist"}
+      ],
+      "locations": ["Shittim", "Moab"],
+      "timePeriod": "Plains of Moab",
+      "era": "exodus",
+      "topics": ["idolatry", "zeal", "judgment"],
+      "events": ["Israel sins with Moabite women at Baal-peor", "Phinehas' zeal stops the plague"],
+      "keyVerses": [11, 13],
+      "crossReferences": [
+        {"book": "Psalms", "chapter": 106, "label": "Phinehas stood up and intervened and the plague was stayed"},
+        {"book": "1 Corinthians", "chapter": 10, "label": "Do not commit sexual immorality as some of them did"}
+      ]
+    },
+    "26": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Moses", "role": "protagonist"}
+      ],
+      "locations": ["Plains of Moab"],
+      "timePeriod": "Plains of Moab",
+      "era": "exodus",
+      "topics": ["census", "inheritance", "tribes"],
+      "events": ["Second census of Israel before entering Canaan"],
+      "keyVerses": [51, 65],
+      "crossReferences": [
+        {"book": "Numbers", "chapter": 1, "label": "The first census at Sinai"}
+      ]
+    },
+    "27": {
+      "genre": ["narrative", "law"],
+      "people": [
+        {"name": "God", "role": "protagonist"},
+        {"name": "Moses", "role": "protagonist"},
+        {"name": "Joshua", "role": "protagonist"}
+      ],
+      "locations": ["Plains of Moab", "Abarim"],
+      "timePeriod": "Plains of Moab",
+      "era": "exodus",
+      "topics": ["inheritance", "leadership", "succession"],
+      "events": ["Daughters of Zelophehad request inheritance", "Joshua commissioned as Moses' successor"],
+      "keyVerses": [7, 18],
+      "crossReferences": [
+        {"book": "Deuteronomy", "chapter": 34, "label": "Joshua filled with the spirit of wisdom"}
+      ]
+    },
+    "28": {
+      "genre": ["law"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Moses", "role": "recipient"}
+      ],
+      "locations": ["Plains of Moab"],
+      "timePeriod": "Plains of Moab",
+      "era": "exodus",
+      "topics": ["offerings", "worship", "feasts"],
+      "events": ["Daily, weekly, and monthly offerings", "Offerings for Passover and Feast of Weeks"],
+      "keyVerses": [2, 3],
+      "crossReferences": [
+        {"book": "Hebrews", "chapter": 10, "label": "Continual offerings could not make perfect"}
+      ]
+    },
+    "29": {
+      "genre": ["law"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Moses", "role": "recipient"}
+      ],
+      "locations": ["Plains of Moab"],
+      "timePeriod": "Plains of Moab",
+      "era": "exodus",
+      "topics": ["offerings", "feasts", "worship"],
+      "events": ["Offerings for Feast of Trumpets, Day of Atonement, and Feast of Tabernacles"],
+      "keyVerses": [1, 7],
+      "crossReferences": [
+        {"book": "Leviticus", "chapter": 23, "label": "The appointed feasts of the Lord"}
+      ]
+    },
+    "30": {
+      "genre": ["law"],
+      "people": [
+        {"name": "Moses", "role": "speaker"}
+      ],
+      "locations": ["Plains of Moab"],
+      "timePeriod": "Plains of Moab",
+      "era": "exodus",
+      "topics": ["vows", "oaths", "integrity"],
+      "events": ["Laws concerning vows made by men and women"],
+      "keyVerses": [2],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 5, "label": "Let your yes be yes and your no be no"},
+        {"book": "Ecclesiastes", "chapter": 5, "label": "When you make a vow to God do not delay paying it"}
+      ]
+    },
+    "31": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "God", "role": "protagonist"},
+        {"name": "Moses", "role": "protagonist"},
+        {"name": "Phinehas", "role": "mentioned"},
+        {"name": "Balaam", "role": "mentioned"}
+      ],
+      "locations": ["Midian"],
+      "timePeriod": "Plains of Moab",
+      "era": "exodus",
+      "topics": ["warfare", "judgment", "vengeance"],
+      "events": ["War against the Midianites", "Death of Balaam", "Division of the spoil"],
+      "keyVerses": [2, 8],
+      "crossReferences": [
+        {"book": "Revelation", "chapter": 2, "label": "The doctrine of Balaam"}
+      ]
+    },
+    "32": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Moses", "role": "protagonist"}
+      ],
+      "locations": ["Gilead", "Jordan"],
+      "timePeriod": "Plains of Moab",
+      "era": "exodus",
+      "topics": ["inheritance", "obligation", "promise"],
+      "events": ["Reuben, Gad, and half of Manasseh settle east of the Jordan"],
+      "keyVerses": [6, 23],
+      "crossReferences": [
+        {"book": "Joshua", "chapter": 22, "label": "Eastern tribes build an altar at the Jordan"}
+      ]
+    },
+    "33": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Moses", "role": "author"}
+      ],
+      "locations": ["Rameses", "Succoth", "Jordan"],
+      "timePeriod": "Summary of the journey",
+      "era": "exodus",
+      "topics": ["journey", "stages", "remembrance"],
+      "events": ["Record of Israel's journey from Egypt to the plains of Moab"],
+      "keyVerses": [1, 2],
+      "crossReferences": [
+        {"book": "Psalms", "chapter": 107, "label": "They wandered in the wilderness"}
+      ]
+    },
+    "34": {
+      "genre": ["law"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Moses", "role": "recipient"}
+      ],
+      "locations": ["Canaan"],
+      "timePeriod": "Plains of Moab",
+      "era": "exodus",
+      "topics": ["boundaries", "promised-land", "inheritance"],
+      "events": ["Boundaries of the Promised Land defined", "Leaders appointed to divide the land"],
+      "keyVerses": [2, 13],
+      "crossReferences": [
+        {"book": "Ezekiel", "chapter": 47, "label": "Boundaries of the land in the restored kingdom"}
+      ]
+    },
+    "35": {
+      "genre": ["law"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Moses", "role": "recipient"}
+      ],
+      "locations": ["Plains of Moab"],
+      "timePeriod": "Plains of Moab",
+      "era": "exodus",
+      "topics": ["levitical-cities", "cities-of-refuge", "justice"],
+      "events": ["Forty-eight cities assigned to the Levites", "Six cities of refuge established"],
+      "keyVerses": [6, 11, 33],
+      "crossReferences": [
+        {"book": "Joshua", "chapter": 20, "label": "Cities of refuge implemented"},
+        {"book": "Hebrews", "chapter": 6, "label": "We who have fled for refuge to lay hold of the hope set before us"}
+      ]
+    },
+    "36": {
+      "genre": ["law"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Moses", "role": "protagonist"}
+      ],
+      "locations": ["Plains of Moab"],
+      "timePeriod": "Plains of Moab",
+      "era": "exodus",
+      "topics": ["inheritance", "marriage", "tribal-integrity"],
+      "events": ["Marriage law for heiresses to preserve tribal inheritance"],
+      "keyVerses": [7, 13],
+      "crossReferences": [
+        {"book": "Numbers", "chapter": 27, "label": "Daughters of Zelophehad's initial petition"}
+      ]
+    }
+  }
+}

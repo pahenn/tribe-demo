@@ -1,0 +1,273 @@
+{
+  "book": "Hebrews",
+  "bookSlug": "58.hebrews",
+  "testament": "2.new-testament",
+  "chapters": {
+    "1": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Jesus", "role": "protagonist"}
+      ],
+      "locations": [],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["supremacy-of-christ", "angels", "divine-sonship"],
+      "events": ["Argument for Christ's superiority over angels"],
+      "keyVerses": [1, 3, 4],
+      "crossReferences": [
+        {"book": "Psalms", "chapter": 2, "label": "Thou art my Son"},
+        {"book": "Colossians", "chapter": 1, "label": "Supremacy of Christ"},
+        {"book": "John", "chapter": 1, "label": "The Word made the worlds"}
+      ]
+    },
+    "2": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Jesus", "role": "protagonist"},
+        {"name": "Abraham", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["incarnation", "salvation", "high-priest", "suffering"],
+      "events": ["Warning against neglecting salvation", "Christ made lower than angels to taste death for all"],
+      "keyVerses": [3, 9, 17],
+      "crossReferences": [
+        {"book": "Psalms", "chapter": 8, "label": "What is man that thou art mindful of him"},
+        {"book": "Philippians", "chapter": 2, "label": "Christ's humiliation and exaltation"}
+      ]
+    },
+    "3": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Jesus", "role": "protagonist"},
+        {"name": "Moses", "role": "mentioned"},
+        {"name": "Holy Spirit", "role": "speaker"}
+      ],
+      "locations": [
+        {"name": "Wilderness", "type": "historical"}
+      ],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["faithfulness", "unbelief", "christ-over-moses", "hardened-hearts"],
+      "events": ["Christ compared to Moses", "Warning from Israel's wilderness rebellion"],
+      "keyVerses": [1, 6, 12],
+      "crossReferences": [
+        {"book": "Psalms", "chapter": 95, "label": "Today if ye will hear his voice"},
+        {"book": "Numbers", "chapter": 14, "label": "Israel's unbelief in the wilderness"}
+      ]
+    },
+    "4": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Jesus", "role": "protagonist"},
+        {"name": "God", "role": "speaker"},
+        {"name": "David", "role": "mentioned"},
+        {"name": "Joshua", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["sabbath-rest", "word-of-god", "high-priest", "grace"],
+      "events": ["Promise of entering God's rest", "Description of the living word of God"],
+      "keyVerses": [12, 15, 16],
+      "crossReferences": [
+        {"book": "Genesis", "chapter": 2, "label": "God rested on the seventh day"},
+        {"book": "Psalms", "chapter": 95, "label": "They shall not enter my rest"}
+      ]
+    },
+    "5": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Jesus", "role": "protagonist"},
+        {"name": "Aaron", "role": "mentioned"},
+        {"name": "Melchizedek", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["high-priest", "melchizedek", "spiritual-maturity", "obedience"],
+      "events": ["Christ appointed high priest after order of Melchizedek", "Rebuke for spiritual immaturity"],
+      "keyVerses": [6, 8, 9],
+      "crossReferences": [
+        {"book": "Psalms", "chapter": 110, "label": "Priest after the order of Melchizedek"},
+        {"book": "1 Corinthians", "chapter": 3, "label": "Milk vs solid food"}
+      ]
+    },
+    "6": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Jesus", "role": "protagonist"},
+        {"name": "Abraham", "role": "mentioned"},
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": [],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["perseverance", "falling-away", "hope", "gods-promise"],
+      "events": ["Warning against falling away", "God's oath to Abraham", "Hope as anchor of the soul"],
+      "keyVerses": [4, 18, 19],
+      "crossReferences": [
+        {"book": "Genesis", "chapter": 22, "label": "God's oath to Abraham"},
+        {"book": "2 Peter", "chapter": 2, "label": "Warning against apostasy"}
+      ]
+    },
+    "7": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Jesus", "role": "protagonist"},
+        {"name": "Melchizedek", "role": "mentioned"},
+        {"name": "Abraham", "role": "mentioned"},
+        {"name": "Aaron", "role": "mentioned"},
+        {"name": "Levi", "role": "mentioned"}
+      ],
+      "locations": [
+        {"name": "Salem", "type": "historical"}
+      ],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["melchizedek", "priesthood", "new-covenant", "intercession"],
+      "events": ["Melchizedek's encounter with Abraham", "Christ's eternal priesthood established"],
+      "keyVerses": [1, 25, 27],
+      "crossReferences": [
+        {"book": "Genesis", "chapter": 14, "label": "Melchizedek meets Abraham"},
+        {"book": "Psalms", "chapter": 110, "label": "Priest forever after order of Melchizedek"}
+      ]
+    },
+    "8": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Jesus", "role": "protagonist"},
+        {"name": "Moses", "role": "mentioned"},
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": [
+        {"name": "Egypt", "type": "historical"}
+      ],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["new-covenant", "heavenly-tabernacle", "mediator", "better-promises"],
+      "events": ["Christ as mediator of a better covenant", "Prophecy of the new covenant quoted"],
+      "keyVerses": [1, 6, 10],
+      "crossReferences": [
+        {"book": "Jeremiah", "chapter": 31, "label": "New covenant prophecy"},
+        {"book": "Exodus", "chapter": 25, "label": "Pattern of the tabernacle"}
+      ]
+    },
+    "9": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Jesus", "role": "protagonist"},
+        {"name": "Moses", "role": "mentioned"},
+        {"name": "Aaron", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["tabernacle", "blood-of-christ", "sacrifice", "redemption"],
+      "events": ["Description of the earthly tabernacle", "Christ enters the heavenly holy place with his own blood"],
+      "keyVerses": [12, 22, 27],
+      "crossReferences": [
+        {"book": "Exodus", "chapter": 26, "label": "Tabernacle construction"},
+        {"book": "Leviticus", "chapter": 16, "label": "Day of Atonement"}
+      ]
+    },
+    "10": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Jesus", "role": "protagonist"},
+        {"name": "Holy Spirit", "role": "speaker"},
+        {"name": "Moses", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["sacrifice", "perseverance", "faith", "new-covenant"],
+      "events": ["Christ's once-for-all sacrifice", "Warning against willful sin", "Exhortation to persevere"],
+      "keyVerses": [10, 25, 31],
+      "crossReferences": [
+        {"book": "Habakkuk", "chapter": 2, "label": "The just shall live by faith"},
+        {"book": "Psalms", "chapter": 40, "label": "A body hast thou prepared me"}
+      ]
+    },
+    "11": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Abel", "role": "mentioned"},
+        {"name": "Enoch", "role": "mentioned"},
+        {"name": "Noah", "role": "mentioned"},
+        {"name": "Abraham", "role": "mentioned"},
+        {"name": "Sarah", "role": "mentioned"},
+        {"name": "Isaac", "role": "mentioned"},
+        {"name": "Jacob", "role": "mentioned"},
+        {"name": "Joseph", "role": "mentioned"},
+        {"name": "Moses", "role": "mentioned"},
+        {"name": "Rahab", "role": "mentioned"},
+        {"name": "Gideon", "role": "mentioned"},
+        {"name": "Barak", "role": "mentioned"},
+        {"name": "Samson", "role": "mentioned"},
+        {"name": "Jephthah", "role": "mentioned"},
+        {"name": "David", "role": "mentioned"},
+        {"name": "Samuel", "role": "mentioned"}
+      ],
+      "locations": [
+        {"name": "Egypt", "type": "historical"},
+        {"name": "Red Sea", "type": "historical"},
+        {"name": "Jericho", "type": "historical"}
+      ],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["faith", "heroes-of-faith", "perseverance", "obedience"],
+      "events": ["Hall of faith recounting Old Testament heroes"],
+      "keyVerses": [1, 6, 39],
+      "crossReferences": [
+        {"book": "Genesis", "chapter": 22, "label": "Abraham's offering of Isaac"},
+        {"book": "Exodus", "chapter": 14, "label": "Crossing the Red Sea"},
+        {"book": "Joshua", "chapter": 6, "label": "Walls of Jericho"}
+      ]
+    },
+    "12": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Jesus", "role": "protagonist"},
+        {"name": "Esau", "role": "mentioned"},
+        {"name": "Moses", "role": "mentioned"},
+        {"name": "Abel", "role": "mentioned"}
+      ],
+      "locations": [
+        {"name": "Mount Sinai", "type": "historical"},
+        {"name": "Mount Zion", "type": "symbolic"},
+        {"name": "Heavenly Jerusalem", "type": "symbolic"}
+      ],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["discipline", "endurance", "holiness", "heavenly-city"],
+      "events": ["Exhortation to run the race of faith", "Contrast between Sinai and Zion"],
+      "keyVerses": [1, 2, 29],
+      "crossReferences": [
+        {"book": "Proverbs", "chapter": 3, "label": "The Lord disciplines those he loves"},
+        {"book": "Genesis", "chapter": 25, "label": "Esau sells his birthright"}
+      ]
+    },
+    "13": {
+      "genre": ["epistle"],
+      "people": [
+        {"name": "Jesus", "role": "protagonist"},
+        {"name": "Timothy", "role": "mentioned"}
+      ],
+      "locations": [
+        {"name": "Italy", "type": "literal"}
+      ],
+      "timePeriod": "Early Church",
+      "era": "early-church",
+      "topics": ["brotherly-love", "contentment", "obedience-to-leaders", "sacrifice-of-praise"],
+      "events": ["Final exhortations on Christian living", "Benediction and greetings"],
+      "keyVerses": [5, 8, 20],
+      "crossReferences": [
+        {"book": "Romans", "chapter": 12, "label": "Practical Christian living"},
+        {"book": "1 Thessalonians", "chapter": 5, "label": "Final instructions"}
+      ]
+    }
+  }
+}

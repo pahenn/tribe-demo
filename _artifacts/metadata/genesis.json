@@ -1,0 +1,946 @@
+{
+  "book": "Genesis",
+  "bookSlug": "01.genesis",
+  "testament": "1.old-testament",
+  "chapters": {
+    "1": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "God", "role": "protagonist"}
+      ],
+      "locations": [],
+      "timePeriod": "Creation",
+      "era": "primeval-history",
+      "topics": ["creation", "light-and-darkness", "divine-order"],
+      "events": ["Creation of the world in six days"],
+      "keyVerses": [1, 27],
+      "crossReferences": [
+        {"book": "John", "chapter": 1, "label": "In the beginning was the Word"},
+        {"book": "Colossians", "chapter": 1, "label": "By him all things were created"},
+        {"book": "Hebrews", "chapter": 11, "label": "By faith we understand the worlds were framed"}
+      ]
+    },
+    "2": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "God", "role": "protagonist"},
+        {"name": "Adam", "role": "protagonist"}
+      ],
+      "locations": ["Eden", "Havilah", "Assyria"],
+      "timePeriod": "Creation",
+      "era": "primeval-history",
+      "topics": ["creation", "marriage", "sabbath"],
+      "events": ["God forms man from dust", "Planting of the Garden of Eden", "Creation of woman from Adam's rib"],
+      "keyVerses": [7, 24],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 19, "label": "The two shall become one flesh"},
+        {"book": "1 Corinthians", "chapter": 15, "label": "The first man Adam became a living being"}
+      ]
+    },
+    "3": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "God", "role": "protagonist"},
+        {"name": "Adam", "role": "protagonist"},
+        {"name": "Eve", "role": "protagonist"}
+      ],
+      "locations": ["Eden"],
+      "timePeriod": "Creation",
+      "era": "primeval-history",
+      "topics": ["sin", "temptation", "fall-of-man", "judgment"],
+      "events": ["The serpent tempts Eve", "Adam and Eve eat the forbidden fruit", "God curses the serpent and the ground", "Expulsion from Eden"],
+      "keyVerses": [6, 15],
+      "crossReferences": [
+        {"book": "Romans", "chapter": 5, "label": "Through one man sin entered the world"},
+        {"book": "Revelation", "chapter": 12, "label": "The ancient serpent"}
+      ]
+    },
+    "4": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "God", "role": "protagonist"},
+        {"name": "Adam", "role": "mentioned"},
+        {"name": "Eve", "role": "mentioned"},
+        {"name": "Cain", "role": "antagonist"},
+        {"name": "Abel", "role": "protagonist"},
+        {"name": "Seth", "role": "mentioned"},
+        {"name": "Lamech", "role": "mentioned"}
+      ],
+      "locations": ["Nod"],
+      "timePeriod": "After the Fall",
+      "era": "primeval-history",
+      "topics": ["murder", "sacrifice", "sin", "judgment"],
+      "events": ["Cain murders Abel", "Cain is cursed and marked", "Birth of Seth"],
+      "keyVerses": [7, 9],
+      "crossReferences": [
+        {"book": "Hebrews", "chapter": 11, "label": "By faith Abel offered a more excellent sacrifice"},
+        {"book": "1 John", "chapter": 3, "label": "Not as Cain who was of the wicked one"}
+      ]
+    },
+    "5": {
+      "genre": ["genealogy"],
+      "people": [
+        {"name": "Adam", "role": "mentioned"},
+        {"name": "Seth", "role": "mentioned"},
+        {"name": "Enoch", "role": "mentioned"},
+        {"name": "Methuselah", "role": "mentioned"},
+        {"name": "Noah", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Adam to Noah",
+      "era": "primeval-history",
+      "topics": ["genealogy", "death", "faith"],
+      "events": ["Enoch walks with God and is taken", "Birth of Noah"],
+      "keyVerses": [24, 29],
+      "crossReferences": [
+        {"book": "Hebrews", "chapter": 11, "label": "By faith Enoch was taken so that he did not see death"},
+        {"book": "Jude", "chapter": 1, "label": "Enoch the seventh from Adam prophesied"}
+      ]
+    },
+    "6": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "God", "role": "protagonist"},
+        {"name": "Noah", "role": "protagonist"},
+        {"name": "Shem", "role": "mentioned"},
+        {"name": "Ham", "role": "mentioned"},
+        {"name": "Japheth", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "Before the Flood",
+      "era": "primeval-history",
+      "topics": ["wickedness", "judgment", "obedience", "covenant"],
+      "events": ["God grieves over human wickedness", "God commands Noah to build the ark"],
+      "keyVerses": [5, 8, 18],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 24, "label": "As in the days of Noah"},
+        {"book": "1 Peter", "chapter": 3, "label": "God waited patiently in the days of Noah"}
+      ]
+    },
+    "7": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "God", "role": "protagonist"},
+        {"name": "Noah", "role": "protagonist"},
+        {"name": "Shem", "role": "mentioned"},
+        {"name": "Ham", "role": "mentioned"},
+        {"name": "Japheth", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "The Flood",
+      "era": "primeval-history",
+      "topics": ["judgment", "obedience", "salvation"],
+      "events": ["Noah enters the ark", "The great flood begins", "All life outside the ark destroyed"],
+      "keyVerses": [1, 16],
+      "crossReferences": [
+        {"book": "2 Peter", "chapter": 2, "label": "God did not spare the ancient world but preserved Noah"},
+        {"book": "Hebrews", "chapter": 11, "label": "By faith Noah prepared an ark"}
+      ]
+    },
+    "8": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "God", "role": "protagonist"},
+        {"name": "Noah", "role": "protagonist"}
+      ],
+      "locations": ["Ararat"],
+      "timePeriod": "After the Flood",
+      "era": "primeval-history",
+      "topics": ["deliverance", "sacrifice", "mercy"],
+      "events": ["Ark rests on Mount Ararat", "Noah sends raven and dove", "Noah builds altar and offers sacrifice"],
+      "keyVerses": [11, 21, 22],
+      "crossReferences": [
+        {"book": "Isaiah", "chapter": 54, "label": "As I swore the waters of Noah would never again cover the earth"}
+      ]
+    },
+    "9": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "God", "role": "protagonist"},
+        {"name": "Noah", "role": "protagonist"},
+        {"name": "Shem", "role": "mentioned"},
+        {"name": "Ham", "role": "mentioned"},
+        {"name": "Japheth", "role": "mentioned"},
+        {"name": "Canaan", "role": "mentioned"}
+      ],
+      "locations": [],
+      "timePeriod": "After the Flood",
+      "era": "primeval-history",
+      "topics": ["covenant", "blessing", "curse"],
+      "events": ["God establishes the rainbow covenant", "Noah's drunkenness", "Cursing of Canaan"],
+      "keyVerses": [6, 13],
+      "crossReferences": [
+        {"book": "Acts", "chapter": 15, "label": "Noahic dietary laws referenced"},
+        {"book": "Isaiah", "chapter": 54, "label": "The covenant of peace like the waters of Noah"}
+      ]
+    },
+    "10": {
+      "genre": ["genealogy"],
+      "people": [
+        {"name": "Noah", "role": "mentioned"},
+        {"name": "Shem", "role": "mentioned"},
+        {"name": "Ham", "role": "mentioned"},
+        {"name": "Japheth", "role": "mentioned"},
+        {"name": "Nimrod", "role": "mentioned"}
+      ],
+      "locations": ["Babel", "Nineveh", "Sidon", "Sodom", "Gomorrah", "Shinar"],
+      "timePeriod": "After the Flood",
+      "era": "primeval-history",
+      "topics": ["genealogy", "nations", "spread-of-peoples"],
+      "events": ["Table of Nations - descendants of Noah's sons"],
+      "keyVerses": [9, 32],
+      "crossReferences": [
+        {"book": "Acts", "chapter": 17, "label": "From one man he made every nation"}
+      ]
+    },
+    "11": {
+      "genre": ["narrative", "genealogy"],
+      "people": [
+        {"name": "God", "role": "protagonist"},
+        {"name": "Shem", "role": "mentioned"},
+        {"name": "Abraham", "role": "mentioned"},
+        {"name": "Terah", "role": "mentioned"},
+        {"name": "Sarah", "role": "mentioned"},
+        {"name": "Lot", "role": "mentioned"}
+      ],
+      "locations": ["Babel", "Shinar", "Ur of the Chaldees", "Haran"],
+      "timePeriod": "After the Flood to Abram",
+      "era": "primeval-history",
+      "topics": ["pride", "judgment", "genealogy"],
+      "events": ["Tower of Babel - confusion of languages", "Genealogy from Shem to Abram", "Terah's family moves from Ur to Haran"],
+      "keyVerses": [4, 9],
+      "crossReferences": [
+        {"book": "Acts", "chapter": 2, "label": "Reversal of Babel at Pentecost"},
+        {"book": "Acts", "chapter": 7, "label": "The God of glory appeared to Abraham in Mesopotamia"}
+      ]
+    },
+    "12": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "God", "role": "protagonist"},
+        {"name": "Abraham", "role": "protagonist"},
+        {"name": "Sarah", "role": "mentioned"},
+        {"name": "Lot", "role": "mentioned"},
+        {"name": "Pharaoh", "role": "mentioned"}
+      ],
+      "locations": ["Haran", "Canaan", "Shechem", "Bethel", "Egypt"],
+      "timePeriod": "Call of Abram",
+      "era": "patriarchal",
+      "topics": ["calling", "faith", "promise", "deception"],
+      "events": ["God calls Abram to leave his country", "Abram journeys to Canaan", "Abram goes to Egypt and passes Sarai off as his sister"],
+      "keyVerses": [1, 2, 3],
+      "crossReferences": [
+        {"book": "Hebrews", "chapter": 11, "label": "By faith Abraham obeyed and went out"},
+        {"book": "Galatians", "chapter": 3, "label": "In you all the nations shall be blessed"}
+      ]
+    },
+    "13": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "God", "role": "protagonist"},
+        {"name": "Abraham", "role": "protagonist"},
+        {"name": "Lot", "role": "protagonist"}
+      ],
+      "locations": ["Bethel", "Jordan", "Sodom", "Hebron", "Mamre"],
+      "timePeriod": "Abram in Canaan",
+      "era": "patriarchal",
+      "topics": ["generosity", "promise", "separation"],
+      "events": ["Abram and Lot separate", "Lot chooses the plain of Jordan", "God promises Abram the land"],
+      "keyVerses": [15, 16],
+      "crossReferences": [
+        {"book": "2 Peter", "chapter": 2, "label": "Righteous Lot oppressed by the wicked"}
+      ]
+    },
+    "14": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Abraham", "role": "protagonist"},
+        {"name": "Lot", "role": "mentioned"},
+        {"name": "Melchizedek", "role": "protagonist"}
+      ],
+      "locations": ["Sodom", "Gomorrah", "Dan", "Damascus", "Salem"],
+      "timePeriod": "Abram in Canaan",
+      "era": "patriarchal",
+      "topics": ["warfare", "rescue", "tithing"],
+      "events": ["War of the kings", "Abram rescues Lot", "Melchizedek blesses Abram"],
+      "keyVerses": [18, 20],
+      "crossReferences": [
+        {"book": "Hebrews", "chapter": 7, "label": "Melchizedek king of Salem, priest of the Most High God"},
+        {"book": "Psalms", "chapter": 110, "label": "A priest forever after the order of Melchizedek"}
+      ]
+    },
+    "15": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "God", "role": "protagonist"},
+        {"name": "Abraham", "role": "protagonist"}
+      ],
+      "locations": ["Ur of the Chaldees"],
+      "timePeriod": "Abram in Canaan",
+      "era": "patriarchal",
+      "topics": ["covenant", "faith", "righteousness", "promise"],
+      "events": ["God promises Abram descendants as the stars", "Abram believes and is counted righteous", "God makes a covenant with Abram"],
+      "keyVerses": [1, 6],
+      "crossReferences": [
+        {"book": "Romans", "chapter": 4, "label": "Abraham believed God and it was credited to him as righteousness"},
+        {"book": "Galatians", "chapter": 3, "label": "Abraham believed God and it was credited to him as righteousness"}
+      ]
+    },
+    "16": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Abraham", "role": "protagonist"},
+        {"name": "Sarah", "role": "protagonist"},
+        {"name": "Hagar", "role": "protagonist"},
+        {"name": "Ishmael", "role": "mentioned"}
+      ],
+      "locations": ["Canaan", "Shur"],
+      "timePeriod": "Abram in Canaan",
+      "era": "patriarchal",
+      "topics": ["impatience", "suffering", "promise"],
+      "events": ["Sarai gives Hagar to Abram", "Hagar flees and is found by the angel of the Lord", "Birth of Ishmael"],
+      "keyVerses": [11, 13],
+      "crossReferences": [
+        {"book": "Galatians", "chapter": 4, "label": "Hagar represents the covenant from Mount Sinai"}
+      ]
+    },
+    "17": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "God", "role": "protagonist"},
+        {"name": "Abraham", "role": "protagonist"},
+        {"name": "Sarah", "role": "mentioned"},
+        {"name": "Ishmael", "role": "mentioned"},
+        {"name": "Isaac", "role": "mentioned"}
+      ],
+      "locations": ["Canaan"],
+      "timePeriod": "Abram in Canaan",
+      "era": "patriarchal",
+      "topics": ["covenant", "circumcision", "promise", "naming"],
+      "events": ["God establishes covenant of circumcision", "Abram renamed Abraham", "Sarai renamed Sarah", "Promise of Isaac"],
+      "keyVerses": [5, 10, 19],
+      "crossReferences": [
+        {"book": "Romans", "chapter": 4, "label": "Abraham received circumcision as a seal of righteousness"},
+        {"book": "Acts", "chapter": 7, "label": "God gave Abraham the covenant of circumcision"}
+      ]
+    },
+    "18": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "God", "role": "protagonist"},
+        {"name": "Abraham", "role": "protagonist"},
+        {"name": "Sarah", "role": "protagonist"}
+      ],
+      "locations": ["Mamre", "Sodom"],
+      "timePeriod": "Abraham in Canaan",
+      "era": "patriarchal",
+      "topics": ["hospitality", "prayer", "intercession", "justice"],
+      "events": ["Three visitors appear to Abraham", "Sarah laughs at promise of a son", "Abraham intercedes for Sodom"],
+      "keyVerses": [14, 25],
+      "crossReferences": [
+        {"book": "Hebrews", "chapter": 13, "label": "Do not neglect hospitality, for some have entertained angels"},
+        {"book": "James", "chapter": 5, "label": "The prayer of a righteous person is powerful"}
+      ]
+    },
+    "19": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "God", "role": "protagonist"},
+        {"name": "Lot", "role": "protagonist"},
+        {"name": "Abraham", "role": "mentioned"}
+      ],
+      "locations": ["Sodom", "Gomorrah", "Zoar"],
+      "timePeriod": "Abraham in Canaan",
+      "era": "patriarchal",
+      "topics": ["judgment", "wickedness", "deliverance"],
+      "events": ["Angels visit Lot in Sodom", "Destruction of Sodom and Gomorrah", "Lot's wife becomes a pillar of salt"],
+      "keyVerses": [24, 26],
+      "crossReferences": [
+        {"book": "Luke", "chapter": 17, "label": "Remember Lot's wife"},
+        {"book": "2 Peter", "chapter": 2, "label": "God condemned Sodom and Gomorrah to destruction"},
+        {"book": "Jude", "chapter": 1, "label": "Sodom and Gomorrah as an example of eternal fire"}
+      ]
+    },
+    "20": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "God", "role": "protagonist"},
+        {"name": "Abraham", "role": "protagonist"},
+        {"name": "Sarah", "role": "mentioned"},
+        {"name": "Abimelech", "role": "protagonist"}
+      ],
+      "locations": ["Gerar", "Kadesh", "Shur"],
+      "timePeriod": "Abraham in Canaan",
+      "era": "patriarchal",
+      "topics": ["deception", "protection", "prayer"],
+      "events": ["Abraham deceives Abimelech about Sarah", "God warns Abimelech in a dream", "Abraham prays for Abimelech's household"],
+      "keyVerses": [7, 11],
+      "crossReferences": [
+        {"book": "Genesis", "chapter": 12, "label": "Similar incident with Pharaoh in Egypt"}
+      ]
+    },
+    "21": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "God", "role": "protagonist"},
+        {"name": "Abraham", "role": "protagonist"},
+        {"name": "Sarah", "role": "protagonist"},
+        {"name": "Isaac", "role": "protagonist"},
+        {"name": "Hagar", "role": "mentioned"},
+        {"name": "Ishmael", "role": "mentioned"},
+        {"name": "Abimelech", "role": "mentioned"}
+      ],
+      "locations": ["Beersheba", "Paran"],
+      "timePeriod": "Birth of Isaac",
+      "era": "patriarchal",
+      "topics": ["promise-fulfilled", "covenant", "provision"],
+      "events": ["Birth of Isaac", "Hagar and Ishmael sent away", "Covenant with Abimelech at Beersheba"],
+      "keyVerses": [1, 6, 33],
+      "crossReferences": [
+        {"book": "Galatians", "chapter": 4, "label": "Cast out the bondwoman and her son"},
+        {"book": "Romans", "chapter": 9, "label": "In Isaac your seed shall be called"}
+      ]
+    },
+    "22": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "God", "role": "protagonist"},
+        {"name": "Abraham", "role": "protagonist"},
+        {"name": "Isaac", "role": "protagonist"}
+      ],
+      "locations": ["Moriah", "Beersheba"],
+      "timePeriod": "Abraham in Canaan",
+      "era": "patriarchal",
+      "topics": ["faith", "sacrifice", "obedience", "provision"],
+      "events": ["God tests Abraham - the binding of Isaac", "God provides a ram as substitute", "God reaffirms covenant promises"],
+      "keyVerses": [2, 8, 14],
+      "crossReferences": [
+        {"book": "Hebrews", "chapter": 11, "label": "By faith Abraham offered up Isaac"},
+        {"book": "James", "chapter": 2, "label": "Was not Abraham justified by works when he offered Isaac"},
+        {"book": "John", "chapter": 3, "label": "God gave his only begotten Son"}
+      ]
+    },
+    "23": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Abraham", "role": "protagonist"},
+        {"name": "Sarah", "role": "mentioned"},
+        {"name": "Ephron", "role": "mentioned"}
+      ],
+      "locations": ["Hebron", "Machpelah"],
+      "timePeriod": "Death of Sarah",
+      "era": "patriarchal",
+      "topics": ["death", "burial", "land-purchase"],
+      "events": ["Death of Sarah", "Abraham buys the cave of Machpelah"],
+      "keyVerses": [1, 19],
+      "crossReferences": [
+        {"book": "Acts", "chapter": 7, "label": "Abraham bought a tomb from the sons of Hamor"}
+      ]
+    },
+    "24": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Abraham", "role": "protagonist"},
+        {"name": "Isaac", "role": "protagonist"},
+        {"name": "Rebekah", "role": "protagonist"},
+        {"name": "Laban", "role": "mentioned"}
+      ],
+      "locations": ["Mesopotamia", "Nahor"],
+      "timePeriod": "Marriage of Isaac",
+      "era": "patriarchal",
+      "topics": ["providence", "marriage", "prayer", "guidance"],
+      "events": ["Abraham sends servant to find wife for Isaac", "Servant meets Rebekah at the well", "Rebekah becomes Isaac's wife"],
+      "keyVerses": [14, 27, 67],
+      "crossReferences": [
+        {"book": "Proverbs", "chapter": 3, "label": "Trust in the Lord and he will direct your paths"}
+      ]
+    },
+    "25": {
+      "genre": ["narrative", "genealogy"],
+      "people": [
+        {"name": "Abraham", "role": "protagonist"},
+        {"name": "Isaac", "role": "protagonist"},
+        {"name": "Rebekah", "role": "mentioned"},
+        {"name": "Esau", "role": "protagonist"},
+        {"name": "Jacob", "role": "protagonist"},
+        {"name": "Ishmael", "role": "mentioned"},
+        {"name": "Keturah", "role": "mentioned"}
+      ],
+      "locations": ["Machpelah", "Canaan"],
+      "timePeriod": "Death of Abraham, Birth of Jacob and Esau",
+      "era": "patriarchal",
+      "topics": ["birthright", "sovereignty", "genealogy"],
+      "events": ["Death of Abraham", "Birth of Esau and Jacob", "Esau sells his birthright"],
+      "keyVerses": [23, 34],
+      "crossReferences": [
+        {"book": "Romans", "chapter": 9, "label": "The older shall serve the younger"},
+        {"book": "Hebrews", "chapter": 12, "label": "Esau who for one morsel sold his birthright"}
+      ]
+    },
+    "26": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "God", "role": "protagonist"},
+        {"name": "Isaac", "role": "protagonist"},
+        {"name": "Rebekah", "role": "mentioned"},
+        {"name": "Abimelech", "role": "mentioned"},
+        {"name": "Esau", "role": "mentioned"}
+      ],
+      "locations": ["Gerar", "Beersheba"],
+      "timePeriod": "Isaac in Canaan",
+      "era": "patriarchal",
+      "topics": ["covenant", "deception", "blessing", "peace"],
+      "events": ["God reaffirms covenant to Isaac", "Isaac deceives Abimelech about Rebekah", "Dispute over wells", "Covenant with Abimelech"],
+      "keyVerses": [4, 24],
+      "crossReferences": [
+        {"book": "Genesis", "chapter": 12, "label": "Abraham's similar deception with Pharaoh"}
+      ]
+    },
+    "27": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Isaac", "role": "protagonist"},
+        {"name": "Rebekah", "role": "protagonist"},
+        {"name": "Jacob", "role": "protagonist"},
+        {"name": "Esau", "role": "protagonist"}
+      ],
+      "locations": [],
+      "timePeriod": "Isaac's old age",
+      "era": "patriarchal",
+      "topics": ["deception", "blessing", "rivalry"],
+      "events": ["Jacob deceives Isaac to steal Esau's blessing", "Esau's bitter cry", "Esau plans to kill Jacob"],
+      "keyVerses": [28, 36, 41],
+      "crossReferences": [
+        {"book": "Hebrews", "chapter": 11, "label": "By faith Isaac blessed Jacob and Esau"},
+        {"book": "Hebrews", "chapter": 12, "label": "Esau found no place of repentance though he sought it with tears"}
+      ]
+    },
+    "28": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "God", "role": "protagonist"},
+        {"name": "Isaac", "role": "mentioned"},
+        {"name": "Jacob", "role": "protagonist"},
+        {"name": "Esau", "role": "mentioned"}
+      ],
+      "locations": ["Bethel", "Padanaram", "Beersheba"],
+      "timePeriod": "Jacob's journey",
+      "era": "patriarchal",
+      "topics": ["vision", "promise", "covenant", "vow"],
+      "events": ["Isaac sends Jacob to Padanaram", "Jacob's dream of the ladder at Bethel", "God reaffirms covenant promises to Jacob"],
+      "keyVerses": [12, 15],
+      "crossReferences": [
+        {"book": "John", "chapter": 1, "label": "You will see angels ascending and descending on the Son of Man"}
+      ]
+    },
+    "29": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Jacob", "role": "protagonist"},
+        {"name": "Laban", "role": "antagonist"},
+        {"name": "Rachel", "role": "protagonist"},
+        {"name": "Leah", "role": "protagonist"}
+      ],
+      "locations": ["Haran"],
+      "timePeriod": "Jacob in Haran",
+      "era": "patriarchal",
+      "topics": ["love", "deception", "marriage"],
+      "events": ["Jacob meets Rachel at the well", "Jacob serves seven years for Rachel", "Laban deceives Jacob with Leah", "Birth of Reuben, Simeon, Levi, Judah"],
+      "keyVerses": [20, 25, 35],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 1, "label": "Judah in the genealogy of Christ"}
+      ]
+    },
+    "30": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Jacob", "role": "protagonist"},
+        {"name": "Rachel", "role": "protagonist"},
+        {"name": "Leah", "role": "protagonist"},
+        {"name": "Bilhah", "role": "mentioned"},
+        {"name": "Zilpah", "role": "mentioned"},
+        {"name": "Laban", "role": "mentioned"},
+        {"name": "Joseph", "role": "mentioned"}
+      ],
+      "locations": ["Haran"],
+      "timePeriod": "Jacob in Haran",
+      "era": "patriarchal",
+      "topics": ["rivalry", "fertility", "prosperity"],
+      "events": ["Birth of Dan, Naphtali, Gad, Asher, Issachar, Zebulun, Dinah", "Birth of Joseph", "Jacob's flocks increase"],
+      "keyVerses": [22, 24],
+      "crossReferences": [
+        {"book": "Genesis", "chapter": 49, "label": "Jacob blesses his twelve sons"}
+      ]
+    },
+    "31": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "God", "role": "protagonist"},
+        {"name": "Jacob", "role": "protagonist"},
+        {"name": "Laban", "role": "antagonist"},
+        {"name": "Rachel", "role": "mentioned"},
+        {"name": "Leah", "role": "mentioned"}
+      ],
+      "locations": ["Haran", "Gilead"],
+      "timePeriod": "Jacob leaves Haran",
+      "era": "patriarchal",
+      "topics": ["departure", "covenant", "conflict"],
+      "events": ["Jacob flees from Laban", "Rachel steals Laban's household idols", "Laban pursues and confronts Jacob", "Covenant at Mizpah"],
+      "keyVerses": [3, 49],
+      "crossReferences": [
+        {"book": "Genesis", "chapter": 28, "label": "Fulfillment of God's promise to bring Jacob back"}
+      ]
+    },
+    "32": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "God", "role": "protagonist"},
+        {"name": "Jacob", "role": "protagonist"},
+        {"name": "Esau", "role": "mentioned"}
+      ],
+      "locations": ["Mahanaim", "Jabbok", "Peniel", "Seir", "Edom"],
+      "timePeriod": "Jacob returns to Canaan",
+      "era": "patriarchal",
+      "topics": ["prayer", "wrestling", "transformation"],
+      "events": ["Jacob prepares to meet Esau", "Jacob wrestles with God at Peniel", "Jacob renamed Israel"],
+      "keyVerses": [24, 28],
+      "crossReferences": [
+        {"book": "Hosea", "chapter": 12, "label": "He wrestled with the angel and prevailed"}
+      ]
+    },
+    "33": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Jacob", "role": "protagonist"},
+        {"name": "Esau", "role": "protagonist"}
+      ],
+      "locations": ["Succoth", "Shechem", "Seir"],
+      "timePeriod": "Jacob returns to Canaan",
+      "era": "patriarchal",
+      "topics": ["reconciliation", "forgiveness", "peace"],
+      "events": ["Jacob and Esau reconcile", "Jacob settles near Shechem"],
+      "keyVerses": [4, 10],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 5, "label": "Blessed are the peacemakers"}
+      ]
+    },
+    "34": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Jacob", "role": "mentioned"},
+        {"name": "Dinah", "role": "protagonist"},
+        {"name": "Shechem", "role": "antagonist"},
+        {"name": "Hamor", "role": "mentioned"},
+        {"name": "Simeon", "role": "protagonist"},
+        {"name": "Levi", "role": "protagonist"}
+      ],
+      "locations": ["Shechem"],
+      "timePeriod": "Jacob in Canaan",
+      "era": "patriarchal",
+      "topics": ["violence", "defilement", "vengeance"],
+      "events": ["Shechem defiles Dinah", "Simeon and Levi massacre the men of Shechem"],
+      "keyVerses": [7, 25],
+      "crossReferences": [
+        {"book": "Genesis", "chapter": 49, "label": "Jacob condemns Simeon and Levi's violence in his blessing"}
+      ]
+    },
+    "35": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "God", "role": "protagonist"},
+        {"name": "Jacob", "role": "protagonist"},
+        {"name": "Rachel", "role": "mentioned"},
+        {"name": "Benjamin", "role": "mentioned"},
+        {"name": "Isaac", "role": "mentioned"},
+        {"name": "Reuben", "role": "mentioned"}
+      ],
+      "locations": ["Bethel", "Ephrath", "Bethlehem", "Hebron"],
+      "timePeriod": "Jacob in Canaan",
+      "era": "patriarchal",
+      "topics": ["worship", "promise", "death"],
+      "events": ["Jacob returns to Bethel", "God confirms name Israel", "Death of Rachel at Benjamin's birth", "Death of Isaac"],
+      "keyVerses": [10, 18],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 2, "label": "Rachel weeping for her children"}
+      ]
+    },
+    "36": {
+      "genre": ["genealogy"],
+      "people": [
+        {"name": "Esau", "role": "protagonist"}
+      ],
+      "locations": ["Seir", "Edom"],
+      "timePeriod": "Esau's descendants",
+      "era": "patriarchal",
+      "topics": ["genealogy", "nations"],
+      "events": ["Genealogy of Esau and the Edomites"],
+      "keyVerses": [1, 8],
+      "crossReferences": [
+        {"book": "Obadiah", "chapter": 1, "label": "Prophecy against Edom"}
+      ]
+    },
+    "37": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Jacob", "role": "mentioned"},
+        {"name": "Joseph", "role": "protagonist"},
+        {"name": "Reuben", "role": "mentioned"},
+        {"name": "Judah", "role": "mentioned"}
+      ],
+      "locations": ["Hebron", "Shechem", "Dothan", "Egypt"],
+      "timePeriod": "Joseph's youth",
+      "era": "patriarchal",
+      "topics": ["jealousy", "dreams", "betrayal"],
+      "events": ["Joseph's dreams of sheaves and stars", "Brothers sell Joseph to Ishmaelites", "Joseph taken to Egypt"],
+      "keyVerses": [5, 28],
+      "crossReferences": [
+        {"book": "Acts", "chapter": 7, "label": "The patriarchs sold Joseph into Egypt"},
+        {"book": "Psalms", "chapter": 105, "label": "He sent a man before them, Joseph, sold as a slave"}
+      ]
+    },
+    "38": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Judah", "role": "protagonist"},
+        {"name": "Tamar", "role": "protagonist"},
+        {"name": "Er", "role": "mentioned"},
+        {"name": "Onan", "role": "mentioned"},
+        {"name": "Pharez", "role": "mentioned"},
+        {"name": "Zarah", "role": "mentioned"}
+      ],
+      "locations": ["Timnath", "Adullam"],
+      "timePeriod": "Judah's sojourn",
+      "era": "patriarchal",
+      "topics": ["righteousness", "deception", "lineage"],
+      "events": ["Judah's sons Er and Onan die", "Tamar disguises herself and conceives by Judah", "Birth of Pharez and Zarah"],
+      "keyVerses": [26],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 1, "label": "Tamar in the genealogy of Jesus"},
+        {"book": "Ruth", "chapter": 4, "label": "Pharez in the line of David"}
+      ]
+    },
+    "39": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "God", "role": "protagonist"},
+        {"name": "Joseph", "role": "protagonist"},
+        {"name": "Potiphar", "role": "mentioned"}
+      ],
+      "locations": ["Egypt"],
+      "timePeriod": "Joseph in Egypt",
+      "era": "patriarchal",
+      "topics": ["integrity", "temptation", "faithfulness"],
+      "events": ["Joseph prospers in Potiphar's house", "Joseph resists Potiphar's wife", "Joseph imprisoned"],
+      "keyVerses": [2, 9, 21],
+      "crossReferences": [
+        {"book": "1 Corinthians", "chapter": 10, "label": "God provides a way of escape from temptation"},
+        {"book": "Psalms", "chapter": 105, "label": "They hurt his feet with fetters"}
+      ]
+    },
+    "40": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Joseph", "role": "protagonist"},
+        {"name": "Pharaoh", "role": "mentioned"}
+      ],
+      "locations": ["Egypt"],
+      "timePeriod": "Joseph in prison",
+      "era": "patriarchal",
+      "topics": ["dreams", "interpretation", "patience"],
+      "events": ["Joseph interprets the butler's and baker's dreams", "Butler forgets Joseph"],
+      "keyVerses": [8, 23],
+      "crossReferences": [
+        {"book": "Daniel", "chapter": 2, "label": "Daniel interprets dreams in a foreign court"}
+      ]
+    },
+    "41": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "God", "role": "mentioned"},
+        {"name": "Joseph", "role": "protagonist"},
+        {"name": "Pharaoh", "role": "protagonist"},
+        {"name": "Asenath", "role": "mentioned"},
+        {"name": "Manasseh", "role": "mentioned"},
+        {"name": "Ephraim", "role": "mentioned"}
+      ],
+      "locations": ["Egypt"],
+      "timePeriod": "Joseph's rise",
+      "era": "patriarchal",
+      "topics": ["dreams", "wisdom", "providence", "exaltation"],
+      "events": ["Pharaoh's dreams of seven cows and seven ears", "Joseph interprets Pharaoh's dreams", "Joseph made ruler of Egypt"],
+      "keyVerses": [16, 40, 51],
+      "crossReferences": [
+        {"book": "Acts", "chapter": 7, "label": "God gave Joseph favor and wisdom before Pharaoh"},
+        {"book": "Psalms", "chapter": 105, "label": "The king made him lord of his house"}
+      ]
+    },
+    "42": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Joseph", "role": "protagonist"},
+        {"name": "Jacob", "role": "protagonist"},
+        {"name": "Benjamin", "role": "mentioned"},
+        {"name": "Simeon", "role": "mentioned"},
+        {"name": "Reuben", "role": "mentioned"}
+      ],
+      "locations": ["Egypt", "Canaan"],
+      "timePeriod": "Famine",
+      "era": "patriarchal",
+      "topics": ["guilt", "repentance", "testing"],
+      "events": ["Joseph's brothers come to buy grain", "Joseph accuses them of being spies", "Simeon held hostage"],
+      "keyVerses": [6, 21],
+      "crossReferences": [
+        {"book": "Genesis", "chapter": 37, "label": "Joseph's dream of sheaves fulfilled"}
+      ]
+    },
+    "43": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Joseph", "role": "protagonist"},
+        {"name": "Jacob", "role": "protagonist"},
+        {"name": "Judah", "role": "protagonist"},
+        {"name": "Benjamin", "role": "protagonist"},
+        {"name": "Simeon", "role": "mentioned"}
+      ],
+      "locations": ["Egypt", "Canaan"],
+      "timePeriod": "Famine",
+      "era": "patriarchal",
+      "topics": ["trust", "surety", "emotion"],
+      "events": ["Judah pledges surety for Benjamin", "Brothers return to Egypt with Benjamin", "Joseph weeps upon seeing Benjamin"],
+      "keyVerses": [9, 30],
+      "crossReferences": [
+        {"book": "Genesis", "chapter": 44, "label": "Judah's pledge tested by the silver cup"}
+      ]
+    },
+    "44": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Joseph", "role": "protagonist"},
+        {"name": "Judah", "role": "protagonist"},
+        {"name": "Benjamin", "role": "mentioned"},
+        {"name": "Jacob", "role": "mentioned"}
+      ],
+      "locations": ["Egypt"],
+      "timePeriod": "Famine",
+      "era": "patriarchal",
+      "topics": ["testing", "sacrifice", "repentance"],
+      "events": ["Joseph's silver cup hidden in Benjamin's sack", "Judah offers himself as substitute for Benjamin"],
+      "keyVerses": [33, 34],
+      "crossReferences": [
+        {"book": "Hebrews", "chapter": 7, "label": "Christ as surety of a better covenant"}
+      ]
+    },
+    "45": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "God", "role": "mentioned"},
+        {"name": "Joseph", "role": "protagonist"},
+        {"name": "Jacob", "role": "mentioned"},
+        {"name": "Benjamin", "role": "mentioned"},
+        {"name": "Pharaoh", "role": "mentioned"}
+      ],
+      "locations": ["Egypt", "Canaan", "Goshen"],
+      "timePeriod": "Famine",
+      "era": "patriarchal",
+      "topics": ["forgiveness", "providence", "reconciliation"],
+      "events": ["Joseph reveals himself to his brothers", "Joseph sends for Jacob"],
+      "keyVerses": [5, 7, 8],
+      "crossReferences": [
+        {"book": "Romans", "chapter": 8, "label": "All things work together for good"},
+        {"book": "Acts", "chapter": 7, "label": "Joseph made himself known to his brothers"}
+      ]
+    },
+    "46": {
+      "genre": ["narrative", "genealogy"],
+      "people": [
+        {"name": "God", "role": "protagonist"},
+        {"name": "Jacob", "role": "protagonist"},
+        {"name": "Joseph", "role": "protagonist"}
+      ],
+      "locations": ["Beersheba", "Egypt", "Goshen"],
+      "timePeriod": "Migration to Egypt",
+      "era": "patriarchal",
+      "topics": ["journey", "promise", "family"],
+      "events": ["God speaks to Jacob at Beersheba", "Jacob's family goes to Egypt", "Joseph reunites with Jacob in Goshen"],
+      "keyVerses": [3, 4, 30],
+      "crossReferences": [
+        {"book": "Acts", "chapter": 7, "label": "Jacob went down to Egypt and died there"}
+      ]
+    },
+    "47": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Joseph", "role": "protagonist"},
+        {"name": "Jacob", "role": "protagonist"},
+        {"name": "Pharaoh", "role": "mentioned"}
+      ],
+      "locations": ["Egypt", "Goshen", "Rameses"],
+      "timePeriod": "Israel in Egypt",
+      "era": "patriarchal",
+      "topics": ["provision", "blessing", "stewardship"],
+      "events": ["Jacob blesses Pharaoh", "Joseph manages the famine in Egypt", "Jacob's dying wish to be buried in Canaan"],
+      "keyVerses": [9, 25],
+      "crossReferences": [
+        {"book": "Hebrews", "chapter": 11, "label": "By faith Jacob blessed each of Joseph's sons"}
+      ]
+    },
+    "48": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Jacob", "role": "protagonist"},
+        {"name": "Joseph", "role": "protagonist"},
+        {"name": "Ephraim", "role": "protagonist"},
+        {"name": "Manasseh", "role": "protagonist"}
+      ],
+      "locations": ["Egypt"],
+      "timePeriod": "Jacob's final days",
+      "era": "patriarchal",
+      "topics": ["blessing", "adoption", "sovereignty"],
+      "events": ["Jacob adopts Ephraim and Manasseh", "Jacob blesses Ephraim above Manasseh"],
+      "keyVerses": [15, 16, 19],
+      "crossReferences": [
+        {"book": "Hebrews", "chapter": 11, "label": "By faith Jacob blessed each of Joseph's sons and worshipped"}
+      ]
+    },
+    "49": {
+      "genre": ["prophecy", "poetry"],
+      "people": [
+        {"name": "Jacob", "role": "speaker"},
+        {"name": "Reuben", "role": "mentioned"},
+        {"name": "Simeon", "role": "mentioned"},
+        {"name": "Levi", "role": "mentioned"},
+        {"name": "Judah", "role": "mentioned"},
+        {"name": "Joseph", "role": "mentioned"},
+        {"name": "Benjamin", "role": "mentioned"}
+      ],
+      "locations": ["Machpelah", "Mamre"],
+      "timePeriod": "Jacob's final days",
+      "era": "patriarchal",
+      "topics": ["blessing", "prophecy", "tribes-of-israel"],
+      "events": ["Jacob blesses and prophesies over twelve sons", "Death of Jacob"],
+      "keyVerses": [10, 18, 33],
+      "crossReferences": [
+        {"book": "Revelation", "chapter": 5, "label": "The Lion of the tribe of Judah"},
+        {"book": "Numbers", "chapter": 24, "label": "A sceptre shall rise out of Israel"}
+      ]
+    },
+    "50": {
+      "genre": ["narrative"],
+      "people": [
+        {"name": "Joseph", "role": "protagonist"},
+        {"name": "Jacob", "role": "mentioned"},
+        {"name": "Pharaoh", "role": "mentioned"}
+      ],
+      "locations": ["Egypt", "Canaan", "Machpelah"],
+      "timePeriod": "After Jacob's death",
+      "era": "patriarchal",
+      "topics": ["forgiveness", "providence", "death"],
+      "events": ["Burial of Jacob in Canaan", "Joseph forgives his brothers", "Death of Joseph"],
+      "keyVerses": [19, 20, 25],
+      "crossReferences": [
+        {"book": "Hebrews", "chapter": 11, "label": "By faith Joseph gave instructions about his bones"},
+        {"book": "Exodus", "chapter": 13, "label": "Moses took the bones of Joseph with him"}
+      ]
+    }
+  }
+}

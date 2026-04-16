@@ -1,0 +1,1143 @@
+{
+  "book": "Isaiah",
+  "bookSlug": "23.isaiah",
+  "testament": "1.old-testament",
+  "chapters": {
+    "1": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "Isaiah", "role": "author"},
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Judah", "Jerusalem", "Zion", "Sodom", "Gomorrah"],
+      "timePeriod": "Reign of Uzziah to Hezekiah",
+      "era": "divided-monarchy",
+      "topics": ["judgment", "rebellion", "repentance", "justice"],
+      "events": ["Indictment against Judah", "Call to repentance"],
+      "keyVerses": [18, 16],
+      "crossReferences": [
+        {"book": "Romans", "chapter": 3, "label": "All have sinned"},
+        {"book": "1 John", "chapter": 1, "label": "Cleansing from sin"}
+      ]
+    },
+    "2": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "Isaiah", "role": "author"},
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Judah", "Jerusalem", "Zion", "Lebanon", "Bashan", "Tarshish"],
+      "timePeriod": "Reign of Uzziah to Hezekiah",
+      "era": "divided-monarchy",
+      "topics": ["day-of-the-lord", "idolatry", "pride", "messianic-prophecy"],
+      "events": ["Vision of the mountain of the Lord's house", "Day of the Lord against the proud"],
+      "keyVerses": [2, 4],
+      "crossReferences": [
+        {"book": "Micah", "chapter": 4, "label": "Swords into plowshares parallel"},
+        {"book": "Revelation", "chapter": 6, "label": "Hiding from God's wrath"}
+      ]
+    },
+    "3": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Isaiah", "role": "author"}
+      ],
+      "locations": ["Jerusalem", "Judah", "Sodom"],
+      "timePeriod": "Reign of Uzziah to Hezekiah",
+      "era": "divided-monarchy",
+      "topics": ["judgment", "leadership", "pride", "injustice"],
+      "events": ["Judgment on Jerusalem's leaders", "Judgment on the daughters of Zion"],
+      "keyVerses": [10, 15],
+      "crossReferences": [
+        {"book": "Amos", "chapter": 4, "label": "Judgment on complacent women"}
+      ]
+    },
+    "4": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Isaiah", "role": "author"}
+      ],
+      "locations": ["Zion", "Jerusalem"],
+      "timePeriod": "Reign of Uzziah to Hezekiah",
+      "era": "divided-monarchy",
+      "topics": ["messianic-prophecy", "restoration", "holiness"],
+      "events": ["The Branch of the Lord", "Future cleansing of Jerusalem"],
+      "keyVerses": [2, 5],
+      "crossReferences": [
+        {"book": "Jeremiah", "chapter": 23, "label": "The righteous Branch"},
+        {"book": "Zechariah", "chapter": 3, "label": "The Branch"}
+      ]
+    },
+    "5": {
+      "genre": ["prophecy", "poetry"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Isaiah", "role": "author"}
+      ],
+      "locations": ["Judah", "Jerusalem"],
+      "timePeriod": "Reign of Uzziah to Hezekiah",
+      "era": "divided-monarchy",
+      "topics": ["judgment", "injustice", "rebellion", "woe-oracles"],
+      "events": ["Song of the vineyard", "Six woes pronounced"],
+      "keyVerses": [7, 20],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 21, "label": "Parable of the vineyard"},
+        {"book": "Habakkuk", "chapter": 2, "label": "Woe oracles"}
+      ]
+    },
+    "6": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "Isaiah", "role": "protagonist"},
+        {"name": "God", "role": "speaker"},
+        {"name": "Uzziah", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "Year King Uzziah died (~740 BC)",
+      "era": "divided-monarchy",
+      "topics": ["holiness", "calling", "worship"],
+      "events": ["Isaiah's vision of the Lord on His throne", "Isaiah's commission"],
+      "keyVerses": [3, 8],
+      "crossReferences": [
+        {"book": "John", "chapter": 12, "label": "Isaiah saw His glory"},
+        {"book": "Revelation", "chapter": 4, "label": "Holy holy holy"}
+      ]
+    },
+    "7": {
+      "genre": ["prophecy", "narrative"],
+      "people": [
+        {"name": "Isaiah", "role": "speaker"},
+        {"name": "Ahaz", "role": "protagonist"},
+        {"name": "God", "role": "speaker"},
+        {"name": "Rezin", "role": "antagonist"},
+        {"name": "Pekah", "role": "antagonist"},
+        {"name": "Shearjashub", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem", "Judah", "Syria", "Damascus", "Samaria", "Assyria"],
+      "timePeriod": "Reign of Ahaz (~735 BC)",
+      "era": "divided-monarchy",
+      "topics": ["messianic-prophecy", "faith", "judgment"],
+      "events": ["Syro-Ephraimite crisis", "Virgin birth prophecy of Immanuel"],
+      "keyVerses": [14, 9],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 1, "label": "Virgin birth fulfillment"},
+        {"book": "Luke", "chapter": 1, "label": "Announcement to Mary"}
+      ]
+    },
+    "8": {
+      "genre": ["prophecy", "narrative"],
+      "people": [
+        {"name": "Isaiah", "role": "protagonist"},
+        {"name": "God", "role": "speaker"},
+        {"name": "Uriah", "role": "mentioned"},
+        {"name": "Zechariah", "role": "mentioned"},
+        {"name": "Mahershalalhashbaz", "role": "mentioned"}
+      ],
+      "locations": ["Damascus", "Samaria", "Judah", "Zion"],
+      "timePeriod": "Reign of Ahaz",
+      "era": "divided-monarchy",
+      "topics": ["judgment", "faith", "messianic-prophecy"],
+      "events": ["Sign of Mahershalalhashbaz", "Assyrian invasion foretold", "Stone of stumbling prophecy"],
+      "keyVerses": [14, 20],
+      "crossReferences": [
+        {"book": "Romans", "chapter": 9, "label": "Stone of stumbling"},
+        {"book": "1 Peter", "chapter": 2, "label": "Rock of offence"}
+      ]
+    },
+    "9": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Isaiah", "role": "author"}
+      ],
+      "locations": ["Zebulun", "Naphtali", "Galilee", "Samaria", "Israel"],
+      "timePeriod": "Reign of Ahaz to Hezekiah",
+      "era": "divided-monarchy",
+      "topics": ["messianic-prophecy", "judgment", "hope"],
+      "events": ["Prophecy of the child born who is Wonderful Counsellor", "Judgment on Israel"],
+      "keyVerses": [2, 6],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 4, "label": "Light in Galilee fulfilled"},
+        {"book": "Luke", "chapter": 2, "label": "Unto us a child is born"}
+      ]
+    },
+    "10": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Isaiah", "role": "author"}
+      ],
+      "locations": ["Assyria", "Zion", "Jerusalem", "Samaria", "Damascus", "Calno", "Carchemish", "Lebanon"],
+      "timePeriod": "Reign of Ahaz to Hezekiah",
+      "era": "divided-monarchy",
+      "topics": ["judgment", "sovereignty", "remnant"],
+      "events": ["Assyria as God's instrument of judgment", "Promise of a remnant"],
+      "keyVerses": [5, 21],
+      "crossReferences": [
+        {"book": "Romans", "chapter": 9, "label": "Remnant of Israel"}
+      ]
+    },
+    "11": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Jesse", "role": "mentioned"},
+        {"name": "Isaiah", "role": "author"}
+      ],
+      "locations": ["Assyria", "Egypt", "Cush", "Elam", "Shinar"],
+      "timePeriod": "Reign of Uzziah to Hezekiah",
+      "era": "divided-monarchy",
+      "topics": ["messianic-prophecy", "restoration", "peace"],
+      "events": ["Branch from Jesse prophecy", "Peaceable kingdom vision", "Gathering of the remnant"],
+      "keyVerses": [1, 6, 10],
+      "crossReferences": [
+        {"book": "Romans", "chapter": 15, "label": "Root of Jesse"},
+        {"book": "Revelation", "chapter": 5, "label": "Root of David"}
+      ]
+    },
+    "12": {
+      "genre": ["poetry", "prophecy"],
+      "people": [
+        {"name": "God", "role": "mentioned"},
+        {"name": "Isaiah", "role": "author"}
+      ],
+      "locations": ["Zion"],
+      "timePeriod": "Reign of Uzziah to Hezekiah",
+      "era": "divided-monarchy",
+      "topics": ["praise", "salvation", "thanksgiving"],
+      "events": ["Song of praise for salvation"],
+      "keyVerses": [2, 3],
+      "crossReferences": [
+        {"book": "Exodus", "chapter": 15, "label": "The Lord is my strength and song"},
+        {"book": "Philippians", "chapter": 4, "label": "Rejoice in the Lord"}
+      ]
+    },
+    "13": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "Isaiah", "role": "author"},
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Babylon", "Sodom", "Gomorrah"],
+      "timePeriod": "Reign of Uzziah to Hezekiah",
+      "era": "divided-monarchy",
+      "topics": ["judgment", "day-of-the-lord"],
+      "events": ["Burden against Babylon", "Day of the Lord prophecy"],
+      "keyVerses": [6, 19],
+      "crossReferences": [
+        {"book": "Revelation", "chapter": 18, "label": "Fall of Babylon"},
+        {"book": "Revelation", "chapter": 6, "label": "Cosmic signs of judgment"}
+      ]
+    },
+    "14": {
+      "genre": ["prophecy", "poetry"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Isaiah", "role": "author"}
+      ],
+      "locations": ["Babylon", "Zion", "Palestina", "Assyria"],
+      "timePeriod": "Reign of Ahaz",
+      "era": "divided-monarchy",
+      "topics": ["judgment", "pride", "restoration"],
+      "events": ["Taunt against the king of Babylon", "Fall of Lucifer", "Burden against Philistia"],
+      "keyVerses": [12, 27],
+      "crossReferences": [
+        {"book": "Ezekiel", "chapter": 28, "label": "Pride and fall of a ruler"},
+        {"book": "Luke", "chapter": 10, "label": "Satan falling from heaven"}
+      ]
+    },
+    "15": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "Isaiah", "role": "author"},
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Moab", "Ar", "Kir", "Dibon", "Nebo", "Medeba", "Heshbon", "Zoar"],
+      "timePeriod": "Reign of Uzziah to Hezekiah",
+      "era": "divided-monarchy",
+      "topics": ["judgment", "lamentation"],
+      "events": ["Burden against Moab"],
+      "keyVerses": [1],
+      "crossReferences": [
+        {"book": "Jeremiah", "chapter": 48, "label": "Prophecy against Moab"}
+      ]
+    },
+    "16": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "Isaiah", "role": "author"},
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Moab", "Zion", "Heshbon", "Sibmah", "Jazer"],
+      "timePeriod": "Reign of Uzziah to Hezekiah",
+      "era": "divided-monarchy",
+      "topics": ["judgment", "pride", "messianic-prophecy"],
+      "events": ["Continuation of Moab's burden", "Throne established in David's tabernacle"],
+      "keyVerses": [5, 6],
+      "crossReferences": [
+        {"book": "Jeremiah", "chapter": 48, "label": "Pride of Moab"}
+      ]
+    },
+    "17": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "Isaiah", "role": "author"},
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Damascus", "Ephraim", "Syria"],
+      "timePeriod": "Reign of Uzziah to Hezekiah",
+      "era": "divided-monarchy",
+      "topics": ["judgment", "idolatry"],
+      "events": ["Burden against Damascus", "Desolation of Ephraim"],
+      "keyVerses": [1, 7],
+      "crossReferences": [
+        {"book": "Jeremiah", "chapter": 49, "label": "Prophecy against Damascus"}
+      ]
+    },
+    "18": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "Isaiah", "role": "author"},
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Ethiopia", "Zion"],
+      "timePeriod": "Reign of Uzziah to Hezekiah",
+      "era": "divided-monarchy",
+      "topics": ["judgment", "nations"],
+      "events": ["Oracle against Ethiopia"],
+      "keyVerses": [7],
+      "crossReferences": [
+        {"book": "Zephaniah", "chapter": 3, "label": "Offerings from beyond Ethiopia"}
+      ]
+    },
+    "19": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "Isaiah", "role": "author"},
+        {"name": "God", "role": "speaker"},
+        {"name": "Pharaoh", "role": "mentioned"}
+      ],
+      "locations": ["Egypt", "Assyria", "Zoan", "Noph"],
+      "timePeriod": "Reign of Uzziah to Hezekiah",
+      "era": "divided-monarchy",
+      "topics": ["judgment", "salvation", "nations"],
+      "events": ["Burden against Egypt", "Egypt turning to the Lord", "Highway between Egypt and Assyria"],
+      "keyVerses": [23, 25],
+      "crossReferences": [
+        {"book": "Zechariah", "chapter": 14, "label": "Nations worshiping the Lord"}
+      ]
+    },
+    "20": {
+      "genre": ["prophecy", "narrative"],
+      "people": [
+        {"name": "Isaiah", "role": "protagonist"},
+        {"name": "God", "role": "speaker"},
+        {"name": "Sargon", "role": "mentioned"}
+      ],
+      "locations": ["Ashdod", "Egypt", "Ethiopia", "Assyria"],
+      "timePeriod": "Reign of Sargon (~711 BC)",
+      "era": "divided-monarchy",
+      "topics": ["judgment", "prophetic-sign"],
+      "events": ["Isaiah walks naked and barefoot as a sign"],
+      "keyVerses": [3],
+      "crossReferences": [
+        {"book": "Ezekiel", "chapter": 4, "label": "Prophetic sign acts"}
+      ]
+    },
+    "21": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "Isaiah", "role": "author"},
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Babylon", "Dumah", "Seir", "Arabia", "Kedar"],
+      "timePeriod": "Reign of Uzziah to Hezekiah",
+      "era": "divided-monarchy",
+      "topics": ["judgment", "watchfulness"],
+      "events": ["Fall of Babylon foretold", "Burden of Dumah", "Burden upon Arabia"],
+      "keyVerses": [9],
+      "crossReferences": [
+        {"book": "Revelation", "chapter": 14, "label": "Babylon is fallen"}
+      ]
+    },
+    "22": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "Isaiah", "role": "author"},
+        {"name": "God", "role": "speaker"},
+        {"name": "Shebna", "role": "antagonist"},
+        {"name": "Eliakim", "role": "protagonist"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "Reign of Hezekiah",
+      "era": "divided-monarchy",
+      "topics": ["judgment", "stewardship", "messianic-prophecy"],
+      "events": ["Burden of the valley of vision", "Shebna replaced by Eliakim", "Key of David given to Eliakim"],
+      "keyVerses": [22, 13],
+      "crossReferences": [
+        {"book": "Revelation", "chapter": 3, "label": "Key of David"}
+      ]
+    },
+    "23": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "Isaiah", "role": "author"},
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Tyre", "Zidon", "Tarshish", "Chittim"],
+      "timePeriod": "Reign of Uzziah to Hezekiah",
+      "era": "divided-monarchy",
+      "topics": ["judgment", "pride", "commerce"],
+      "events": ["Burden against Tyre", "Seventy year desolation of Tyre"],
+      "keyVerses": [9],
+      "crossReferences": [
+        {"book": "Ezekiel", "chapter": 26, "label": "Prophecy against Tyre"}
+      ]
+    },
+    "24": {
+      "genre": ["prophecy", "apocalyptic"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Isaiah", "role": "author"}
+      ],
+      "locations": ["Zion", "Jerusalem"],
+      "timePeriod": "Eschatological",
+      "era": "divided-monarchy",
+      "topics": ["judgment", "day-of-the-lord", "cosmic-judgment"],
+      "events": ["God's devastation of the earth", "The Lord reigns on Mount Zion"],
+      "keyVerses": [1, 23],
+      "crossReferences": [
+        {"book": "Revelation", "chapter": 20, "label": "Final judgment"},
+        {"book": "2 Peter", "chapter": 3, "label": "Day of the Lord"}
+      ]
+    },
+    "25": {
+      "genre": ["prophecy", "poetry"],
+      "people": [
+        {"name": "God", "role": "mentioned"},
+        {"name": "Isaiah", "role": "author"}
+      ],
+      "locations": ["Zion", "Moab"],
+      "timePeriod": "Eschatological",
+      "era": "divided-monarchy",
+      "topics": ["praise", "salvation", "victory-over-death"],
+      "events": ["Song of praise for God's salvation", "God swallows up death", "God wipes away tears"],
+      "keyVerses": [8, 9],
+      "crossReferences": [
+        {"book": "1 Corinthians", "chapter": 15, "label": "Death swallowed up in victory"},
+        {"book": "Revelation", "chapter": 21, "label": "God wipes away every tear"}
+      ]
+    },
+    "26": {
+      "genre": ["prophecy", "poetry"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Isaiah", "role": "author"}
+      ],
+      "locations": ["Judah"],
+      "timePeriod": "Eschatological",
+      "era": "divided-monarchy",
+      "topics": ["trust", "peace", "resurrection"],
+      "events": ["Song of trust in Judah", "Prophecy of resurrection of the dead"],
+      "keyVerses": [3, 19],
+      "crossReferences": [
+        {"book": "Philippians", "chapter": 4, "label": "Perfect peace"},
+        {"book": "Daniel", "chapter": 12, "label": "Resurrection of the dead"}
+      ]
+    },
+    "27": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Isaiah", "role": "author"}
+      ],
+      "locations": ["Jerusalem", "Assyria", "Egypt"],
+      "timePeriod": "Eschatological",
+      "era": "divided-monarchy",
+      "topics": ["judgment", "restoration", "forgiveness"],
+      "events": ["Slaying of leviathan", "Song of the vineyard", "Gathering of Israel"],
+      "keyVerses": [1, 13],
+      "crossReferences": [
+        {"book": "Revelation", "chapter": 12, "label": "Dragon slain"}
+      ]
+    },
+    "28": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Isaiah", "role": "author"}
+      ],
+      "locations": ["Ephraim", "Jerusalem", "Zion"],
+      "timePeriod": "Before fall of Samaria (~722 BC)",
+      "era": "divided-monarchy",
+      "topics": ["judgment", "messianic-prophecy", "drunkenness"],
+      "events": ["Woe to Ephraim's drunkards", "Precious cornerstone in Zion"],
+      "keyVerses": [16, 10],
+      "crossReferences": [
+        {"book": "1 Peter", "chapter": 2, "label": "Precious cornerstone"},
+        {"book": "Romans", "chapter": 9, "label": "Cornerstone and stumbling stone"}
+      ]
+    },
+    "29": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Isaiah", "role": "author"},
+        {"name": "Abraham", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem", "Zion"],
+      "timePeriod": "Reign of Hezekiah",
+      "era": "divided-monarchy",
+      "topics": ["judgment", "hypocrisy", "spiritual-blindness"],
+      "events": ["Woe to Ariel (Jerusalem)", "Sealed book vision", "Lip service condemned"],
+      "keyVerses": [13, 18],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 15, "label": "Lips honor but heart far away"},
+        {"book": "Mark", "chapter": 7, "label": "Worship in vain"}
+      ]
+    },
+    "30": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Isaiah", "role": "author"}
+      ],
+      "locations": ["Egypt", "Zoan", "Hanes", "Jerusalem", "Zion", "Assyria"],
+      "timePeriod": "Reign of Hezekiah",
+      "era": "divided-monarchy",
+      "topics": ["judgment", "trust", "repentance"],
+      "events": ["Woe for trusting Egypt", "Promise of God's grace to those who wait"],
+      "keyVerses": [15, 18, 21],
+      "crossReferences": [
+        {"book": "Psalm", "chapter": 46, "label": "Be still and know"},
+        {"book": "Hebrews", "chapter": 12, "label": "This is the way, walk in it"}
+      ]
+    },
+    "31": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Isaiah", "role": "author"}
+      ],
+      "locations": ["Egypt", "Zion", "Jerusalem"],
+      "timePeriod": "Reign of Hezekiah",
+      "era": "divided-monarchy",
+      "topics": ["judgment", "trust", "deliverance"],
+      "events": ["Woe for relying on Egypt", "God's defense of Jerusalem"],
+      "keyVerses": [1, 5],
+      "crossReferences": [
+        {"book": "Psalm", "chapter": 20, "label": "Some trust in chariots"}
+      ]
+    },
+    "32": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Isaiah", "role": "author"}
+      ],
+      "locations": ["Zion", "Jerusalem"],
+      "timePeriod": "Reign of Hezekiah",
+      "era": "divided-monarchy",
+      "topics": ["messianic-prophecy", "righteousness", "peace"],
+      "events": ["Righteous king shall reign", "Outpouring of the Spirit"],
+      "keyVerses": [1, 17],
+      "crossReferences": [
+        {"book": "Acts", "chapter": 2, "label": "Spirit poured out from on high"}
+      ]
+    },
+    "33": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Isaiah", "role": "author"}
+      ],
+      "locations": ["Zion", "Jerusalem", "Lebanon", "Sharon", "Bashan", "Carmel"],
+      "timePeriod": "Reign of Hezekiah",
+      "era": "divided-monarchy",
+      "topics": ["judgment", "salvation", "righteousness"],
+      "events": ["Woe to the spoiler", "Vision of the King in His beauty"],
+      "keyVerses": [22, 6],
+      "crossReferences": [
+        {"book": "James", "chapter": 4, "label": "The Lord is our lawgiver"}
+      ]
+    },
+    "34": {
+      "genre": ["prophecy", "apocalyptic"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Isaiah", "role": "author"}
+      ],
+      "locations": ["Idumea", "Edom", "Bozrah", "Zion"],
+      "timePeriod": "Eschatological",
+      "era": "divided-monarchy",
+      "topics": ["judgment", "day-of-the-lord", "vengeance"],
+      "events": ["Judgment on the nations", "Desolation of Edom"],
+      "keyVerses": [4, 8],
+      "crossReferences": [
+        {"book": "Revelation", "chapter": 6, "label": "Heavens rolled up like a scroll"},
+        {"book": "Obadiah", "chapter": 1, "label": "Judgment on Edom"}
+      ]
+    },
+    "35": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Isaiah", "role": "author"}
+      ],
+      "locations": ["Zion", "Lebanon", "Carmel", "Sharon"],
+      "timePeriod": "Eschatological",
+      "era": "divided-monarchy",
+      "topics": ["restoration", "healing", "salvation"],
+      "events": ["Desert blossoms as a rose", "Highway of holiness", "Blind see and deaf hear"],
+      "keyVerses": [1, 5, 10],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 11, "label": "Blind see and lame walk"},
+        {"book": "Revelation", "chapter": 21, "label": "Sorrow and sighing flee away"}
+      ]
+    },
+    "36": {
+      "genre": ["narrative", "prophecy"],
+      "people": [
+        {"name": "Hezekiah", "role": "protagonist"},
+        {"name": "Sennacherib", "role": "antagonist"},
+        {"name": "Rabshakeh", "role": "antagonist"},
+        {"name": "Eliakim", "role": "mentioned"},
+        {"name": "Shebna", "role": "mentioned"},
+        {"name": "Joah", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem", "Lachish", "Assyria", "Samaria", "Hamath"],
+      "timePeriod": "14th year of Hezekiah (~701 BC)",
+      "era": "divided-monarchy",
+      "topics": ["faith", "trust", "siege"],
+      "events": ["Sennacherib's invasion", "Rabshakeh's challenge to Jerusalem"],
+      "keyVerses": [7, 15],
+      "crossReferences": [
+        {"book": "2 Kings", "chapter": 18, "label": "Parallel account of Assyrian siege"}
+      ]
+    },
+    "37": {
+      "genre": ["narrative", "prophecy"],
+      "people": [
+        {"name": "Hezekiah", "role": "protagonist"},
+        {"name": "Isaiah", "role": "speaker"},
+        {"name": "Sennacherib", "role": "antagonist"},
+        {"name": "God", "role": "speaker"},
+        {"name": "Rabshakeh", "role": "mentioned"},
+        {"name": "Tirhakah", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem", "Lachish", "Nineveh", "Assyria"],
+      "timePeriod": "14th year of Hezekiah (~701 BC)",
+      "era": "divided-monarchy",
+      "topics": ["prayer", "deliverance", "faith"],
+      "events": ["Hezekiah's prayer", "Angel destroys 185,000 Assyrians", "Death of Sennacherib"],
+      "keyVerses": [16, 36],
+      "crossReferences": [
+        {"book": "2 Kings", "chapter": 19, "label": "Parallel account of deliverance"}
+      ]
+    },
+    "38": {
+      "genre": ["narrative", "poetry"],
+      "people": [
+        {"name": "Hezekiah", "role": "protagonist"},
+        {"name": "Isaiah", "role": "speaker"},
+        {"name": "God", "role": "speaker"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "Reign of Hezekiah",
+      "era": "divided-monarchy",
+      "topics": ["prayer", "healing", "praise"],
+      "events": ["Hezekiah's illness and recovery", "Fifteen years added", "Sundial sign"],
+      "keyVerses": [5, 17],
+      "crossReferences": [
+        {"book": "2 Kings", "chapter": 20, "label": "Parallel account of Hezekiah's illness"}
+      ]
+    },
+    "39": {
+      "genre": ["narrative", "prophecy"],
+      "people": [
+        {"name": "Hezekiah", "role": "protagonist"},
+        {"name": "Isaiah", "role": "speaker"},
+        {"name": "Merodachbaladan", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem", "Babylon"],
+      "timePeriod": "Reign of Hezekiah",
+      "era": "divided-monarchy",
+      "topics": ["pride", "judgment", "exile"],
+      "events": ["Babylonian envoys visit Hezekiah", "Prophecy of Babylonian exile"],
+      "keyVerses": [6],
+      "crossReferences": [
+        {"book": "2 Kings", "chapter": 20, "label": "Parallel account"},
+        {"book": "Daniel", "chapter": 1, "label": "Fulfillment of exile prophecy"}
+      ]
+    },
+    "40": {
+      "genre": ["prophecy", "poetry"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Isaiah", "role": "author"}
+      ],
+      "locations": ["Jerusalem", "Zion"],
+      "timePeriod": "Exilic perspective",
+      "era": "divided-monarchy",
+      "topics": ["comfort", "sovereignty", "hope"],
+      "events": ["Comfort for God's people", "Voice in the wilderness", "Incomparability of God"],
+      "keyVerses": [3, 31, 8],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 3, "label": "Voice in the wilderness - John the Baptist"},
+        {"book": "Mark", "chapter": 1, "label": "Prepare the way of the Lord"}
+      ]
+    },
+    "41": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Isaiah", "role": "author"},
+        {"name": "Abraham", "role": "mentioned"}
+      ],
+      "locations": ["Israel"],
+      "timePeriod": "Exilic perspective",
+      "era": "divided-monarchy",
+      "topics": ["sovereignty", "comfort", "idolatry"],
+      "events": ["God's challenge to the nations", "Fear not promises to Israel", "Futility of idols"],
+      "keyVerses": [10, 13],
+      "crossReferences": [
+        {"book": "Romans", "chapter": 8, "label": "God is for us, who can be against us"}
+      ]
+    },
+    "42": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Isaiah", "role": "author"}
+      ],
+      "locations": ["Kedar"],
+      "timePeriod": "Exilic perspective",
+      "era": "divided-monarchy",
+      "topics": ["messianic-prophecy", "servant-of-the-lord", "light"],
+      "events": ["First Servant Song", "New song to the Lord"],
+      "keyVerses": [1, 6],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 12, "label": "Bruised reed He will not break"},
+        {"book": "Luke", "chapter": 2, "label": "Light to the Gentiles"}
+      ]
+    },
+    "43": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Isaiah", "role": "author"}
+      ],
+      "locations": ["Egypt", "Ethiopia", "Babylon"],
+      "timePeriod": "Exilic perspective",
+      "era": "divided-monarchy",
+      "topics": ["redemption", "sovereignty", "forgiveness"],
+      "events": ["God redeems and calls Israel by name", "God does a new thing"],
+      "keyVerses": [1, 19, 25],
+      "crossReferences": [
+        {"book": "2 Corinthians", "chapter": 5, "label": "New things have come"},
+        {"book": "Acts", "chapter": 1, "label": "Witnesses of the Lord"}
+      ]
+    },
+    "44": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Isaiah", "role": "author"},
+        {"name": "Cyrus", "role": "mentioned"}
+      ],
+      "locations": ["Jerusalem", "Judah"],
+      "timePeriod": "Exilic perspective",
+      "era": "divided-monarchy",
+      "topics": ["idolatry", "sovereignty", "redemption"],
+      "events": ["Satire on idol-making", "Cyrus named as God's shepherd"],
+      "keyVerses": [6, 22, 28],
+      "crossReferences": [
+        {"book": "Ezra", "chapter": 1, "label": "Cyrus decree to rebuild the temple"},
+        {"book": "Revelation", "chapter": 1, "label": "I am the first and the last"}
+      ]
+    },
+    "45": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Cyrus", "role": "protagonist"},
+        {"name": "Isaiah", "role": "author"}
+      ],
+      "locations": ["Israel"],
+      "timePeriod": "Exilic perspective",
+      "era": "divided-monarchy",
+      "topics": ["sovereignty", "salvation", "monotheism"],
+      "events": ["God's commission to Cyrus", "Every knee shall bow"],
+      "keyVerses": [5, 22, 23],
+      "crossReferences": [
+        {"book": "Philippians", "chapter": 2, "label": "Every knee shall bow"},
+        {"book": "Romans", "chapter": 14, "label": "Every knee shall bow"}
+      ]
+    },
+    "46": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Isaiah", "role": "author"}
+      ],
+      "locations": ["Babylon", "Zion"],
+      "timePeriod": "Exilic perspective",
+      "era": "divided-monarchy",
+      "topics": ["idolatry", "sovereignty", "salvation"],
+      "events": ["Fall of Babylon's idols Bel and Nebo", "God carries Israel"],
+      "keyVerses": [4, 10],
+      "crossReferences": [
+        {"book": "Jeremiah", "chapter": 50, "label": "Bel put to shame"}
+      ]
+    },
+    "47": {
+      "genre": ["prophecy", "poetry"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Isaiah", "role": "author"}
+      ],
+      "locations": ["Babylon"],
+      "timePeriod": "Exilic perspective",
+      "era": "divided-monarchy",
+      "topics": ["judgment", "pride", "sorcery"],
+      "events": ["Fall of Babylon personified", "Judgment on Babylon's sorceries"],
+      "keyVerses": [8, 10],
+      "crossReferences": [
+        {"book": "Revelation", "chapter": 18, "label": "Fall of Babylon the great"}
+      ]
+    },
+    "48": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Isaiah", "role": "author"}
+      ],
+      "locations": ["Babylon", "Judah"],
+      "timePeriod": "Exilic perspective",
+      "era": "divided-monarchy",
+      "topics": ["sovereignty", "stubbornness", "redemption"],
+      "events": ["God's rebuke of Israel's stubbornness", "Call to leave Babylon"],
+      "keyVerses": [17, 22],
+      "crossReferences": [
+        {"book": "Revelation", "chapter": 18, "label": "Come out of her my people"},
+        {"book": "2 Corinthians", "chapter": 6, "label": "Come out and be separate"}
+      ]
+    },
+    "49": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Isaiah", "role": "author"}
+      ],
+      "locations": ["Zion"],
+      "timePeriod": "Exilic perspective",
+      "era": "divided-monarchy",
+      "topics": ["messianic-prophecy", "servant-of-the-lord", "restoration"],
+      "events": ["Second Servant Song", "Light to the Gentiles", "God's name engraved on His palms"],
+      "keyVerses": [6, 15, 16],
+      "crossReferences": [
+        {"book": "Acts", "chapter": 13, "label": "Light for the Gentiles"},
+        {"book": "Luke", "chapter": 2, "label": "Salvation to the ends of the earth"}
+      ]
+    },
+    "50": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Isaiah", "role": "author"}
+      ],
+      "locations": [],
+      "timePeriod": "Exilic perspective",
+      "era": "divided-monarchy",
+      "topics": ["messianic-prophecy", "servant-of-the-lord", "suffering"],
+      "events": ["Third Servant Song", "Servant gives His back to the smiters"],
+      "keyVerses": [6, 7],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 26, "label": "Jesus beaten and spit upon"},
+        {"book": "Matthew", "chapter": 27, "label": "Suffering of Christ"}
+      ]
+    },
+    "51": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Abraham", "role": "mentioned"},
+        {"name": "Sarah", "role": "mentioned"},
+        {"name": "Isaiah", "role": "author"}
+      ],
+      "locations": ["Zion", "Jerusalem"],
+      "timePeriod": "Exilic perspective",
+      "era": "divided-monarchy",
+      "topics": ["comfort", "salvation", "redemption"],
+      "events": ["Call to remember Abraham", "Zion comforted", "Cup of fury removed"],
+      "keyVerses": [3, 6, 11],
+      "crossReferences": [
+        {"book": "Hebrews", "chapter": 1, "label": "Heavens will perish like a garment"},
+        {"book": "Matthew", "chapter": 26, "label": "Cup of trembling"}
+      ]
+    },
+    "52": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Isaiah", "role": "author"}
+      ],
+      "locations": ["Zion", "Jerusalem"],
+      "timePeriod": "Exilic perspective",
+      "era": "divided-monarchy",
+      "topics": ["salvation", "messianic-prophecy", "servant-of-the-lord"],
+      "events": ["Zion called to awake", "Beautiful feet on the mountains", "Suffering Servant introduced"],
+      "keyVerses": [7, 13],
+      "crossReferences": [
+        {"book": "Romans", "chapter": 10, "label": "Beautiful feet of those who preach"},
+        {"book": "Nahum", "chapter": 1, "label": "Good tidings on the mountains"}
+      ]
+    },
+    "53": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Isaiah", "role": "author"}
+      ],
+      "locations": [],
+      "timePeriod": "Exilic perspective",
+      "era": "divided-monarchy",
+      "topics": ["messianic-prophecy", "servant-of-the-lord", "atonement", "suffering"],
+      "events": ["Fourth Servant Song", "Suffering Servant bears sin of many"],
+      "keyVerses": [5, 6, 3],
+      "crossReferences": [
+        {"book": "1 Peter", "chapter": 2, "label": "By His stripes we are healed"},
+        {"book": "Acts", "chapter": 8, "label": "Ethiopian eunuch reads this passage"},
+        {"book": "Matthew", "chapter": 27, "label": "Numbered with transgressors"}
+      ]
+    },
+    "54": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Noah", "role": "mentioned"},
+        {"name": "Isaiah", "role": "author"}
+      ],
+      "locations": ["Zion"],
+      "timePeriod": "Exilic perspective",
+      "era": "divided-monarchy",
+      "topics": ["restoration", "covenant", "protection"],
+      "events": ["Barren woman called to sing", "Everlasting covenant of peace"],
+      "keyVerses": [10, 17],
+      "crossReferences": [
+        {"book": "Galatians", "chapter": 4, "label": "Barren woman rejoices"},
+        {"book": "Hebrews", "chapter": 13, "label": "Covenant of peace"}
+      ]
+    },
+    "55": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "David", "role": "mentioned"},
+        {"name": "Isaiah", "role": "author"}
+      ],
+      "locations": [],
+      "timePeriod": "Exilic perspective",
+      "era": "divided-monarchy",
+      "topics": ["grace", "repentance", "word-of-god"],
+      "events": ["Invitation to come to the waters", "God's word will not return void"],
+      "keyVerses": [1, 8, 11],
+      "crossReferences": [
+        {"book": "John", "chapter": 7, "label": "If anyone thirsts come to me"},
+        {"book": "Revelation", "chapter": 22, "label": "Come, take the water of life freely"}
+      ]
+    },
+    "56": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Isaiah", "role": "author"}
+      ],
+      "locations": ["Jerusalem"],
+      "timePeriod": "Post-exilic perspective",
+      "era": "divided-monarchy",
+      "topics": ["inclusion", "sabbath", "justice"],
+      "events": ["Foreigners and eunuchs welcomed", "House of prayer for all nations", "Corrupt watchmen condemned"],
+      "keyVerses": [7, 5],
+      "crossReferences": [
+        {"book": "Mark", "chapter": 11, "label": "House of prayer for all nations"},
+        {"book": "Acts", "chapter": 8, "label": "Ethiopian eunuch"}
+      ]
+    },
+    "57": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Isaiah", "role": "author"}
+      ],
+      "locations": [],
+      "timePeriod": "Post-exilic perspective",
+      "era": "divided-monarchy",
+      "topics": ["idolatry", "humility", "peace"],
+      "events": ["Condemnation of idolatry", "God dwells with the contrite"],
+      "keyVerses": [15, 21],
+      "crossReferences": [
+        {"book": "Psalm", "chapter": 51, "label": "Contrite heart"},
+        {"book": "James", "chapter": 4, "label": "God gives grace to the humble"}
+      ]
+    },
+    "58": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Isaiah", "role": "author"}
+      ],
+      "locations": [],
+      "timePeriod": "Post-exilic perspective",
+      "era": "divided-monarchy",
+      "topics": ["fasting", "justice", "sabbath"],
+      "events": ["True fasting defined", "Repairer of the breach"],
+      "keyVerses": [6, 12],
+      "crossReferences": [
+        {"book": "Matthew", "chapter": 6, "label": "Teaching on fasting"},
+        {"book": "James", "chapter": 1, "label": "Pure religion visits orphans"}
+      ]
+    },
+    "59": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Isaiah", "role": "author"}
+      ],
+      "locations": ["Zion"],
+      "timePeriod": "Post-exilic perspective",
+      "era": "divided-monarchy",
+      "topics": ["sin", "judgment", "redemption"],
+      "events": ["Sin separates from God", "God puts on armor of righteousness", "Redeemer comes to Zion"],
+      "keyVerses": [1, 17, 20],
+      "crossReferences": [
+        {"book": "Ephesians", "chapter": 6, "label": "Armor of God"},
+        {"book": "Romans", "chapter": 3, "label": "Their feet swift to shed blood"}
+      ]
+    },
+    "60": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Isaiah", "role": "author"}
+      ],
+      "locations": ["Zion", "Jerusalem", "Midian", "Sheba", "Kedar", "Tarshish", "Lebanon"],
+      "timePeriod": "Eschatological",
+      "era": "divided-monarchy",
+      "topics": ["restoration", "glory", "light"],
+      "events": ["Zion's future glory", "Nations bring their wealth", "The Lord as everlasting light"],
+      "keyVerses": [1, 19],
+      "crossReferences": [
+        {"book": "Revelation", "chapter": 21, "label": "No need for sun, the Lord is light"},
+        {"book": "Matthew", "chapter": 2, "label": "Gold and incense from the east"}
+      ]
+    },
+    "61": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Isaiah", "role": "author"}
+      ],
+      "locations": ["Zion"],
+      "timePeriod": "Messianic",
+      "era": "divided-monarchy",
+      "topics": ["messianic-prophecy", "anointing", "restoration"],
+      "events": ["Spirit of the Lord upon the anointed", "Good tidings to the meek", "Beauty for ashes"],
+      "keyVerses": [1, 3],
+      "crossReferences": [
+        {"book": "Luke", "chapter": 4, "label": "Jesus reads this in the synagogue"},
+        {"book": "Matthew", "chapter": 5, "label": "Blessed are those who mourn"}
+      ]
+    },
+    "62": {
+      "genre": ["prophecy"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Isaiah", "role": "author"}
+      ],
+      "locations": ["Zion", "Jerusalem"],
+      "timePeriod": "Eschatological",
+      "era": "divided-monarchy",
+      "topics": ["restoration", "joy", "covenant"],
+      "events": ["Zion renamed Hephzibah", "Watchmen on the walls"],
+      "keyVerses": [4, 11],
+      "crossReferences": [
+        {"book": "Revelation", "chapter": 2, "label": "New name"},
+        {"book": "Revelation", "chapter": 21, "label": "Bride of the Lamb"}
+      ]
+    },
+    "63": {
+      "genre": ["prophecy", "poetry"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Moses", "role": "mentioned"},
+        {"name": "Abraham", "role": "mentioned"},
+        {"name": "Isaiah", "role": "author"}
+      ],
+      "locations": ["Edom", "Bozrah"],
+      "timePeriod": "Eschatological",
+      "era": "divided-monarchy",
+      "topics": ["judgment", "vengeance", "prayer"],
+      "events": ["God treads the winepress alone", "Recollection of God's past mercy", "Prayer for restoration"],
+      "keyVerses": [1, 9, 16],
+      "crossReferences": [
+        {"book": "Revelation", "chapter": 19, "label": "Treading the winepress of God's wrath"},
+        {"book": "Ephesians", "chapter": 4, "label": "Grieving the Holy Spirit"}
+      ]
+    },
+    "64": {
+      "genre": ["prophecy", "poetry"],
+      "people": [
+        {"name": "God", "role": "mentioned"},
+        {"name": "Isaiah", "role": "author"}
+      ],
+      "locations": ["Zion", "Jerusalem"],
+      "timePeriod": "Exilic perspective",
+      "era": "divided-monarchy",
+      "topics": ["prayer", "repentance", "sovereignty"],
+      "events": ["Prayer for God to rend the heavens", "We are the clay, You the potter"],
+      "keyVerses": [4, 6, 8],
+      "crossReferences": [
+        {"book": "1 Corinthians", "chapter": 2, "label": "Eye has not seen what God has prepared"},
+        {"book": "Romans", "chapter": 9, "label": "Potter and clay"}
+      ]
+    },
+    "65": {
+      "genre": ["prophecy", "apocalyptic"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Isaiah", "role": "author"}
+      ],
+      "locations": ["Jerusalem", "Sharon"],
+      "timePeriod": "Eschatological",
+      "era": "divided-monarchy",
+      "topics": ["new-creation", "judgment", "restoration"],
+      "events": ["God found by those who did not seek", "New heavens and new earth", "Peaceable kingdom"],
+      "keyVerses": [17, 25],
+      "crossReferences": [
+        {"book": "Romans", "chapter": 10, "label": "Found by those not seeking"},
+        {"book": "Revelation", "chapter": 21, "label": "New heavens and new earth"},
+        {"book": "2 Peter", "chapter": 3, "label": "New heavens and new earth"}
+      ]
+    },
+    "66": {
+      "genre": ["prophecy", "apocalyptic"],
+      "people": [
+        {"name": "God", "role": "speaker"},
+        {"name": "Isaiah", "role": "author"}
+      ],
+      "locations": ["Zion", "Jerusalem", "Tarshish", "Tubal", "Javan"],
+      "timePeriod": "Eschatological",
+      "era": "divided-monarchy",
+      "topics": ["judgment", "new-creation", "worship"],
+      "events": ["Heaven is God's throne", "Birth of a nation in a day", "All flesh worships before the Lord"],
+      "keyVerses": [1, 2, 22],
+      "crossReferences": [
+        {"book": "Acts", "chapter": 7, "label": "Heaven is my throne"},
+        {"book": "Mark", "chapter": 9, "label": "Their worm does not die"}
+      ]
+    }
+  }
+}
