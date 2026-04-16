@@ -150,33 +150,65 @@ the connections visually.
 
 ---
 
-## Phase 6: AI Chat with Agent (5 minutes)
+## Phase 6: From Chatbot to Research Agent (7 minutes)
 
-This is the finale.
+This is the finale, and it has three beats: dumb chatbot → context-aware chatbot → research agent. The audience needs to feel the progression.
+
+### Beat 1: The basic chat (1 minute)
 
 ```
-Add a chat panel that uses LM Studio. Make it an agent with 
-tools to search the knowledge graph, look up chapters, and 
-find people and topics.
+Add a chat panel that connects to LM Studio for local AI chat.
 ```
 
-**Open the chat panel.** Show the dynamic suggestions based on the current page.
+**Open the chat. Ask:** "What is Genesis 1 about?"
 
-> "The chat knows what page I'm on. The suggestions come from this chapter's knowledge graph."
+The response comes back — it's fine, generic, from the model's training data.
 
-**Ask a question:** "How is Moses connected to the exodus?"
+> "This is what most AI chatbots are. You ask a question, it answers from what it learned during training. It doesn't know about OUR data. It doesn't know what page you're on. It's just a language model in a box."
 
-**Show the thinking block** — `[Searching: find_person_chapters]`, `[Searching: find_topic_chapters]`.
+### Beat 2: Context-aware chat (2 minutes)
 
-> "The AI isn't guessing. It's searching our knowledge graph. It found all chapters with Moses, all chapters about the exodus, looked up specific chapters for detail. Now it's synthesizing an answer."
+```
+When the chat opens, feed the current page's metadata into 
+the context automatically. The user is probably asking about 
+whatever they're looking at.
+```
 
-**Show the response** — formatted markdown with clickable links to chapters, people, topics.
+**Navigate to a specific chapter** (e.g., Exodus 14 — the Red Sea crossing). **Open the chat.** Show the dynamic suggestions — they reference this specific chapter's people, topics, cross-references.
 
-> "Every mention is a link. Click any of them to explore further. The AI just turned a question into a web of references grounded in our data."
+**Ask:** "Explain this chapter to me."
 
-**Click a link in the response.** Navigate to the chapter. Open the chat again — new suggestions based on the new page.
+> "Now it knows where I am. The chat pulled this chapter's knowledge graph — people, topics, locations, cross-references — and fed it to the model. I didn't have to say 'Exodus 14.' It already knew."
 
-> "The whole system is connected. Browse. Explore. Visualize. Ask. Every feature feeds into the others."
+> "This is the difference between a generic chatbot and a context-aware one. And all it took was passing the current page's metadata to the prompt."
+
+### Beat 3: The research agent (4 minutes)
+
+> "But what if the answer isn't on this page? What if the user asks a question that spans multiple chapters, multiple books, multiple themes? The chatbot can't look things up. It only knows what we gave it."
+
+```
+Make the chat an agent. Give it tools to search the knowledge 
+graph, look up specific chapters, and find where people and 
+topics appear. Let it dig on its own.
+```
+
+**Ask:** "How is Moses connected to the exodus?"
+
+**Show the thinking block live** — `[Searching: find_person_chapters]`... `[Searching: find_topic_chapters]`... `[Searching: get_chapter]`.
+
+> "Watch what's happening. The AI decided it needed more information. It searched for all chapters where Moses appears. Then it searched for all chapters about the exodus. Then it looked up a specific chapter for detail. Three tool calls, each one querying our knowledge graph."
+
+**The response streams in** — rich, sourced, full of links.
+
+> "Look at this response. Every chapter it mentions is a clickable link. Every person links to their explore page. Every topic links to its page. The AI didn't just answer the question — it built a web of references you can follow."
+
+**Click a link.** Navigate to the chapter. Open chat again — new context, new suggestions.
+
+> "This is the leap. We went from a chatbot that guesses, to a chatbot that knows what you're looking at, to a research agent that can go find what it needs. Same chat panel. Same UI. The difference is the tools."
+
+Pause. Let it land.
+
+> "And here's the thing — those tools are the same functions that power the explore pages and the graph visualizer. The agent is just another consumer of the knowledge graph. Build the data layer once, and every product — browse, explore, visualize, converse — is just a different interface on top of it."
 
 ---
 
@@ -184,7 +216,7 @@ find people and topics.
 
 Close the laptop (or step back from the screen).
 
-> "What you just watched: a pile of raw text turned into a structured knowledge graph with browse, explore, graph visualization, and an AI agent — built live in 25 minutes."
+> "What you just watched: a pile of raw text turned into a structured knowledge graph with browse pages, explore pages, a graph visualizer, and an AI research agent — built live in 25 minutes. We went from flat files to a chatbot that can search our data, look up specifics, and synthesize grounded answers with clickable links. Not from training data. From OUR data."
 
 > "The Bible is a stand-in. Replace it with your company's data and the pattern is identical. Annotate with AI. Index the metadata. Build surfaces. Ship products."
 
@@ -204,7 +236,7 @@ Close the laptop (or step back from the screen).
 | Build App | 5 min | Browsable site with metadata badges |
 | Explore Pages | 3 min | People, topics, locations, eras |
 | Graph Visualizer | 3 min | D3 force graph, click to expand |
-| AI Agent Chat | 5 min | Agent searching the graph, streaming answer with links |
+| Chatbot → Agent | 7 min | Dumb chat → context-aware → research agent with tools |
 | Punchline | 1 min | Close |
 | **Q&A** | **~4 min** | Audience questions |
 | **Total** | **~30 min** | |
