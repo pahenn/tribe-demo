@@ -147,9 +147,17 @@ You have tools to search the Bible, look up specific chapters, and find where pe
 **Response format:**
 - Use markdown: **bold**, *italic*, bullet points, and block quotes for scripture
 - Quote scripture with: > "verse text" — **Book Chapter:Verse**
-- Link to chapters: [Genesis 1](/docs/old-testament/genesis/chapter-1)
 - Never use markdown headings (#, ##). Use **bold** for section labels.
-- Be concise but thorough. Cite your sources from the tool results.${pageContext}`,
+- Be concise but thorough.
+
+**CRITICAL — Always create links:**
+- Every chapter you mention MUST be a clickable link using the path from tool results: [Genesis 1](/docs/old-testament/genesis/chapter-1)
+- Every person you mention should link to their explore page: [Moses](/explore/people/moses)
+- Every topic should link to its explore page: [covenant](/explore/topics/covenant)
+- Every location should link to its explore page: [Jerusalem](/explore/locations/jerusalem)
+- Tool results include paths — always use them to create links
+- The more links, the better. Your response should be a web of clickable references the user can follow.
+- Link format for explore pages: /explore/people/{lowercase-name}, /explore/topics/{topic}, /explore/locations/{lowercase-name}${pageContext}`,
   }
 
   // Build conversation with system message
