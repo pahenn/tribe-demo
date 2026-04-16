@@ -1,4 +1,13 @@
 export default defineNuxtConfig({
-  extends: ['docus'],
-  modules: ['@comark/nuxt'],
+  modules: [
+    '@nuxt/ui',
+    '@nuxt/content',
+    '@nuxt/image',
+    '@nuxtjs/color-mode',
+    '@comark/nuxt',
+  ],
+  colorMode: {
+    classSuffix: '',
+  },
+  css: ['~/assets/css/main.css'],
 })

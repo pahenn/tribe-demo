@@ -1,6 +1,7 @@
 <script setup lang="ts">
 const isOpen = useState('chat-open', () => false)
 const isExpanded = useState('chat-expanded', () => false)
+const route = useRoute()
 const input = ref('')
 const messages = ref<Array<{ id: string; role: string; content: string; thinking?: string }>>([])
 const streamingContent = ref('')
@@ -31,6 +32,7 @@ async function send() {
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({
         messages: messages.value.map(m => ({ role: m.role, content: m.content })),
+        currentPage: route.path,
       }),
     })
 

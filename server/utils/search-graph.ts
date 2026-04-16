@@ -57,6 +57,86 @@ function loadIndex(): ChapterEntry[] {
   return entries
 }
 
+// --- Single chapter lookup ---
+
+export function getChapterByPath(path: string): ChapterEntry | undefined {
+  const index = loadIndex()
+  return index.find(e => e.path === path)
+}
+
+// --- Aggregation functions for explore pages ---
+
+export function getAllPeople(): Array<{ name: string; count: number; chapters: Array<{ path: string; title: string }> }> {
+  const index = loadIndex()
+  const map = new Map<string, Array<{ path: string; title: string }>>()
+
+  for (const entry of index) {
+    for (const name of entry.peopleNames) {
+      if (!map.has(name)) map.set(name, [])
+      map.get(name)!.push({ path: entry.path, title: entry.title })
+    }
+  }
+
+  return Array.from(map.entries())
+    .map(([name, chapters]) => ({ name, count: chapters.length, chapters }))
+    .sort((a, b) => b.count - a.count)
+}
+
+export function getAllTopics(): Array<{ topic: string; count: number; chapters: Array<{ path: string; title: string }> }> {
+  const index = loadIndex()
+  const map = new Map<string, Array<{ path: string; title: string }>>()
+
+  for (const entry of index) {
+    for (const topic of entry.topics) {
+      if (!map.has(topic)) map.set(topic, [])
+      map.get(topic)!.push({ path: entry.path, title: entry.title })
+    }
+  }
+
+  return Array.from(map.entries())
+    .map(([topic, chapters]) => ({ topic, count: chapters.length, chapters }))
+    .sort((a, b) => b.count - a.count)
+}
+
+export function getAllLocations(): Array<{ location: string; count: number; chapters: Array<{ path: string; title: string }> }> {
+  const index = loadIndex()
+  const map = new Map<string, Array<{ path: string; title: string }>>()
+
+  for (const entry of index) {
+    for (const loc of entry.locations) {
+      if (!map.has(loc)) map.set(loc, [])
+      map.get(loc)!.push({ path: entry.path, title: entry.title })
+    }
+  }
+
+  return Array.from(map.entries())
+    .map(([location, chapters]) => ({ location, count: chapters.length, chapters }))
+    .sort((a, b) => b.count - a.count)
+}
+
+export function getAllEras(): Array<{ era: string; count: number; chapters: Array<{ path: string; title: string; book: string }> }> {
+  const index = loadIndex()
+  const map = new Map<string, Array<{ path: string; title: string; book: string }>>()
+
+  for (const entry of index) {
+    if (!entry.era) continue
+    if (!map.has(entry.era)) map.set(entry.era, [])
+    map.get(entry.era)!.push({ path: entry.path, title: entry.title, book: entry.book })
+  }
+
+  const eraOrder = [
+    'primeval-history', 'patriarchal', 'exodus', 'conquest', 'judges',
+    'united-monarchy', 'divided-monarchy', 'exile', 'post-exile',
+    'life-of-christ', 'early-church',
+  ]
+
+  return Array.from(map.entries())
+    .map(([era, chapters]) => ({ era, count: chapters.length, chapters }))
+    .sort((a, b) => eraOrder.indexOf(a.era) - eraOrder.indexOf(b.era))
+}
+
+// --- Search function ---
+
 const STOP_WORDS = new Set(['what', 'who', 'where', 'when', 'why', 'how', 'the', 'and', 'was', 'were', 'are', 'about', 'does', 'did', 'tell', 'explain', 'mean', 'meaning', 'compare', 'between', 'with', 'from', 'this', 'that', 'have', 'has', 'for', 'not', 'but', 'all', 'can', 'you', 'his', 'her', 'its', 'they', 'them', 'will', 'would', 'could', 'should', 'shall', 'may', 'might', 'been', 'being', 'than', 'then', 'also', 'into', 'more', 'some', 'such', 'each', 'which', 'their', 'there', 'these', 'those', 'other'])
 
 export function searchKnowledgeGraph(query: string): string {
