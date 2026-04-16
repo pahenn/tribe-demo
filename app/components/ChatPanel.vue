@@ -3,6 +3,64 @@ const isOpen = useState('chat-open', () => false)
 const isExpanded = useState('chat-expanded', () => false)
 const route = useRoute()
 const input = ref('')
+
+// Is this a chapter page?
+const isChapterPage = computed(() =>
+  route.path.startsWith('/docs/') && route.path.includes('/chapter-'),
+)
+
+// Fetch current page's graph for dynamic suggestions
+const { data: pageGraph } = useLazyFetch('/api/graph/visualize', {
+  query: computed(() => ({
+    type: 'chapter',
+    value: isChapterPage.value ? route.path : '',
+  })),
+  server: false,
+  watch: [() => route.path],
+})
+
+// Extract page title from the graph response (the chapter node)
+const pageTitle = computed(() => {
+  const graph = pageGraph.value as any
+  if (!graph?.nodes?.length) return ''
+  const chapterNode = graph.nodes.find((n: any) => n.type === 'chapter' && n.path === route.path)
+  return chapterNode?.label || ''
+})
+
+const suggestions = computed(() => {
+  const graph = pageGraph.value as any
+  if (!graph?.nodes?.length || !pageTitle.value) {
+    return [
+      'What is the Sermon on the Mount?',
+      'Who was King David?',
+      'What does Psalm 23 mean?',
+      'Compare Genesis 1 and John 1',
+    ]
+  }
+
+  const result: string[] = []
+  const people = graph.nodes.filter((n: any) => n.type === 'person').map((n: any) => n.label)
+  const topics = graph.nodes.filter((n: any) => n.type === 'topic').map((n: any) => n.label)
+  const locations = graph.nodes.filter((n: any) => n.type === 'location').map((n: any) => n.label)
+  const crossRefs = graph.nodes.filter((n: any) => n.type === 'chapter' && n.label !== pageTitle.value)
+
+  result.push(`Explain this chapter to me`)
+
+  if (people.length > 0) {
+    result.push(`Tell me about ${people[0]} in this chapter`)
+  }
+  if (topics.length > 0) {
+    result.push(`What does "${topics[0]}" mean in this context?`)
+  }
+  if (crossRefs.length > 0) {
+    result.push(`How does this connect to ${crossRefs[0].label}?`)
+  }
+  if (locations.length > 0) {
+    result.push(`What is the significance of ${locations[0]}?`)
+  }
+
+  return result.slice(0, 4)
+})
 const messages = ref<Array<{ id: string; role: string; content: string; thinking?: string }>>([])
 const streamingContent = ref('')
 const streamingThinking = ref('')
@@ -158,16 +216,11 @@ watch(streamingThinking, () => nextTick(scrollThinking))
             <div class="flex flex-col items-center justify-center h-full text-center gap-3">
               <UIcon name="i-lucide-book-open" class="size-8 text-primary" />
               <p class="text-sm text-muted max-w-xs">
-                Ask anything about the King James Bible — people, places, themes, or verses.
+                {{ pageTitle ? `Ask about ${pageTitle}` : 'Ask anything about the King James Bible — people, places, themes, or verses.' }}
               </p>
               <div class="flex flex-col gap-1.5 w-full mt-2">
                 <button
-                  v-for="q in [
-                    'What is the Sermon on the Mount?',
-                    'Who was King David?',
-                    'What does Psalm 23 mean?',
-                    'Compare Genesis 1 and John 1',
-                  ]"
+                  v-for="q in suggestions"
                   :key="q"
                   class="text-left text-xs text-muted hover:text-highlighted px-3 py-2 rounded border border-default hover:bg-accented transition-colors"
                   @click="input = q; send()"

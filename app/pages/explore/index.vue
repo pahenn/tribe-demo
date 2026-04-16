@@ -35,6 +35,13 @@ const cards = computed(() => [
     to: '/explore/eras',
     examples: (eras.value as any[])?.map((e: any) => e.era) || [],
   },
+  {
+    title: 'Graph Visualizer',
+    description: 'Interactive network graph of connections',
+    icon: 'i-lucide-waypoints',
+    to: '/explore/graph',
+    examples: ['Cross-references', 'Moses', 'Jesus', 'Jerusalem', 'Covenant'],
+  },
 ])
 </script>
 

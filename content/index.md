@@ -18,21 +18,21 @@ This is not a reading app. It is the scripture made searchable, linkable, and ex
   ---
   color: neutral
   size: xl
-  to: /docs/old-testament/genesis/chapter-1
-  trailing-icon: i-lucide-arrow-right
+  to: /docs/old-testament/genesis
+  trailing-icon: i-lucide-book-open
   ---
-  Start Reading
+  Browse Books
   :::
 
   :::u-button
   ---
   color: neutral
   size: xl
-  to: /docs/old-testament/genesis
+  to: /explore
   variant: outline
-  trailing-icon: i-lucide-book-open
+  trailing-icon: i-lucide-compass
   ---
-  Browse Books
+  Explore the Graph
   :::
 
 ::

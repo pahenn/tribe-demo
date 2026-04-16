@@ -18,7 +18,7 @@ interface ChapterEntry {
 
 let chaptersIndex: ChapterEntry[] | null = null
 
-function loadIndex(): ChapterEntry[] {
+export function loadIndex(): ChapterEntry[] {
   if (chaptersIndex) return chaptersIndex
 
   const metadataDir = join(process.cwd(), '_artifacts/metadata')
